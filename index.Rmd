@@ -1,0 +1,22 @@
+--- 
+title: "Bier Brouwen"
+author: "Ben Welman"
+date: '`r format(Sys.Date(), "%d %B %Y")`'
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [brouwcursus.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Dit boek bevat de brouwcursus van het Twents Bierbrouwers Gilde."
+---
+
+# Voorwoord {-}
+
+Iets over het Twents bierbrouwers gilde en haar activiteiten. En het doel van de cursus.
+
+```{r include=FALSE}
+# genereert automatisch een bib database voor R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

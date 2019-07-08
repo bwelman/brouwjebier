@@ -1,0 +1,5 @@
+# Brouwsel-1
+
+Het eerste brouwsel. Eenvoudig van opzet: 1(-2) moutsoorten, 1(-2) hopsoorten, 1 maischtemperatuur (infusie), bovengistend
+
+Mogelijke types: Engelse Ale, Pale Ale, Kölsch

@@ -1,0 +1,36 @@
+book_filename: "brouwcursus"
+delete_merged_file: true
+language:
+  label:
+    fig: 'Figuur '
+    tab: 'Tabel '
+    eq: 'Vergelijking '
+    exm: 'Voorbeeld '
+    exr: 'Opgave '
+  ui:
+    chapter_name: "Hoofdstuk "
+
+rmd_files: ["index.Rmd",
+  "inleiding.Rmd",
+  "geschiedenis.Rmd",
+  "ingredienten.Rmd",
+  "hygiene.Rmd",  
+  "brouwproces.Rmd",
+  "apparatuur.Rmd",  
+  "brouwsel-1.Rmd",
+  "moutsoorten.Rmd",
+  "suikers.Rmd",  
+  "maischstappen.Rmd",
+  "brouwsel-2.Rmd",
+  "hopsoorten.Rmd",
+  "gistsoorten.Rmd",
+  "kruiden.Rmd",  
+  "recepten.Rmd",
+  "rekenen.Rmd",
+  "brouwsel-3.Rmd",
+  "software.Rmd",
+  "proeven.Rmd",
+  "afwijkingen.Rmd",
+  "brouwmethodes.Rmd",
+  "biertypen.Rmd",
+  "referenties.Rmd"]
