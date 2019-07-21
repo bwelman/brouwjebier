@@ -1,5 +1,6 @@
 --- 
-title: "Bier Brouwen"
+title: "Bierbrouwen"
+subtitle: "Een cursus van het Twents Bierbrouwersgilde"
 author: "Ben Welman"
 date: '`r format(Sys.Date(), "%d %B %Y")`'
 site: bookdown::bookdown_site
@@ -7,9 +8,17 @@ documentclass: book
 bibliography: [brouwcursus.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Dit boek bevat de brouwcursus van het Twents Bierbrouwers Gilde."
+description: "Dit boek bevat de brouwcursus van het Twents Bierbrouwersgilde."
 ---
 
 # Voorwoord {-}
 
-Doel: Iets over het Twents bierbrouwers gilde en haar activiteiten. En het doel van de cursus.
+Het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/) is een vereniging voor echte liefhebbers van bier en het brouwen van bier. De vereniging kent de volgende activiteiten:
+
+-  Een maandelijkse verenigingsavond in het clubgebouw in Hengelo met een afwisselend programma om het kennisniveau van de leden te verhogen.
+-  Een jaarlijkse excursie.
+-  Een jaarlijkse barbecue.
+-  Organiseren van en deelname aan brouwwedstrijden, zowel binnen de club als daarbuiten.
+-  Brouwdemonstraties en andere vormen van voorlichting (o.a. als ledenwerving).
+-  Het organiseren van een cursus bierbrouwen.
+

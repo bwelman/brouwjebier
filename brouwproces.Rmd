@@ -1,10 +1,39 @@
 # Brouwproces - Basis
 
-Uitleg over de achtereenvolgende stappen die genomen moeten worden.
+Doel: Begrijpen uit welke stappen het brouwproces bestaat, zonder al te diep op deze stappen in te gaan.
+
+## Het proces in grote lijnen
+
+In grote lijnen gaat het maken van bier als volgt:
+
+1.  Het zetmeel in de mout moet worden omgezet in suikers.
+1.  De ontstane suikers moeten door de gist omgezet worden in alkohol.
+
+Dit ziet er eenvoudig uit. In principe kun je een bier maken in een (soep)pan in de keuken. Maar het is toch wel een complex proces. Het gaat niet zomaar vanzelf. En om een goed bier te maken moet je wel wat meer weten over de afzonderlijke processen.
+
+## recept
+
+Om een bepaald bier te maken heb je een recept nodig. Hierin staat onder andere welke grondstoffen je nodig hebt en hoeveel daarvan.
+
+In het begin krijg je zo'n recept vaak van anderen, maar als snel zul je een eigen recept willen opstellen. Daarover later meer.
+
+## Mouten
+
+Binnen in de gerstkorrel zit zetmeel. Om het zetmeel in suikers om te zetten heb je de hulp van enzymen (een bepaald soort eiwitten) nodig. Echter in onbehandelde brouwgerst zitten deze enzymen niet. Vandaar dat onbehandelde brouwgerst niet geschikt is voor het brouwen van bier.
+
+Om brouwgerst geschikt te maken, wordt het eerst gemout. Hierbij wordt de gerst eerst geweekt in water. En als de gerst zich helemaal hiermee heeft volgezogen wordt het op een warme vloer uitgestort. Na enige tijd gaat de korrel ontkiemen en vormt dan enzymen. Zodra de gerst is ontkiemd, worden de graankorrels bij hoge temperatuur gedroogd om het kiemproces te stoppen. Het resultaat heet **mout**. Hoe hoger de temperatuur bij het drogen is, des te donkerder de mout. De kleur van de mout bepaalt ook de kleur van het bier. En ook heeft de mout een belangrijke invloed op de uiteindelijke smaak van het bier.
+
+Dit mouten gebeurt vindt plaats in **mouterijen** en doe je niet zelf. Afhankelijk van het soort bier dat je wilt maken schaf je bepaalde mouten aan. te doen. Een bekende mouterij in Nederland is The Swaen[@Swaen2019] in Kloosterzande.
 
 ## Afwegen ingrediënten
 
+Als voorbereiding op het echte brouwen ga je alle ingrediënten eerst afwegen. Dat kan met een goede keukenweegschaal.
+
 ## Schroten
+
+Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken worden. Dat heet **schroten**. Met behulp van een schrootmolen worden de korrels geplet zodat er een breuk ontstaat waardoor het water bij het binnenste (het zetmeel) kan komen. Verwar het niet met fijnmalen. De kafjes die om fe korrel zitten moeten zoveel mogelijk heel blijven. Deze kafjes helpen je later bij het filteren van het bier. Ga dus vooral niet te fijn schroten.
+
+Er zijn verschillende soorten schrootmolens voor de hobbybrouwer. Zie verder bij \@ref(apparatuur).
 
 ## Maischen
 

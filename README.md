@@ -19,7 +19,7 @@ De mogelijke uitvoerformaten voor het boek zijn: html, pdf en epub. Het compiler
 
 **Inhoud cursus basis**
 
-Moet echt basis zijn. Concentrische aanpak, van simpel naar meer complex. Zeker in het begin niet teveel verschillende manieren waarop iets kan, maar één manier.
+Moet echt basis zijn. Concentrische aanpak, van simpel naar meer complex. Zeker in het begin niet teveel verschillende manieren waarop iets kan, maar één manier. Daartoe wordt de inhoud in 4 delen opgesplitst, van eenvoudig (Deel 1) naar moeilijker.
 
 Uitgaande van het maken van drie brouwsels samen met de mentor, de start bij de mentor. Gedurende de cursus moeten de theoretische hoofdstukken aansluiten c.q. voorbereiden op het dan komende brouwsel.
 
