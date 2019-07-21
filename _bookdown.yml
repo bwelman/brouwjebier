@@ -12,7 +12,7 @@ language:
 
 rmd_files: ["index.Rmd",
   "inleiding.Rmd",
-  "geschiedenis.Rmd",
+  "over-bier.Rmd",
   "ingredienten.Rmd",
   "hygiene.Rmd",  
   "brouwproces.Rmd",

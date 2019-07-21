@@ -1,3 +1,1 @@
-# Referenties
-
-Hier komen verwijzingen naar nuttige boeken, tijdschriften, websites, ...
+`r if (knitr::is_html_output()) '# Referenties {-}'`
