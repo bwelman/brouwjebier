@@ -1,4 +1,4 @@
-# Brouwmethodes
+# Brouwmethodes {#brouwmethodes}
 
 Beknopte overzicht van verschillende brouwmethodes:
 

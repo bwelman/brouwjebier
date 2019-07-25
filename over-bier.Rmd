@@ -18,9 +18,12 @@ In de Middeleeuwen werd veel bier gedronken. Met gemak dronk iedere man, vrouw o
 
 Het aantal bierbrouwerijen steeg in deze tijd gestaag. Steden met meer dan 100 brouwerijen waren geen uitzondering. Bekende brouwsteden uit die tijd zijn Amersfoort, Delft, Haarlem en Gouda. De bierbrouwers, die zich verenigden in gilden, waren vaak de machtigste kooplieden in de stad of de streek. Men beweert zelfs dat de overwinning op de Spanjaarden tijdens de Tachtigjarige Oorlog grotendeels met accijns op bier gefinancierd is.
 
-### De introductie van hop
-
 In de talrijke kloosters en abdijen werd de kunst van het bierbrouwen steeds verder verfijnd. Waarschijnlijk ontstond ook daar het idee om gruit (verschillende kruiden) in bier te vervangen door hop. Bier met hop was smakelijker. Bovendien bederft het bier door hop minder snel. Voor commerciële bierbrouwers gaf dit veel voordelen. Het werd nu bijvoorbeeld mogelijk om bier zonder kwaliteitsverlies te exporteren. Vanaf de vijftiende eeuw werd vrijwel uitsluitend nog maar hoppebier gebrouwen.
+
+Een belangrijk doorbraak voor de bierproductie was het werk van de Franse chemicus Louis Pasteur, die in 1860 de vergisting ontrafelde. Gisting gebeurde vroeger ‘spontaan’ en brouwers konden alleen maar hopen dat het goed ging. Pasteur ontdekte echter dat niet alle gisten even goed werken. Door de meest geschikte gisten steeds door te kweken, konden de brouwers keer op keer hetzelfde bier brouwen. De reincultuur was hiermee geboren. Brouwers van het Deense Carlsberg ontdekten verschillende gisten en selecteerden speciaal voor de pilsbieren de stam *Saccharomyces carlsbergensis*, die nog steeds wordt gebruikt.
+
+Pasteur ontdekte bovendien dat bier beter te bewaren is door het te verhitten tot 70 à 80 ^0C – temperaturen waarbij bacteriën
+en gisten worden gedood. Dit proces wordt nu *pasteuriseren* genoemd.
 
 ### Het ontstaan van een nieuw biersoort: pils
 
@@ -29,6 +32,10 @@ In Bohemen (Tsjechie) werd in die tijd een nieuw biersoort uitgevonden; een bier
 ### Speciaalbier
 
 Halverwege de jaren tachtig vond een nieuwe ontwikkeling plaats. Anders smakende bieren, de zogenaamde speciaalbieren uit België werden populair en het duurde niet lang voordat bestaande en nieuwe kleine brouwerijen ook in Nederland begonnen met het brouwen van speciaalbier. Soms worden oude recepten nieuw leven ingeblazen, vaak ook verzint een brouwer een creatief nieuw recept.
+
+### Reinheitsgebot
+
+Al in de middeleeuwen bedachten bierbrouwers allerlei manieren om bier zo goedkoop mogelijk te produceren. Uit deze tijd stamt daarom de eerste warenwet: het Duitse Reinheitsgebot uit 1516, uitgevaardigd door Wilhelm IV van Beieren. De wet bepaalde dat bier alleen mocht worden gebrouwen van gerst, water en hop. Anders mocht het geen bier worden genoemd. Gist was toen nog niet ontdekt en werd later toegevoegd aan de bepaling. Pas na een klacht van de Europese Unie – omdat het gebod vrijhandel belemmerde – is het in 1987 afgeschaft. Duitse brouwers houden er overigens nog krampachtig aan vast, omdat ze anders gelijk uit de Duitse markt liggen. Gerst is echter een dure grondstof. Veel andere brouwers voegen daarom tot meer dan 50 procent andere zetmeelbronnen toe, zoals tarwe, mais of rijst.
 
 ## Ingrediënten
 
@@ -44,15 +51,28 @@ Graan vormt een belangrijk ingrediënt voor de smaak, alcohol en kleur van het b
 
 ### Hop
 
-Hop is een klimplant die van nature in Nederland voorkomt. De brouwer gebruikt de bloemetjes van de vrouwelijke hopplant om bier de kenmerkende bittere smaak te geven. Daarnaast geeft hop stevigheid aan het bierschuim en is het een natuurlijk conserveringsmiddel. Naast hop kan de brouwer er voor kiezen om ook andere smaakmakers in het bier te gebruiken. Denk hierbij aan kruiden als anijs, koriander of zoethout. Ook vruchten, al dan niet bewerkt, worden in sommige bieren gebruikt. De bekendste voorbeelden zijn sinaasappelschil in sommige witbieren of kersen in kriekbier.
+Hop is een klimplant die van nature in Nederland voorkomt. De brouwer gebruikt de bloemetjes van de vrouwelijke hopplant om bier de kenmerkende bittere smaak te geven. Daarnaast geeft hop stevigheid aan het bierschuim en is het een natuurlijk conserveringsmiddel. Naast hop kan de brouwer er voor kiezen om ook andere smaakmakers in het bier te gebruiken. Denk hierbij aan kruiden als anijs, koriander of zoethout. Ook vruchten, al dan niet bewerkt, worden in sommige bieren gebruikt. De bekendste voorbeelden zijn sinaasappelschil in sommige witbieren of kersen in kriekbier. De kleur van de gebruikte mout is bepalend voor de kleur van het bier.
 
 ### Gist
 
 Gist is onmisbaar voor het maken van bier. Gist is een eencellige schimmelsoort die in staat is om suikers om te zetten in alcohol en koolzuurgas. Daarnaast is het ook een belangrijke smaakmaker. Elke giststam (gistcultuur) heeft een eigen aroma en smaak en zorgt in combinatie met de andere ingrediënten voor een uniek bier. Als de gist in het bier achterblijft is het bier troebel. Voor heldere bieren is de gist voor het afvullen gefiltreerd.
 
-Afhankelijk van de vergistingsmethode heb je drie soorten bieren:
+Afhankelijk van de vergistingsmethode heb je drie soorten bieren: bovengistend, ondergistend en spontaan.
 
--  **Bovengistende bieren**, Trappistenbier, Stout, Porter
--  **Ondergistende bieren**, voorbeelden: Pilsener, Bockbier
--  **Spontaan gistende bieren**, voorbeelden: geuzebier, lambiekbier
+**Bovengistende bieren**
 
+Vóór 1840 waren alle bieren bovengistend. De vergisting hiervan vindt bij relatief hoge temperaturen (15 à 20 ^oC) plaats en gist stijgt naar de oppervlakte. Pas na de karakterisering van specifieke gistsoorten en de uitvinding van de koelmachine brouwde men steeds meer ondergistende bieren.
+
+Voorbeelden: Trappistenbier, Stout, Porter
+
+**Ondergistende bieren**
+
+Pas na de uitvinding van de koelmachine werden er steeds meer ondergistende bieren gebrouwen. Deze vergisten bij relatief lage temperaturen (6 à 8 ^C). Door het vormen van grote vlokken zakt de gist zakt hierbij naar de bodem.
+
+Voorbeelden: Pilsener, Bockbier
+
+**Spontaan gistende bieren**
+
+Deze bieren zijn veel minder aanwezig. Bij de productie laat men het brouwsel in een open bak staan waardoor het geïnfecteerd wordt met een wilde gist die in de lucht aanwezig is: *Brettanomyces bruxellensis*. Vooral in Brussel en omgeving wordt dit bier gebrouwen.
+
+Voorbeelden: geuzebier, lambiekbier
