@@ -1,0 +1,49 @@
+# Maischen
+
+Doel: Achtergronden bij de verschillende stappen bij het maischen, uitleg alfa- en beta amylase.
+
+In de mout zitten lange ketens zetmeel en eiwitten die omgezet moeten worden in veel kleinere ketens, suikers en kleinere eiwitten. Dat gebeurt door de enzymen die in de mout zitten. Dit proces heet maischen. Bij deze omzetting zijn meerdere enzymen betrokken. Bij de naamgeving van enzymen wordt meestal de uitgang *ase* toegevoegd aan de naam van de stof waarop het enzym inwerkt (het substraat). Zo is *protease* de naam van het enzym dat een eiwit(proteïne)-splitst. En *amylase* is het enzym dat zetmeel(amylose)-splitst.
+
+Om een enzym goed zijn werk te laten doen is nodig
+
+-  een bepaalde temperatuur
+-  een bepaalde pH (5,5 - 5,7)
+-  een bepaalde inwerkingstijd (rusttijd)
+-  water en een bepaalde concentratie van enzym en substraat hierin (dikte van de maisch)
+
+Deze omstandigheden zijn verschillend voor de diverse enzymen. Het is niet zo dat een enzym bij een wat hogere of lagere temperatuur dan de ideale temperatuur niet meer werkt. Er is een temperatuurbereik waarbinnen een enzym het meest actief is. Buiten dit bereik kan het enzym nog steeds werken. Echter het afbraakproces van enzymen begint wanneer enzymen ze een hogere temperatuur krijgen dan het temperatuurbereik waarin ze werken. Dit afbraakproces kan niet meer teruggedraaid worden.
+
+Sommige stoffen kunnen de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
+
+Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen gedaan. Bij 78 ^oC worden alle enzymen onwerkbaar (gedenatureerd).
+
+|Er bestaan ook recepten, met name voor Engelse bieren, waarbij maar één temperatuur wordt aangehouden.
+
+## Dikte beslag
+
+Je maakt een **beslag** door het geschrote mout aan het water toe te voegen.
+
+De hoeveelheid water waarmee je begint, het **maischwater**, is van invloed op het verloop van het proces. Een vuistregel is
+
+-  lichtgekleurde drogere bieren: neem 3,5 liter water per kg mout.
+-  donkere zoetige bieren: neem 2,5 liter water per kg mout.
+
+Voor bieren met een hoog alcoholgehalte maak je het beslag dus dikker.
+
+Je moet bij het inmaischen en tijdens het opwarmen het mengsel voortdurend roeren. Dit moet je rustig en langzaam doen, want je mag niet teveel zuurstof in het water brengen.
+
+## Maischstappen
+
+In grote lijnen zijn drie rustperiodes te onderscheiden: eiwitrust, maltoserust en versuikeringsrust.
+
+### Eiwitrust
+
+
+### Maltoserust
+
+
+### Versuikeringsrust
+
+
+
+

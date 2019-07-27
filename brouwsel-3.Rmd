@@ -1,3 +1,13 @@
 # Brouwsel-3
 
-Een wat complexer bier.
+Het derde brouwsel: Uitbreiding van brouwsel-2 bijvoorbeel met dryhopping.
+
+Mogelijke types: IPA
+
+Recept: biertype wordt aangeleverd, cursisten stellen gezamenlijk een recept op, coordinatie door mentor
+
+Grondstoffen: ?
+
+Uitvoering: Bij mentor of bij een van de teamleden
+
+Evaluatie: gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet, mogelijke afwijkingen bespreken

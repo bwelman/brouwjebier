@@ -3,3 +3,48 @@
 Doel: Uitleg over de basis ingrediënten: gerst (mout), hop, gist en water. Voor gist ook behandelen het al dan niet nodig zijn van een giststarter en hoe en wanneer je deze maakt.
 
 ## Mout
+
+Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel die later het zetmeel in de korrel gaan afbreken. Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hoge temperatuur te verwarmen. Het gekiemde graan heet mout.
+
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden. Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden.
+
+Mout moet goed droog bewaard worden, het beste in plastic emmers met goed sluitende deksels.
+
+Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt. Zo wordt tarwemout altijd aan gerstemout toegevoegd voor de bereiding van Weizenbier.
+
+Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Je hebt zogenaamde basismouten en speciale mouten. Je kunt een bier maken door alleen een basismout te gebruiken. De meest bekende basismout is Pilsmout 3 EBC.
+
+Bekende mouterijen zijn:
+
+-  Nederland
+   +  [The Swaen](http://theswaen.com/)
+-  België
+   +  [Dingemans](http://www.dingemansmout.be/)
+   +  [Castle Malting]
+-  Duitsland
+   +  [Weyermann](https://www.weyermann.de/)
+   +  [BestMalz](https://bestmalz.de)
+-  Engeland
+   +  [Thomas Fawcett & Sons](http://www.fawcett-maltsters.co.uk/)
+
+## Hop
+
+Hop is een klimplant. De vrouwelijke bloemen van deze plant worden gebruikt voor de bierbereiding. Het bier ontleent zijn bittere smaak aan de hop. Daarnaast geeft het ook een fijn aroma aan het bier. Hopbestanddelen dragen een steentje bij aan de schuimvorming en de houdbaarheid van het bier.
+
+Er bestaan verschillende hopvariëteiten. De bitterheid en het aroma dat een hop aan het bier geeft is afhankelijk van de variëteit en de weersomstandigheden. De bitterheid van hop wordt uitgedrukt in het alfazuurpercentage.
+
+Hop dient bij voorkeur droog, donker en zo zuurstofvrij mogelijk te worden bewaard. Door oxydatie vermindert het alfazuurpercentage en wordt het hoparoma minder verfijnd.
+
+Na het oogsten van de hop wordt deze goed gedroogd en daarna in grote balen samengeperst. Voor de thuisbrouwer is de hop te koop in de vorm van hopbloemen en van hoppellets. Hoppellets bestaan uit hop die verkleind is en tot een soort korrel verwerkt is. Door deze bewerking is de hop iets minder gevoelig voor oxydatie.
+
+## Gist
+
+Gist is een eencellig levend organisme dat suiker omzet in alkohol en koolstofdioxide. Tijdens de vergisting ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deel controleerbaar door de temperatuur en de soort gist.
+
+In een zuurstofrijk milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. Ook wordt de pH lager. Voor een giststarter waar het je om de vermenigvuldiging van de gist te doen is moet je dus vooral goed beluchten. Wanneer je bij de vergisting gebruik maakt van een goede giststarter met voldoende gistcellen, hoef je de wort niet te beluchten. De gist moet zich dan vooral bezig houden met het maken van alcohol.
+
+## Water
+
+Het grootste gedeelte van bier bestaat uit water. Voor de lichtere biersoorten geldt hoe zachter water hoe beter. Voor de donker gekleurde bieren kun je beter iets harder water hebben.
+
+Meestal kun je gewoon het leidingwater gebruiken. Het is wel van belang om de zuurgraad (pH) in de gaten te houden en deze zonodig aan te passen. De pH hoort 5,3 - 5,5 te zijn, deze kun je meten met een pH-meter of met pH-papier. Wanneer de pH te hoog is kun je het water voorzichtig aanzuren met melkzuur of fosforzuur. Ook het gebruik van zuurmout verlaagt de pH.

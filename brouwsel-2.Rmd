@@ -1,3 +1,13 @@
 # Brouwsel-2
 
-2 maischstappen
+Het tweede brouwsel: Uitbreiding van brouwsel-1 met meerdere maischstappen. Geen kruiden.
+
+Mogelijke types: Dubbel, Weizen, ...
+
+Recept: biertype wordt aangeleverd, mentor zorgt voor het recept
+
+Grondstoffen: ?
+
+Uitvoering: Bij mentor of bij een van de teamleden
+
+Evaluatie: gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet, mogelijke afwijkingen bespreken

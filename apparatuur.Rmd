@@ -23,6 +23,8 @@ Voor het afmeten van de hoeveelheid maisch- en spoelwater heb je een litermaat n
 
 Deze heb je nodig voor het schroten van de mout. De goedkoopste uitvoering is een **schijvenmolen** en een wat duurdere variant is de **walsenmolen**. Vaak kun je deze ook wel bij een lid van het gilde lenen.
 
+![Schijvenmolen](images/schijvenmolen.png)
+
 **Maischpan / Kookpan**
 
 **Roerspaan**

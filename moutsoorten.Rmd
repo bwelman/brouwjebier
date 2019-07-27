@@ -1,4 +1,61 @@
 # (PART) Deel 2 {-}
 # Moutsoorten
 
-Soorten mout en hun belangrijkste kenmerken.
+Doel: Soorten mout en hun belangrijkste kenmerken.
+
+Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel die later het zetmeel in de korrel gaan afbreken. Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hoge temperatuur te verwarmen. Het gekiemde graan heet mout. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen.
+
+Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt. Zo wordt tarwemout altijd aan gerstemout toegevoegd voor de bereiding van Weizenbier.
+
+Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels.
+
+## Moutkleur
+
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden. Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden.
+
+De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's voor het brouwen rekenen dat voor je uit, zie hoofdstuk \@ref(brouwsoftware).
+
+```{r kleurenkaart, fig.cap="EBC kleurenkaart", echo=FALSE}
+knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
+```
+
+## Soorten mout
+
+Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Je hebt zogenaamde basismouten en speciale mouten.
+
+### Basismouten
+
+Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken. Dit wordt ook wel omschreven als "Je mag tot 100% storten". Veel gebruikte basismouten zijn
+
+-  Pilsmout (3 EBC)
+-  Pale Ale mout (7 EBC)
+-  Viennamout (8 EBC)
+-  Münchenermout (15 EBC)
+
+### Speciale mouten
+
+Aan de basismouten kunnen speciale mouten worden toegevoegd om
+
+-  de kleur van het bier donkerder te maken
+-  een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
+
+**Broeimout**
+
+**Caramelmout**
+
+**Roostmout**
+
+## Mouterijen
+
+Bekende mouterijen zijn:
+
+-  Nederland
+   +  [The Swaen](http://theswaen.com/)
+-  België
+   +  [Dingemans](http://www.dingemansmout.be/)
+   +  [Castle Malting]
+-  Duitsland
+   +  [Weyermann](https://www.weyermann.de/)
+   +  [BestMalz](https://bestmalz.de)
+-  Engeland
+   +  [Thomas Fawcett & Sons](http://www.fawcett-maltsters.co.uk/)

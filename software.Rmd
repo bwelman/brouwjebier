@@ -1,4 +1,38 @@
 # (PART) Deel 4 {-}
-# Software
+# Brouwsoftware {#brouwsoftware}
 
 Beknopt aandacht voor brouwsoftware.
+
+## Brouwvisie
+
+[Website Brouwvisie](http://www.brouwvisie.nl/)
+
+Een binnen het gilde veel gebruikt programma van gildelid Oscar Moerman. Er zien drie uitvoeringen te downloaden:
+
+-  versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
+-  versie 2.32, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €20
+-  versie 2.20 Pro, voor kleine commerciële brouwerijen, licentiekosten €75 per jaar
+
+Vereisten: Windows
+
+## Brouwhulp
+
+[Website Brouwhulp](http://wittepaard.roodetoren.nl/index.php/brouwhulp)
+
+Programma van Adri Otte, gratis
+
+Vereisten: Windows, Linux
+
+##  Brouwwijzer
+
+Excelprogramma van gildelid Hans Saris, gratis. Wordt niet meer verder ontwikkeld.
+
+Vereisten: Windows, Excel
+
+## BROdeLuxe
+
+Programma van Peter Wester, gratis.
+
+[Website BROdeLuxe](http://www.brodeluxe.nl/)
+
+Vereisten: Windows
