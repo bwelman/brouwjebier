@@ -22,7 +22,7 @@ In de talrijke kloosters en abdijen werd de kunst van het bierbrouwen steeds ver
 
 Een belangrijk doorbraak voor de bierproductie was het werk van de Franse chemicus Louis Pasteur, die in 1860 de vergisting ontrafelde. Gisting gebeurde vroeger ‘spontaan’ en brouwers konden alleen maar hopen dat het goed ging. Pasteur ontdekte echter dat niet alle gisten even goed werken. Door de meest geschikte gisten steeds door te kweken, konden de brouwers keer op keer hetzelfde bier brouwen. De reincultuur was hiermee geboren. Brouwers van het Deense Carlsberg ontdekten verschillende gisten en selecteerden speciaal voor de pilsbieren de stam *Saccharomyces carlsbergensis*, die nog steeds wordt gebruikt.
 
-Pasteur ontdekte bovendien dat bier beter te bewaren is door het te verhitten tot 70 à 80 ^0C – temperaturen waarbij bacteriën
+Pasteur ontdekte bovendien dat bier beter te bewaren is door het te verhitten tot 70 à 80 ^0^C – temperaturen waarbij bacteriën
 en gisten worden gedood. Dit proces wordt nu *pasteuriseren* genoemd.
 
 ### Het ontstaan van een nieuw biersoort: pils
@@ -61,13 +61,13 @@ Afhankelijk van de vergistingsmethode heb je drie soorten bieren: bovengistend, 
 
 **Bovengistende bieren**
 
-Vóór 1840 waren alle bieren bovengistend. De vergisting hiervan vindt bij relatief hoge temperaturen (15 à 20 ^oC) plaats en gist stijgt naar de oppervlakte. Pas na de karakterisering van specifieke gistsoorten en de uitvinding van de koelmachine brouwde men steeds meer ondergistende bieren.
+Vóór 1840 waren alle bieren bovengistend. De vergisting hiervan vindt bij relatief hoge temperaturen (15 à 20 ^o^C) plaats en gist stijgt naar de oppervlakte. Pas na de karakterisering van specifieke gistsoorten en de uitvinding van de koelmachine brouwde men steeds meer ondergistende bieren.
 
 Voorbeelden: Trappistenbier, Stout, Porter
 
 **Ondergistende bieren**
 
-Pas na de uitvinding van de koelmachine werden er steeds meer ondergistende bieren gebrouwen. Deze vergisten bij relatief lage temperaturen (6 à 8 ^C). Door het vormen van grote vlokken zakt de gist zakt hierbij naar de bodem.
+Pas na de uitvinding van de koelmachine werden er steeds meer ondergistende bieren gebrouwen. Deze vergisten bij relatief lage temperaturen (6 à 8 ^o^C). Door het vormen van grote vlokken zakt de gist zakt hierbij naar de bodem.
 
 Voorbeelden: Pilsener, Bockbier
 

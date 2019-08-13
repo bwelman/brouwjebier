@@ -23,7 +23,7 @@ Binnen in de gerstkorrel zit zetmeel. Om het zetmeel in suikers om te zetten heb
 
 Om brouwgerst geschikt te maken, wordt het eerst gemout. Hierbij wordt de gerst eerst geweekt in water. En als de gerst zich helemaal hiermee heeft volgezogen wordt het op een warme vloer uitgestort. Na enige tijd gaat de korrel ontkiemen en vormt dan enzymen. Zodra de gerst is ontkiemd, worden de graankorrels bij hoge temperatuur gedroogd om het kiemproces te stoppen. Het resultaat heet **mout**. Hoe hoger de temperatuur bij het drogen is, des te donkerder de mout. De kleur van de mout bepaalt ook de kleur van het bier. En ook heeft de mout een belangrijke invloed op de uiteindelijke smaak van het bier.
 
-Dit mouten gebeurt vindt plaats in **mouterijen** en doe je niet zelf. Afhankelijk van het soort bier dat je wilt maken schaf je bepaalde mouten aan. te doen. Een bekende mouterij in Nederland is The Swaen[@Swaen2019] in Kloosterzande.
+Dit mouten gebeurt vindt plaats in **mouterijen** en doe je niet zelf. Afhankelijk van het soort bier dat je wilt maken schaf je bepaalde mouten aan. te doen.
 
 ## Afwegen ingrediënten
 
@@ -58,7 +58,7 @@ Om deze scheiding uit te voeren heb je een filter nodig. Hobbybrouwers gebruiken
 
 ## Spoelen
 
-In het filterbed zitten nog veel suikers. Om die ook in de wort te krijgen wordt het filterbed met warm water (maximaal 78^o C) langzaam en voorzichtig doorgespoeld. In het recept is weer terug te vinden hoeveel **spoelwater** je nodig hebt.
+In het filterbed zitten nog veel suikers. Om die ook in de wort te krijgen wordt het filterbed met warm water (maximaal 78 ^o^C) langzaam en voorzichtig doorgespoeld. In het recept is weer terug te vinden hoeveel **spoelwater** je nodig hebt.
 
 ## Koken
 
@@ -95,7 +95,7 @@ Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuur
 
 ## Lageren
 
-Wanneer de vloeistof is uitvergist kan het gelagerd worden. Het **jongbier** kan dan rijpen en helder worden. Dit **klaren**  gebeurt het beste bij een lage temperatuur, indien mogelijk iets boven 0^o C. Afhankelijk van het soort bier kan deze periode wel 2-8 weken duren.
+Wanneer de vloeistof is uitvergist kan het gelagerd worden. Het **jongbier** kan dan rijpen en helder worden. Dit **klaren**  gebeurt het beste bij een lage temperatuur, indien mogelijk iets boven 0 ^o^C. Afhankelijk van het soort bier kan deze periode wel 2-8 weken duren.
 
 De meeste thuisbrouwers slaan deze periode over. Wat velen wel doen is het gistvat aan het eind nog zo'n 3 dagen in de koelkast zetten. Hierbij wordt het bier ook grotendeels geklaard.
 

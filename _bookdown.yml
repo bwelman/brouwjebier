@@ -5,10 +5,20 @@ language:
     fig: 'Figuur '
     tab: 'Tabel '
     eq: 'Vergelijking '
+    thm: 'Stelling '
+    lem: 'Lemma '
+    cor: 'Conclusie '
+    prp: 'Voorstel '
+    cnj: 'Vermoeden '
+    def: 'Definitie '
     exm: 'Voorbeeld '
     exr: 'Opgave '
+    proof: 'Bewijs '
+    remark: 'Opmerking '
+    solution: 'Oplossing '
   ui:
-    chapter_name: "Hoofdstuk "
+    edit: 'Bewerken '
+    chapter_name: 'Hoofdstuk '
 
 rmd_files: ["index.Rmd",
   "inleiding.Rmd",

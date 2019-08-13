@@ -3,7 +3,7 @@ title: "Bierbrouwen"
 subtitle: "Een cursus van het Twents Bierbrouwersgilde"
 author:
 - "Ben Welman"
-date: '`r format(Sys.Date(), "%d %B %Y")`'
+date: '`r format(Sys.time(), "%d %B %Y %H:%M")`'
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [brouwcursus.bib]
