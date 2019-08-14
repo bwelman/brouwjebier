@@ -1,13 +1,15 @@
 # Apparatuur {#apparatuur}
 
--  Welke apparatuur heb je nodig.
--  Waar kun je wat kopen?
--  Zelf maken?
--  Werkwijze met sommige hulpmiddelen (hygrometer, refractometer, ...)
+**Doelstellingen**
 
-Welke apparatuur je nodig hebt hangt af van de gevolgde brouwmethode, het brouwvolume en het budget. Over de verschillende brouwmethodes wordt later behandeld, zie \@ref(brouwmethodes). veel hobbybrouwers zijn ook handige doe het zelvers en maken een groot deel van de spullen zelf. Het Twents Bierbrouwersgilde heeft voor haar leden ook leenapparatuur beschikbaar. Zeker in het begin is het beter om niet gelijk van alles aan te schaffen. orienteer je eerst goed, overleg met je mentor en vraag op een gildeavond om advies en hulp.
+-  Weten welke apparatuur nodig is om te kunnen brouwen.
+-  Hoe je aan deze apparatuur kunt komen (zelf maken / kopen)
+-  Het gebruik van een hygrometer
+-  het gebruik van een refractometer
 
 ## Minimale benodigdheden
+
+Welke apparatuur je nodig hebt hangt af van de gevolgde brouwmethode, het brouwvolume en het budget. Over de verschillende brouwmethodes wordt later behandeld, zie \@ref(brouwmethodes). veel hobbybrouwers zijn ook handige doe het zelvers en maken een groot deel van de spullen zelf. Het Twents Bierbrouwersgilde heeft voor haar leden ook leenapparatuur beschikbaar. Zeker in het begin is het beter om niet gelijk van alles aan te schaffen. orienteer je eerst goed, overleg met je mentor en vraag op een gildeavond om advies en hulp.
 
 In dit deel van de cursus worden een aantal spullen genoemd die je minimaal nodig hebt.
 

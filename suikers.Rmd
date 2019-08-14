@@ -1,3 +1,6 @@
 # Suikers
 
-Vergistbare en overgistbare suikers.
+**Doelstellingen**
+
+-  Verschil vergistbare en overgistbare suikers.
+-  ...

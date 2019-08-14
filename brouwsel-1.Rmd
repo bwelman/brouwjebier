@@ -1,5 +1,11 @@
 # Brouwsel-1
 
+**Doelstellingen**
+
+-  Een eenvoudig bier met 1 maischstap volgens een verstrekt recept kunnen maken.
+
+## Werkwijze
+
 Het eerste brouwsel: Eenvoudig van opzet: 1(-2) moutsoorten, 1(-2) hopsoorten, 1 maischtemperatuur (infusie), bovengistend.
 
 Mogelijke types: Engelse Ale, Pale Ale, Kölsch

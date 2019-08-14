@@ -1,6 +1,9 @@
 # (PART) Deel 3 {-}
 # Hopsoorten
 
-Soorten hop en hun belangrijkste kenmerken.
+**Doelstellingen**
 
-Dryhopping? Of past dit beter bij cursus gevorderden?
+-  Waarvoor dient de hop
+-  Verschil tussen bitterhop en aromahop
+-  Gebruik dryhop
+

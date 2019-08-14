@@ -1,3 +1,8 @@
 # Kruiden
 
-Welke kruiden en specerijen worden veel gebruikt. Welke invloed op het bier.
+**Doelstellingen**
+
+-  Rol van kruiden/specerijen
+-  Welke kruiden/specerijen
+-  Wanneer en hoeveel toevoegen
+

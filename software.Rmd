@@ -1,7 +1,12 @@
 # (PART) Deel 4 {-}
 # Brouwsoftware {#brouwsoftware}
 
-Beknopt aandacht voor brouwsoftware.
+**Doelstellingen**
+
+-  Overzicht Nederlandstalige brouwsoftware
+-  Gebruik Brouwvisie?
+-  Gebruik Brouwhulp?
+-  Gebruik Excelprogramma Hans Saris?
 
 ## Brouwvisie
 

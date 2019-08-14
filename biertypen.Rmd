@@ -1,3 +1,8 @@
 # Biertypen
 
-Aandacht voor de biertypenlijst van het BKG.
+**Doelstellingen**
+
+-  Biertypenlijst BKG
+-  Inzenden van bieren voor een wedstrijd
+
+## Inleiding

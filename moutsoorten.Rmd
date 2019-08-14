@@ -1,7 +1,16 @@
 # (PART) Deel 2 {-}
+
 # Moutsoorten
 
-Doel: Soorten mout en hun belangrijkste kenmerken.
+**Doelstellingen**
+
+-  Weten wat het moutproces inhoudt.
+-  Weten hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
+-  De basismouten kennen.
+-  Weten waarom speciale mouten gebruikt worden.
+-  De groepen speciale mouten kennen.
+
+## Inleiding
 
 Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel die later het zetmeel in de korrel gaan afbreken. Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hoge temperatuur te verwarmen. Het gekiemde graan heet mout. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen.
 

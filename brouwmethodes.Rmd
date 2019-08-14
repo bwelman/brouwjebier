@@ -1,10 +1,12 @@
 # Brouwmethodes {#brouwmethodes}
 
-Beknopte overzicht van verschillende brouwmethodes:
+**Doelstellingen**
 
 -  BIAB (Brew In A Bag)
 -  HERMS
 -  RIMS
 -  Electrische (half)automaten
+
+## Inleiding
 
 Geen uitvoerige behandeling, dat zou eventueel wel in een deel voor gevorderden kunnen.

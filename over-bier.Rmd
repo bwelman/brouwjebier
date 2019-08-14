@@ -1,5 +1,11 @@
 # Over bier
 
+**Doelstellingen**
+
+-  Je moet in hoofdlijnen aan kunnen geven hoe bier ontstaan is.
+-  Je moet weten uit welke grondstoffen bier gemaakt wordt.
+-  Je moet weten wat het Reinheitsgebot inhoudt.
+
 ## Geschiedenis
 
 Een korte geschiedenis over het ontstaan van bier en wat bier eigenlijk is, [@BiersectorNederland2019].

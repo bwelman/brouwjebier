@@ -1,5 +1,14 @@
 # Brouwsel-3
 
+**Doelstellingen**
+
+-  Een recept voor een verstrekt biertype kunnen opstellen.
+-  Dit biertype maken.
+-  Het gemaakte beoordelen of het aan de eisen voldoet.
+-  Eventuele afwijkingen kunnen vaststellen.
+
+## Werkwijze
+
 Het derde brouwsel: Uitbreiding van brouwsel-2 bijvoorbeel met dryhopping.
 
 Mogelijke types: IPA

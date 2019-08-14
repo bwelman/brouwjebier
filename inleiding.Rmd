@@ -1,7 +1,16 @@
 # (PART) Deel 1 {-}
 # Inleiding
 
-Doel: Opzet van de cursus, aanpak, doelstellingen, verwachtingen.
+**Doelstellingen**
+
+-  Wat willen we met deze cursus bereiken en wat mag de cursist na afloop verwachten.
+-  Hoe is de cursus opgezet.
+
+## Verwachtingen cursus
+
+[IN BEWERKING]
+
+## Opzet cursus
 
 Het cursusboek is concentrisch opgezet. Dat wil zeggen: eenvoudig beginnen met een steeds verdere uitbreiding en verdieping. Daartoe is het cursusboek opgedeeld in 4 delen.
 

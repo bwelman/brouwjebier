@@ -1,5 +1,11 @@
 # Brouwsel-2
 
+**Doelstellingen**
+
+-  Een bier met meerdere maischstappen volgens een verstrekt recept kunnen maken.
+
+## Werkwijze
+
 Het tweede brouwsel: Uitbreiding van brouwsel-1 met meerdere maischstappen. Geen kruiden.
 
 Mogelijke types: Dubbel, Weizen, ...

@@ -1,10 +1,13 @@
 # Recepten
 
-Mogelijkheden om aan een recept te komen.
+**Doelstellingen**
 
-Aanpassen van een bestaand recept.
+-  Hoe kom je aan een goed recept?
+-  Aanpassen van een bestaand recept aan eigen installatie.
 
-Huiswerk:
+## Inleiding
+
+## Huiswerk:
 
 -  Zelf maken van een recept voor brouwsel-3 waarbij vooraf aangegeven wordt welke kenmerken het bier moet hebben, zoals kleur, alkohol, bitterheid, moutigheid, zoetigheid, enz.
 -  Beoordeling door mentor.

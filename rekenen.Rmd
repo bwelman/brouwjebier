@@ -1,3 +1,10 @@
 # Rekenen
 
-Beknopte aandacht voor eenheden (SG, IBU, EBC, pH, ...) en rekenen aan bier.
+**Doelstellingen**
+
+-  Soortelijk gewicht /Dichtheid
+-  Bitterheid (IBU)
+-  Kleur (EBC)
+-  pH
+-  Handmatige berekening hoeveelheid mout, maischwater en spoelwater
+

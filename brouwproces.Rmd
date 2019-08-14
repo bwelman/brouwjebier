@@ -1,6 +1,9 @@
 # Brouwproces - Basis
 
-Doel: Begrijpen uit welke stappen het brouwproces bestaat, zonder al te diep op deze stappen in te gaan.
+**Doelstellingen**
+
+-  De verschillende stappen in het brouwproces kunnen benoemen.
+-  In grote lijnen het hoe en waarom van deze stappen begrijpen.
 
 ## Het proces in grote lijnen
 

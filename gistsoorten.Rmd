@@ -1,3 +1,7 @@
 # Gistsoorten
 
-Soorten gist en hun belangrijkste kenmerken.
+**Doelstellingen**
+
+-  Wat doet gist
+-  Waardoor wordt de werking van gist beinvloedt?
+-  Verschil ondergistend en bovengistend

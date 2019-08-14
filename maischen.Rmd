@@ -1,7 +1,14 @@
 # Maischen
 
-Doel: Achtergronden bij de verschillende stappen bij het maischen, uitleg alfa- en beta amylase.
+**Doelstellingen**
 
+-  Wat doen de enzymen?
+-  Temperatuur- en pH afhankelijkheid enzymwerking
+-  Alfa-amylase
+-  Beta amylase
+-  Maisschema
+
+## Inleiding
 In de mout zitten lange ketens zetmeel en eiwitten die omgezet moeten worden in veel kleinere ketens, suikers en kleinere eiwitten. Dat gebeurt door de enzymen die in de mout zitten. Dit proces heet maischen. Bij deze omzetting zijn meerdere enzymen betrokken. Bij de naamgeving van enzymen wordt meestal de uitgang *ase* toegevoegd aan de naam van de stof waarop het enzym inwerkt (het substraat). Zo is *protease* de naam van het enzym dat een eiwit(proteïne)-splitst. En *amylase* is het enzym dat zetmeel(amylose)-splitst.
 
 Om een enzym goed zijn werk te laten doen is nodig

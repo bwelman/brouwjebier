@@ -1,5 +1,15 @@
 # Brouwsel-4
 
+**Doelstellingen**
+
+-  Eisen/wensen voor een te maken bier formuleren
+-  Een recept hiervoor kunnen opstellen.
+-  Dit bier maken.
+-  Het gemaakte bier beoordelen of het aan de eisen voldoet.
+-  Eventuele afwijkingen kunnen vaststellen en aan kunnen geven waarom en wanneer deze zijn ontstaan.
+
+## Werkwijze
+
 Het vierde brouwsel: Eigen keuze en ontwerp.
 
 Mogelijke types: Cursisten kiezen zelf voor een gewenst bier.
