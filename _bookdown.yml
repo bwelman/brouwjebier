@@ -20,27 +20,28 @@ language:
     edit: 'Bewerken '
     chapter_name: 'Hoofdstuk '
 
-rmd_files: ["index.Rmd",
-  "inleiding.Rmd",
-  "over-bier.Rmd",
-  "brouwproces.Rmd",
-  "apparatuur.Rmd",   
-  "hygiene.Rmd",
-  "brouwsel-1.Rmd",
-  "moutsoorten.Rmd",
-  "suikers.Rmd",  
-  "maischen.Rmd",
-  "brouwsel-2.Rmd",
-  "hopsoorten.Rmd",
-  "gistsoorten.Rmd",
-  "kruiden.Rmd",  
-  "recepten.Rmd",
-  "rekenen.Rmd",
-  "brouwsel-3.Rmd",
-  "software.Rmd",
-  "proeven.Rmd",
-  "afwijkingen.Rmd",
-  "brouwmethodes.Rmd",
-  "biertypen.Rmd",
-  "brouwsel-4.Rmd",
-  "referenties.Rmd"]
+rmd_files:
+  - "index.Rmd"
+  - "inleiding.Rmd"
+  - "over-bier.Rmd"
+  - "brouwproces.Rmd"
+  - "apparatuur.Rmd"
+  - "hygiene.Rmd"
+  - "brouwsel-1.Rmd"
+  - "moutsoorten.Rmd"
+  - "suikers.Rmd"
+  - "maischen.Rmd"
+  - "brouwsel-2.Rmd"
+  - "hopsoorten.Rmd"
+  - "gistsoorten.Rmd"
+  - "kruiden.Rmd"
+  - "recepten.Rmd"
+  - "rekenen.Rmd"
+  - "brouwsel-3.Rmd"
+  - "software.Rmd"
+  - "proeven.Rmd"
+  - "afwijkingen.Rmd"
+  - "brouwmethodes.Rmd"
+  - "biertypen.Rmd"
+  - "brouwsel-4.Rmd"
+  - "referenties.Rmd"

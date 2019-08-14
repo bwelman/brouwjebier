@@ -7,14 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://www.twents-bierbrouwersgilde.nl/" target="blank">Twents Bierbrouwersgilde</a></li>
     collaps: section
-    download: ["pdf"]
     sharing:
       facebook: no
       twitter: no
       all: no
-bookdown::pdf_book:
-  includes:
-    in_header: latex/preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
