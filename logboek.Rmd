@@ -1,0 +1,23 @@
+# Logboek
+
+**Doelstellingen**
+
+-  Het belang van een logboek.
+-  Wat moet er in een logboek.
+
+## Waarom een logboek?
+
+Het is belangrijk dat je bij het brouwen zoveel mogelijk gegevens over het brouwproces en meetwaarden vast legt. Hierdoor is het gemakkelijker om achteraf na te kunnen gaan wat je gedaan hebt en eventuele fouten op te sporen. Daarnaast kun je met deze gegevens ook een goed uitgevallen bier nog eens opnieuw maken.
+
+## Inhoud logboek
+
+De volgende onderdelen dienen in een logboek vermeld te worden:
+
+-  Datums van brouwen, vergisten, bottelen, proeven, ...
+-  Het gebruikte recept.
+-  Het gevolgde brouwproces en hoe je de verschillende stappen hebt uitgevoerd.
+-  Meetwaarden: volumes, temperaturen, pH's, SG's, Brix, ...
+-  Verloop van de vergisting.
+-  Bottelen.
+-  Beoordeling van het bier.
+-  Eigenlijk alles wat van belang kan zijn om op een later tijdstip na te gaan hoe een en ander verlopen is.

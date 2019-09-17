@@ -4,16 +4,17 @@
 
 -  Een bier met meerdere maischstappen volgens een verstrekt recept kunnen maken.
 
-## Werkwijze
+**Uitvoering**
 
-Het tweede brouwsel: Uitbreiding van brouwsel-1 met meerdere maischstappen. Geen kruiden.
+-  Brouwsel met meerdere maischstappen.
+-  Mogelijke types: Dubbel, Weizen, ...
+-  Biertype wordt voorgeschreven.
+-  Mentor zorgt voor het recept.
+-  Grondstoffen worden verstrekt door het gilde.
+-  Uitvoering bij de mentor of een van de teamleden.
 
-Mogelijke types: Dubbel, Weizen, ...
+**Evaluatie**
 
-Recept: biertype wordt aangeleverd, mentor zorgt voor het recept
-
-Grondstoffen: ?
-
-Uitvoering: Bij mentor of bij een van de teamleden
-
-Evaluatie: gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet, mogelijke afwijkingen bespreken
+-  Brouwproces bespreken.
+-  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
+-  Eventuele smaak- en geurafwijkingen bespreken.

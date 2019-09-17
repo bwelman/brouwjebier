@@ -3,4 +3,5 @@
 **Doelstellingen**
 
 -  Verschil vergistbare en overgistbare suikers.
+-  Soorten suikers.
 -  ...

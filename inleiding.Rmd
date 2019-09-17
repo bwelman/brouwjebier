@@ -3,28 +3,27 @@
 
 **Doelstellingen**
 
--  Wat willen we met deze cursus bereiken en wat mag de cursist na afloop verwachten.
--  Hoe is de cursus opgezet.
+-  Aangeven wat de cursist na afloop van de cursus mag verwachten.
+-  Uitleg hoe de cursus is opgezet.
 
 ## Verwachtingen cursus
-
-[IN BEWERKING]
-
-## Opzet cursus
-
-Het cursusboek is concentrisch opgezet. Dat wil zeggen: eenvoudig beginnen met een steeds verdere uitbreiding en verdieping. Daartoe is het cursusboek opgedeeld in 4 delen.
-
--  Deel 1: Eenvoudig, basisprincipes, brouwproces, eerste apparatuur, eenvoudig brouwsel
--  Deel 2: Focus op maischen: uitbreiding met meerdere maischstappen, verdieping moutsoorten en suikers.
--  Deel 3: Focus op hop en vergisting, en recepten
--  Deel 4: fouten, afwijkingen, proeven, brouwsoftware
-
-Samen met een mentor worden er in elk deel een brouwsel gemaakt. Je maakt dus in totaal 4 brouwsels. Ook deze brouwsels gaan van een eenvoudig recept naar een steeds complexer recept. In het begin krijg je een kant en klaar recept aangeleverd, aan het eind zul je er zelf een moeten maken.
 
 Na afloop van de cursus wordt het volgende van je verwacht.
 
 -  Je weet hoe bier gemaakt wordt en je kunt dat ook zelf.
 -  Je weet de achtergronden van de processen.
 -  Je kunt zelf een recept opstellen.
--  Je weet hoe je bier moet proeven en beoordelen
--  Je kent een aantal brouwfouten en weet hoe die te vermijden
+-  Je weet een bier te classificeren.
+-  Je weet hoe je bier moet proeven en beoordelen.
+-  Je kent een aantal brouwfouten en weet hoe die te vermijden.
+
+## Opzet cursus
+
+Het cursusboek is concentrisch opgezet. Dat wil zeggen: eenvoudig beginnen met een steeds verdere uitbreiding en verdieping. Daartoe is de cursus en het cursusboek opgedeeld in 4 delen.
+
+-  Deel 1: Basisprincipes van het brouwproces, eerste apparatuur.Eenvoudig brouwsel volgens verstrekt recept.
+-  Deel 2: Nadruk op mout en maischen. Brouwsel met meerdere maischstappen volgens verstrekt recept.
+-  Deel 3: Nadruk op hop en vergisting, en recepten. Brouwsel van een biertype volgens eigen recept.
+-  Deel 4: Fouten, afwijkingen, proeven en brouwsoftware. Brouwsel van een eigen geformuleerd bier.
+
+Samen met een mentor wordt in elk deel een brouwsel gemaakt. Je maakt dus in totaal 4 brouwsels. Ook deze brouwsels gaan van een eenvoudig recept naar een steeds complexer recept. In het begin krijg je een kant en klaar recept aangeleverd, aan het eind zul je er zelf een moeten maken. Daarnaast leer je hoe een bier te proeven en te beoordelen, ook wel *degusteren* genoemd.

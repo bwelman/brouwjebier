@@ -20,6 +20,8 @@ Bier is de oudste alcoholhoudende drank ter wereld. Het wordt wereldwijd gedronk
 
 In de vroege Middeleeuwen was het brouwen van bier een huishoudelijke bezigheid, voorbehouden aan vrouwen. Om in hun levensonderhoud te voorzien, brouwden ook kloosterlingen (monniken en nonnen) verschillende bieren. In de tijd van Karel de Grote (rond 800) ontstonden grotere brouwerijen om de hoeveelheden bier te brouwen die nodig waren voor het hof of voor grotere huishoudens. Naast het thuis brouwen kwam ook het zogenaamde koopbrouwen door ambachtslieden in gebruik. Met de koopbrouwer was de commerciële bierbrouwerij geboren.
 
+![Bier in de Middeleeuwen](images/bier-me.png)
+
 In de Middeleeuwen werd veel bier gedronken. Met gemak dronk iedere man, vrouw of kind wel 300 liter bier per jaar. Het bier dat de Middeleeuwer dagelijks dronk lijkt overigens niet op het bier dat we nu drinken. Het bevatte nauwelijks alcohol en smaakte waarschijnlijk vrij zuur. Men dronk bier als alternatief voor water dat toen gehaald werd uit sloten en grachten. Dit water bevatte veel bacteriën en leidde tot ziektes.
 
 Het aantal bierbrouwerijen steeg in deze tijd gestaag. Steden met meer dan 100 brouwerijen waren geen uitzondering. Bekende brouwsteden uit die tijd zijn Amersfoort, Delft, Haarlem en Gouda. De bierbrouwers, die zich verenigden in gilden, waren vaak de machtigste kooplieden in de stad of de streek. Men beweert zelfs dat de overwinning op de Spanjaarden tijdens de Tachtigjarige Oorlog grotendeels met accijns op bier gefinancierd is.
@@ -27,6 +29,8 @@ Het aantal bierbrouwerijen steeg in deze tijd gestaag. Steden met meer dan 100 b
 In de talrijke kloosters en abdijen werd de kunst van het bierbrouwen steeds verder verfijnd. Waarschijnlijk ontstond ook daar het idee om gruit (verschillende kruiden) in bier te vervangen door hop. Bier met hop was smakelijker. Bovendien bederft het bier door hop minder snel. Voor commerciële bierbrouwers gaf dit veel voordelen. Het werd nu bijvoorbeeld mogelijk om bier zonder kwaliteitsverlies te exporteren. Vanaf de vijftiende eeuw werd vrijwel uitsluitend nog maar hoppebier gebrouwen.
 
 Een belangrijk doorbraak voor de bierproductie was het werk van de Franse chemicus Louis Pasteur, die in 1860 de vergisting ontrafelde. Gisting gebeurde vroeger ‘spontaan’ en brouwers konden alleen maar hopen dat het goed ging. Pasteur ontdekte echter dat niet alle gisten even goed werken. Door de meest geschikte gisten steeds door te kweken, konden de brouwers keer op keer hetzelfde bier brouwen. De reincultuur was hiermee geboren. Brouwers van het Deense Carlsberg ontdekten verschillende gisten en selecteerden speciaal voor de pilsbieren de stam *Saccharomyces carlsbergensis*, die nog steeds wordt gebruikt.
+
+![Louis Pasteur](images/pasteur.png)
 
 Pasteur ontdekte bovendien dat bier beter te bewaren is door het te verhitten tot 70 à 80 ^0^C – temperaturen waarbij bacteriën
 en gisten worden gedood. Dit proces wordt nu *pasteuriseren* genoemd.
@@ -40,6 +44,8 @@ In Bohemen (Tsjechie) werd in die tijd een nieuw biersoort uitgevonden; een bier
 Halverwege de jaren tachtig vond een nieuwe ontwikkeling plaats. Anders smakende bieren, de zogenaamde speciaalbieren uit België werden populair en het duurde niet lang voordat bestaande en nieuwe kleine brouwerijen ook in Nederland begonnen met het brouwen van speciaalbier. Soms worden oude recepten nieuw leven ingeblazen, vaak ook verzint een brouwer een creatief nieuw recept.
 
 ### Reinheitsgebot
+
+![](images/reinheitsgebot.png)
 
 Al in de middeleeuwen bedachten bierbrouwers allerlei manieren om bier zo goedkoop mogelijk te produceren. Uit deze tijd stamt daarom de eerste warenwet: het Duitse Reinheitsgebot uit 1516, uitgevaardigd door Wilhelm IV van Beieren. De wet bepaalde dat bier alleen mocht worden gebrouwen van gerst, water en hop. Anders mocht het geen bier worden genoemd. Gist was toen nog niet ontdekt en werd later toegevoegd aan de bepaling. Pas na een klacht van de Europese Unie – omdat het gebod vrijhandel belemmerde – is het in 1987 afgeschaft. Duitse brouwers houden er overigens nog krampachtig aan vast, omdat ze anders gelijk uit de Duitse markt liggen. Gerst is echter een dure grondstof. Veel andere brouwers voegen daarom tot meer dan 50 procent andere zetmeelbronnen toe, zoals tarwe, mais of rijst.
 
