@@ -12,9 +12,14 @@ link-citations: yes
 description: "Dit boek bevat de brouwcursus van het Twents Bierbrouwersgilde."
 papersize: a4
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
+cover-image: images/cover.svg
 ---
 
 # Voorwoord {-}
+
+```{r fig.align='center', echo=FALSE}
+knitr::include_graphics('images/cover.svg', dpi = NA)
+```
 
 Het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/) is een vereniging voor echte liefhebbers van bier en het brouwen van bier. De vereniging kent de volgende activiteiten:
 
