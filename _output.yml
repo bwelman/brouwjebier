@@ -1,12 +1,13 @@
 bookdown::gitbook:
   css: [css/style.css, css/toc.css]
+  split_by: chapter
   config:
     toc:
+      collapse: section
       before: |
         <li><a href="./">Een bierbrouw cursus</a></li>
       after: |
         <li><a href="https://www.twents-bierbrouwersgilde.nl/" target="blank">Twents Bierbrouwersgilde</a></li>
-    collaps: section
     sharing:
       facebook: no
       twitter: no
