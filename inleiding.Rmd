@@ -21,9 +21,21 @@ Na afloop van de cursus wordt het volgende van je verwacht.
 
 Het cursusboek is concentrisch opgezet. Dat wil zeggen: eenvoudig beginnen met een steeds verdere uitbreiding en verdieping. Daartoe is de cursus en het cursusboek opgedeeld in 4 delen.
 
--  Deel 1: Basisprincipes van het brouwproces, eerste apparatuur.Eenvoudig brouwsel volgens verstrekt recept.
--  Deel 2: Nadruk op mout en maischen. Brouwsel met meerdere maischstappen volgens verstrekt recept.
--  Deel 3: Nadruk op hop en vergisting, en recepten. Brouwsel van een biertype volgens eigen recept.
--  Deel 4: Fouten, afwijkingen, proeven en brouwsoftware. Brouwsel van een eigen geformuleerd bier.
-
 Samen met een mentor wordt in elk deel een brouwsel gemaakt. Je maakt dus in totaal 4 brouwsels. Ook deze brouwsels gaan van een eenvoudig recept naar een steeds complexer recept. In het begin krijg je een kant en klaar recept aangeleverd, aan het eind zul je er zelf een moeten maken. Daarnaast leer je hoe een bier te proeven en te beoordelen, ook wel *degusteren* genoemd.
+
+-  Deel 1:
+   +  Basisprincipes van het brouwproces.
+   +  Minimale apparatuur.
+   +  *Brouwsel-1*: eenvoudig, volgens verstrekt recept.
+-  Deel 2:
+   +  Nadruk op mout en maischen.
+   +  *Brouwsel-2*: meerdere maischstappen, volgens verstrekt recept.
+-  Deel 3:
+   +  Nadruk op hop, vergisting, en recepten.
+   +  *Brouwsel-3*: voorgeschreven biertype, eigen recept.
+-  Deel 4:
+   +  Nadruk op fouten, afwijkingen en beoordelen.
+   +  Brouwsoftware.
+   +  *Brouwsel-4*: een eigen geformuleerd bier, eigen recept.
+
+
