@@ -9,15 +9,26 @@
 
 ## Inleiding
 
-Alle apparatuur en hulpmiddelen moeten goed schoongemaakt zijn. En de onderdelen die je na het koken gebruikt moeten gedesinfecteerd zijn. En desinfecteren kan pas wanneer de spullen eerst schoongemaakt zijn.
-
-Er zijn veel verschillende meningen over hoe je het beste schhon kunt maken en ontsmetten.
+Alle apparatuur en hulpmiddelen moeten goed schoongemaakt zijn. En de onderdelen die je na het koken gebruikt moeten gedesinfecteerd zijn. En desinfecteren kan pas wanneer de spullen eerst schoongemaakt zijn. Er zijn veel verschillende meningen over hoe je het beste schoon kunt maken en ontsmetten.
 
 ## Schoonmaken
 
-Alles goed schoon maken is een eerste vereiste. Dat kan heel goed met water en een afwasmiddel. gebruik een neutraal afwasmiddel zonder geuren en kleuren.
+Alles goed schoon maken is een eerste vereiste. Schoonmaken is het verwijderen van vuil.
 
-![Neutraal afwasmiddel](images/afwasmiddel.png)
+1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. pas op voor het maken van krassen met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waarin micro-organismen gaan zitten.
+2.  Maak hierna de spullen huishoudelijk schoon. Dat kan met water en een neutraal afwasmiddel  zonder geur- en kleurstoffen. Nog beter is het gebruik van speciale reinigingsmiddellen zoals de *Oxi-middelen* en *Enzybrew*.
+
+```{r afwasmiddel, fig.cap="Een voorbeeld van een neutraal afwasmiddel.", echo=FALSE}
+knitr::include_graphics("images/afwasmiddel.png", dpi = NA)
+```
+
+```{r puro-oxi, fig.cap="Oxi-middelen zijn goede en niete te dure reinigingsmiddelen. Korte contacttijd.", echo=FALSE}
+knitr::include_graphics("images/puro-oxi.png", dpi = NA)
+```
+
+```{r enzybrew-10, fig.cap="Enzybre is een zeer effectief reinigingsmiddel, speciaal ontwikkeld voor de microbrouwerijen. Biologisch afbreekbaar, dus milieuvriendelijk.", echo=FALSE}
+knitr::include_graphics("images/enzybrew-10.png", dpi = NA)
+```
 
 ## Ontsmetten
 
