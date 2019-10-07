@@ -2,19 +2,163 @@
 
 **Doelstellingen**
 
--  Een bier met meerdere maischstappen volgens een verstrekt recept kunnen maken.
+-  Een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken, onder begeleiding van de mentor.
+-  Kennismaken met meerdere moutsoorten.
+-  Kennismaken met meerdere maischstappen en weten wat elke maischstap inhoudt.
+-  pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
+-  Verdere kennismaking met apparatuur.
+-  Meer zelfstandigheid tijdens het brouwproces.
 
-**Uitvoering**
+## Inleiding
 
--  Brouwsel met meerdere maischstappen.
--  Mogelijke types: Dubbel, Weizen, ...
--  Biertype wordt voorgeschreven.
--  Mentor zorgt voor het recept.
--  Grondstoffen worden verstrekt door het gilde.
--  Uitvoering bij de mentor of een van de teamleden.
+Net als het eerste brouwsel wordt het recept en de benodigde grondstoffen weer verstrekt. De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en de achtergronden van deze maischstappen. Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en het te gebruiken water op de juiste waarde moeten brengen.
 
-**Evaluatie**
+Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor.
+
+## Recept Dubbel
+
+Volume: 20 liter
+
+Begin SG: $\pm1058$ (hangt af van apparatuur, spoelsnelheid, ...)
+
+Eind SG: $\pm1014$
+
+**Grondstoffen**
+
+-  *Mout*
+   +  Pale Ale mout (3 EBC): 3000 gram
+   +  Münchenermout (17 EBC): 2000 gram
+   +  Caramelmout (120 EBC): 440 gram
+   +  Chocolademout ontbitterd (800 EBC): 120 gram
+-  *Hop*
+   +  Challenger (6,5% alfazuur): 32 gram
+-  *Gist*
+   +  Wyeast 1214 Belgian Abbey: 2 Smackpack pakken
+-  *Water*
+   +  Maischwater: ca. 20 liter (hangt van apparatuur af)
+   +  Spoelwater: hoeveelheid samen met mentor bepalen (hangt van meerdere factoren af)
+
+**Proces**
+
+-  *Maischen*
+   +  Maischdikte ligt tussen 3,5-5,5 liter/kg mout
+   +  Stijgende infusie
+   +  Stap 1: $54^oC$, 60 minuten (Let op pH maisch)
+   +  Stap 2: $63^oC$, 30 minuten
+   +  Stap 3: $73^oC$, 20 minuten
+   +  Stap 4: $78^oC$, 5 minuten (Uitmaischen)
+-  *Spoelen*
+   +  Spoel langzaam.
+   +  Stop met spoelen als SG in de uitloop tussen 1010-1020 ligt (mits je dit kunt meten)
+-  *Koken*
+   +  Kooktijd op $100^oC$ gedurende 60 minuten
+   +  Hop toevoegen bij $95^oC$, 60 minuten koken
+-  *Gisting*
+   +  Eventueel giststarter maken (in overleg met mentor).
+-  *Bottelen*
+   +  Bottelen als vergisting gestopt is (3 dagen geen activiteit, SG meten)
+   +  6-8 gram suiker per liter bottel suiker.
+   +  Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
+
+
+## Uitvoering (draaiboek)
+
+Voor een algemeen uitgebreid draaiboek zie Brouwsel-1.
+
+Speciale aandachtspunten bij dit brouwsel.
+
+-  Zorg tussen de maischstappen voor een temperatuurstijging van ongeveer 1^o^C per 2 minuten.
+-  Probeer bij de maischstappen de temperatuur op ca. 1^o^C van de doeltemperatuur te houden.
+-  pH na 10 minuten meten en op 5,4 brengen. Spoelwater pH op 5,2.
+-  Voer tijdens het maischproces een jodiumtest uit aan het einde van stap 3.
+-  Smackpack enkele dagen van de voren kneuzen en warm leggen. Zie handleiding op de verpakking.
+-  Schrijf de brouwgegevens op in een logboek of brouwprogramma. Doe dit ook bij het beoordelen van je bier, de proefnotaties.
+
+## Vragen
+
+1.  Hoe noemt men deze maischmethode?
+1.  Welke enzymen zijn actief bij 63^o^C en 73^o^C?
+1.	Hoe heb je de hoeveelheid spoelwater bepaald?
+1.  Hoeveel water is er tijdens het koken verdampt?
+1.  Hoeveel liter wort is er in het gistvat gegaan?
+1.  Wat was het begin SG in het gist vat?
+1.  Wat was het eind SG in het gistvat?
+1.  Bereken het alcoholpercentage (ABV %) van het bier met de formule $ABV\% = (Begin SG - Eind SG) \times 0,136 + 0,4$
+1.  Vergelijk je bier met b.v. Westmalle dubbel. Welke verschillen heb je geproefd?
+1.	Stel je wilt je dubbel wat zoeter hebben, wat zou je wijzigen aan je recept en waarom?
+
+## Evaluatie
 
 -  Brouwproces bespreken.
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
 -  Eventuele smaak- en geurafwijkingen bespreken.
+
+## Bijlage: Kenmerken Dubbel
+
+volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
+
+**Algemene kenmerken**
+
+Een dubbel abdijbier of trappistenbier is een bovengistend typisch Belgisch, klassiek bier van 6,5 tot 7,5 Vol% alcohol.
+
+**Uiterlijke kenmerken**
+
+-  Kleur (donker) koper, roodbruin tot donkerbruin.
+-  Helder.
+-  Stabiele mousse schuimkraag.
+-  Een dubbel heeft tamelijk veel koolzuur. 
+
+**Geurassociaties**
+
+-  Licht gebrand donker moutig, soms iets karamel, chocolade.
+-  Matig zoetig (esters), fruitig (banaan, pruim, afhankelijk van de gistsoort).
+-  Het hoparoma is hooguit zwak waarneembaar.
+-  Complex, rijk moutige zoetheid, hints van chocolade, karamel en / of toast (maar nooit gebrande aroma's).
+-  Matige fruitige esters (meestal inclusief rozijnen en pruimen, soms ook gedroogde kersen).
+-  Kruidigheid en hogere alcoholen zijn soms herkenbaar.
+-  Zwak hoparoma.
+
+**Basissmaak**
+
+-  Zoetig, bitterig.
+
+**Smaak**
+
+-  In evenwicht met de geur: zoetig tot mout bitterig, medium alcoholisch.
+-  Soms zijn met kruiden toegevoegd, maar altijd in balans met moutigheid.
+-  Complexe, medium-volle moutige zoetheid in de hoofdsmaak, matig droog uitlopend.
+-  Complex samenspel van mout, esters, alcohol en fenolen (rozijnensmaken komen vaak voor, kruidnagel-achtige kruidigheid is mogelijk).
+-  Hoofdsmaak is altijd in de richting van de mout.
+-  Geen diacetyl.
+-  Niet zo moutig als een bock.
+
+**Body**
+
+-  Medium
+-  Doordrinkbaar.
+-  Laag alcoholwarmend.
+
+**Mondgevoel**
+
+-  Iets plakkerig
+-  Iets alcoholwarmend.
+-  Koolzuurprikkeling is duidelijk aanwezig. 
+
+**Nasmaak**
+
+-  (licht) moutig
+-  Iets bitter met vaak complexe fruitigheid en kruidigheid, afhankelijk van de gistsoort.
+-  Vooral de trappisten dubbel-bieren zijn meer complex in hun (na)smaak
+
+**Opmerkingen**
+
+Een van de meest bekende speciaalbieren in Nederland en België. Minder karamel karakter dan bij een bockbier. 
+
+**Technische kenemerken**
+
+-  Begin SG: 1060-1072
+-  SVG: 72-89%
+-  Alcoholpercentage (ABV): 6,5-7,5%
+-  Kleur: 40-100 EBC
+-  Bitterheid: 20-30 EBU
+-  Koolzuurgehalte: 5,0-7,0 gr/liter

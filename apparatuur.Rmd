@@ -57,6 +57,8 @@ Wanneer je in beugelflessen bottelt heb je deze niet nodig.
 
 **Hydrometer met maatcilinder**
 
+(hydrometer is direct de juiste waarde of met refractometer maar dan moet je een correctiewaarde toepassen. De hydrometer is geijkt op $20^oC$. bij temperatuur afwijking deze compenseren
+
 Een refractometer kan ook.
 
 **Bierflessen**

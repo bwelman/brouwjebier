@@ -46,7 +46,21 @@ In deze stap moet het zetmeel in de mout door enzymen omgezet worden in suikers.
 
 In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbij je de geschrote mout toevoegt aan het water wordt de **inmaischtemperatuur** genoemd. Ook dit staat in het recept.
 
-De verschillende enzymen werken het beste bij bepaalde temperaturen. Daartoe wordt het beslag onder rustig roeren opgewarmd tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde rusttijd. De verschillende temperaturen waarbij gerust wordt heet **maischschema**. In deel 2 van deze cursus wordt verder ingegaan op de achtergronden van dit **maischen**.
+De verschillende enzymen werken het beste bij bepaalde temperaturen. Daartoe wordt het beslag onder rustig roeren opgewarmd tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde rusttijd. Om de temperatuur constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
+
+De verschillende temperaturen waarbij gerust wordt heet **maischschema**. In deel 2 van deze cursus wordt verder ingegaan op de achtergronden van dit **maischen**.
+
+Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in suikers. Dit gaat als volgt.
+
+1.  Doe een lepeltje maischbeslag op een wit schoteltje en laat dit afkoelen tot kaertemperatuur.
+2.  Voeg 1-2 druppels jodiumtinctuur.
+3.  Let nu op de kleur van de jodiumoplossing:
+    -  *Blauwkleuring* wijst op de aanwezigheid van zetmeel. Je moet nog wat langer maischen.
+    -  Blijft de kleur *bruin*, dan is alle zetmeel omgezet. Het maischproces is afgelopen.
+
+Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor hoofdstuk \@ref(apparatuur).
+
+Tijdens het maischen neemt ook de viscositeit van de vloeistof af, dat wil zeggen minder stroperig en meer vloeibaar, dunner dus. Het roeren wordt daardoor steeds gemakkelijker.
 
 Aan het eind van het maischen heb je een mengsel van een vloeistof, waarin de suikers zijn opgelost, met vaste stoffen, zoals kafjes en korrelresten van de mout. In de volgende stap wordt dit van elkaar gescheiden.
 
@@ -63,26 +77,32 @@ Om deze scheiding uit te voeren heb je een filter nodig. Hobbybrouwers gebruiken
 
 ## Spoelen
 
-In het filterbed zitten nog veel suikers. Om die ook in de wort te krijgen wordt het filterbed met warm water (maximaal 78 ^o^C) langzaam en voorzichtig doorgespoeld. In het recept is weer terug te vinden hoeveel **spoelwater** je nodig hebt.
+In het filterbed zitten nog veel suikers. Om die ook in de wort te krijgen wordt het filterbed met warm water (maximaal 78 ^o^C) langzaam en voorzichtig doorgespoeld. Als het filterbed begint droog te vallen voeg dan het spoelwater toe.Om het rendement van het brouwproces te verhogen is het beter om langzaam te spoelen.
+
+Indien mogelijk meet dan ook regelmatig met een refractometer het SG bij de uitloop van het filter. In het spoelwater zal steeds minder opgeloste suiker zitten, waardoor het SG dus afneemt. Een vuistregel is dat het SG hier tussen 1,010 en 1,020 moet liggen.
+
+In het recept is weer terug te vinden hoeveel **spoelwater** je nodig hebt.
 
 ## Koken
 
-Nu gaat de wort gekookt worden. Tijdens het koken wordt de hop toegevoegd. In het recept staat weer hoe lang de **kooktijd** (minimaal een uur) is en hoeveel gram van welke hop hoe lang moet meekoken. Koken is om meerdere redenen erg belangrijk.
+Nu gaat de wort gekookt worden. Tijdens het koken wordt de hop toegevoegd. In het recept staat weer hoe lang de **kooktijd** (minimaal een uur) is en hoeveel gram van welke hop hoe lang moet meekoken. Zorg voor een zogenaamde "rollende kook".
 
-Tijdens het koken
+Koken is om meerdere redenen erg belangrijk. Tijdens het koken
 
 -  vlokken eiwitten uit, vooral in het begin. Deze kun je het beste met een schuimspaan afscheppen.
 -  lossen bitterstoffen uit de hop op. Deze **bitterhop** moet minstens een uur koken en zorgt voor de kenmerkende bittere smaak van bier.
 -  komen aromastoffen uit de hop in het bier. Deze **aromahop** kook je minder lang mee.
 -  verdampen ongewenste vluchtige stoffen.
--  verdampt water, waardoor de concentratie van suiker toeneemt.
+-  verdampt water, waardoor de concentratie van suiker toeneemt en het SG dus stijgt.
 -  ontstaat er een steriele vloeistof.
 
-*Na het koken moet je zeer hygiënisch te werk gaan!*
+Het proces tot en met het koken noemt men de *warme kant* van het brouwproces. Het gedeelte van het brouwproces na het koken, dus tijdens het koelen, wordt de *koude kant* genoemd. De koude kant is gevoelig voor besmettingen!
+
+>Na het koken moet je zeer hygiënisch te werk gaan!
 
 ## Koelen
 
-Na het koken van de wort moet deze afgekoeld worden tot de temperatuur waarbij vergist gaat worden. De thuisbrouwer gebruikt hier meestal een **spiraalkoeler** of een **platenkoeler** voor. Zie verder bij \@ref(apparatuur).
+Na het koken van de wort moet deze afgekoeld worden tot de temperatuur waarbij vergist gaat worden. De thuisbrouwer gebruikt hier meestal een **spiraalkoeler** of een **platenkoeler** voor. Zie hiervoor hoofdstuk \@ref(apparatuur).
 
 ## Filteren
 
@@ -92,20 +112,22 @@ Wanneer de ongewenste stoffen voldoende bezonken zijn kun je de vloeistof over h
 
 ## Gist toevoegen
 
-Eenmaal in het gistvat kan de gist toegevoegd worden. In het recept staat weer welke gist, hoeveel daarvan en of er een zogenaamde **giststarter** gemaakt moet worden. Ook de temperatuur waarbij vergist moet worden vind je in het recept. In deel 3 wordt hier verder op ingegaan.
+Eenmaal in het gistvat kan de gist toegevoegd worden. In het recept staat weer welke gist, hoeveel daarvan en of er een zogenaamde **giststarter** gemaakt moet worden. Korrelgist wordt vaak eerst gehydrateerd. Ook de temperatuur waarbij vergist moet worden vind je in het recept. In deel 3 wordt hier verder op ingegaan.
 
-Tijdens de vergisting mag er geen lucht (zuurstof) bij de vloeistof komen. Vandaar dat het gistvat vaak met een **waterslot** of op een andere manier wordt afgesloten.
+In het begin gaat de gist alleen meer zichzelf vermenigvuldigen, groeien dus. Hiervoor is zuurstof (lucht) nodig. Goed schudden van het gistvat wil hierbij helpen. Daarna gaat de gist de suikers omzetten in alcohol en koolzuurgas. Hierbij mag geen lucht (zuurstof) bij de vloeistof komen. Vandaar dat het gistvat vaak met een **waterslot** of op een andere manier wordt afgesloten.
 
-Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuurgas in de vorm van schuim en belletjes die via het waterslot ontsnappen. Bij bovengistende bieren duurt de **hoofdgisting** meestal zo'n 2-5 dagen. Daarna neemt de snelheid van vergisting af en krijg je de periode van de **navergisting**. Sommige brouwers hevelen daartoe de vloeistof over naar een nieuw vat. Anderen doent dat juist weer niet omdat door het overhevelen de kans op een besmetting toeneemt.
+Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuurgas in de vorm van schuim en belletjes die via het waterslot ontsnappen. Bij bovengistende bieren duurt de **hoofdgisting** meestal zo'n 2-5 dagen. Daarna neemt de snelheid van vergisting af en krijg je de periode van de **navergisting**. Sommige brouwers hevelen daartoe de vloeistof over naar een nieuw vat. Anderen doen dat juist weer niet omdat door het overhevelen de kans op een besmetting toeneemt.
 
 ## Lageren
 
 Wanneer de vloeistof is uitvergist kan het gelagerd worden. Het **jongbier** kan dan rijpen en helder worden. Dit **klaren**  gebeurt het beste bij een lage temperatuur, indien mogelijk iets boven 0 ^o^C. Afhankelijk van het soort bier kan deze periode wel 2-8 weken duren.
 
-De meeste thuisbrouwers slaan deze periode over. Wat velen wel doen is het gistvat aan het eind nog zo'n 3 dagen in de koelkast zetten. Hierbij wordt het bier ook grotendeels geklaard.
+De meeste thuisbrouwers slaan deze periode over. Wat velen wel doen is het gistvat aan het eind nog zo'n 3 dagen in de koelkast zetten. Hierbij zakt de gist beter uit naar de bodem en wordt het bier ook grotendeels geklaard. Bij het bottelen hierna krijg je dan ook minder schuimvorming.
 
 ## Bottelen
 
 Als laatste moet het bier afgevuld worden. Zeker in het begin zal dat in flessen zijn. Later mogelijk ook in vaatjes.
+
+Je kunt pas met bottelen beginnen wanneer je zeker weet dat het bier is uitgegist. Zoniet, dan kan er teveel koolzuurgas in de fles terecht komen en loop je het risico van bom. De activiteit van gisting kun je volgen door op het waterslot te letten. Maar een betere methode is door het SG met een hydrometer te meten. Deze moet zo'n 3 dagen constant blijven.
 
 Om voldoende koolzuur in het flessenbier te krijgen moet er een **navergisting** in de fles plaatsvinden. Dat kan door nog wat suiker, zogenaamde **bottelsuiker**, aan het bier toe te voegen. De hoeveelheid hiervan is weer in het recept terug te vinden. Deze bottelsuiker wordt in een beetje water opgelost, aan de kook gebracht en daarna aan het jongbier toegevoegd. dan kan het vullen van de flessen beginnen.
