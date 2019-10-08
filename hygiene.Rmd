@@ -15,7 +15,7 @@ Alle apparatuur en hulpmiddelen moeten goed schoongemaakt zijn. En de onderdelen
 
 Alles goed schoon maken is een eerste vereiste. Schoonmaken is het verwijderen van vuil.
 
-1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. pas op voor het maken van krassen met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waarin micro-organismen gaan zitten.
+1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. Pas op voor het maken van krassen met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waarin micro-organismen gaan zitten.
 2.  Maak hierna de spullen huishoudelijk schoon. Dat kan met water en een neutraal afwasmiddel  zonder geur- en kleurstoffen. Nog beter is het gebruik van speciale reinigingsmiddellen zoals de *Oxi-middelen* en *Enzybrew*.
 
 ```{r afwasmiddel, fig.cap="Een voorbeeld van een neutraal afwasmiddel.", echo=FALSE}
@@ -26,36 +26,43 @@ knitr::include_graphics("images/afwasmiddel.png", dpi = NA)
 knitr::include_graphics("images/puro-oxi.png", dpi = NA)
 ```
 
-```{r enzybrew-10, fig.cap="Enzybre is een zeer effectief reinigingsmiddel, speciaal ontwikkeld voor de microbrouwerijen. Biologisch afbreekbaar, dus milieuvriendelijk.", echo=FALSE}
+```{r enzybrew-10, fig.cap="Enzybrew is een zeer effectief reinigingsmiddel, speciaal ontwikkeld voor de microbrouwerijen. Biologisch afbreekbaar en milieuvriendelijk.", echo=FALSE}
 knitr::include_graphics("images/enzybrew-10.png", dpi = NA)
 ```
 
-## Ontsmetten
+## Desinfecteren
 
-Er zijn behoorlijk wat ontsmettingsmiddelen te koop. Hieronder volgen een paar bekende. Ga niet werken met bleekwater, die laat een lucht achter (zelfs na goed naspoelen)
+Alle brouwspullen die je tijdens de koude kant van het brouwproces gebruikt moeten gedesinfecteerd worden. Dit doe je om infecties te voorkomen. Met desinfecteren kun je pas beginnen wanneer de deze brouwspullen eerst grondig schoongemaakt zijn. Dus eerst schoonmaken en dan pas desinfecteren!
 
-**Sulfiet met citroenzuur**
+Desinfecteren is het terugbrengen van het aantalmicro-organismen tot een aanvaardbaar niveau. Het is dus wat anders dan steriliseren, waarbij je alle micro-organismen verwijdert.
 
-Sulfiet, Kaliumbisulfiet (K~2~S~2~O~5~) is verkrijgbaar als een wit poeder. Ook citroenuur is een wit poeder. Bij het maken van een oplossing met deze beide stoffen ontstaat gasvormig zwaveldioxide (giftig, gevaarlijk). Sulfiet wordt door de hobbybrouwer steeds minder gebruikt.
+Er zijn behoorlijk wat desinfectiemiddelen te koop. Hieronder volgen een paar bekende. Ga niet werken met bleekwater, die laat een lucht achter (zelfs na goed naspoelen).
 
-Voor het maken van 1 liter ontsmettingsmiddel:
+**Star San**
 
--  1 liter water
--  1 gram sulfiet
--  0,5 gram citroenzuur (géén citroensap!)
+Een effectief middel voor het desinfecteren op basis van fosforzuur. Het is als een geconcentreerde vloeistof te koop. Je hebt er maar weinig van nodig.
 
-Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Een oplossing kan je een paar weken bewaren.
+-  Dosering: 2 ml Star San per liter water.
+-  Gebruik: Erg handig is om de oplossing met een plantenspuit op het voorwerp te spuiten. De inwerktijd is 1-2 minuten. Naspoelen met water hoeft niet (mag wel).
 
-**Chemipro caustic**
-
-Een chlooroplossing. Gebruik 1 gram per liter warm water. De inwerktijd is 15-20 min. Minstens 3x goed naspoelen met water.
+```{r starsan, fig.cap="Star San", echo=FALSE}
+knitr::include_graphics("images/starsan.png", dpi = NA)
+```
 
 **Chemipro Oxi**
 
-Gebruik 4 gram per liter warm water. Contacttijd 2-5 minuten. Naspoelen mag, maar is niet nodig. 
+Een ontsmettingsmiddel op basis van actieve zuurstof. Het is als poeder verkrijgbaar.
 
-**iodofor**
+-  Dosering: 4 gram per liter warm water
+-  Gebruik: Spoel of dompel de spullen onder. Contacttijd 2-5 minuten. Laat goed uitdruipen. Naspoelen mag, maar is niet nodig.
 
-**Starsan**
+```{r chemipro-oxi, fig.cap="Chemipro Oxi", echo=FALSE}
+knitr::include_graphics("images/chemipro-oxi.png", dpi = NA)
+```
 
-**sani Clean**
+**Sulfiet met citroenzuur**
+
+Sulfiet (Kaliummetabisulfiet) is verkrijgbaar als een wit poeder, net als citroenuur. Bij het maken van een oplossing met deze beide stoffen ontstaat gasvormig zwaveldioxide (giftig, gevaarlijk). Sulfiet wordt door de hobbybrouwer steeds minder gebruikt.
+
+-  Dosering: 1-2 gram gram sulfiet per liter water + 0,5 gram citroenzuur.
+-  Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Goed naspoelen met water.
