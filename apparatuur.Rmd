@@ -3,28 +3,19 @@
 **Doelstellingen**
 
 -  Weten welke apparatuur nodig is om te kunnen brouwen.
--  Hoe je aan deze apparatuur kunt komen (zelf maken / kopen)
--  Het gebruik van een hygrometer
--  het gebruik van een refractometer
+-  Hoe je aan deze apparatuur kunt komen (zelf maken / kopen).
+-  Het gebruik van een hydrometer.
+-  het gebruik van een refractometer.
 
 ## Minimale benodigdheden
 
-Welke apparatuur je nodig hebt hangt af van de gevolgde brouwmethode, het brouwvolume en het budget. Over de verschillende brouwmethodes wordt later behandeld, zie \@ref(brouwmethodes). veel hobbybrouwers zijn ook handige doe het zelvers en maken een groot deel van de spullen zelf. Het Twents Bierbrouwersgilde heeft voor haar leden ook leenapparatuur beschikbaar. Zeker in het begin is het beter om niet gelijk van alles aan te schaffen. orienteer je eerst goed, overleg met je mentor en vraag op een gildeavond om advies en hulp.
+Welke apparatuur je nodig hebt hangt af van de gevolgde brouwmethode, het brouwvolume en het budget. De verschillende brouwmethodes worden later behandeld, zie hoofdstuk \@ref(brouwmethodes). Bij de automatische brouwketels zoals die van de merken Braumeister, Brew Monk en Grainfather heb je maar een paar dingen extra nodig. En bij de niet geautomatiseerde electrische ketels, waaronder een weckketel, heb je geen verwarming nodig. Bij het brouwen in pannen op gas heb je nagenoeg al het onderstaande nodig.
 
-In dit deel van de cursus worden een aantal spullen genoemd die je minimaal nodig hebt.
-
-**Weegschaal**
-
-Voor het afwegen van de mout en hop volstaat een goede keukenweegschaal met een nauwkeurigheid van 1 gram.
-
-**Litermaat**
-
-Voor het afmeten van de hoeveelheid maisch- en spoelwater heb je een litermaat nodig, minimaal met een nauwkeurigheid van 100 ml.
+Veel hobbybrouwers zijn ook handige doe-het-zelvers en maken een groot deel van de spullen zelf. Het Twents Bierbrouwersgilde heeft voor haar leden ook leenapparatuur beschikbaar. Zeker in het begin is het beter om niet gelijk van alles aan te schaffen. Orienteer je eerst goed, overleg met je mentor en vraag op een gildeavond om advies en hulp.
 
 **Schrootmolen**
 
-Deze heb je nodig voor het schroten van de mout. De goedkoopste uitvoering is een **schijvenmolen** en een wat duurdere variant is de **walsenmolen**. Vaak kun je deze ook wel bij een lid van het gilde lenen.
-
+Deze heb je nodig voor het schroten van de mout. De goedkoopste uitvoering is een **schijvenmolen** en een wat duurdere variant is de **walsenmolen**. Een schijvenmolen vermaalt de mout wat meer. Een walsenmolen kneust de mout. Vaak kun je een schrootmolen wel bij een lid van het gilde lenen. De meeste molens kun je ook met een boormachine laten draaien.
 
 ```{r schrootmolens, fig.cap="Twee soorten schrootmolens. Links een schijvenmolen en rechts een walsenmolen.", echo=FALSE}
 knitr::include_graphics("images/schrootmolens.png", dpi = NA)
@@ -32,52 +23,137 @@ knitr::include_graphics("images/schrootmolens.png", dpi = NA)
 
 **Maischpan / Kookpan**
 
-**Roerspaan**
+Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen tot meerdere. Met of zonder kraan, met of zonder electrische verwarming, met of zonder volume-aanduiding, ... De grootte (volume) hangt af van de hoeveelheid bier die je wilt brouwen. Een vuistregel is dat de pannen zo'n anderhalf tot twee keer groter moeten zijn als het te brouwen volume bier.
+
+```{r brouwketel-kraan, fig.cap="Brouwketel met kraan.", echo=FALSE}
+knitr::include_graphics("images/brouwketel-kraan.png", dpi = NA)
+```
 
 **Gasbrander / Kookplaat**
 
-**Thermometer**
+Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C-2^o^C per minuut zijn. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse inductiekookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast. Laat je adviseren door de mentor.
 
-**Kookwekker**
-
-**Hevelfilter**
-
-**Gistvat**
-
-**Waterslot**
-
-**Hevel**
-
-**Borstels**
-
-Vooral een flessenborstel voor het schoonmaken van gebruikte bierflessen.
+```{r gasbrander, fig.cap="Gasbrander", echo=FALSE}
+knitr::include_graphics("images/gasbrander.png", dpi = NA)
+```
 
 **Koeler**
 
-**Kroonkurkapparaat**
+Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende types:
 
-Wanneer je in beugelflessen bottelt heb je deze niet nodig.
+-  Dompelkoeler, spiraalvormig. Deze dompel je dus in de hete vloeistoe en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje van koperen buis.
+-  Tegenstroomkoeler, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan is lastiger
+
+```{r spiraalkoeler, fig.cap="Spiraalvormige dompelkoeler van RVS.", echo=FALSE}
+knitr::include_graphics("images/spiraalkoeler.png", dpi = NA)
+```
+
+**Wortfilter**
+
+een wortfilter dient er voor om de vloeistof (wort) van de vaste stoffen (moutresten, kafjes) te scheiden. Het is niet moeilijk om er zelf een te maken die past bij de maischpan, zie figuur \@ref(fig:wortfilter).
+
+```{r wortfilter, fig.cap="Wortfilter van koper met hevel.", echo=FALSE}
+knitr::include_graphics("images/wortfilter.png", dpi = NA)
+```
+
+Er zijn ook andere oplossingen zoals
+
+-  Maischpan met "valse bodem" waarbij een schijf met kleine gaatjes een einde boven de echte bodem bevestigd is, strak tegen de wand. Hierop ligt dan de mout. De wort kun je dan onder deze valse bodem aftappen.
+-  Filteremmer, een emmer met gaatjes in de bodem of een rooster.
+
+**Gistvat en Waterslot**
+
+Er zijn allerlei soorten vaten te koop waarin je de vergisting kunt laten plaatsvinden. Ze verschillen in materiaal (glas, kunststof, RVS), in vorm (rond, konisch ondereind), al dan niet met aftapkranen voor het bier en/of gistdroesem. En natuurlijk verschillen ze in prijs.
+
+```{r gistvat, fig.cap="Gistvat van kunststof met aftapkraan.", echo=FALSE}
+knitr::include_graphics("images/gistvat.png", dpi = NA)
+```
+
+Een gistvat moet van de buitenlucht worden afgesloten. Meestal wordt daarvoor een waterslot genomen. In figuur \@ref(fig:waterslot) zie je twee modellen. Links het klassieke slangmodel, rechts het cylindrische model. In beide gevallen wordt het waterslot gevuld met water waardoor het vat van de buitenlucht wordt afgesloten. Het koolzuurgas dat tijdens de vergisting in het vat ontstaat kan door de overdruk door het water borrelen, naar buiten toe. Het cylindrische model is beter schoon te maken en is ook beter geschikt bij een heftige vergisting.
+
+```{r waterslot, fig.cap="Waterslot, links een slangmodel, rechts een cylindrische model.", echo=FALSE}
+knitr::include_graphics("images/waterslot.png", dpi = NA)
+```
 
 **Hydrometer met maatcilinder**
 
-(hydrometer is direct de juiste waarde of met refractometer maar dan moet je een correctiewaarde toepassen. De hydrometer is geijkt op $20^oC$. bij temperatuur afwijking deze compenseren
+Een hydrometer is een instrument om de dichtheid (soortelijke massa, SG) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.  De dichtheid van water bij 20^o^C is 1000 kg/m^3^ (= 1000 gram/liter).
 
-Een refractometer kan ook.
+Om deze te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Meet ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager het SG met 1 gram/liter verhogen/verlagen.
+
+```{r hydrometer-aflezing, fig.cap="Hydrometer met bijpassende maatcilinder.", echo=FALSE}
+knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
+```
+
+> In plaats van een hydrometer kun je ook een refractometer gebruiken.
+
+**Kroonkurken en kroonkurkapparaat**
+
+Wanneer je in beugelflessen bottelt heb je deze niet nodig.
+
+```{r kroonkurkapparaat, fig.cap="Kroonkurkapparaat.", echo=FALSE}
+knitr::include_graphics("images/kroonkurkapparaat.png", dpi = NA)
+```
 
 **Bierflessen**
 
-Wanneer je geen beugelflessen gebruikt heb je ook kroonkurken nodig.
-
-**pH papier of pH meter**
+Gebruikte bierflessen goed schoonmaken!
 
 **Melkzuur / Fosforzuur**
 
-**Schoonmaak- en Ontsmettingsmiddelen**
+Voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodig. Het afmeten kan met een kleine maatcilinder, een injectiespuit of een pipet.
 
-**Jodiumtinctuur**
+**Diverse accessoires**
+
+-  Weegschaal, voor het afwegen van de mout en hop volstaat een goede keukenweegschaal met een nauwkeurigheid van 1 gram. Let ook op het maximaal toelaatbaar gewicht, vaak is dit 5 kg.
+-  Litermaat, voor het afmeten van de hoeveelheid maisch- en spoelwater heb je een litermaat nodig, minimaal met een nauwkeurigheid van 100 ml.
+-  Thermometer
+-  Kookwekker
+-  Borstels (vooral flessenborstel)
+-  Schoonmaakpads
+-  Hevel
+-  Vulpijpje, voor het handig afvullen van bierflessen
+-  Hopzakjes
+-  Roerlepel/roerspaan (lang)
+-  Jodiumtinctuur (voor de jodiumtest)
+-  pH papier voor de bereiken 3,8-5,5 en 5,2-6,8 (een duurdere pH meter kan natuurlijk ook)
+-  Schoonmaakmiddelen, zie hoofdstuk \@ref(hygiene)
 
 ## Optionele benodigdheden
 
 Aanvullende handige hulpmiddelen
 
+**Refractometer**
+
+Een refractometer meet de brekingsindex van licht door een vloeistof (bijvoorbeeld wort, bier, wijn). Aan de hand hiervan kan dan de hoeveelheid opgeloste suiker in een waterige vloeistof worden bepaald. Hoe meer opgeloste suiker, hoe meer het licht gebroken wordt. Een refractometer kan daarom gebruikt worden om de dichtheid (soortelijke massa) van een vloeistof te bepalen.
+
+```{r refractometer, fig.cap="Refractometer.", echo=FALSE}
+knitr::include_graphics("images/refractometer.png", dpi = NA)
+```
+
+Maak het glazen prisma schoon en droog, breng dan 1-2 druppels vloeistof aan, druk het afsluitkapje aan en houdt de refractometer tegen het licht. In het kijkglas zie
+je dan een horizontale kleurgrens. Stel eventueel scherp en lees de meetwaarde op de schaal af.
+
+```{r refractometer-aflezing, fig.cap="Refractometer.", echo=FALSE}
+knitr::include_graphics("images/refractometer-aflezing.png", dpi = NA)
+```
+
+De meeste refractometers gebruiken als meeteenheid het aantal graden *Brix*. En 1^o^Brix is 1 gram sucrose in 100 gram oplossing.  In de professionele brouwwereld wordt als meeteenheid het aantal graden * Plato* gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
+
+Om Brix om te reken naar SG waarden kun je de volgende formule  gebruiken: $SG = 1 + \frac{4 \times Brix}{1000}$.
+
+Voorbeeld: 12^o^ Brix komt overeen met $SG = 1 + \frac{4 \times 12}{1000} = 1,048$
+
+Voor een nauwkeuriger methode kun je brouwsoftware gebruiken.
+
+Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer ook een SG schaalverdeling heeft! geluukig heeft de meeste brouwsoftware rekenhulpmiddelen om een gemeten Brixwaarde naar SG om te rekenen voor een vergiste vloeistof. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
+
 **Vergistingskast**
+
+Om de temperatuur waarbij de vergisting te controleren en constant te houden heb je een vergistingskast nodig. De meeste hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro.
+
+```{r inkbird, fig.cap="Inkbird ITC-308 temperatuurregelaar", echo=FALSE}
+knitr::include_graphics("images/inkbird.png", dpi = NA)
+```
+
+Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ook gebruiken.
