@@ -1,5 +1,5 @@
 --- 
-title: "Bierbrouwen"
+title: "Brouw je Bier"
 subtitle: "Een cursus van het Twents Bierbrouwersgilde"
 author:
 - "Ben Welman"
