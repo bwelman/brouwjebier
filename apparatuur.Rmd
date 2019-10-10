@@ -127,16 +127,12 @@ Aanvullende handige hulpmiddelen
 
 Een refractometer meet de brekingsindex van licht door een vloeistof (bijvoorbeeld wort, bier, wijn). Aan de hand hiervan kan dan de hoeveelheid opgeloste suiker in een waterige vloeistof worden bepaald. Hoe meer opgeloste suiker, hoe meer het licht gebroken wordt. Een refractometer kan daarom gebruikt worden om de dichtheid (soortelijke massa) van een vloeistof te bepalen.
 
-```{r refractometer, fig.cap="Refractometer.", echo=FALSE}
+```{r refractometer, fig.cap="Refractometer en de aflezing daarvan..", echo=FALSE}
 knitr::include_graphics("images/refractometer.png", dpi = NA)
 ```
 
 Maak het glazen prisma schoon en droog, breng dan 1-2 druppels vloeistof aan, druk het afsluitkapje aan en houdt de refractometer tegen het licht. In het kijkglas zie
 je dan een horizontale kleurgrens. Stel eventueel scherp en lees de meetwaarde op de schaal af.
-
-```{r refractometer-aflezing, fig.cap="Refractometer.", echo=FALSE}
-knitr::include_graphics("images/refractometer-aflezing.png", dpi = NA)
-```
 
 De meeste refractometers gebruiken als meeteenheid het aantal graden *Brix*. En 1^o^Brix is 1 gram sucrose in 100 gram oplossing.  In de professionele brouwwereld wordt als meeteenheid het aantal graden * Plato* gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
 
