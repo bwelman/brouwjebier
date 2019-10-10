@@ -3,13 +3,13 @@ title: "Bierbrouwen"
 subtitle: "Een cursus van het Twents Bierbrouwersgilde"
 author:
 - "Ben Welman"
-date: '`r format(Sys.time(), "%d %B %Y %H:%M")`'
+date: '`r format(Sys.time(), "%d %B %Y")`'
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [brouwcursus.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Dit boek bevat de brouwcursus van het Twents Bierbrouwersgilde."
+description: "Cursusboek bij de brouwcursus van het Twents Bierbrouwersgilde."
 papersize: a4
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
 cover-image: images/cover.png
