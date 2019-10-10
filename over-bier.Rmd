@@ -1,4 +1,5 @@
-# (PART) Deel 1 {-}
+\mainmatter
+<!-- # (PART) Deel 1 {-} -->
 # Over bier
 
 **Doelstellingen**
