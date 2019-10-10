@@ -24,7 +24,6 @@ language:
 rmd_files:
   html:
     - "index.Rmd"
-    - "inleiding.Rmd"
     - "over-bier.Rmd"
     - "brouwproces.Rmd"
     - "apparatuur.Rmd"
@@ -51,7 +50,6 @@ rmd_files:
     - "referenties.Rmd"
   latex:
     - "index_pdf.Rmd"
-    - "inleiding.Rmd"
     - "over-bier.Rmd"
     - "brouwproces.Rmd"
     - "apparatuur.Rmd"

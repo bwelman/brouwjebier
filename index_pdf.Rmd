@@ -17,12 +17,7 @@ cover-image: images/cover.png
 
 # Voorwoord {-}
 
-Het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/) is een vereniging voor echte liefhebbers van bier en het brouwen van bier. De vereniging kent de volgende activiteiten:
+Het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/) is een vereniging voor echte liefhebbers van bier en het brouwen van bier.
 
--  Een maandelijkse verenigingsavond in het clubgebouw in Hengelo met een afwisselend programma om het kennisniveau van de leden te verhogen.
--  Een jaarlijkse excursie.
--  Een jaarlijkse barbecue.
--  Organiseren van en deelname aan brouwwedstrijden, zowel binnen de club als daarbuiten.
--  Brouwdemonstraties en andere vormen van voorlichting (o.a. als ledenwerving).
--  Het organiseren van een cursus bierbrouwen.
-
+```{r inleiding, child="inleiding.Rmd"}
+```
