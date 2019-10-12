@@ -31,7 +31,7 @@ knitr::include_graphics("images/brouwketel-kraan.png", dpi = NA)
 
 **Gasbrander / Kookplaat**
 
-Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C-2^o^C per minuut zijn. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse inductiekookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast. Laat je adviseren door de mentor.
+Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C - 2^o^C per minuut zijn. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
 
 ```{r gasbrander, fig.cap="Gasbrander", echo=FALSE}
 knitr::include_graphics("images/gasbrander.png", dpi = NA)
@@ -41,8 +41,8 @@ knitr::include_graphics("images/gasbrander.png", dpi = NA)
 
 Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende types:
 
--  Dompelkoeler, spiraalvormig. Deze dompel je dus in de hete vloeistoe en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje van koperen buis.
--  Tegenstroomkoeler, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan is lastiger
+-  Dompelkoeler, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje van koperen buis.
+-  Tegenstroomkoeler, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
 
 ```{r spiraalkoeler, fig.cap="Spiraalvormige dompelkoeler van RVS.", echo=FALSE}
 knitr::include_graphics("images/spiraalkoeler.png", dpi = NA)
@@ -50,7 +50,7 @@ knitr::include_graphics("images/spiraalkoeler.png", dpi = NA)
 
 **Wortfilter**
 
-een wortfilter dient er voor om de vloeistof (wort) van de vaste stoffen (moutresten, kafjes) te scheiden. Het is niet moeilijk om er zelf een te maken die past bij de maischpan, zie figuur \@ref(fig:wortfilter).
+Een wortfilter dient er voor om de vloeistof (wort) van de vaste stoffen (moutresten, kafjes) te scheiden. Het is niet moeilijk om er zelf een te maken die past bij de maischpan, zie figuur \@ref(fig:wortfilter).
 
 ```{r wortfilter, fig.cap="Wortfilter van koper met hevel.", echo=FALSE}
 knitr::include_graphics("images/wortfilter.png", dpi = NA)
@@ -77,9 +77,9 @@ knitr::include_graphics("images/waterslot.png", dpi = NA)
 
 **Hydrometer met maatcilinder**
 
-Een hydrometer is een instrument om de dichtheid (soortelijke massa, SG) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.  De dichtheid van water bij 20^o^C is 1000 kg/m^3^ (= 1000 gram/liter).
+Een hydrometer is een instrument om de dichtheid (soortelijke massa, SG) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.  De dichtheid van water bij 20^o^C is 1000 kg/m^3^ (= 1000 gram/liter). En de relatieve dichtheid, het SG, is 1,000.
 
-Om deze te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Meet ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager het SG met 1 gram/liter verhogen/verlagen.
+Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Meet ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
 
 ```{r hydrometer-aflezing, fig.cap="Hydrometer met bijpassende maatcilinder.", echo=FALSE}
 knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
@@ -119,11 +119,9 @@ Voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodi
 -  pH papier voor de bereiken 3,8-5,5 en 5,2-6,8 (een duurdere pH meter kan natuurlijk ook)
 -  Schoonmaakmiddelen, zie hoofdstuk \@ref(hygiene)
 
-## Optionele benodigdheden
+## Handige hulpmiddelen
 
-Aanvullende handige hulpmiddelen
-
-**Refractometer**
+### Refractometer
 
 Een refractometer meet de brekingsindex van licht door een vloeistof (bijvoorbeeld wort, bier, wijn). Aan de hand hiervan kan dan de hoeveelheid opgeloste suiker in een waterige vloeistof worden bepaald. Hoe meer opgeloste suiker, hoe meer het licht gebroken wordt. Een refractometer kan daarom gebruikt worden om de dichtheid (soortelijke massa) van een vloeistof te bepalen.
 
@@ -134,22 +132,26 @@ knitr::include_graphics("images/refractometer.png", dpi = NA)
 Maak het glazen prisma schoon en droog, breng dan 1-2 druppels vloeistof aan, druk het afsluitkapje aan en houdt de refractometer tegen het licht. In het kijkglas zie
 je dan een horizontale kleurgrens. Stel eventueel scherp en lees de meetwaarde op de schaal af.
 
-De meeste refractometers gebruiken als meeteenheid het aantal graden *Brix*. En 1^o^Brix is 1 gram sucrose in 100 gram oplossing.  In de professionele brouwwereld wordt als meeteenheid het aantal graden * Plato* gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
+De meeste refractometers gebruiken als meeteenheid het aantal graden *Brix*. En 1^o^ Brix is 1 gram sucrose in 100 gram oplossing.
 
-Om Brix om te reken naar SG waarden kun je de volgende formule  gebruiken: $SG = 1 + \frac{4 \times Brix}{1000}$.
+>In de professionele brouwwereld wordt als meeteenheid het aantal graden * Plato* gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
+
+Om Brix om te reken naar SG waarden kun je de volgende formule  gebruiken:
+
+$$SG = 1 + \frac{4 \times Brix}{1000}$$
 
 Voorbeeld: 12^o^ Brix komt overeen met $SG = 1 + \frac{4 \times 12}{1000} = 1,048$
 
 Voor een nauwkeuriger methode kun je brouwsoftware gebruiken.
 
-Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer ook een SG schaalverdeling heeft! geluukig heeft de meeste brouwsoftware rekenhulpmiddelen om een gemeten Brixwaarde naar SG om te rekenen voor een vergiste vloeistof. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
+Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft! Voor dit omrekenen zijn wel formules beschikbaar en ook de brouwsoftware kan dat voor je doen. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
 
-**Vergistingskast**
+### Vergistingskast
 
-Om de temperatuur waarbij de vergisting te controleren en constant te houden heb je een vergistingskast nodig. De meeste hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro.
+Een gecontroleerde en juiste vergistingstemperatuur verhoogt de kwaliteit van het vergistingsproces en dus van je bier. Om dat te bereiken heb je een zogenaamde vergistingskast nodig. De meeste hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro.
 
 ```{r inkbird, fig.cap="Inkbird ITC-308 temperatuurregelaar", echo=FALSE}
 knitr::include_graphics("images/inkbird.png", dpi = NA)
 ```
 
-Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ook gebruiken.
+Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ruimte ook gebruiken.
