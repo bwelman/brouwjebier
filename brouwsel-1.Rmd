@@ -18,13 +18,10 @@ Door het maken van het eerste brouwsel kom je veel van de voorafgaande theorie t
 
 Sluit af met een evaluatie. Aan het eind van dit hoofdstuk zit een bijlage met daarin de belangrijkste kenmerken waar een tripel aan moet voldoen. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
 
+\newpage
 ## Recept Tripel
 
-Volume: 20 liter
-
-Begin SG: $\pm1080$ (hangt af van apparatuur, spoelsnelheid, ...)
-
-Eind SG: $\pm1018$
+Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
 
 **Grondstoffen**
 
@@ -61,6 +58,8 @@ Eind SG: $\pm1018$
    +  Bottelen als vergisting gestopt is (3 dagen geen activiteit, SG meten)
    +  6-8 gram suiker per liter bottel suiker.
    +  Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
+
+\newpage
 
 ## Draaiboek
 
@@ -126,6 +125,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.  Hoeveel bottelsuiker heb je toegevoegd en hoe je dat berekend?
 1.  Hoeveel liter bier is er netto gebotteld?
 1.	 Bereken het alcoholpercentage (ABV %) van het bier met de formule $ABV\% = (Begin SG - Eind SG) \times 0,136 + 0,4$
+1.  Door de schijnbare vergistingsgraad uit te rekenen krijg je een idee hoeveel procent van de aanwezige suikers is omgezet. Bereken de schijnbare vergistingsgraad (SVG) met de formule $SVG = \frac{Begin SG - Eind SG}{Begin SG -1000} \times 100$
 
 ## Evaluatie
 
@@ -135,13 +135,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 
 ## Bijlage: Kenmerken Tripel
 
-[Wikipedia](https://nl.wikipedia.org/wiki/Tripel) vermeldt het volgende over de tripel.
-
-Tripel is een zwaar bovengistend bier, met een hergisting op fles. De kleur varieert tussen blond en amber. Hij heeft meestal een sterke moutige en/of hopbittere smaak. Tripel heeft een alcoholpercentage van 7 tot 10%. Het hoge percentage komt niet noodzakelijk uit de hoeveelheid graan, er wordt eventueel suiker (in de vorm van glucose) toegevoegd om het hoge alcoholpercentage te bereiken. Kenmerkend voor een tripel is ook vaak een hoger koolzuurgehalte.
-
-De oorsprong van de term is onbekend, hoewel de belangrijkste theorie is dat het op de een of andere manier de kracht van het bier aangeeft. De naam werd gebruikt in 1956 door de Trappistenbrouwerij in Westmalle om hun sterkste bier een naam te geven, hoewel zowel de term tripel en het soort bier (sterke Pale Ale) al voor 1956 bestonden. De Westmalle-Tripel werd met de naam op grote schaal gekopieerd door de brouwerijen van België, en in 1987 breidde een andere Trappistenbrouwerij, de Koningshoeven in Nederland, haar assortiment uit met het bier 'La Trappe Tripel'. Later waaide deze benaming over naar de Verenigde Staten en andere landen, en wordt nu gebruikt door een reeks van seculiere brouwers voor een sterke Pale Ale in de stijl van Westmalle-Tripel.
-
-En volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
+Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
 
 **Algemene kenmerken**
 
@@ -194,7 +188,7 @@ Door het gebruik van tot 25% suiker heeft de tripel weinig body voor zijn hoge a
 -  In vergelijking met Sterke Blonde moutiger
 -  Nadruk ligt meer op fenolen dan op esters.
 
-**Technische kenemerken**
+**Technische kenmerken**
 
 -  Begin SG: 1075–1085
 -  SVG: 73% – 90%
@@ -202,3 +196,9 @@ Door het gebruik van tot 25% suiker heeft de tripel weinig body voor zijn hoge a
 -  Kleur: 10–24 EBC
 -  Bitterheid: 20–40 EBU
 -  Koolzuurgehalte: 5,5–7,0 gr/ltr
+
+[Wikipedia](https://nl.wikipedia.org/wiki/Tripel) vermeldt het volgende over de tripel.
+
+Tripel is een zwaar bovengistend bier, met een hergisting op fles. De kleur varieert tussen blond en amber. Hij heeft meestal een sterke moutige en/of hopbittere smaak. Tripel heeft een alcoholpercentage van 7 tot 10%. Het hoge percentage komt niet noodzakelijk uit de hoeveelheid graan, er wordt eventueel suiker (in de vorm van glucose) toegevoegd om het hoge alcoholpercentage te bereiken. Kenmerkend voor een tripel is ook vaak een hoger koolzuurgehalte.
+
+De oorsprong van de term is onbekend, hoewel de belangrijkste theorie is dat het op de een of andere manier de kracht van het bier aangeeft. De naam werd gebruikt in 1956 door de Trappistenbrouwerij in Westmalle om hun sterkste bier een naam te geven, hoewel zowel de term tripel en het soort bier (sterke Pale Ale) al voor 1956 bestonden. De Westmalle-Tripel werd met de naam op grote schaal gekopieerd door de brouwerijen van België, en in 1987 breidde een andere Trappistenbrouwerij, de Koningshoeven in Nederland, haar assortiment uit met het bier 'La Trappe Tripel'. Later waaide deze benaming over naar de Verenigde Staten en andere landen, en wordt nu gebruikt door een reeks van seculiere brouwers voor een sterke Pale Ale in de stijl van Westmalle-Tripel.
