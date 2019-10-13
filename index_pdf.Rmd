@@ -9,6 +9,7 @@ documentclass: book
 bibliography: [brouwcursus.bib]
 biblio-style: apalike
 link-citations: yes
+links-as-notes: true
 description: "Cursusboek bij de brouwcursus van het Twents Bierbrouwersgilde."
 papersize: a4
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
