@@ -13,7 +13,7 @@ Welke apparatuur je nodig hebt hangt af van de gevolgde brouwmethode, het brouwv
 
 Veel hobbybrouwers zijn ook handige doe-het-zelvers en maken een groot deel van de spullen zelf. Het Twents Bierbrouwersgilde heeft voor haar leden ook leenapparatuur beschikbaar. Zeker in het begin is het beter om niet gelijk van alles aan te schaffen. Orienteer je eerst goed, overleg met je mentor en vraag op een gildeavond om advies en hulp.
 
-**Schrootmolen**
+### Schrootmolen
 
 Deze heb je nodig voor het schroten van de mout. De goedkoopste uitvoering is een **schijvenmolen** en een wat duurdere variant is de **walsenmolen**. Een schijvenmolen vermaalt de mout wat meer. Een walsenmolen kneust de mout. Vaak kun je een schrootmolen wel bij een lid van het gilde lenen. De meeste molens kun je ook met een boormachine laten draaien.
 
@@ -21,7 +21,7 @@ Deze heb je nodig voor het schroten van de mout. De goedkoopste uitvoering is ee
 knitr::include_graphics("images/schrootmolens.png", dpi = NA)
 ```
 
-**Maischpan / Kookpan**
+### Maischpan / Kookpan
 
 Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen tot meerdere. Met of zonder kraan, met of zonder electrische verwarming, met of zonder volume-aanduiding, ... De grootte (volume) hangt af van de hoeveelheid bier die je wilt brouwen. Een vuistregel is dat de pannen zo'n anderhalf tot twee keer groter moeten zijn als het te brouwen volume bier.
 
@@ -29,7 +29,7 @@ Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen 
 knitr::include_graphics("images/brouwketel-kraan.png", dpi = NA)
 ```
 
-**Gasbrander / Kookplaat**
+### Gasbrander / Kookplaat
 
 Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C per 2 minuten zijn, maar niet sneller dan 1^o^C per minuut. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
 
@@ -37,7 +37,7 @@ Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben
 knitr::include_graphics("images/gasbrander.png", dpi = NA)
 ```
 
-**Koeler**
+### Koeler
 
 Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende types:
 
@@ -48,7 +48,7 @@ Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende t
 knitr::include_graphics("images/spiraalkoeler.png", dpi = NA)
 ```
 
-**Wortfilter**
+### Wortfilter
 
 Een wortfilter dient er voor om de vloeistof (wort) van de vaste stoffen (moutresten, kafjes) te scheiden. Het is niet moeilijk om er zelf een te maken die past bij de maischpan, zie figuur \@ref(fig:wortfilter).
 
@@ -61,7 +61,7 @@ Er zijn ook andere oplossingen zoals
 -  Maischpan met "valse bodem" waarbij een schijf met kleine gaatjes een einde boven de echte bodem bevestigd is, strak tegen de wand. Hierop ligt dan de mout. De wort kun je dan onder deze valse bodem aftappen.
 -  Filteremmer, een emmer met gaatjes in de bodem of een rooster.
 
-**Gistvat en Waterslot**
+### Gistvat en Waterslot
 
 Er zijn allerlei soorten vaten te koop waarin je de vergisting kunt laten plaatsvinden. Ze verschillen in materiaal (glas, kunststof, RVS), in vorm (rond, konisch ondereind), al dan niet met aftapkranen voor het bier en/of gistdroesem. En natuurlijk verschillen ze in prijs.
 
@@ -75,7 +75,7 @@ Een gistvat moet van de buitenlucht worden afgesloten. Meestal wordt daarvoor ee
 knitr::include_graphics("images/waterslot.png", dpi = NA)
 ```
 
-**Hydrometer met maatcilinder**
+### Hydrometer met maatcilinder
 
 Een hydrometer is een instrument om de dichtheid (soortelijke massa) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.
 
@@ -91,7 +91,7 @@ knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
 
 > In plaats van een hydrometer kun je ook een refractometer gebruiken.
 
-**Kroonkurken en kroonkurkapparaat**
+### Kroonkurken en kroonkurkapparaat
 
 Wanneer je in beugelflessen bottelt heb je deze niet nodig.
 
@@ -99,15 +99,7 @@ Wanneer je in beugelflessen bottelt heb je deze niet nodig.
 knitr::include_graphics("images/kroonkurkapparaat.png", dpi = NA)
 ```
 
-**Bierflessen**
-
-Gebruikte bierflessen goed schoonmaken!
-
-**Melkzuur / Fosforzuur**
-
-Voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodig. Het afmeten kan met een kleine maatcilinder, een injectiespuit of een pipet.
-
-**Diverse accessoires**
+### Diverse accessoires
 
 -  Weegschaal, voor het afwegen van de mout en hop volstaat een goede keukenweegschaal met een nauwkeurigheid van 1 gram. Let ook op het maximaal toelaatbaar gewicht, vaak is dit 5 kg.
 -  Litermaat, voor het afmeten van de hoeveelheid maisch- en spoelwater heb je een litermaat nodig, minimaal met een nauwkeurigheid van 100 ml.
@@ -122,6 +114,8 @@ Voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodi
 -  Jodiumtinctuur (voor de jodiumtest)
 -  pH papier voor de bereiken 3,8-5,5 en 5,2-6,8 (een duurdere pH meter kan natuurlijk ook)
 -  Schoonmaakmiddelen, zie hoofdstuk \@ref(hygiene)
+-  Melkzuur of Fosforzuur, voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodig. Het afmeten kan met een kleine maatcilinder, een injectiespuit of een pipet.
+-  Bierflessen (goed schoongemaakt!)
 
 ## Handige hulpmiddelen
 
