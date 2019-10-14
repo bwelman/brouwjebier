@@ -1,6 +1,6 @@
 --- 
 title: "Brouw je Bier"
-subtitle: "Een brouwcursus van het Twents Bierbrouwersgilde"
+subtitle: "Een brouwcursus voor beginners"
 author:
 - "Ben Welman"
 date: '`r format(Sys.time(), "%d %B %Y %H:%M")`'
