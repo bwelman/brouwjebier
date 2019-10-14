@@ -1,4 +1,3 @@
-\mainmatter
 <!-- # (PART) Deel 1 {-} -->
 # Over bier
 

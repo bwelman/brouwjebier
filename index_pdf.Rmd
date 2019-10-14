@@ -16,6 +16,8 @@ geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
 cover-image: images/cover.png
 ---
 
+\mainmatter
+
 # Voorwoord {-}
 
 Het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/) is een vereniging voor echte liefhebbers van bier en het brouwen van bier.
