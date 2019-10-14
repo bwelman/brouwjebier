@@ -22,13 +22,13 @@ In het begin krijg je zo'n recept vaak van anderen, maar al snel zul je een eige
 
 ## Mouten
 
-Binnen in de gerstkorrel zit zetmeel. Om het zetmeel in suikers om te zetten heb je de hulp van enzymen (een bepaald soort eiwitten) nodig. Echter in onbehandelde brouwgerst zitten deze enzymen niet. Vandaar dat onbehandelde brouwgerst niet geschikt is voor het brouwen van bier.
+Binnen in de gerstkorrel zit zetmeel. Om het zetmeel in suikers om te zetten heb je de hulp van verschillende enzymen (een bepaald soort eiwitten) nodig. Echter in onbehandelde brouwgerst zitten deze enzymen niet. Vandaar dat onbehandelde brouwgerst niet geschikt is voor het brouwen van bier.
 
 ```{r moutsoorten, fig.cap="Drie moutsoorten: van een donkere kleur naar een lichtere kleur.", echo=FALSE}
 knitr::include_graphics("images/moutsoorten.png", dpi = NA)
 ```
 
-Om brouwgerst geschikt te maken, wordt het eerst gemout. Hierbij wordt de gerst geweekt in water. En als de gerst zich helemaal hiermee heeft volgezogen wordt het op een warme vloer uitgestort. Na enige tijd gaat de korrel ontkiemen en vormt dan enzymen. Zodra de gerst is ontkiemd, worden de graankorrels bij hoge temperatuur gedroogd om het kiemproces te stoppen. Het resultaat heet **mout**. En hoe hoger de temperatuur bij het drogen, des te donkerder de mout, zie figuur \@ref(fig:moutsoorten). De kleur van de mout bepaalt ook de kleur van het bier. En ook heeft de mout een belangrijke invloed op de uiteindelijke smaak van het bier.
+Om brouwgerst geschikt te maken, wordt het eerst gemout. Hierbij wordt de gerst geweekt in water. En als de gerst zich helemaal hiermee heeft volgezogen wordt het op een warme vloer uitgestort. Na enige tijd gaat de korrel ontkiemen en vormt dan enzymen. Zodra de gerst is ontkiemd, worden de graankorrels bij hoge temperatuur gedroogd om het kiemproces te stoppen. Het resultaat heet **mout**. En hoe hoger de temperatuur bij het drogen, des te donkerder de mout, zie figuur \@ref(fig:moutsoorten). De kleur van de mout bepaalt ook de kleur van het bier. De kleur wordt uitgedrukt in **EBC**, daarover later meer. En ook heeft de mout een belangrijke invloed op de uiteindelijke smaak van het bier.
 
 Dit mouten gebeurt in **mouterijen** en doe je niet zelf. Afhankelijk van het soort bier dat je wilt maken schaf je bepaalde mouten aan.
 
@@ -52,7 +52,7 @@ In deze stap moet het zetmeel in de mout door enzymen omgezet worden in suikers.
 
 In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbij je de geschrote mout toevoegt aan het water wordt de **inmaischtemperatuur** genoemd. Ook dit staat in het recept.
 
-De verschillende enzymen werken het beste bij bepaalde temperaturen, daarover later meer. Het beslag ga je daarom onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde rusttijd. Om de temperatuur tijdens de rust constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
+Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Over deze processen wordt in deel 2 van deze cursus uitvoeriger ingegaan. Het beslag ga je daarom onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde rusttijd. Om de temperatuur tijdens de rust constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
 
 De verschillende temperaturen waarbij gerust wordt heet **maischschema**. In deel 2 van deze cursus wordt verder ingegaan op de achtergronden van dit **maischen**.
 

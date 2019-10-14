@@ -31,7 +31,7 @@ knitr::include_graphics("images/brouwketel-kraan.png", dpi = NA)
 
 **Gasbrander / Kookplaat**
 
-Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C - 2^o^C per minuut zijn. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
+Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C per 2 minuten zijn, maar niet sneller dan 1^o^C per minuut. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
 
 ```{r gasbrander, fig.cap="Gasbrander", echo=FALSE}
 knitr::include_graphics("images/gasbrander.png", dpi = NA)
@@ -41,7 +41,7 @@ knitr::include_graphics("images/gasbrander.png", dpi = NA)
 
 Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende types:
 
--  Dompelkoeler, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje van koperen buis.
+-  Dompelkoeler, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
 -  Tegenstroomkoeler, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
 
 ```{r spiraalkoeler, fig.cap="Spiraalvormige dompelkoeler van RVS.", echo=FALSE}
@@ -77,9 +77,13 @@ knitr::include_graphics("images/waterslot.png", dpi = NA)
 
 **Hydrometer met maatcilinder**
 
-Een hydrometer is een instrument om de dichtheid (soortelijke massa, SG) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.  De dichtheid van water bij 20^o^C is 1000 kg/m^3^ (= 1000 gram/liter). En de relatieve dichtheid, het SG, is 1,000.
+Een hydrometer is een instrument om de dichtheid (soortelijke massa) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.
 
-Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Meet ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
+>De dichtheid of soortelijke massa van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m^3^ = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
+
+>De relatieve dichtheid (Specific Gravity, SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is 1,000.</p>
+
+Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
 
 ```{r hydrometer-aflezing, fig.cap="Hydrometer met bijpassende maatcilinder.", echo=FALSE}
 knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
