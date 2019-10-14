@@ -74,19 +74,19 @@ Gist is onmisbaar voor het maken van bier. Gist is een eencellige schimmelsoort 
 
 Afhankelijk van de vergistingsmethode heb je drie soorten bieren: bovengistend, ondergistend en spontaan.
 
-**Bovengistende bieren**
+#### Bovengistende bieren {-}
 
 Vóór 1840 waren alle bieren bovengistend. De vergisting hiervan vindt bij relatief hoge temperaturen (15 à 20 ^o^C) plaats en gist stijgt naar de oppervlakte. Pas na de karakterisering van specifieke gistsoorten en de uitvinding van de koelmachine brouwde men steeds meer ondergistende bieren.
 
 Voorbeelden: Trappistenbier, Stout, Porter
 
-**Ondergistende bieren**
+#### Ondergistende bieren {-}
 
 Pas na de uitvinding van de koelmachine werden er steeds meer ondergistende bieren gebrouwen. Deze vergisten bij relatief lage temperaturen (6 à 8 ^o^C). Door het vormen van grote vlokken zakt de gist zakt hierbij naar de bodem.
 
 Voorbeelden: Pilsener, Bockbier
 
-**Spontaan gistende bieren**
+#### Spontaan gistende bieren {-}
 
 Deze bieren zijn veel minder aanwezig. Bij de productie laat men het brouwsel in een open bak staan waardoor het geïnfecteerd wordt met een wilde gist die in de lucht aanwezig is: *Brettanomyces bruxellensis*. Vooral in Brussel en omgeving wordt dit bier gebrouwen.
 
