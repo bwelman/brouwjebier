@@ -76,9 +76,9 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.	 Meet na 10 minuten de pH waarde. Optimum ongeveer 5,4 pH. Eventueel aanzuren met melkzuur of fosforzuur.
 1.	 Tijdens verwarmen roeren om aanbranden te voorkomen. Wat valt je tijdens het brouwproces op  als je handmatig roert?
 1.	 Voer na 20 en 60 minuten de jodiumtest uit. Wat is het verschil in kleur tussen beide tijdstippen? En wat zegt je dat?
-1.	 Meet aan het einde van de $66^oC$-stap het SG van de maisch. 
+1.	 Meet aan hetbegin en aan het eind van de $66^oC$-stap het SG van de maisch. 
 1.	 Uitmaischen gebeurt op $78^oC$.
-1.	 Meet aan het einde van de $78^oC$ stap het SG van de maisch.
+1.	 Meet aan het begin en aan het eind van de $78^oC$ stap het SG van de maisch.
 1.	 Zorg dat je het filter (indien nodig) hebt gesteriliseerd.
 1.  Zorg dat het spoelwater op temperatuur is ($80^oC$) en de juiste pH heeft (5,2), dus eventueel aanzuren.
 1.  Filter langzaam. Kort voordat het filterbed begint droog gaat vallen begin je met het spoelen.
@@ -92,7 +92,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.	 Na het koken koel de wort zo snel mogelijk af naar $23^oC$.
 1.	 Begin ondertussen met het reinigen van de spullen die je niet meer nodig hebt.
 1.	 Hydreer de korrelgist ongeveer een half uur voordat je de gist ent (toevoegt)
-1.  Breng de afgekoelde wordt over naar het gistvat (eventueel met gebruik van een filter).
+1.  Breng de afgekoelde wort over naar het gistvat (eventueel met gebruik van een filter).
 1.	 Schud de inhoud van het gistvat flink zodat er lucht in de wort komt.
 1.  Voeg de gist toe. Dat kan als suspensie wanneer je gehydrateerd hebt of je kunt het direct op de wort strooien.
 1.	 Laat de wort temperatuur gecontroleerd vergisten.
@@ -103,7 +103,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.  Bereken de hoeveelheid bottelsuiker (5-8 gram/liter) en los deze op in iets kokend water.
 1.  Wanneer je bottelgist (bijvoorbeeld fermentis Safbrew F-2) gaat gebruiken, hydrateer dan de hoeveelheid (ca. 0,5 gram/liter) in wat jong bier.
 1.	 Voeg de bottelsuiker onder roeren toe aan het jongbier.
-1.  Wanneeer je bottelgist gebruikt voeg deze dan nu toe aan het jongbier.
+1.  Wanneeer je bottelgist (bijvoorbeeld Fermentis Safale F-2) gaat gebruiken, hydrateer dan ca. 1 gram per 20-25 liter in wat jong bier en voeg deze daarna toe aan het te bottelen bier.
 1.  Zorg dat de bierflessen goed gereinigd en gedesinfecteerd zijn.
 1.	 Vul de flessen af tot 1-2 cm onder de flessenhals en sluit de flesjes.
 1.	 Laat de flesjes bier nagisten door deze minimaal 2 weken op $18^oC$ a $25^oC$ weg te zetten.
