@@ -3,4 +3,25 @@
 \usepackage{float}
 \floatplacement{figure}{H}
 \pagestyle{plain} % Geen headers, footers bevat alleen paginanr gecentreerd
+
+% Nieuwe environment voor Rmd notitie
+\newenvironment{rmdblock}[1]
+  {
+    \begin{minipage}[t]{0.2\textwidth}
+        \includegraphics{images/#1}
+    \end{minipage}
+    \begin{minipage}{0.8\textwidth}
+  }
+  { \end{minipage}
+  }
+\newenvironment{rmdinfo}
+  {\begin{rmdblock}{info}}
+  {\end{rmdblock}}
+\newenvironment{rmdtip}
+  {\begin{rmdblock}{tip}}
+  {\end{rmdblock}}
+\newenvironment{rmdwarning}
+  {\begin{rmdblock}{warning}}
+  {\end{rmdblock}}
+
 \frontmatter
