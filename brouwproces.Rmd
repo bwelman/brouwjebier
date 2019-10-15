@@ -14,7 +14,7 @@ In grote lijnen gaat het maken van bier als volgt:
 
 Dit ziet er eenvoudig uit. In principe kun je een bier maken in een (soep)pan in de keuken. Maar het is toch wel een complex proces. Het gaat niet zomaar vanzelf. En om een goed bier te maken moet je wel wat meer weten over de afzonderlijke processen.
 
-## recept
+## Recept
 
 Om een bepaald bier te maken heb je een recept nodig. Hierin staat onder andere welke grondstoffen je nodig hebt en hoeveel daarvan.
 
@@ -34,7 +34,7 @@ Dit mouten gebeurt in **mouterijen** en doe je niet zelf. Afhankelijk van het so
 
 ## Afwegen ingrediënten
 
-Als voorbereiding op het echte brouwen ga je alle ingrediënten eerst afwegen. Dat kan met een goede keukenweegschaal.
+Als voorbereiding op het echte brouwen ga je alle ingrediënten eerst afwegen. Dat kan met een goede keukenweegschaal. Hou ook het maximaal toelaatbare gewicht van de weegschaal in de gaten.
 
 ## Schroten
 
@@ -117,7 +117,10 @@ Het proces tot en met het koken noemt men de *warme kant* van het brouwproces. H
 
 Maak er verder een gwoonte van om het volume en het SG van de wort te meten, zowel voor het koken als na het koken.
 
->Na het koken moet je zeer hygiënisch te werk gaan!
+```{block2, type = "rmdwarning"}
+Na het koken moet je zeer hygiënisch te werk gaan!
+
+```
 
 ## Koelen
 

@@ -76,7 +76,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.	 Meet na 10 minuten de pH waarde. Optimum ongeveer 5,4 pH. Eventueel aanzuren met melkzuur of fosforzuur.
 1.	 Tijdens verwarmen roeren om aanbranden te voorkomen. Wat valt je tijdens het brouwproces op  als je handmatig roert?
 1.	 Voer na 20 en 60 minuten de jodiumtest uit. Wat is het verschil in kleur tussen beide tijdstippen? En wat zegt je dat?
-1.	 Meet aan hetbegin en aan het eind van de $66^oC$-stap het SG van de maisch. 
+1.	 Meet aan het begin en aan het eind van de $66^oC$-stap het SG van de maisch. 
 1.	 Uitmaischen gebeurt op $78^oC$.
 1.	 Meet aan het begin en aan het eind van de $78^oC$ stap het SG van de maisch.
 1.	 Zorg dat je het filter (indien nodig) hebt gesteriliseerd.
@@ -117,6 +117,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.	 Hoe noemt men de eenstapsmaisch methode ook wel?
 1.	 Wat was de temperatuur van het water voor de moutstort en wat is de temperatuur van de wort direct erna? Waarom is er een verschil?
 1.	 Hoe heb je de hoeveelheid spoelwater bepaald?
+1.  Wat was de verandering van het SG tijdens de $66^oC$-maischstap? Verklaar deze verandering.
 1.  Hoeveel water is er tijdens het koken verdampt?
 1.  Hoeveel liter wort is er in het gistvat gegaan?
 1.	 Wat was het begin SG in het gist vat?

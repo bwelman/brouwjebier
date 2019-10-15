@@ -41,8 +41,8 @@ knitr::include_graphics("images/gasbrander.png", dpi = NA)
 
 Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende types:
 
--  Dompelkoeler, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
--  Tegenstroomkoeler, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
+-  *Dompelkoeler*, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
+-  *Tegenstroomkoeler*, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
 
 ```{r spiraalkoeler, fig.cap="Spiraalvormige dompelkoeler van RVS.", echo=FALSE}
 knitr::include_graphics("images/spiraalkoeler.png", dpi = NA)
@@ -79,9 +79,12 @@ knitr::include_graphics("images/waterslot.png", dpi = NA)
 
 Een hydrometer is een instrument om de dichtheid (soortelijke massa) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.
 
->De dichtheid of soortelijke massa van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m^3^ = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
+```{block2, type = "rmdinfo"}
+De dichtheid of soortelijke massa van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m^3^ = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
 
->De relatieve dichtheid (Specific Gravity, SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is 1,000.</p>
+De relatieve dichtheid (Specific Gravity, SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is 1,000.
+
+```
 
 Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
 
@@ -89,7 +92,10 @@ Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en
 knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
 ```
 
-> In plaats van een hydrometer kun je ook een refractometer gebruiken.
+```{block2, type = "rmdtip"}
+In plaats van een hydrometer kun je ook een refractometer gebruiken.
+
+```
 
 ### Kroonkurken en kroonkurkapparaat
 
@@ -132,11 +138,12 @@ je dan een horizontale kleurgrens. Stel eventueel scherp en lees de meetwaarde o
 
 De meeste refractometers gebruiken als meeteenheid het aantal graden *Brix*. En 1^o^ Brix is 1 gram sucrose in 100 gram oplossing.
 
->In de professionele brouwwereld wordt als meeteenheid het aantal graden * Plato* gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
+```{block2, type = "rmdinfo"}
+In de professionele brouwwereld wordt als meeteenheid het aantal graden *Plato* gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
 
 Om Brix om te reken naar SG waarden kun je de volgende formule  gebruiken:
 
-$$SG = 1 + \frac{4 \times Brix}{1000}$$
+$$SG = 1 + \frac{4 \times Brix}{1000}$$	
 
 Voorbeeld: 12^o^ Brix komt overeen met $SG = 1 + \frac{4 \times 12}{1000} = 1,048$
 
@@ -144,12 +151,12 @@ Voor een nauwkeuriger methode kun je brouwsoftware gebruiken.
 
 Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft! Voor dit omrekenen zijn wel formules beschikbaar en ook de brouwsoftware kan dat voor je doen. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
 
+```
+
 ### Vergistingskast
 
-Een gecontroleerde en juiste vergistingstemperatuur verhoogt de kwaliteit van het vergistingsproces en dus van je bier. Om dat te bereiken heb je een zogenaamde vergistingskast nodig. De meeste hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro.
+Een gecontroleerde en juiste vergistingstemperatuur verhoogt de kwaliteit van het vergistingsproces en dus van je bier. Om dat te bereiken heb je een zogenaamde vergistingskast nodig. De meeste hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro. Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ruimte ook gebruiken.
 
 ```{r inkbird, fig.cap="Inkbird ITC-308 temperatuurregelaar", echo=FALSE}
 knitr::include_graphics("images/inkbird.png", dpi = NA)
 ```
-
-Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ruimte ook gebruiken.
