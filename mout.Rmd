@@ -11,15 +11,17 @@
 
 ## Inleiding
 
-Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel die later het zetmeel in de korrel gaan afbreken. Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hoge temperatuur te verwarmen. Het gekiemde graan heet mout. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen.
+Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel. Die enzymen zijn erg belangrijken, zij zorgen er voor dat tijdens het maischproces het zetmeel in de korrel wordt omgezet in suikers die later tijdens het vergisten weer wordt omgezet in alcohol en koolzuur. Het net ontkiemde mout wordt ook wel *groenmout*  genoemd.
 
-Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt. Zo wordt tarwemout altijd aan gerstemout toegevoegd voor de bereiding van Weizenbier.
+Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hogere temperatuur te verwarmen en te drogen. Dit proces heet *eesten* en het gekiemde graan heet *mout*. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen en zijn ook steeds donkerder van kleur. Deze donkere moutsoorten geven het bier smaken als karamel, koffie en gebrand.
+
+Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. De mout voor Weizenbier bestaat voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
 
 Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels.
 
 ## Moutkleur
 
-Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden. Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden.
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden.
 
 De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's voor het brouwen rekenen dat voor je uit, zie hoofdstuk \@ref(brouwsoftware).
 
@@ -27,18 +29,18 @@ De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart 
 knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
 ```
 
-## Soorten mout
+## Moutsoorten van gerst
 
-Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Je hebt zogenaamde basismouten en speciale mouten.
+Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn. Een belangrijke indeling is die in basismouten en speciale mouten.
 
 ### Basismouten
 
-Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken. Dit wordt ook wel omschreven als "Je mag tot 100% storten". Veel gebruikte basismouten zijn
+Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken. Dit wordt ook wel omschreven als "Je mag tot 100% storten". Veel gebruikte basismouten zijn:
 
--  Pilsmout (3 EBC)
--  Pale Ale mout (7 EBC)
--  Viennamout (8 EBC)
--  Münchenermout (15 EBC)
+-  **Pilsmout** (ca. 3-5 EBC), wordt gebruikt voor pils zoals de naam al aangeeft, maar het wordt in veel andere brouwsels gebruikt omdat het zoveel enzymen bevat.
+-  **Palemout** (ca. 5-7 EBC), wordt veel voor Engelse en Amerikaanse biertypen gebruikt zoals Pale Ale, geeft een wat moutiger smaak dan pilsmout.
+-  **Viennamout** (ca. 6-12 EBC), wordt gebruikt in Duitse biertypen (Vienna, Märzen, Oktoberfest), geeft een wat moutiger smaak dan pilsmout. kan tot 100% gebruikt worden, maar dat gebeurt bijna nooit.
+-  **Münchenermout** (ca. 12-25 EBC), wordt gebruikt in Duitse biertypen, vooral in bokbieren, geeft een moutiger en wat zoetere smaak.
 
 ### Speciale mouten
 
@@ -47,23 +49,42 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 -  de kleur van het bier donkerder te maken
 -  een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
 
-**Broeimout**
+**Cara(mel)mouten**
 
-**Caramelmout**
+Bij deze mouten is door een speciale methode in de mouterij een groot deel van het zetmeel al omgezet in suikers. Daarna worden de moutkorrels gedroogd waardoor deze suikers caramelliseren. Afhankelijk van de temperatuur waarbij dat gebeurt krijg je verschillende kleuren van wel 20-400 EBC.
 
-**Roostmout**
+Naast de kleur voegen deze caramouten ook veel smaak (0.a. caramel, zoetigheid) aan het bier toe. Ze worden gebruikt in hoeveelheden van 5% (donkergekleurde variant) tot 30% (lichtgekleurde variant) van de totale hoeveelheid mout.
+
+**Roostmouten**
+
+Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde mout. De kleur kan varieren van bruin (50 EBC) tot nagenoeg zwart (1200-1400 EBC). Ze geven een geroosterde (gebrande, biscuitachtige) smaak aan het bier. De zeer donkere varianten zorgen voor chocolade- en koffieachtige smaken en zie je vaak terug in biertypen als porter en stout.
+
+## Andere moutsoorten
+
+### Tarwemout
+
+Mout van tarwe is lichtgekleurd (ca. 3 EBC) en geeft een weeïge, zoetige, licht zure verfrissende smaak aan het bier. Tarwemout heeft een hoger gehalte aan eiwitten dan gerstemout en zorgt daardoor ook voor een lichte troebelheid van het bier. In witbieren en weizen wordt veel tarwemout gebruikt.
+
+### Havermout
+
+In de middeleeuwen was gemoute haver het meest gebruikte mout, maar wordt nu nauwelijks meergebruikt. Haver bevat veel vet en eiwitten waardoor het bier troebel is met weinig schuim. Het geeft wel een zacht mondgevoel.
+
+### Roggemout
+
+Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig. gebruikt.
 
 ## Mouterijen
 
-Bekende mouterijen zijn:
+Enkele bekende mouterijen zijn:
 
 -  Nederland
-   +  [The Swaen](http://theswaen.com/)
+   +  [The Swaen in Kloosterzande, eigendom fam. De Groen](http://theswaen.com/nl/)
+   +  [Holland Malt in Eemshaven, eigendom fam. Swinkels](https://www.hollandmalt.com/)
 -  België
-   +  [Dingemans](http://www.dingemansmout.be/)
-   +  [Castle Malting]
+   +  [Dingemans in Stabroek](http://www.dingemansmout.be/)
+   +  [Castle Malting in Beloeil](https://www.castlemalting.com/)
 -  Duitsland
-   +  [Weyermann](https://www.weyermann.de/)
-   +  [BestMalz](https://bestmalz.de)
+   +  [Weyermann in Bamberg](https://www.weyermann.de/)
+   +  [BestMalz in Heidelberg](https://bestmalz.de)
 -  Engeland
-   +  [Thomas Fawcett & Sons](http://www.fawcett-maltsters.co.uk/)
+   +  [Thomas Fawcett & Sons, in Castleford](http://www.fawcett-maltsters.co.uk/)
