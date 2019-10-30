@@ -5,24 +5,51 @@
 -  Wat doen de enzymen?
 -  Temperatuur- en pH afhankelijkheid enzymwerking
 -  Alfa-amylase
--  Beta amylase
+-  Beta-amylase
 -  Maisschema
 
-## Inleiding
-In de mout zitten lange ketens zetmeel en eiwitten die omgezet moeten worden in veel kleinere ketens, suikers en kleinere eiwitten. Dat gebeurt door de enzymen die in de mout zitten. Dit proces heet maischen. Bij deze omzetting zijn meerdere enzymen betrokken. Bij de naamgeving van enzymen wordt meestal de uitgang *ase* toegevoegd aan de naam van de stof waarop het enzym inwerkt (het substraat). Zo is *protease* de naam van het enzym dat een eiwit(proteïne)-splitst. En *amylase* is het enzym dat zetmeel(amylose)-splitst.
+## Enzymen
 
-Om een enzym goed zijn werk te laten doen is nodig
+Tijdens het maischproces worden lange ketens zetmeel en eiwitten die in de mout zitten, omgezet in veel kleinere ketens, suikers en kleinere eiwitten. Die reactie wordt mogelijk gemaakt door enzymen die in de mout zitten. Bij deze omzetting zijn meerdere enzymen betrokken.
 
--  een bepaalde temperatuur
--  een bepaalde pH (5,5 - 5,7)
--  een bepaalde inwerkingstijd (rusttijd)
--  water en een bepaalde concentratie van enzym en substraat hierin (dikte van de maisch)
+[Wikipedia](https://nl.wikipedia.org/wiki/Enzym): Een *enzym* is een eiwit dat als katalysator fungeert bij een bepaalde chemische reactie in of buiten een cel. Het enzym maakt de reactie mogelijk of versnelt de reactie, zonder daarbij zelf te worden verbruikt of van samenstelling te veranderen. De stof waar het enzym op inwerkt heet het *substraat*.
 
-Deze omstandigheden zijn verschillend voor de diverse enzymen. Het is niet zo dat een enzym bij een wat hogere of lagere temperatuur dan de ideale temperatuur niet meer werkt. Er is een temperatuurbereik waarbinnen een enzym het meest actief is. Buiten dit bereik kan het enzym nog steeds werken. Echter het afbraakproces van enzymen begint wanneer enzymen ze een hogere temperatuur krijgen dan het temperatuurbereik waarin ze werken. Dit afbraakproces kan niet meer teruggedraaid worden.
+De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op *ase* en wordt voorafgegaan door het begindeel van de naam van het substraat. Ook is een enzym reactie- en substraatspecifiek, dat wil zeggen dat een enzym slechts een type reactie katalyseert bij een bepaald substraat. Een paar voorbeelden:
 
-Sommige stoffen kunnen de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
+| Substraat            | Enzym     |
+|:---------------------|:----------|
+| maltose (moutsuiker) | maltase   |
+| amylose (zetmeel)    | amylase   |
+| proteïne (eiwit)     | protease  |
+| cellulose            | cellulase |
 
-Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen gedaan. Bij 78 ^oC worden alle enzymen onwerkbaar (gedenatureerd).
+Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd
+
+**Temperatuur**
+
+Net als bij andere chemische reacties verlopen reacties waarbij enzymen betrokken zijn sneller wanneer de temperatuur hoger wordt. Echter bij een te hoge temperatuur kunnen enzymen degenereren waardoor ze niet meer werken. En deze degeneratie kan niet meer ongedaan gemaakt worden. De enzymactiviteit stijgt dus bij het toenemen van de temperatuur tot een maximale waarde en neemt daana weer af, zie figuur \@ref(fig:enzym-temp).
+
+```{r enzym-temp, fig.cap="Verband tussen enzymactiviteit en temperatuur", echo=FALSE}
+knitr::include_graphics("images/enzym-temp.png", dpi = NA)
+```
+
+Elk enzym kent een dergelijk verloop, maar deze is voor elk enzym verschillend, evenals de optimale temperatuur.
+
+**pH**
+
+De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. Ook deze is weer voor elk enzym verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
+
+**Concentratie substraat**
+
+De snelheid waarmee de reacties verlopen is afhankelijk van de concentraties van de deelnemende stoffen. In het algemeen geldt hoe hoger de concentratie des te sneller de reactie.
+
+De afbraak van zetmeel in suikers verloopt dus sneller wanneer de concentratie van het zetmeel hoger is, dus de maisch dikker is. Gedurende de reactie is er steeds minder zetmeel in de wort aanwezig waardoor de omzettingssnelheid dus afneemt en het proces langer gaat duren.
+
+> Sommige stoffen kunnen de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
+
+## Maischproces
+
+Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen gedaan. Bij 78^o C worden alle enzymen onwerkbaar (gedenatureerd).
 
 |Er bestaan ook recepten, met name voor Engelse bieren, waarbij maar één temperatuur wordt aangehouden.
 

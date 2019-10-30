@@ -10,35 +10,35 @@
 
 Suikers zijn koolhydraten die zoet smaken. En koolhydraten zijn verbindingen van koolstof-, waterstof- en zuurstofatomen waarbij de waterstof- en zuurstofatomen voorkomen in een verhouding 2:1, net als bij water. Een algemene molekuulformule is $C_n(H_2O)_m$.
 
-**Monosacchariden**
+**Monosachariden**
 
 Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)_6$, maar ze verschillen in struktuur en daardoor ook in eigenschappen. Zo is fructose meer dan twee keer zoeter dan glucose.
 
 | Naam      | Andere naam    |
-|-----------|----------------|
+|:----------|:---------------|
 | Glucose   | Druivensuiker  |
 | Fructose  | Vruchtensuiker |
 | Galactose |                |
 
-**Disacchariden**
+**Disachariden**
 
-Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De molekuulformule is $C_{12}(H_2O)_{11}$. Een bepaald enzym kan voor een splitsing in de monosacchariden zorgen.
+Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De molekuulformule is $C_{12}(H_2O)_{11}$. Een bepaald enzym kan voor een splitsing in de monosachariden zorgen.
 
 | Naam       | Andere naam | Verbinding van      |Splitsingsenzym |
-|------------|-------------|---------------------|----------------|
-| Saccharose | Sucrose     | Glucose ~ Fructose  | Saccharase     |
+|:-----------|:------------|:--------------------|:---------------|
+| sacharose | Sucrose     | Glucose ~ Fructose  | Saccharase     |
 | Maltose    | Moutsuiker  | Glucose ~ Glucose   | Maltase        |
 | Lactose    | Melksuiker  | Glucose ~ Galactose | Lactase        |
 
-Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *Saccharose*.
+Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose*.
 
-**Trisacchariden**
+**Trisachariden**
 
 Deze suikers bestaan uit drie met elkaar verbonden monosachariden. De meest belangrijke trisaccharide die in wort voorkomt is *maltotriose* die uit drie glucosecomponenten bestaat.
 
-**Polysacchariden**
+**Polysachariden**
 
-Dit zijn koolhydraten die zijn opgebouwd uit tien of meer monosacchariden. Een lid van deze groep is *zetmeel* dat in feite een mengsel is van twee polysacchariden, amylose en amylopectine. Deze polysacchariden zijn in feite grote bouwwerken van monosacchariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
+Dit zijn koolhydraten die zijn opgebouwd uit tien of meer monosachariden. Een lid van deze groep is *zetmeel* dat in feite een mengsel is van twee polysachariden, amylose en amylopectine. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
 
 ## Suikers in de wort
 
@@ -49,7 +49,7 @@ Typische hoeveelheden van de vijf meest voorkomende suikers in een wort van pils
 -  50% maltose
 -  18% maltotriose
 -  10% glucose
--  8% saccharose
+-  8% sacharose
 -  2% fructose
 -  12% onvergistbare dextrines
 
@@ -62,9 +62,9 @@ Om een aantal redenen worden bij het brouwen soms suikers aan de wort toegevoegd
 
 ## Suikers en gist
 
-Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disacchariden hebben ze het niet moeilijk, maar met de trisacchariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moilijk vergistbaar en overgistbaar.
+Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disachariden hebben ze het niet moeilijk, maar met de trisachariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moilijk vergistbaar en overgistbaar.
 
-De meeste biergisten beginnen bij het afbreken van de saccharose dat in gelijke hoeveelheden glucose en fructose wordt omgezet. Daarna vergisten ze eerst het grootste deel van de glucose voordat ze aan de andere monosacchariden (fructose) beginnen. Daarna beginnen ze met de maltose en aan het eind de maltotriose.
+De meeste biergisten beginnen bij het afbreken van de sacharose dat in gelijke hoeveelheden glucose en fructose wordt omgezet. Daarna vergisten ze eerst het grootste deel van de glucose voordat ze aan de andere monosachariden (fructose) beginnen. Daarna beginnen ze met de maltose en aan het eind de maltotriose.
 
 Het is bekend dat in wort met hoge gehaltes van glucose en fructose (meer dan 15-20%) de vergisting van de maltose afgeremd kan worden en zelfs helemaal kan stoppen. De gist heeft de monosachariden vergist en is daarna gestopt waardoor meer dan de helft van de totale suikers niet vergist is. In het hoofdstuk over gist wordt dieper ingegaan op het vergistingsproces.
 
