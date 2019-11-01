@@ -16,14 +16,14 @@ Tijdens het maischproces worden lange ketens zetmeel en eiwitten die in de mout 
 
 De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op *ase* en wordt voorafgegaan door het begindeel van de naam van het substraat. Ook is een enzym reactie- en substraatspecifiek, dat wil zeggen dat een enzym slechts een type reactie katalyseert bij een bepaald substraat. Een paar voorbeelden:
 
-| Substraat            | Enzym     |
-|:---------------------|:----------|
-| maltose (moutsuiker) | maltase   |
-| amylose (zetmeel)    | amylase   |
-| proteïne (eiwit)     | protease  |
-| cellulose            | cellulase |
+| Substraat            | Enzym      |
+|:---------------------|:-----------|
+| maltose (moutsuiker) | maltase    |
+| amylose (zetmeel)    | amylase    |
+| proteïne (eiwit)     | proteinase |
+| cellulose            | cellulase  |
 
-Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd
+Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Sommige stoffen kunnen de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
 
 **Temperatuur**
 
@@ -37,47 +37,69 @@ Elk enzym kent een dergelijk verloop, maar deze is voor elk enzym verschillend, 
 
 **pH**
 
-De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. Ook deze is weer voor elk enzym verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
+De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als bij de temperatuur in figuur \@ref(fig:enzym-temp) is er voor de pH ook een bepaalde pH-waarde waarbij de enzymactiviteit optimaal is en een gebied daaromheen waarbij die activiteit minder is. En voor elk enzym is dat weer verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
 
 **Concentratie substraat**
 
 De snelheid waarmee de reacties verlopen is afhankelijk van de concentraties van de deelnemende stoffen. In het algemeen geldt hoe hoger de concentratie des te sneller de reactie.
 
-De afbraak van zetmeel in suikers verloopt dus sneller wanneer de concentratie van het zetmeel hoger is, dus de maisch dikker is. Gedurende de reactie is er steeds minder zetmeel in de wort aanwezig waardoor de omzettingssnelheid dus afneemt en het proces langer gaat duren.
+De afbraak van zetmeel in suikers verloopt dus sneller wanneer de concentratie van het zetmeel hoger is, dus het beslag (de maisch) dikker is. Gedurende de reactie is er steeds minder zetmeel in de wort aanwezig waardoor de omzettingssnelheid dus afneemt en het proces langer gaat duren.
 
-> Sommige stoffen kunnen de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
-
-## Maischproces
-
-Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen gedaan. Bij 78^o C worden alle enzymen onwerkbaar (gedenatureerd).
-
-|Er bestaan ook recepten, met name voor Engelse bieren, waarbij maar één temperatuur wordt aangehouden.
-
-## Dikte beslag
-
-Je maakt een **beslag** door het geschrote mout aan het water toe te voegen.
-
-De hoeveelheid water waarmee je begint, het **maischwater**, is van invloed op het verloop van het proces. Een vuistregel is
+Je maakt een *beslag* door het geschrote mout aan het *maischwater* toe te voegen. De verhouding van de hoeveelheden water en mout bepaalt de dikte van het beslag. Een vuistregel is
 
 -  lichtgekleurde drogere bieren: neem 3,5 liter water per kg mout.
 -  donkere zoetige bieren: neem 2,5 liter water per kg mout.
 
-Voor bieren met een hoog alcoholgehalte maak je het beslag dus dikker.
+## Maischproces
 
-Je moet bij het inmaischen en tijdens het opwarmen het mengsel voortdurend roeren. Dit moet je rustig en langzaam doen, want je mag niet teveel zuurstof in het water brengen.
+Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen uitgevoerd. En bij elke stap wordt een bepaald rusttijd (inwerkingstijd) aangehouden. Deze temperatuurstappen met de bijbehorende rusttijden wordt het *maisschema* genoemd.
 
-## Maischstappen
-
-In grote lijnen zijn drie rustperiodes te onderscheiden: eiwitrust, maltoserust en versuikeringsrust.
+In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
 ### Eiwitrust
 
+Temperatuurgebied: 44^o^C - 55^o^C, optimaal bij 50^o^ C.
+
+Werkzame enzym: Proteinase
+
+In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit en de body. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
 ### Maltoserust
 
+Temperatuurgebied: 55^o^C - 66^o^C, optimaal bij 62^o^ C.
+
+Werkzame enzym: $\beta$-Amylase
+
+In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suiker. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
 ### Versuikeringsrust
 
+Temperatuurgebied: 65^o^C - 75^o^C, optimaal bij 73^o^ C.
+
+Werkzame enzym: $\alpha$-Amylase
+
+Breekt het overgebleven zetmeel af tot vergistbare en vooral onvergistbare suikers (dextrines). Deze laatsten zorgen voor een volmondiger bier.
+
+Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er nog zetmeel in het beslag zit. Zoja, dan moet je de rusttijd nog wat langer laten duren.
+
+### Samenvatting
+
+In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
+
+| Stap:              | **Eiwitrust**  | **Maltoserust**  | **Versuikeringsrust**  |
+|:-------------------|:---------------|:-----------------|:-----------------------|
+| Enzym              | Proteinase     | $\beta$-Amylase  | $\alpha$-Amylase       |
+| Temperatuur (^o^C) | 50 (44-55)     | 62 (55-66)       | 73 (65-75)             |
+| Rusttijd (min.)    | 10-30          | 15-45            | 15-45                  |
+| pH                 | 4,2-5,3        | 5,0-5,6          | 5,3-5,8                |
+
+```{block2, type = "rmdinfo"}
+Bij een eenstapsmaisch ligt de temperatuur meestal aan de bovenkant voor de $\beta$-Amylase en aan de onderkant voor de $\alpha$-Amylase, zo $\pm 65^o C$. Met een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
+
+```
 
 
+```{block2, type = "rmdinfo"}
+Bij het maken van een Weizen wordt nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
 
+```
