@@ -6,7 +6,7 @@ author:
 date: '`r format(Sys.time(), "%d %B %Y %H:%M")`'
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [brouwcursus.bib]
+bibliography: [brouwjebier.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Cursusboek bij de brouwcursus van het Twents Bierbrouwersgilde."
