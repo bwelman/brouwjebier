@@ -2,8 +2,11 @@
 
 **Doelstellingen**
 
--  Samenstelling water
--  pH
+-  Enige kennis hebben van de invloed van de watersamenstelling op het bier.
+-  Weten welke rol de pH waarde vervult bij het brouwproces.
+-  Weten hoe je de pH kunt meten en de waarde kunt wijzigen.
+-  Weten wat de rol van zouten in het brouwwater is.
+-  Weten wat je met brouwzouten kunt doen.
 
 ## Inleiding
 

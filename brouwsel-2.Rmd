@@ -78,14 +78,15 @@ Speciale aandachtspunten bij dit brouwsel.
 
 1.  Hoe noemt men deze maischmethode?
 1.  Welke enzymen zijn actief bij 63^o^C en 73^o^C?
-1.	Hoe heb je de hoeveelheid spoelwater bepaald?
+1.	 Hoe heb je de hoeveelheid spoelwater bepaald?
 1.  Hoeveel water is er tijdens het koken verdampt?
 1.  Hoeveel liter wort is er in het gistvat gegaan?
 1.  Wat was het begin SG in het gist vat?
 1.  Wat was het eind SG in het gistvat?
 1.  Bereken het alcoholpercentage (ABV %) van het bier met de formule $ABV\% = (Begin SG - Eind SG) \times 0,136 + 0,4$
 1.  Vergelijk je bier met b.v. Westmalle dubbel. Welke verschillen heb je geproefd?
-1.	Stel je wilt je dubbel wat zoeter hebben, wat zou je wijzigen aan je recept en waarom?
+1.	 Stel je wilt je dubbel wat zoeter hebben, wat zou je wijzigen aan je recept en waarom?
+1.  Vraag de kwaliteit van jouw kraanwater op bij het drinkwaterbedrijf. Welke pH en welke hardheid heeft het?
 
 ## Evaluatie
 
