@@ -4,3 +4,68 @@
 
 -  Samenstelling water
 -  pH
+
+## Inleiding
+
+Water wordt door de bierbrouwer in grote hoeveelheiden gebruikt als
+
+-  *brouwwater* in de vorm van maischwater en spoelwater.
+-  *proceswater* voor het reinigen van de apparatuur en de koeling van de wort.
+
+Voor het brouwen van bier is de kwaliteit en samenstelling van het brouwwater van belang. Grote brouwerijen hebben vaak hub eigen waterbronnen. De anderen doen het met kraanwater. Zo bevat het water in de Achterhoek meer mineralen (is harder) dan het water in Zuid-Limburg. Ook voor het maken van bepaalde biertypes is dit van belang. Twee bekende plaatsen in deze zijn
+
+-  *Pilsen* (Tsjechie) met zeer zacht water dat ideaal is voor een pils
+-  *Burton-on-Trent* (Engeland) met zeer mineraalrijk water dat ideaal is voor sterker gehopte bieren zoals een IPA.
+
+Eigenlijk heb je alleen voor pilsbieren zeer zacht water nodig. Voor de meeste bovengistende bieren is wat harder water beter.
+
+Naast de hardheid van het water speelt ook de zuurgraad (pH) een rol bij verschillende processen tijdens het brouwen. Vandaar aan deze twee aspecten hierna de nodige aandacht besteed wordt. De samenstelling van jouw kraanwater kun je bij het waterleidingbedrijf opvragen. Voor Vitens zie [Waterkwaliteitsoverzichten](https://www.vitens.nl/service/waterkwaliteit/waterkwaliteitsoverzichten)
+
+## Zuurgraad
+
+[Wikipedia](https://nl.wikipedia.org/wiki/PH) zegt over de pH het volgende. De pH is een maat voor de *zuurgraad* (ook wel *zuurtegraad*) van een waterige oplossing. De pH van een neutrale waterige oplossing ligt bij kamertemperatuur rond de 7. Zure oplossingen hebben een pH lager dan 7, en dus een hoge zuurgraad. Basische oplossingen hebben een pH hoger dan 7 en dus een lage zuurgraad.
+
+Hoe zuur een oplossing is wordt bepaald door het aantal $H_3O^+$ ionen. De pH wordt hieruit berekend via de negatieve logaritme van de concentratie van deze ionen. In de scheikunde wordt de concentratie van een deeltje genoteerd met vierkante haken (blokhaken). De pH  bereken je dan met de volgende formule: $pH = -log([H_3O^+])$
+
+In de praktijk lopen de pH waarden van 1 tot 14. Bedenk wel dat de pH-schaal logaritmisch is, wat inhoudt dat een klein verschil in pH waarde al voor een groot verschil in de zuurheid kan zorgen.
+
+Vooral bij het maischen speelt de pH een belangrijke rol. De enzymen is werken het beste bij een pH van 5,2-5,6. Ook bij het koken met hop verloopt het extraheren van de bitterstoffen uit de hop het beste in dit pH waardengebied.
+
+De pH van het brouwwater zelf heeft maar een beperkte invloed op het brouwproces. Belangrijker is de pH van het beslag tijdens het maischen. Deze wordt beïnvloedt door de samenstelling van de mout en de zouten in het brouwwater. Zo ligt de pH van een beslag dat alleen van pilsmout gemaakt is tussen de 5,7 en 5,8. Iets te hoog dus voor een ideale werking van de enzymen. Donkere mouten geven een wat lagere pH. Het kan dus zijn dat je net goed uitkomt bij een mengsel van basismouten met wat donkere mouten.
+
+### pH meten en aanpassen
+
+Wanneer je de pH van het beslag gaat meten kun je dat het beste zo'n 10 minuten na het storten van de mout doen, die wachttijd is nodig voor het stabiel worden van de pH. 
+
+Het goedkoopst kun je de pH meten met pH strips. Deze zijn te koop voor verschillende pH gebieden. Het beste kun je twee soorten kopen, eentje voor het pH bereik 5,2-6,8 en eentje voor het bereik 3,8-5,5. Ze zien in verschillende uitvoeringen te koop, zie o.a. figuur \@ref(fig:ph38-55).
+
+```{r ph38-55, fig.cap="pH strip voor het bereik 3,8-5,5.", echo=FALSE}
+knitr::include_graphics("images/ph38-55.png", dpi = NA)
+```
+
+Voor het uitvoeren van een meting voeg je met een druppelpipetje of een lepeltje een paar druppels aan het testgebied van het papier toe, wacht even tot de strip verkleurd is en vergelijk dan de kleur met de kleurenschaal en lees de pH waarde af.
+
+Het gebruik van pH papier is geen erg nauwkeurige methode, maar voor de hobbybrouwer vaak voldoende. Het gaat er immers om dat je in het pH gebied 5,3-5,5 zit. Wil je een nauwkeuriger waarde dan moet je een pH meter aanschaffen. Deze is niet alleen duurder maar vereist ook regelmatige calibratie.
+
+Je kunt de **pH verlagen** door het toevoegen van melkzuur of fosforzuur en de **pH verhogen** (wat niet vaak voorkomt) door het toevoegen van natriumbicarbonaat of calciumcarbonaat. Een methode voor het verlagen van de pH die je in Duitse recepten wel eens tegenkomt is door *zuurmout* (Sauermalz) in de moutstort te gebruiken, je zondigt dan niet tegen het Reinheitsgebot.
+
+
+```{block2, type = "rmdtip"}
+Wanneer je over de watersamenstelling van het drinkwaterbedrijf beschikt kun je ook redelijk goed de pH van het brouwsel vooraf berekenen met brouwsoftware (o.a. het gratis Brouwhulp).
+
+```
+
+## Hardheid
+
+In kraanwater kunnen diverse ionen voorkomen. De voor de brouwer belangrijkste zijn
+
+-  Calcium, Magnesium en Waterstofcarbonaat: verantwoordelijk voor de hardheid van het water (uitgedrukt in graden Duitse Hardheid).
+-  Fosfaat: belangrijk voor de groei van gistcellen, komt ook via de mout in het beslag.
+-  Chloride: zorgt voor een vollere smaak van het bier.
+-  Sulfaat: versterkt de bitterheid van het bier.
+
+Wanneer het water te hard is voor het te brouwen biertype, dan kun je tijdelijke hardheid, veroorzaakt door waterstofcarbonaat, verminderen door het vooraf te koken. Daarna moet je het uiteraard weer afkoelen tot de inmaischtemperatuur.
+
+Door het toevoegen van zogenaamde brouwzouten als calciumchloride en calciumsulfaat kun je de hoeveelheid mineralen in het water verhogen en ook nog eens de pH verlagen. Het toevoegen van calciumzouten zorgt er ook voor dat de gist beter uitvlokt waardoor het bier eerder helder is. Ook hier kan brouwsoftware je ondersteunen om de toe te voegen hoeveelheden te berekenen.
+
+**Alkaliniteit**, ook wel carbonaathardheid genoemd, geeft de concentratie carbonaten en bicarbonaten in het water aan. Het is een maat voor het bufferend vermogen van een oplossing. Een pH-buffer zorgt voor het opvangen van schommelingen in de pH waarde. Een goede alkaniliteit van je brouwwaterhoudt de pH waarde stabiel.
