@@ -67,6 +67,8 @@ In kraanwater kunnen diverse ionen voorkomen. De voor de brouwer belangrijkste z
 -  Chloride: zorgt voor een vollere smaak van het bier.
 -  Sulfaat: versterkt de bitterheid van het bier.
 
+Voor invloed op de smaak is vooral de onderlinge verhouding Chloride en Sulfaat van belang. Als deze onderlinge verhouding klein is, accentueert dit de bitterheid, van belang voor bijvoorbeeld een IPA. Een hogere onderlinge verhouding levert een accentuering van zoetheid op.
+
 Wanneer het water te hard is voor het te brouwen biertype, dan kun je tijdelijke hardheid, veroorzaakt door waterstofcarbonaat, verminderen door het vooraf te koken. Daarna moet je het uiteraard weer afkoelen tot de inmaischtemperatuur.
 
 Door het toevoegen van zogenaamde brouwzouten als calciumchloride en calciumsulfaat kun je de hoeveelheid mineralen in het water verhogen en ook nog eens de pH verlagen. Het toevoegen van calciumzouten zorgt er ook voor dat de gist beter uitvlokt waardoor het bier eerder helder is. Ook hier kan brouwsoftware je ondersteunen om de toe te voegen hoeveelheden te berekenen.

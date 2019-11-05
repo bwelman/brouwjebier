@@ -93,6 +93,12 @@ In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De 
 | Rusttijd (min.)    | 10-30          | 15-45            | 15-45                  |
 | pH                 | 4,2-5,3        | 5,0-5,6          | 5,3-5,8                |
 
+
+```{r infusie-3staps, fig.cap="Voorbeeld maischstappen in een infusieproces", echo=FALSE}
+knitr::include_graphics("images/infusie-3staps.png", dpi = NA)
+```
+
+
 ```{block2, type = "rmdinfo"}
 Bij een eenstapsmaisch ligt de temperatuur meestal aan de bovenkant voor de $\beta$-Amylase en aan de onderkant voor de $\alpha$-Amylase, zo $\pm 65^o C$. Met een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
 
