@@ -68,7 +68,7 @@ In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens. Deze ru
 
 Temperatuurgebied: 55^o^C - 66^o^C, optimaal bij 62^o^ C.
 
-Werkzame enzym: $\beta$-Amylase
+Werkzame enzym: *Beta-Amylase*
 
 In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suiker. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
@@ -76,7 +76,7 @@ In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze r
 
 Temperatuurgebied: 65^o^C - 75^o^C, optimaal bij 73^o^ C.
 
-Werkzame enzym: $\alpha$-Amylase
+Werkzame enzym: *Alpha-Amylase*
 
 Breekt het overgebleven zetmeel af tot vergistbare en vooral onvergistbare suikers (dextrines). Deze laatsten zorgen voor een volmondiger bier.
 
@@ -88,7 +88,7 @@ In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De 
 
 | Stap:              | **Eiwitrust**  | **Maltoserust**  | **Versuikeringsrust**  |
 |:-------------------|:---------------|:-----------------|:-----------------------|
-| Enzym              | Proteinase     | $\beta$-Amylase  | $\alpha$-Amylase       |
+| Enzym              | Proteinase     | beta-amylase     | alpha-amylase          |
 | Temperatuur (^o^C) | 50 (44-55)     | 62 (55-66)       | 73 (65-75)             |
 | Rusttijd (min.)    | 10-30          | 15-45            | 15-45                  |
 | pH                 | 4,2-5,3        | 5,0-5,6          | 5,3-5,8                |
@@ -100,7 +100,7 @@ knitr::include_graphics("images/infusie-3staps.png", dpi = NA)
 
 
 ```{block2, type = "rmdinfo"}
-Bij een eenstapsmaisch ligt de temperatuur meestal aan de bovenkant voor de $\beta$-Amylase en aan de onderkant voor de $\alpha$-Amylase, zo $\pm 65^o C$. Met een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
+Bij een eenstapsmaisch ligt de temperatuur meestal aan de bovenkant voor de beta-amylase en aan de onderkant voor de alpha-amylase, zo $\pm 65^o C$. Met een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
 
 ```
 

@@ -7,3 +7,43 @@
 -  Verschil tussen bitterhop en aromahop
 -  Gebruik dryhop
 
+## Inleiding
+
+De vrouwelijke bloeiwijzen van deze klimplant worden gebruikt bij de bierbereiding. Uit deze bloemen ontwikkelen zich de karakteristieke *hopbellen*. Hierin zitten kleine gele korreltjes *lupuline*, het werkzame bestanddeel uit hop dat bier langer houdbaar maakt, voor de bittere smaak zorgt en het aroma. Bitterheid biedt een tegenhanger aan de zoetheid van de mout om zo een uitgebalanceerd bier te maken.
+
+In de lupuline zitten harsen en vluchtige oliën. De voor de bierbereiding belangrijkste harsen zijn de zogenaamde *alfazuren* en iets minder de *betazuren*. De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo'n 2%-15% van het hopgewicht. De bitterheid van een hopsoort wordt uitgedrukt in het *percentage alfazuur*.
+
+## Hop vormen
+
+Hop kun je kopen als bloemen (bellen) en pellets (vermalen en samengeperste korrels of dikke pillen). Hop moet je koel, donker en zuurstofvrij bewaren. Het beste in de diepvries in een plastic zak met zo weinig mogelijk lucht erin. Door oxidatie en een hogere temperatuur gaat de hop snel in kwaliteit omlaag, aroma en bitterheid nemen af.
+
+```{r hop, fig.cap="Hop: pellets en bloemen", echo=FALSE}
+knitr::include_graphics("images/hop.png", dpi = NA)
+```
+
+## Hopsoorten
+
+Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen.
+
+## Hop toevoegen
+
+Je kunt op verschillende momenten hop toevoegen waarbij het kookmoment het belangrijkste moment is.
+
+### Koken
+
+Tijdens het koken (60-90 minuten) ondergaan de alfazuren een moleculaire verandering, *isomerisatie* genoemd. De ontstane stoffen worden *isoalfazuren* genoemd, welke beter oplosbaar zijn in wort en bier en de voornaamste bron van de bitterheid van het bier vormen. De betazuren zijn minder oplosbaar in de wort, maar leveren ook nog een kleine bijdrage aan de bitterheid van het bier.
+
+Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een hopzakje toevoegt. Deze kun je na het koken weer uit de ketel vissen.
+
+```{r ihopzakje, fig.cap="Hopbloemen in een hopzakje.", echo=FALSE}
+knitr::include_graphics("images/hopzakje.png", dpi = NA)
+```
+
+Slechts een gedeelte van de alfazuren wordt omgezet in isoalfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
+
+-  kooktijd van de hop
+-  de intensiteit van het koken
+-  de gebruikte hopvorm (bloemen, pellets)
+-  het al dan niet gebruiken van een hopzak
+
+### Dry hopping
