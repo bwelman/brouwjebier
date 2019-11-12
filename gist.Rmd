@@ -2,19 +2,19 @@
 
 **Doelstellingen**
 
--  Wat doet gist
--  Waardoor wordt de werking van gist beinvloedt?
--  Verschil ondergistend en bovengistend
+-  Weten wat gist is en doet.
+-  Weten waardoor de werking van gist wordt beinvloedt?
+-  Verschil kennen tussen ondergisten en bovengisten.
+-  Verschil kennen tussen korrelgisten en vloeibare gisten.
+-  De benodigde hoeveelheid gist voor een brouwsel kunnen bepalen.
+-  Kunnen aangeven wanneer je een giststarter moet gebruiken.
+-  Een giststarter kunnen maken.
 
+## Wat is en doet gist
 
-Moet maltose kunnen vergisten
+Gist is een eencellig levend organisme dat suiker omzet in alkohol en koolstofdioxide. Tijdens de vergisting van de wort ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deels controleerbaar door de temperatuur en de soort gist.
 
-Vergisting kan gebeuren met 
-
--  ondergist
--  bovengist
--  gemengd
--  spontaan
+In een zuurstofrijk milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. Ook wordt de pH lager. Voor een giststarter waar het je om de vermenigvuldiging van de gist te doen is moet je dus vooral goed beluchten. Wanneer je bij de vergisting gebruik maakt van een goede giststarter met voldoende gistcellen, hoef je de wort niet te beluchten. De gist moet zich dan vooral bezig houden met het maken van alcohol.
 
 Om alcohol en CO2 te vormen, moet gist beschikken over
 
@@ -22,3 +22,102 @@ Om alcohol en CO2 te vormen, moet gist beschikken over
 -  een *stikstofbron* voor groei en vermenigvuldiging: aminozuren, peptiden
 
 Beide zijn aanwezig in de meeste moutsoorten.
+
+## Gistsoorten
+
+In hoofdstuk 1 is al aangegeven dat er naast de wilde gisten er twee gistsoorten zijn, bovengist en ondergist. In de volgende tabel staan een aantal kenmerken van deze gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gistsoort.
+
+|**Kenmerk**     |**Bovengist**           |**Ondergist**            |
+|:---------------|:-----------------------|:------------------------|
+|Latijnse naam   |Saccharomyces cerevisiae|Saccharomyces cerevisiae |
+|temperatuur     |16-22                   |8-14                     |
+|Vergistingstijd |4-8 dagen               |2-6 weken                |
+|Biersoorten     |ales                    |pils                     |
+
+
+```{block2, type = "rmdinfo"}
+Er zijn ook gistsoorten die tussen een ondergist en bovengist zitten, die vergisten bij 15-16 ^o^C. Deze gisten worden ook wel *hybride* gisten genoemd.
+
+```
+
+De hobbybrouwer kan gist kopen als
+
+-  korrelgist (gedroogde gist). Bekende leveranciers zijn: Fermentis, Danstar/Lallemand, Mangrove Jack
+-  vloeibare gist. Leveranciers: White Labs, Wyeast
+
+Korrelgisten zijn goedkoper dan vloeibare gisten en ook het gebruik ervan is simpeler. Zo hoef je bij korrelgisten niet van tevoren een giststarter te maken. Van de vloeibare gisten is echter een groter assortiment voor specifieke biertypes leverbaar, alhoewel er steeds meer soorten korrelgisten op de markt komen.
+
+```{block2, type = "rmdinfo"}
+Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een uur voor gebruik haal je deze uit de koelkast om op de omgevingstemperatuur te laten komen.
+
+```
+
+### Korrelgist
+
+Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Je kunt deze gist over de wort in het gistvat strooien. Maar beter is het om deze gedroogde gist eerst te *hydrateren*, een methode die ook door de leverancier wordt aangeraden.
+
+**Hydrateren**
+
+De massa water die je nodig hebt voor het hydrateren is 10 keer de massa van de hoeveelheid te gebruiken korrelgist. Gebruik je 1 zakje met 11,5 gram korrelgist, dan heb je dus 115 gram (= 115 ml) water nodig. Het hydrateren kun je het beste uitvoeren in een bekerglas, erlenmeyer, fles of kopje. Zorg wel dat deze schoon is. Het water kun je het beste eerst even koken. Bij gebruik van glazen voorwerpen is een magnetron dan erg handig. Het water moet je daarna afkoelen tot 25-30 ^o^C.
+
+1.  Desinfecteer de erlenmeyer.
+1.  Voeg het water toe en laat het eventueel afkoelen tot 25-30 ^o^C.
+1.  Strooi de korrelgist voorzichtig op de oppervlakte van het water. Niet roeren!
+1.  Dek de erlenmeyer af met een stukje aluminiumfolie (ontsmetten!).
+1.  Laat het mengsel 15 min. ongestoord staan.
+1.  Roer het mengsel voorzichtig tot alle gist gesuspendeerd is (fijn verdeeld in het water).
+1.  Laat de suspensie 10-15 min. ongestoord en afgedekt staan.
+1.  Voeg kleine hoeveelheden afgekoelde wort aan de gistsuspensie toe. Roer voorzichtig. Ga hiermee door tot de temperatuur van het mengsel ongeveer gelijk is aan de temperatuur van de wort in het gistvat.
+1.  Voeg de gistsuspensie daarna direct toe aan de wort in het gistvat.
+
+### Vloeibare gist
+
+**Wyeast** vloeibare gisten worden geleverd in een zogenaamde *smack-pack*. Dit is een foliezak met binnenin vloeibare gist en een klein zakje met gistvoeding. Voor gebruik moet je tussen twee handen het kleine zakje kapot drukken/slaan zonder dat de grotere foliezak beschadigt. De gistvoeding komt nu bij de gist. Kneed en schud de zak zodat alles goed gemengd wordt. De gist gaat zich nu vermenigvuldigen en de zak zwelt hierdoor op. De duur van het groeiproces hangt af van de ouderdom van de gist en kan meer dan een dag duren.
+
+**White Labs* is een geconcentreerde vloeibare gist (PurePitch) in een foliezakje. De gist is direct klaar voor gebruik.
+
+Beide vloeibare gisten worden geleverd in een verpakking die voldoende gistcellen heeft voor het vergisten van 20 liter wort met een SG van ongeveer 1,048. Voor een groter volume wort of voor bier met een hoger SG heb je meer gistcellen nodig, dus meer verpakkingen. Het alternatief is om een zogenaamde **giststarter** te maken.
+
+```{block2, type = "rmdtip"}
+Bij gebruik van vloeibare gist kun je het beste altijd een giststarter maken.
+
+```
+
+## Benodigde hoeveelheid gist
+
+Voor een goede vergisting is het belangrijk dat je voldoende vitale gistcellen aan de wort toevoegt. Globaal heb je voor ondergistend bier twee keer zoveel gist nodig als voor bovengistend bier. En voor zwaarder bier heb je ook meer gist nodig.
+
+Brouwsoftware kan voor je uitrekenen hoeveel gist je nodig hebt en ook hoeveel gisstarter je eventueel moet maken. Ook zijn er op internet een aantal online rekenprogramma's te vinden die dat voor je kunnen uitrekenen. En verder zijn er ook apps voor de mobiele telefoon beschikbaar. Zoek op "yeast calculator".
+
+-  [**Mr. Malty's Pitching Rate Calculator**, Engelstalig](http://www.mrmalty.com/calc/calc.html)
+-  [**Brewer's Friend Yeast Pitch Rate and Starter Calculator**](https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/)
+-  [MoreBeer! Yeast Pitch Calculator](https://www.morebeer.com/content/yeast_pitch_calculator)
+-  [**Homebrew Dad's Online Yeast Starter Guide**, Engelstalig](http://yeastcalculator.com/)
+
+## Giststarter
+
+Een giststarter maak je om gistcellen te vermenigvuldigen, zodat er meer gistcellen beschikbaar komen, wat nodig kan zijn voor een groter volume wort of wort met een hoger SG. Het gebruik van een giststarter brengt de vergisting sneller op gang en ook zie je of de gist nog vitaal is. Bij gebruik van vloeibare gist wordt het maken van een gisstarter altijd aangeraden. Voor korrelgisten is het niet echt nodig, maar kan het om dezelfde redenen ook nuttig zijn.
+
+Maak de giststarter 2-3 dagen voordat je de gist aan de wort wilt toevoegen. Het benodigde volume van de giststarter hangt af van het begin SG van de wort, de batchgrootte, de leeftijd van de gist en het al dan gebruiken van een magneetroerder. Gebruik een gistcalculator om uit te rekenen hoeveel gistarter je moet maken en hoeveel gist je daarvoor nodig hebt. Wanneer je spoedig weer deze gist nodig hebt kan het handig zijn om wat giststarter meer te maken, zodat je het overblijvende deel in de koelkast kunt bewaren (of invriezen) voor later gebruik.
+
+**Recept voor 1 liter giststarter**
+
+1.  Weeg 100 gram moutextract af en doe deze in een voldoend grote (steel)pan. Direct in een erlenmeyer kan ook.
+1.  Voeg 1 liter kraanwater toe.
+1.  Voeg eventueel gistvoedingszout toe (Optioneel)
+1.  Roer goed en kook het mengsel 10-15 minuten.
+1.  Doe de inhoud in een gedesinfecteerde erlenmeyer van voldoende grootte.
+1.  Dek de erlenmeyer af met een kap van aluminiumfolie (gedesinfecteerd).
+1.  Koel de erlenmeyer met inhoud in koud waterbad af tot kamertemperatuur.
+1.  Voeg de gist (die op kamertemperatuur is) toe.
+1.  Indien mogelijk roer zo'n 12-18 uur met een magneetroerder. Wanneer je die niet hebt dan regelmatig schudden zodat er zoveel mogelijk zuurstof in de oplossing komt. Bij gebruik van oude gist duurt het proces langer en moet je ook langer roeren.
+1.  Stop met roeren/schudden. Bij gebruik van een magneetroerder de roervlo verwijderen.
+1.  De gist zal uitvlokken en een witte laag op de bodem vormen.
+1.  Wanneer je de giststarter niet meteen gebruikt, zet deze dan in de koelkast, nog steeds met de aluminiumkap erop.
+
+**Gebruik giststarter**
+
+1.  Decanteer voorzichtig zo'n 80% van de heldere bovenste laag vloeistof, zonder de gistlaag op de bodem te verstoren.
+1.  Wanneer de giststarter uit de koelkast komt, laat deze dan eerst op de temperatuur van de wort komen.
+1.  Schud de erlenmeyer zodat je een mooie suspensie van de gist krijgt.
+1.  Voeg de gistsuspensie aan de inhoud van het gistvat toe.

@@ -2,7 +2,23 @@
 
 **Doelstellingen**
 
--  Rol van kruiden/specerijen
--  Welke kruiden/specerijen
--  Wanneer en hoeveel toevoegen
+-  De rol van kruiden/specerijen kunnen aangeven.
+-  Weten welke kruiden/specerijen bij de bierbereiding gebruikt kunnen worden
+-  Weten wanneer en hoeveel kruiden je kunt toevoegen.
 
+## Inleiding
+
+Je kunt voor het brouwen van bier ook kruiden (en/of specerijen) gebruiken om het bier een bepaalde smaak en aroma te geven. Met name in witbieren, tripels en zogenaamde winterbieren kom je vaak kruiden tegen. Deze kruiden worden gedurende de laatste 5-10 minuten meegekookt. Voor de toe te voegen hoeveelheid moet je wat experimenteren. Gebruik vooral niet teveel!
+
+## Welke kruiden
+
+In de volgende tabel staan kruiden die je vaak tegen komt.
+
+| Kruid         | Toelichting    |
+|:--------------|:---------------|
+| Koriander     | Het meest gebruikte kruid. Aanwezig in veel witbieren en tripels. Kneus de zaden |
+| Sinaasappelschil | Vooral in witbieren. Gedroogde schillen. |
+| Curaçaoschil     | Zure sinaasappel, Geeft bitterheid. In witbieren en tripels Gedroogde schillen. |
+| Zoethout | Vooral in abdijbieren en winterbieren  |
+
+https://www.hobbybrouwen.nl/artikel/kruiden.html

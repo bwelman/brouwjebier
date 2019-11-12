@@ -2,10 +2,12 @@
 
 **Doelstellingen**
 
--  Hoe kom je aan een goed recept?
--  Aanpassen van een bestaand recept aan eigen installatie.
+-  Weten hoe je aan een goed recept kunt komen.
+-  Een bestaand recept kunnen aanpassen aan de eigen installatie.
 
 ## Inleiding
+
+Hier wordt nog aan gewerkt.
 
 ## Huiswerk:
 

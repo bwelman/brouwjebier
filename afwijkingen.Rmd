@@ -4,7 +4,11 @@
 
 -  Smaakwiel
 -  Veel voorkomende smaakafwijkingen
--  Veel voorkomende brouwgfouten
+-  Veel voorkomende brouwfouten
+
+## Smaakafwijkingen en oorzaken
+
+Hier wordt nog aan gewerkt.
 
 ## Uitvoering
 

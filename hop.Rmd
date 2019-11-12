@@ -3,8 +3,10 @@
 
 **Doelstellingen**
 
--  Waarvoor dient de hop
--  Verschil tussen bitterhop en aromahop
+-  Weten waarom hop bij de bierbereiding wordt gebruikt.
+-  Weten wat er met de hop gebeurt tijdens het koken.
+-  Verschil kennen tussen bitterhoppen en aromahoppen.
+-  Weten wat alfazuurpercentage inhoudt.
 -  Gebruik dryhop
 
 ## Inleiding
@@ -27,7 +29,7 @@ Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van el
 
 ## Hop toevoegen
 
-Je kunt op verschillende momenten hop toevoegen waarbij het kookmoment het belangrijkste moment is.
+Je kunt op verschillende momenten hop toevoegen waarbij het kookmoment het belangrijkste moment is. De bitterhoppen voeg je aan het begin van het koken toe en de aromahoppen aan het einde.
 
 ### Koken
 
@@ -46,4 +48,6 @@ Slechts een gedeelte van de alfazuren wordt omgezet in isoalfazuren. De hoeveelh
 -  de gebruikte hopvorm (bloemen, pellets)
 -  het al dan niet gebruiken van een hopzak
 
-### Dry hopping
+### Koudhoppen (Dry hopping)
+
+Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of destinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is.

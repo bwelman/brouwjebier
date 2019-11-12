@@ -2,11 +2,12 @@
 
 **Doelstellingen**
 
--  Wat doen de enzymen?
--  Temperatuur- en pH afhankelijkheid enzymwerking
--  Alfa-amylase
--  Beta-amylase
--  Maisschema
+-  Weten wat de rol is van enzymen.
+-  De temperatuur- en pH afhankelijkheid van enzymen kennen.
+-  Alfa-amylase kunnen beschrijven
+-  Beta-amylase kunnen beschrijven.
+-  Invloed van tijd en temperatuur bij de maischstappen kennen.
+-  Een maisschema kunnen  opstellen.
 
 ## Enzymen
 
