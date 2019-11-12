@@ -5,9 +5,132 @@
 -  Soortelijk gewicht /Dichtheid
 -  Bitterheid (IBU)
 -  Kleur (EBC)
--  pH
 -  Handmatige berekening hoeveelheid mout, maischwater en spoelwater
 
-## ???
+## Dichtheid
+
+Het suikergehalte van de wort kan bepaald worden door de dichtheid of soortelijke massa van de wort te meten. Je kunt de gevonden waarde bijvoorbeeld gebruiken om te bepalen hoeveel er nog gespoeld moet worden. Verder is het erg belangrijk om de soortelijke massa aan het begin en het einde van de vergisting te bepalen. Je kunt hieraan zien of de vergisting afgelopen is en ook kun je dan het alcoholpercentage van het bier bepalen.
+
+De *dichtheid* of *soortelijke massa* van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Dit is de grootste dichtheid bij een standaard atmosferische druk (1013,25 hectoPascal = 1013,25 millibar = 1 atm). Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m3 = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
+
+De *relatieve dichtheid* of *Specific Gravity* (SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is dus 1.
+
+```{block2, type = "rmdinfo"}
+Vaak wordt ook de term *soortelijk gewicht (SG)* gebruikt om de soortelijke massa aan te geven. Dit is onjuist, het is een verouderde foutieve term. Massa en gewicht is niet hetzelfde. Massa is een stofeigenschap die onveranderlijk is. Gewicht is de kracht die de massa uitoefent onder invloed van de zwaartekracht, uitgedrukt in Newton (N). Deze kracht wordt uitgeoefend op de ondergrond waarop het voorwerp staat, of het touw waaraan het voorwerp hangt. Het gewicht moet daarom eigenlijk in Newton worden uitgedrukt in niet in kg. Deze kracht is niet overal op aarde hetzelfde. Een massa van 1 kg ondervindt in Nederland een kracht van ongeveer 9,81N, aan de polen is dit 9,83N en aan de evenaar 9,78N. In het dagelijks leven wordt dit vaak afgerond op 10N.
+
+Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te weten wat daar precies mee bedoeld wordt.
+
+```
+
+### Meten dichtheid
+
+**Hydrometer**
+
+Met een hydrometer meet je de soortelijke massa. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is nl. bij 20oC geijkt. Met behulp van bijgeleverde tabellen moet je dan de correctie aanbrengen.
+
+**Refractometer**
+
+Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang, maar de meeste refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
+
+```{block2, type = "rmdwarning"}
+De refractometer kun je eigenlijk alleen maar gebruiken voor nog niet vergiste wort omdat aanwezige alcohol de brekingsindex sterk beinvloedt. Met behulp van omrekentabellen kun je een gevonden meetwaarde in geheel of gedeeltelijk vergiste wort hiervoor corrigeren. Je hebt daarbij wel de waarde voor de vergisting nodig. Ook veel brouwsoftware biedt deze mogelijkheid aan.
+
+```
+
+## Bitterheid (EBU)
+
+Tijdens het koken ondergaan de alfazuren een moleculaire verandering die **isomerisatie** wordt genoemd. De ontstane stoffen worden **isoalfazuren** genoemd. De isoalfazuren zijn beter oplosbaar in wort en bier en vormen de voornaamste bron van de bitterheid van het bier. Door allerlei oorzaken komen niet alle (iso)alfazuren in het uiteindelijke bier terecht. Uiteindelijk komt slechts zo’n 10%-40% van de toegevoegde alfazuren in het bier terecht. De fractie die in het bier terecht komt wordt **Decimaal Hop Rendement (DHR)** genoemd. Voor een schatting van de bitterheid van het bier is dit DHR van groot belang.
+
+### AAU en HBU
+
+In oude Amerikaanse recepten kom je nog wel eens de eenheden **AAU** (Alpha Acid Unit) en **HBU** (Homebrew Bittering Unit) tegen. Beide eenheden zijn hetzelfde en berekenen de massa van de toegevoegde alfazuren door de hoeveelheid hop te vermenigvuldigen met het percentage alfazuur van de hop. Omdat deze eenheden geen rekening houden met het hoprendement zijn ze voor de berekening van de bitterheid van het bier niet bruikbaar.
+
+De berekening van de hoeveelheid toegevoegd alfazuur kan wel nuttig zijn wanneer het alfazuurpercentage van de beschikbare hop niet overeenkomt met die in het recept. Wanneer je toch evenveel alfazuur wilt toevoegen, dan kun je erg eenvoudig de hoeveelheid hop berekenen.
+
+Staat bijvoorbeeld in een recept dat je 52 gram Cascade hop 5,8% alfa moet toevoegen en beschik je over Cascade hop met 7,5% alfa, dan is de hoeveelheid die je hiervan moet toevoegen $52 \times \frac {5,8}{7,5} = 40$ gram.
+
+### IBU en EBU
+
+Een betere maat om de bitterheid te berekenen is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
+
+$$\text{1 EBU = 1 IBU = 1 mg isoalfazuur per liter bier = 1 ppm isoalfazuur}$$
+
+In de volgende tabel is te zien hoe deze waarden ervaren worden.
+
+|Bitterheid    |EBU    |
+|:-------------|:------|
+|Weinig bitter | 5 -20 |
+|Bitterig      | 20-30 |
+|Bitter        | 30-40 |
+|Zeer bitter   | > 40  |
+
+### Berekening EBU
+
+In de ideale situatie waarin alle alfazuren omgezet worden in isoalfazuren, dus bij een hoprendement van 100%, kan de EBU met de volgende formule berekend worden:
+
+$$EBU_{ideaal} = 1000 \times \frac{{W \times A}}{V}\text{ in mg/lit}$$
+
+-  W = hoeveelheid toegevoegde hop (gram)
+-  A = de fractie alfazuur (als decimaal getal, geen percentage!)
+-  V = volume van het uiteindelijke bier (liter)
+-  De factor 1000 is voor de omrekening van gram naar mg.
+
+**Voorbeeld**
+
+Een toevoeging van 15 gram Hallertauer 4% alfa aan 25 liter wort geeft
+
+$EBU_{ideaal} = 1000 \times \frac{{15 \times 0,04}}{{25}} = 24$
+
+De werkelijkheid is complexer, immers niet alle alfazuren komen in het bier. Om dit in rekening te brengen wordt de ideale uitkomst met een getal vermenigvuldigd welke alle processen in rekening brengt die er voor zorgen dat de hoeveelheid isoalfazuren in het bier minder is dan de hoeveelheid alfazuren toegevoegd aan de wort. Dit getal is het eerder genoemde decimaal hoprendement (DHR). De formule wordt dan:
+
+$$EBU = EB{U_{ideaal}} \times DHR$$
+
+DHR = Decimaal Hop rendement (als fractie, dus geen percentage)
+
+Zou in het geval van het vorige voorbeeld het hoprendement 25% bedragen (dus DHR = 0,25) dan is EBU = 24 * 0,25 = 6.
+
+Deze eenvoudige recht toe recht aan formule wordt door alle software programma’s gebruikt om de EBU in het bier te schatten. Het probleem is echter het bepalen van het hoprendement. Daarin verschillen de programma’s en tabellen die je tegenkomt.
+
+**Eenvoudige methode**
+
+Gebruik voor een ruwe schatting van de rendementsfactor (DHR) de volgende tabel.
+
+| Soort hop | Kooktijd (min) | DHR  |
+|:----------|:--|:-----------|:-----|
+| Bitterhop | >= 60          | 0,25 |
+| Smaakhop  | 10-30          | 0,10 |
+| Aromahop  | < 10           | 0    |
+| Dryhop    | -              | 0    |
+
+**Kooktijd afhankelijke methodes**
+
+Vrijwel alle programma’s en methodes om de EBU/IBU te schatten houden rekening met de duur van de kooktijd en de dichtheid van de kookvloeistof. De hier besproken methodes zijn:
+
+-  Rager (Jackie: Een nauwkeurige en eenvoudige methode met correcties voor kooktijden en wortdichtheid.
+-  Garetz (Mark): Relatief ingewikkelde methode met correcties voor kooktijden, wortdichtheid, hopvorm, hopconcentratie, hopzakjes, filtering, hop veroudering en gist uitvlokking.
+-  Tinseth (Glenn): Methode (formules) met correcties voor kooktijd en wortdichtheid.
+-  Daniels (Ray): Methode met correcties voor kooktijd en wortdichtheid
+
+Daarnaast zijn er ook nog de methodes van Mosher en Noonan.
+
+De vele software programma’s bieden één of meerdere van deze methodes aan. Vaak is Tinseth de standaardkeuze.
+
+| Software | Rager | Garetz | Mosher | Tinseth | Noonan | Daniels |
+|--|--|--|--|--|--|--|
+| Brouwvisie | + | + | - | + | - | + |
+| Brouwhulp | + | + | + | + | + | + |
+| Brouwwijzer | - | - | - | + | - | - |
+
+### Samenvatting
+
+Alle methodes geven een schatting van de EBU waarde. De exacte waarde kan alleen via een laboratoriumtest bepaald worden. Uit onderzoeken blijkt ook nog eens dat de meeste mensen slechts een verschil van 4 of groter kunnen waarnemen. Hoe belangrijk is het dan nog om een zo goed mogelijke schatting te maken?
+
+De adviezen die gegeven worden komen er op neer om een zo constant mogelijk en reproduceerbaar brouwproces uit te voeren. De eigen brouwinstallatie zo goed mogelijk te leren kennen. En dan na het brouwen van een bier de berekende EBU waarde te vergelijken met een laboratoriumuitkomst (wanneer dat kan) of via proeven te vergelijken met een bier waarvan de EBU waarde bekend is. Op basis van de eventuele verschillen kun je dan een correctiefactor voor jouw brouwproces maken. Verder is het opmerkelijk dat de eenvoudige methode verrassend goede schattingen geeft.
+
+## Kleur (EBC)
+
+Hier wordt nog aan gewerkt.
+
+## Handmatige berekening
 
 Hier wordt nog aan gewerkt.

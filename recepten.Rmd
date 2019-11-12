@@ -7,7 +7,43 @@
 
 ## Inleiding
 
-Hier wordt nog aan gewerkt.
+Hoe kom je tot een recept voor een goed en succesvol bier? In het begin is dat niet eenvoudig en gebruik je snel een recept van een ander. Zeker wanneer je een volgens dit recept gebrouwen bier geproefd hebt en lekker vindt, kan dit vertrouwen in het recept geven. Soms moet je dan nog wat aan de hoeveelheden veranderen om het recept aan je eigen installatie aan te passen, maar daarna ben je snel klaar en daar is niets mis mee. Ook zijn er veel boeken en websites met recepten, teveel om op te noemen. Waar je als beginnend brouwer ook veel aan kunt hebben zijn de [Bewezen Recepten](https://www.hobbybrouwen.nl/forum/index.php?topic=4459.0) op het forum van Hobbybrouwen. Dit zijn recepten van bieren die ooit een prijs gewonnen hebben op een wedstrijd.
+
+Het wordt wat anders wanneer je een bepaald bier wilt klonen of een bier wilt brouwen dat aan bepaalde kenmerken voldoet. Dan moet je het opstellen van een recept wat systematischer aanpakken. En om een goed recept te kunnen samenstellen moet je wat weten over de kenmerken van de verschillende grondstoffen en over de processen die plaatsvinden tijdens het maischen, koken en vergisten.
+
+Een handige gids is verder de Biertypengids van Derek Walsh. Helaas is deze niet meer te koop.
+
+## Samenstellen bierrecepten
+
+Een zeer handige website die je kan helpen bij het samenstellen van recepten is het artikel [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html)} Van Jacques Bertens, ook op de site van Hobbybrouwen.
+
+### Uitleg
+
+Je begint met de keuze van een biertype. Wanneer het gewenste biertype niet in de tabel staat kies je een type dat er het dichtst bij in de buurt komt.
+
+Wordt nog verder uitgewerkt.
+
+### Voorbeeld: Weizen
+
+Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wat speelruimte te hebben hou je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst aan. Voor een Weizen zijn die
+
+-  Begin SG: 1051
+-  Alcoholpercentage (ABV): 5,2%
+-  Kleur: 15 EBC
+-  Bitterheid: 15 EBU
+
+Alleereerst de moutsamenstelling. Volgens Derek Walsh bestaat een Duitze Weizen uit 70% tarwemout en 30% pilsmout. Op de website zie je onder het kopje Mout dat een Weizen de code 108 heeft. En in de tabel met moutsoorten zie dat een verdeling van 70% tarwemout en 30% pilsmout in orde is.
+
+Dan de totale hoeveelheid mout.Uit de grafiek kun je halen dat voor een Begin SG van 1051 je nodig hebt 175 gram mout per liter wort. Voor 20 liter wort dus $20*175 gr = 3500 gram$. De samenstelling van de mout wordt dan
+
+-  Tarwemout: 2450 gram
+-  Pilsmout : 1050 gram
+
+Als Hop wordt gekozen voor een Zuid-Duitse hoppen: Hallertau Tradition met 4,9% alfazuur als bitterhop en Tettnager 3,5% als aromahop
+
+Gist Fermentis SafAle WB-06
+
+Wordt nog verder uitgewerkt.
 
 ## Huiswerk:
 
