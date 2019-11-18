@@ -24,7 +24,7 @@ De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op 
 | proteïne (eiwit)     | proteinase |
 | cellulose            | cellulase  |
 
-Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Sommige stoffen kunnen de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
+Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Een enzym heeft één optimale temperatuur en één optimale pH-waarde. In \@ref(maischproces) wordt hier verder op ingegaan. En er zijn ook stoffen die de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
 
 **Temperatuur**
 
@@ -51,21 +51,21 @@ Je maakt een *beslag* door het geschrote mout aan het *maischwater* toe te voege
 -  lichtgekleurde drogere bieren: neem 3,5 liter water per kg mout.
 -  donkere zoetige bieren: neem 2,5 liter water per kg mout.
 
-## Maischproces
+## Maischproces {#maischproces}
 
 Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen uitgevoerd. En bij elke stap wordt een bepaald rusttijd (inwerkingstijd) aangehouden. Deze temperatuurstappen met de bijbehorende rusttijden wordt het *maisschema* genoemd.
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
-### Eiwitrust
+### Eiwitrust (Proteinaserust)
 
 Temperatuurgebied: 44^o^C - 55^o^C, optimaal bij 50^o^ C.
 
-Werkzame enzym: Proteinase
+Werkzame enzym: *Proteinase*
 
 In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit en de body. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
-### Maltoserust
+### Maltoserust (Beta amylaserust)
 
 Temperatuurgebied: 55^o^C - 66^o^C, optimaal bij 62^o^ C.
 
@@ -73,7 +73,7 @@ Werkzame enzym: *Beta-Amylase*
 
 In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suiker. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
-### Versuikeringsrust
+### Versuikeringsrust(Alpha amylaserust)
 
 Temperatuurgebied: 65^o^C - 75^o^C, optimaal bij 73^o^ C.
 

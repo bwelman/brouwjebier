@@ -15,7 +15,7 @@ Water wordt door de bierbrouwer in grote hoeveelheiden gebruikt als
 -  *brouwwater* in de vorm van maischwater en spoelwater.
 -  *proceswater* voor het reinigen van de apparatuur en de koeling van de wort.
 
-Voor het brouwen van bier is de kwaliteit en samenstelling van het brouwwater van belang. Grote brouwerijen hebben vaak hub eigen waterbronnen. De anderen doen het met kraanwater. Zo bevat het water in de Achterhoek meer mineralen (is harder) dan het water in Zuid-Limburg. Ook voor het maken van bepaalde biertypes is dit van belang. Twee bekende plaatsen in deze zijn
+Voor het brouwen van bier is de kwaliteit en samenstelling van het brouwwater van belang. Grote brouwerijen hebben vaak hun eigen waterbronnen. De anderen doen het met kraanwater. Zo bevat het water in de Achterhoek meer mineralen (is harder) dan het water in Zuid-Limburg. Ook voor het maken van bepaalde biertypes is dit van belang. Twee bekende plaatsen in deze zijn
 
 -  *Pilsen* (Tsjechie) met zeer zacht water dat ideaal is voor een pils
 -  *Burton-on-Trent* (Engeland) met zeer mineraalrijk water dat ideaal is voor sterker gehopte bieren zoals een IPA.
@@ -40,10 +40,10 @@ De pH van het brouwwater zelf heeft maar een beperkte invloed op het brouwproces
 
 Wanneer je de pH van het beslag gaat meten kun je dat het beste zo'n 10 minuten na het storten van de mout doen, die wachttijd is nodig voor het stabiel worden van de pH. 
 
-Het goedkoopst kun je de pH meten met pH strips. Deze zijn te koop voor verschillende pH gebieden. Het beste kun je twee soorten kopen, eentje voor het pH bereik 5,2-6,8 en eentje voor het bereik 3,8-5,5. Ze zien in verschillende uitvoeringen te koop, zie o.a. figuur \@ref(fig:ph38-55).
+Het goedkoopst kun je de pH meten met pH strips. Deze zijn te koop voor verschillende pH gebieden. Koop strips die het pH bereik voor de amylase goed afdekken, zoals het bereik 5,2-6,8 zoals je kunt zien in figuur \@ref(fig:ph52-68).
 
-```{r ph38-55, fig.cap="pH strip voor het bereik 3,8-5,5.", echo=FALSE}
-knitr::include_graphics("images/ph38-55.png", dpi = NA)
+```{r ph52-68, fig.cap="pH strips voor het bereik 5,2-6,8.", echo=FALSE}
+knitr::include_graphics("images/ph52-68.png", dpi = NA)
 ```
 
 Voor het uitvoeren van een meting voeg je met een druppelpipetje of een lepeltje een paar druppels aan het testgebied van het papier toe, wacht even tot de strip verkleurd is en vergelijk dan de kleur met de kleurenschaal en lees de pH waarde af.

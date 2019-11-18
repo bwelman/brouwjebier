@@ -5,6 +5,8 @@
 -  Verschil kennen tussen vergistbare en overgistbare suikers.
 -  De indeling van suikers in categorieën kennen.
 -  De rol van bij de verschillende soorten suikers kennen.
+-  Welke suikers in de wort zitten.
+-  Hoe en waardoor de verschillende suikers worden afgebroken.
 
 ## Wat zijn suikers?
 
@@ -26,7 +28,7 @@ Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De mo
 
 | Naam       | Andere naam | Verbinding van      |Splitsingsenzym |
 |:-----------|:------------|:--------------------|:---------------|
-| sacharose | Sucrose     | Glucose ~ Fructose  | Saccharase     |
+| Sacharose  | Sucrose     | Glucose ~ Fructose  | Saccharase     |
 | Maltose    | Moutsuiker  | Glucose ~ Glucose   | Maltase        |
 | Lactose    | Melksuiker  | Glucose ~ Galactose | Lactase        |
 
@@ -62,7 +64,7 @@ Om een aantal redenen worden bij het brouwen soms suikers aan de wort toegevoegd
 
 ## Suikers en gist
 
-Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disachariden hebben ze het niet moeilijk, maar met de trisachariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moilijk vergistbaar en overgistbaar.
+Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disachariden hebben ze het niet moeilijk, maar met de trisachariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moeilijk vergistbaar en overgistbaar.
 
 De meeste biergisten beginnen bij het afbreken van de sacharose dat in gelijke hoeveelheden glucose en fructose wordt omgezet. Daarna vergisten ze eerst het grootste deel van de glucose voordat ze aan de andere monosachariden (fructose) beginnen. Daarna beginnen ze met de maltose en aan het eind de maltotriose.
 

@@ -15,13 +15,13 @@ Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eers
 
 Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hogere temperatuur te verwarmen en te drogen. Dit proces heet *eesten* en het gekiemde graan heet *mout*. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen en zijn ook steeds donkerder van kleur. Deze donkere moutsoorten geven het bier smaken als karamel, koffie en gebrand.
 
-Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. De mout voor Weizenbier bestaat voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
+Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. Zo bestaat het moutrecept voor Weizenbier voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
 
-Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels.
+Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels. Tegenwoordig kun je de mout tot hoeveelheden van 5kg ook in afsluitbare plastic bakken krijgen.
 
 ## Moutkleur
 
-Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden.
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
 
 De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's voor het brouwen rekenen dat voor je uit, zie hoofdstuk \@ref(brouwsoftware).
 
@@ -29,9 +29,11 @@ De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart 
 knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
 ```
 
+\pagebreak
+
 ## Moutsoorten van gerst
 
-Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn. Een belangrijke indeling is die in basismouten en speciale mouten.
+Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn en wordt het snel onoverzichtelijk. Een belangrijke indeling is die in basismouten en speciale mouten.
 
 ### Basismouten
 
@@ -49,6 +51,10 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 -  de kleur van het bier donkerder te maken
 -  een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
 
+**Broeimouten**
+
+In een broeimout blijft de korrel na het weken langer vochtig en warm. Een deel van het graan zal daardoor gaan "broeien" met als gevolg dat een deel van het zetmeel al wordt omgezet in suikers. En wanneer hierna geeest wordt zullen de ontstane suikers gaan karamelliseren. Dit in tegenstelling tot pilsmout waar na het kiemen direct geeest wordt en er geen of minder afbraak van zetmeel plaatsvindt en er meer enzymwerking overblijft. Viennamout en Münchenermout zijn zowel broeimouten als basismouten. Wat donkerder broeimouten zijn Ambermout (50 EBC) en Aromatic (150 EBC)
+
 **Cara(mel)mouten**
 
 Bij deze mouten is door een speciale methode in de mouterij een groot deel van het zetmeel al omgezet in suikers. Daarna worden de moutkorrels gedroogd waardoor deze suikers caramelliseren. Afhankelijk van de temperatuur waarbij dat gebeurt krijg je verschillende kleuren van wel 20-400 EBC.
@@ -58,6 +64,13 @@ Naast de kleur voegen deze caramouten ook veel smaak (0.a. caramel, zoetigheid) 
 **Roostmouten**
 
 Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde mout. De kleur kan varieren van bruin (50 EBC) tot nagenoeg zwart (1200-1400 EBC). Ze geven een geroosterde (gebrande, biscuitachtige) smaak aan het bier. De zeer donkere varianten zorgen voor chocolade- en koffieachtige smaken en zie je vaak terug in biertypen als porter en stout.
+
+**Bijzondere mouten**
+
+-  *Biscuitmout* is een licht geroosterde mout die een brood/biscuit aroma aan het bier geeft.
+-  *Melanoidemout* geeft het bier een wat voller karakter en tevens een wat meer rode kleur.
+-  *Zuurmout* is een moutsoort die de pH kan verlagen waardoor je hiervoor geen zuren hoeft te gebruiken.
+-  *Rookmout* is een moutsoort met een sterke rooksmaak. 
 
 ## Andere moutsoorten
 
@@ -71,7 +84,7 @@ In de middeleeuwen was gemoute haver het meest gebruikte mout, maar wordt nu nau
 
 ### Roggemout
 
-Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig gebruikt.
+Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig gebruikt. \pagebreak
 
 ## Mouterijen
 
@@ -79,7 +92,8 @@ Enkele bekende mouterijen zijn:
 
 -  Nederland
    +  [The Swaen in Kloosterzande, eigendom fam. De Groen](http://theswaen.com/nl/)
-   +  [Holland Malt in Eemshaven, eigendom fam. Swinkels](https://www.hollandmalt.com/)
+   +  [Holland Malt in Eemshaven, eigendom fam. Swinkels](https://www.hollandmalt.com/nl/)
+   +  [Vloermouterij Masterveld in Ratum](https://www.vloermouterijmasterveld.nl/)
 -  België
    +  [Dingemans in Stabroek](http://www.dingemansmout.be/)
    +  [Castle Malting in Beloeil](https://www.castlemalting.com/)

@@ -3,7 +3,7 @@
 **Doelstellingen**
 
 -  Een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken, onder begeleiding van de mentor.
--  Kennismaken met meerdere moutsoorten.
+-  Kennismaken met meerdere moutsoorten en welk effect een moutsoort op het bier heeft..
 -  Kennismaken met meerdere maischstappen en weten wat elke maischstap inhoudt.
 -  pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
 -  Verdere kennismaking met apparatuur.
@@ -11,9 +11,13 @@
 
 ## Inleiding
 
-Net als het eerste brouwsel wordt het recept en de benodigde grondstoffen weer verstrekt. De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en de achtergronden van deze maischstappen. Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en het te gebruiken water op de juiste waarde moeten brengen.
+Net als het eerste brouwsel wordt het recept en de benodigde grondstoffen weer verstrekt.
 
-Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor.
+De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en de achtergronden van deze maischstappen.
+
+Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en het te gebruiken water op de juiste waarde moeten brengen.
+
+Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor. \pagebreak
 
 ## Recept Dubbel
 
@@ -33,7 +37,7 @@ Eind SG: $\pm1014$
 -  *Hop*
    +  Challenger (6,5% alfazuur): 32 gram
 -  *Gist*
-   +  Wyeast 1214 Belgian Abbey: 2 Smackpack pakken
+   +  Wyeast 1214 Belgian Abbey: 1 Smackpack
 -  *Water*
    +  Maischwater: ca. 20 liter (hangt van apparatuur af)
    +  Spoelwater: hoeveelheid samen met mentor bepalen (hangt van meerdere factoren af)
@@ -43,7 +47,7 @@ Eind SG: $\pm1014$
 -  *Maischen*
    +  Maischdikte ligt tussen 3,5-5,5 liter/kg mout
    +  Stijgende infusie
-   +  Stap 1: $54^oC$, 60 minuten (Let op pH maisch)
+   +  Stap 1: $54^oC$, 10 minuten (Let op pH maisch)
    +  Stap 2: $63^oC$, 30 minuten
    +  Stap 3: $73^oC$, 20 minuten
    +  Stap 4: $78^oC$, 5 minuten (Uitmaischen)
@@ -96,7 +100,7 @@ Speciale aandachtspunten bij dit brouwsel.
 
 ## Bijlage: Kenmerken Dubbel
 
-volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
+Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
 
 **Algemene kenmerken**
 
@@ -131,7 +135,7 @@ Een dubbel abdijbier of trappistenbier is een bovengistend typisch Belgisch, kla
 -  Complex samenspel van mout, esters, alcohol en fenolen (rozijnensmaken komen vaak voor, kruidnagel-achtige kruidigheid is mogelijk).
 -  Hoofdsmaak is altijd in de richting van de mout.
 -  Geen diacetyl.
--  Niet zo moutig als een bock.
+-  Niet zo moutig als een bock. \pagebreak
 
 **Body**
 

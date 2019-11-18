@@ -19,13 +19,15 @@ In de lupuline zitten harsen en vluchtige oliën. De voor de bierbereiding belan
 
 Hop kun je kopen als bloemen (bellen) en pellets (vermalen en samengeperste korrels of dikke pillen). Hop moet je koel, donker en zuurstofvrij bewaren. Het beste in de diepvries in een plastic zak met zo weinig mogelijk lucht erin. Door oxidatie en een hogere temperatuur gaat de hop snel in kwaliteit omlaag, aroma en bitterheid nemen af.
 
+Andere vormen die je tegenwoordig kunt kopen zijn: hopolie al dan niet geisomeriseerd) en natte hop in blik. Deze bevatten meer zuren en oliën.
+
 ```{r hop, fig.cap="Hop: pellets en bloemen", echo=FALSE}
 knitr::include_graphics("images/hop.png", dpi = NA)
 ```
 
 ## Hopsoorten
 
-Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen.
+Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen en daarom wel *dualpurposehoppen* worden genoemd.
 
 ## Hop toevoegen
 
@@ -35,10 +37,10 @@ Je kunt op verschillende momenten hop toevoegen waarbij het kookmoment het belan
 
 Tijdens het koken (60-90 minuten) ondergaan de alfazuren een moleculaire verandering, *isomerisatie* genoemd. De ontstane stoffen worden *isoalfazuren* genoemd, welke beter oplosbaar zijn in wort en bier en de voornaamste bron van de bitterheid van het bier vormen. De betazuren zijn minder oplosbaar in de wort, maar leveren ook nog een kleine bijdrage aan de bitterheid van het bier.
 
-Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een hopzakje toevoegt. Deze kun je na het koken weer uit de ketel vissen.
+Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. En je ook van een *hopspider* gebruik maken.
 
-```{r ihopzakje, fig.cap="Hopbloemen in een hopzakje.", echo=FALSE}
-knitr::include_graphics("images/hopzakje.png", dpi = NA)
+```{r ihop-zakje-spider, fig.cap="Links een hopzakje, rechts een hopspider.", echo=FALSE}
+knitr::include_graphics("images/hop-zakje-spider.png", dpi = NA)
 ```
 
 Slechts een gedeelte van de alfazuren wordt omgezet in isoalfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
@@ -51,3 +53,9 @@ Slechts een gedeelte van de alfazuren wordt omgezet in isoalfazuren. De hoeveelh
 ### Koudhoppen (Dry hopping)
 
 Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of destinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is.
+
+
+```{block2, type = "rmdinfo"}
+Brouwers blijven experimenteren om meer hoparoma te krijgen. Zo zijn er brouwerijen die het bier voordat het afgevuld of getapt wordt, door een buis met verse hopbloemen laten lopen.
+
+```
