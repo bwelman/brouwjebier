@@ -98,26 +98,36 @@ Brouwsoftware kan voor je uitrekenen hoeveel gist je nodig hebt en ook hoeveel g
 
 Een giststarter maak je om gistcellen te vermenigvuldigen, zodat er meer gistcellen beschikbaar komen, wat nodig kan zijn voor een groter volume wort of wort met een hoger SG. Het gebruik van een giststarter brengt de vergisting sneller op gang en ook zie je of de gist nog vitaal is. Bij gebruik van vloeibare gist wordt het maken van een gisstarter altijd aangeraden. Voor korrelgisten is het niet echt nodig, maar kan het om dezelfde redenen ook nuttig zijn.
 
-Maak de giststarter 2-3 dagen voordat je de gist aan de wort wilt toevoegen. Het benodigde volume van de giststarter hangt af van het begin SG van de wort, de batchgrootte, de leeftijd van de gist en het al dan gebruiken van een magneetroerder. Gebruik een gistcalculator om uit te rekenen hoeveel gistarter je moet maken en hoeveel gist je daarvoor nodig hebt. Wanneer je spoedig weer deze gist nodig hebt kan het handig zijn om wat giststarter meer te maken, zodat je het overblijvende deel in de koelkast kunt bewaren (of invriezen) voor later gebruik.
+Maak de giststarter 2-3 dagen voordat je de gist aan de wort wilt toevoegen. Het benodigde volume van de giststarter hangt af van het begin SG van de wort, de batchgrootte, de leeftijd van de gist en het al dan gebruiken van een magneetroerder. Gebruik een gistcalculator of brouwsoftware om uit te rekenen hoeveel gistarter je moet maken en hoeveel gist je daarvoor nodig hebt. Een vuistregel is 10% van de hoeveelheid te brouwen bier. Wanneer je spoedig weer deze gist nodig hebt kan het handig zijn om wat meer giststarter te maken, zodat je het overblijvende deel in de koelkast kunt bewaren (of invriezen) voor later gebruik.
+
+De beste voedingsbron voor de gist in een starter is maltose. Daarvoor maak je met moutextractpoeder een oplossing met een SG van ongeveer 1,040 (niet zwaarder). Een alternatief is om op een brouwdag 1-2 liter wort achter te houden, in te vriezen om deze dan later als voedingsbron voor de starter te gebruiken. Gebruik geen oplossing van kristalsuiker want dan heb je grote kans dat de vergisting van de wort minder goed verloopt.
+
+Het handigste is het om meteen vanaf het begin alles in een erlenmeyer uit te voeren. Anders zul je met een steelpan en flessen moeten werken. De erlenmeyer moet voldoende groot zijn, ongeveer anderhalf keer de hoeveelheid giststarter, want er kan soms nogal veel schuim ontstaan. De erlenmeyer sluit je af met een gevouwen kapje van aluminiumfolie. Gebruik geen waterslot want er moet lucht (zuurstof) bij de gist kunnen komen.
+
+Verder is het gebruik van een magneetroerder erg nuttig omdat voor de gistgroei zuurstof nodig is. De roersnelheid moet zodanig zijn dat een een kleine trechter (vortex) in de vloeistof getrokken wordt. Sneller roeren is niet nodig. Wanneer je niet over een roermotor beschikt moet je de oplossing regelmatig schudden en zwenken zodat er zoveel mogelijk zuurstof in de oplossing komt. Een alternatief is beluchten met een steriel luchtfiltertje en een pompje.
+
+
+```{r giststarter, fig.cap="Giststarter op magneetroerder", echo=FALSE}
+knitr::include_graphics("images/giststarter.png", dpi = NA)
+```
 
 **Recept voor 1 liter giststarter**
 
-1.  Weeg 100 gram moutextract af en doe deze in een voldoend grote (steel)pan. Direct in een erlenmeyer kan ook.
+1.  Weeg 100 gram moutextractpoeder af en doe deze in een voldoend grote erlenmeyer.
 1.  Voeg 1 liter kraanwater toe.
 1.  Voeg eventueel gistvoedingszout toe (Optioneel)
 1.  Roer goed en kook het mengsel 10-15 minuten.
-1.  Doe de inhoud in een gedesinfecteerde erlenmeyer van voldoende grootte.
-1.  Dek de erlenmeyer af met een kap van aluminiumfolie (gedesinfecteerd).
+1.  Dek de erlenmeyer af met een kapje van aluminiumfolie (gedesinfecteerd).
 1.  Koel de erlenmeyer met inhoud in koud waterbad af tot kamertemperatuur.
 1.  Voeg de gist (die op kamertemperatuur is) toe.
-1.  Indien mogelijk roer zo'n 12-18 uur met een magneetroerder. Wanneer je die niet hebt dan regelmatig schudden zodat er zoveel mogelijk zuurstof in de oplossing komt. Bij gebruik van oude gist duurt het proces langer en moet je ook langer roeren.
-1.  Stop met roeren/schudden. Bij gebruik van een magneetroerder de roervlo verwijderen.
+1.  Indien mogelijk roer zo'n 12-18 uur met een magneetroerder. Bij gebruik van oude gist duurt het proces langer en moet je ook langer roeren. Je kunt de afnemende activiteit waarnemen doordat er steeds minder schuim gevormd wordt. De kleur van de giststarter lijkt op die van koffie met melk. Laat de starter niet tot het einde doorgisten want dan neemt vitaliteit van de gist weer af.
+1.  Stop met roeren/schudden. Bij gebruik van een magneetroerder de roervlo verwijderen. Hiervoor zijn handige magnetische hulpmiddelen beschikbaar zodat je de vloeistof niet besmet.
 1.  De gist zal uitvlokken en een witte laag op de bodem vormen.
 1.  Wanneer je de giststarter niet meteen gebruikt, zet deze dan in de koelkast, nog steeds met de aluminiumkap erop.
 
 **Gebruik giststarter**
 
 1.  Decanteer voorzichtig zo'n 80% van de heldere bovenste laag vloeistof, zonder de gistlaag op de bodem te verstoren.
-1.  Wanneer de giststarter uit de koelkast komt, laat deze dan eerst op de temperatuur van de wort komen.
+1.  Wanneer de giststarter uit de koelkast komt, laat deze dan eerst op de temperatuur van de wort komen. Zorg dat daar voldoende tijd voor beschikbaar is.
 1.  Schud de erlenmeyer zodat je een mooie suspensie van de gist krijgt.
 1.  Voeg de gistsuspensie aan de inhoud van het gistvat toe.
