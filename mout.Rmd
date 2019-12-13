@@ -53,7 +53,9 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 -  de kleur van het bier donkerder te maken
 -  een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
 
-Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
+Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten.
+
+>Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
 
 **Broeimouten**
 
@@ -71,7 +73,7 @@ Crystalmouten worden op een soortgelijke wijze gemaakt. Deze hebben meer een tof
 
 Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde mout. De kleur kan varieren van bruin (50 EBC) tot nagenoeg zwart (1200-1400 EBC). Ze geven een geroosterde (gebrande, biscuitachtige) en bittere smaak aan het bier. De zeer donkere varianten zorgen voor chocolade- en koffieachtige smaken en zie je vaak terug in biertypen als porter en stout.
 
-**Bijzondere mouten**
+**Bijzondere moutsoorten**
 
 -  *Biscuitmout* is een licht geroosterde mout die een brood/biscuit aroma aan het bier geeft.
 -  *Melanoidemout* geeft het bier een wat voller karakter en tevens een wat meer rode kleur.
@@ -90,7 +92,7 @@ In de middeleeuwen was gemoute haver het meest gebruikte mout, maar wordt nu nau
 
 ### Roggemout
 
-Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig gebruikt. \pagebreak
+Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig gebruikt.
 
 ## Mouterijen
 

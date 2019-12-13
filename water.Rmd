@@ -26,7 +26,7 @@ Naast de hardheid van het water speelt ook de zuurgraad (pH) een rol bij verschi
 
 ## Zuurgraad
 
-[Wikipedia](https://nl.wikipedia.org/wiki/PH) zegt over de pH het volgende. De pH is een maat voor de *zuurgraad* (ook wel *zuurtegraad*) van een waterige oplossing. De pH van een neutrale waterige oplossing ligt bij kamertemperatuur rond de 7. Zure oplossingen hebben een pH lager dan 7, en dus een hoge zuurgraad. Basische oplossingen hebben een pH hoger dan 7 en dus een lage zuurgraad.
+De pH is een maat voor de *zuurgraad* van een waterige oplossing. De pH van een neutrale waterige oplossing ligt bij kamertemperatuur rond de 7. Zure oplossingen hebben een pH lager dan 7, en dus een hoge zuurgraad. Basische oplossingen hebben een pH hoger dan 7 en dus een lage zuurgraad.
 
 Hoe zuur een oplossing is wordt bepaald door het aantal $H_3O^+$ ionen. De pH wordt hieruit berekend via de negatieve logaritme van de concentratie van deze ionen. In de scheikunde wordt de concentratie van een deeltje genoteerd met vierkante haken (blokhaken). De pH  bereken je dan met de volgende formule: $pH = -log([H_3O^+])$
 
@@ -54,7 +54,7 @@ Je kunt de **pH verlagen** door het toevoegen van melkzuur of fosforzuur en de *
 
 
 ```{block2, type = "rmdtip"}
-Wanneer je over de watersamenstelling van het drinkwaterbedrijf beschikt kun je ook redelijk goed de pH van het brouwsel vooraf berekenen met brouwsoftware (o.a. het gratis Brouwhulp).
+Wanneer je over de watersamenstelling van het drinkwaterbedrijf beschikt kun je ook redelijk goed de pH van het brouwsel vooraf berekenen met brouwsoftware.
 
 ```
 
