@@ -17,11 +17,13 @@ Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hog
 
 Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. Zo bestaat het moutrecept voor Weizenbier voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
 
+Gerst is een landbouwgewas dat tot de grassenfamilie behoort. Je hebt zomergerst en wintergerst. *Zomergerst* moet zo vroeg mogelijk gezaaid worden, als het kan vanaf half februari tot begin april. De oogsttijd is half augustus. Zomergerst is meestal *tweerijig* en wordt het meest gebruikt voor het brouwen van bier. *Wintergerst* wordt in de eerste helft van oktober gezaaid en geoogst eind juli, begin augustus. Wintergerst is meestal *zesrijig* en bevat veel meer eiwitten en minder zetmeel dan de tweerijige zomergerst. Met name in Amerika wordt deze gerst veel gebruikt voor het brouwen van bier.(Bron: https://nl.wikipedia.org/wiki/Gerst)
+
 Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels. Tegenwoordig kun je de mout tot hoeveelheden van 5kg ook in afsluitbare plastic bakken krijgen.
 
 ## Moutkleur
 
-Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in EBC-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in *EBC*-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
 
 De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's voor het brouwen rekenen dat voor je uit, zie hoofdstuk \@ref(brouwsoftware).
 
@@ -29,15 +31,15 @@ De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart 
 knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
 ```
 
-\pagebreak
-
 ## Moutsoorten van gerst
 
 Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn en wordt het snel onoverzichtelijk. Een belangrijke indeling is die in basismouten en speciale mouten.
 
 ### Basismouten
 
-Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken. Dit wordt ook wel omschreven als "Je mag tot 100% storten". Veel gebruikte basismouten zijn:
+Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken, dus voor 100% in de moutstort gebruiken.
+
+Veel gebruikte basismouten zijn:
 
 -  **Pilsmout** (ca. 3-5 EBC), wordt gebruikt voor pils zoals de naam al aangeeft, maar het wordt in veel andere brouwsels gebruikt omdat het zoveel enzymen bevat.
 -  **Palemout** (ca. 5-7 EBC), wordt veel voor Engelse en Amerikaanse biertypen gebruikt zoals Pale Ale, geeft een wat moutiger smaak dan pilsmout.
@@ -51,19 +53,23 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 -  de kleur van het bier donkerder te maken
 -  een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
 
+Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
+
 **Broeimouten**
 
 In een broeimout blijft de korrel na het weken langer vochtig en warm. Een deel van het graan zal daardoor gaan "broeien" met als gevolg dat een deel van het zetmeel al wordt omgezet in suikers. En wanneer hierna geeest wordt zullen de ontstane suikers gaan karamelliseren. Dit in tegenstelling tot pilsmout waar na het kiemen direct geeest wordt en er geen of minder afbraak van zetmeel plaatsvindt en er meer enzymwerking overblijft. Viennamout en Münchenermout zijn zowel broeimouten als basismouten. Wat donkerder broeimouten zijn Ambermout (50 EBC) en Aromatic (150 EBC)
 
-**Cara(mel)mouten**
+**Cara(mel)- en Crystalmouten**
 
-Bij deze mouten is door een speciale methode in de mouterij een groot deel van het zetmeel al omgezet in suikers. Daarna worden de moutkorrels gedroogd waardoor deze suikers caramelliseren. Afhankelijk van de temperatuur waarbij dat gebeurt krijg je verschillende kleuren van wel 20-400 EBC.
+Bij deze mouten is door een speciale methode in de mouterij een groot deel van het zetmeel al omgezet in suikers. Daarna worden de moutkorrels gedroogd waardoor deze suikers caramelliseren. Afhankelijk van de temperatuur waarbij dat gebeurt krijg je verschillende kleuren van wel 20-400 EBC. Deze mouten bevatten geen enzymen meer.
 
-Naast de kleur voegen deze caramouten ook veel smaak (0.a. caramel, zoetigheid) aan het bier toe. Ze worden gebruikt in hoeveelheden van 5% (donkergekleurde variant) tot 30% (lichtgekleurde variant) van de totale hoeveelheid mout.
+Naast de kleur voegen deze caramouten ook veel smaak (o.a. caramel, zoetigheid) en body aan het bier toe. Ze worden gebruikt in hoeveelheden van 5% (donkergekleurde variant) tot 30% (lichtgekleurde variant) van de totale hoeveelheid mout.
+
+Crystalmouten worden op een soortgelijke wijze gemaakt. Deze hebben meer een toffee-smaak.
 
 **Roostmouten**
 
-Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde mout. De kleur kan varieren van bruin (50 EBC) tot nagenoeg zwart (1200-1400 EBC). Ze geven een geroosterde (gebrande, biscuitachtige) smaak aan het bier. De zeer donkere varianten zorgen voor chocolade- en koffieachtige smaken en zie je vaak terug in biertypen als porter en stout.
+Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde mout. De kleur kan varieren van bruin (50 EBC) tot nagenoeg zwart (1200-1400 EBC). Ze geven een geroosterde (gebrande, biscuitachtige) en bittere smaak aan het bier. De zeer donkere varianten zorgen voor chocolade- en koffieachtige smaken en zie je vaak terug in biertypen als porter en stout.
 
 **Bijzondere mouten**
 

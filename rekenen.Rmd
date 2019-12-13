@@ -104,7 +104,7 @@ Gebruik voor een ruwe schatting van de rendementsfactor (DHR) de volgende tabel.
 
 **Kooktijd afhankelijke methodes**
 
-Er zijn verschillende methodes om de EBU/IBU te schatten houden rekening met de duur van de kooktijd en de dichtheid van de kookvloeistof. Deze zijn genoemd naar de bedenker van de methode, zoals: Rager, Garetz, Tinseth, Daniels. De vele software programma’s bieden vaak één of meerdere van deze methodes aan. Leestal is Tinseth de standaardkeuze.
+Er zijn verschillende methodes om de EBU/IBU te schatten houden rekening met de duur van de kooktijd en de dichtheid van de kookvloeistof. Deze zijn genoemd naar de bedenker van de methode, zoals: Rager, Garetz, Tinseth, Daniels. De vele software programma’s bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
 
 **Samenvatting**
 
@@ -112,12 +112,25 @@ Alle methodes geven een schatting van de EBU waarde. De exacte waarde kan alleen
 
 De adviezen die gegeven worden komen er op neer om een zo constant mogelijk en reproduceerbaar brouwproces uit te voeren. De eigen brouwinstallatie zo goed mogelijk te leren kennen. En dan na het brouwen van een bier de berekende EBU waarde te vergelijken met een laboratoriumuitkomst (wanneer dat kan) of via proeven te vergelijken met een bier waarvan de EBU waarde bekend is. Op basis van de eventuele verschillen kun je dan een correctiefactor voor jouw brouwproces maken. Verder is het opmerkelijk dat de eenvoudige methode verrassend goede schattingen geeft.
 
-## Kleur (EBC)
-
-Hier wordt nog aan gewerkt.
-
-
 ## Moutberekening
+
+Van een mout kun je maar een bepaald percentage van de massa omzetten in extract (voornamelijk suikers). Dit is voor elke mout verschillend en wordt door de mouterij in een laboratorium bepaald en bij de productspecificaties vermeld. Dit percentage wordt *potentieel extract* genoemd. Hoe hoger de potentiele extractwaarde, des te meer zetmeel er in de mout zit. Voor basismouten (pilsmout, Münchener, ...) ligt het potentieel extract in de buurt van 80%. Mout in de verpakking van de mouterij bevat meestal zo'n 4% vocht waardoor de massa van de mout slechts 96% is. Voor bijvoorbeeld pilsmout is dan het werkelijke potentieel extract 80%*96% = 76,8%.
+
+In de volgende tabel is voor een paar mouten van mouterij Dingemans het werkelijke potentiele extract berekend.
+
+| Moutsoort     | Pot. extract | Vochtigheid | Werkelijk extract |
+|:--------------|:-------------|:------------|:------------------|
+| Pilsmout      | 80%          | 4,5%        | 76,4%             |
+| Münchener     | 80%          | 4,5%        | 75,9%             |
+| Amber 50      | 79%          | 4,5%        | 75,4%             |
+| Cara 120      | 74%          | 6,0%        | 69,6%             |
+| Special B     | 72%          | 5,0%        | 68,4%             |
+| Chocolademout | 70%          | 4,5%        | 66,9%             |
+| Tarwemout     | 83%          | 6,5%        | 77,6%             |
+
+Je krijgt echter niet al het potentieel extract in de kookketel. Bij het maischen wordt niet alle zetmeel omgezet in suikers. En bij het spoelen worden niet alle suikers uitgespoeld, er blijft wat in de bostel achter. Al met al krijg je dus minder suikers in de wort dan waar je op gerekend had. Het rendement van deze processen samen heet het *brouwzaalrendement*. Dit ligt meestal tussen de 65% en 80% en moet je proefondervindelijk voor je egen installatie bepalen.
+
+## Kleur (EBC)
 
 Hier wordt nog aan gewerkt.
 

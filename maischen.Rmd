@@ -63,25 +63,31 @@ Temperatuurgebied: 44^o^C - 55^o^C, optimaal bij 50^o^ C.
 
 Werkzame enzym: *Proteinase*
 
-In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit en de body. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
+In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens, onder andere aminozuren. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit, de body en een goede vergisting. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
-### Maltoserust (Beta amylaserust)
+> **Eiwitrust (optioneel): zorgt voor betere schuimkraag en vergisting.**
+
+### Maltoserust (Beta-amylaserust)
 
 Temperatuurgebied: 55^o^C - 66^o^C, optimaal bij 62^o^ C.
 
 Werkzame enzym: *Beta-Amylase*
 
-In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suiker. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
+In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suikers. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
-### Versuikeringsrust(Alpha amylaserust)
+> **Beta-amylaserust: zorgt voor meer alcohol en droger bier.**
 
-Temperatuurgebied: 65^o^C - 75^o^C, optimaal bij 73^o^ C.
+### Versuikeringsrust(Alpha-amylaserust)
+
+Temperatuurgebied: 65^o^C - 75^o^C, optimaal bij 72^o^ C.
 
 Werkzame enzym: *Alpha-Amylase*
 
 Breekt het overgebleven zetmeel af tot vergistbare en vooral onvergistbare suikers (dextrines). Deze laatsten zorgen voor een volmondiger bier.
 
 Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er nog zetmeel in het beslag zit. Zoja, dan moet je de rusttijd nog wat langer laten duren.
+
+> **Alpha-amylaserust: zorgt voor volmondiger bier.**
 
 ### Samenvatting
 
@@ -90,7 +96,7 @@ In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De 
 | Stap:              | **Eiwitrust**  | **Maltoserust**  | **Versuikeringsrust**  |
 |:-------------------|:---------------|:-----------------|:-----------------------|
 | Enzym              | Proteinase     | beta-amylase     | alpha-amylase          |
-| Temperatuur (^o^C) | 50 (44-55)     | 62 (55-66)       | 73 (65-75)             |
+| Temperatuur (^o^C) | 50 (44-55)     | 62 (55-66)       | 72 (65-75)             |
 | Rusttijd (min.)    | 10-30          | 15-45            | 15-45                  |
 | pH                 | 4,2-5,3        | 5,0-5,6          | 5,3-5,8                |
 

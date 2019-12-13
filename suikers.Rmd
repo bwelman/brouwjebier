@@ -73,3 +73,13 @@ Het is bekend dat in wort met hoge gehaltes van glucose en fructose (meer dan 15
 ## Samenvatting
 
 Van belang om te onthouden is dat alle vergistbare suikers worden afgebroken tot monosachariden en dat de gist voorrang geeft aan het omzetten van die suikers. Bij het formuleren van het maischproces heb je invloed op de soort suikers die in de wort komen. En samen met de keuze voor een gistsoort heb je hierdoor invloed op de hoeveelheid onvergistbare suikers in het bier.
+
+**Vergistbare suikers**
+
+-  Ontstaan vooral tijdens Beta-Amylase bij 62^o^ C.
+-  Zorgen voor alkohol in het bier.
+
+**Onvergistbare suikers**
+
+-  Ontstaan vooral tijdens Beta-Amylase bij 72^o^ C.
+-  Zorgen voor body in het bier.
