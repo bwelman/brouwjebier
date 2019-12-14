@@ -6,19 +6,38 @@
 -  Weten welke kruiden/specerijen bij de bierbereiding gebruikt kunnen worden
 -  Weten wanneer en hoeveel kruiden je kunt toevoegen.
 
-## Inleiding
+## Welke kruiden?
 
-Je kunt voor het brouwen van bier ook kruiden (en/of specerijen) gebruiken om het bier een bepaalde smaak en aroma te geven. Met name in witbieren, tripels en zogenaamde winterbieren kom je vaak kruiden tegen. Deze kruiden worden gedurende de laatste 5-10 minuten meegekookt. Voor de toe te voegen hoeveelheid moet je wat experimenteren. Gebruik vooral niet teveel!
+Je kunt voor het brouwen van bier ook kruiden (en/of specerijen) gebruiken om het bier een bepaalde smaak en aroma te geven. Met name in witbieren, tripels en zogenaamde winterbieren kom je vaak kruiden tegen. Deze kruiden worden gedurende de laatste 5-10 minuten meegekookt. Voor de toe te voegen hoeveelheid moet je wat experimenteren. Gebruik vooral niet teveel! Weeg de hoeveelheden af met een lepelweegschaal.
 
-## Welke kruiden
+```{r lepelweegschaal, fig.cap="Lepelweegschaal (0,1 gram nauwkeurig)", echo=FALSE}
+knitr::include_graphics("images/lepelweegschaal.png", dpi = NA)
+```
 
-In de volgende tabel staan kruiden die je vaak tegen komt.
+Op hobbybrouwen.nl kun je over dit onderwerp een nuttig artikel vinden van Jacques Bertens [@bertensKruiden1997]. Een paar veel gebruikte kruiden worden hierna kort besproken.
 
-| Kruid         | Toelichting    |
-|:--------------|:---------------|
-| Koriander     | Het meest gebruikte kruid. Aanwezig in veel witbieren en tripels. Kneus de zaden |
-| Sinaasappelschil | Vooral in witbieren. Gedroogde schillen. |
-| Curaçaoschil     | Zure sinaasappel, Geeft bitterheid. In witbieren en tripels Gedroogde schillen. |
-| Zoethout | Vooral in abdijbieren en winterbieren  |
+**Korianderzaad**
 
-https://www.hobbybrouwen.nl/artikel/kruiden.html
+Koriander is het meest gebruikte kruid in bier. Je komt het vooral tegen in witbieren en tripels. Kneus de zaden in een vijzel. Hoeveelheid 2-5 gram per 10 liter.
+
+**Sinaasappelschillen**
+
+Sinaasappelschillen worden het meest gebruikt bij witbieren, blonde bieren en tripels. Je kunt gebruik maken van gedroogde schillen (zoet of bitter) schillen of verse schillen (biologisch). De meeste hobbybrouwers gebruiken gedroogde schillen.
+
+-  *Gedroogde zoete sinaasappelschillen* geven een fruitige smaak.
+-  *Gedroogde bittere sinaasappelschillen* geven een bittere smaak.
+-  *Verse sinaasappelschillen* geven een bittere en/of fruitige smaak, afhankelijk van de sinaasappelsoort.
+
+De hoeveelheden die je in recepten tegenkomt lggen meestal tussen de 5 en 10 gram per liter.
+
+**Zoethout**
+
+Zoethout geeft een wat zoete en droppige smaak. Je komt het vooral tegen winterbieren, abdijbieren en tripels. het handigste is het om zoethout in de vorm van snippers te gebruiken. Gebruik tussen de 10 en 50 gram per 10 liter.
+
+**Kruidnagel**
+
+Kruidnagel geeft een kruidig aroma. Je komt het vooral tegen in winterbieren en witbieren. Je kunt de kruidnagel rechtstreeks toevoegen zonder deze eerst te kneuzen. Gebruik tussen de 0,5 tot 1 gram per 10 liter.
+
+**Kardemomzaad**
+
+Kardemom geeft een wat scherpe, frisse en aromatische smaak aan het bier. Je komt het vooral tegen bij blonde bieren en tripels, o..a. Tripel Karmeliet. Kneus de zaadjes. Gebruik 0,5 tot 2 gram per 10 liter.

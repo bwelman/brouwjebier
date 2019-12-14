@@ -2,40 +2,92 @@
 
 **Doelstellingen**
 
--  Soortelijk gewicht /Dichtheid
--  Bitterheid (IBU)
--  Kleur (EBC)
--  Handmatige berekening hoeveelheid mout, maischwater en spoelwater
+-  Kennis van de volgende eenheden:
+    +  Extractgehalte (Brix, Plato, SG/Dichtheid)
+    +  Bitterheid (IBU)
+    +  Kleur (EBC)
+-  Berekening hoeveelheid mout, water (maischwater-spoelwater) en hop.
 
-## Dichtheid
+## Extractgehalte
 
-Het suikergehalte van de wort kan bepaald worden door de dichtheid of soortelijke massa van de wort te meten. Je kunt de gevonden waarde bijvoorbeeld gebruiken om te bepalen hoeveel er nog gespoeld moet worden. Verder is het erg belangrijk om de soortelijke massa aan het begin en het einde van de vergisting te bepalen. Je kunt hieraan zien of de vergisting afgelopen is en ook kun je dan het alcoholpercentage van het bier bepalen.
+Met *extract* wordt bedoeld de totale hoeveelheid van alle opgeloste stoffen in de wort of bier. Het extractgehalte in de wort voor aanvang van de vergisting wordt *stamwort* genoemd en wordt uitgedrukt in *graden Plato*. Voor commerciële brouwers is het stamwort een belangrijke waarde, want hierover wordt de te betalen belasting berekend.
+
+Na vergisting van de wort zijn alleen de vergistbare suikers in alkohol omgezet, er zit dus nog "restextract" in het bier. Dit is wat de *body* van het bier genoemd wordt.
+<!--- http://www.belgium-beer.be/page3.html -->
+
+Het meten van het extractgehalte is om vele redenen belangrijk:
+
+-  Het stamwort bepaalt mede de hoeveelheid alkohol in het bier.
+-  Aan de gemeten waarde in de spoelvloeistof kun je zien hoeveel er nog gespoeld moet worden.
+-  Aan de gemeten waarde in de vergistende vloeistof kun je zien of de vergisting is afgelopen.
+
+Er zijn verschillende eenheden die iets zeggen over het extractgehalte: Plato, Brix en SG/Dichtheid.
+
+### Plato en Brix
+
+Plato en Brix zijn beide eenheden om het massapercentage extract in een vloeistof uit te drukken. De definities voor beide zijn hetzelfde:
+
+$$\text{1 graad Plato/Brix = 1 gram sucrose (sacharose) in 100 gram oplossing}$$
+
+De meetmethoden voor Plato en Brix zijn verschillend. Zo wordt Plato meestal met een hydrometer gemeten en Brix met een refractometer. Wanneer een oplossing alleen maar sucrose bevat zal de Plato- en Brixmeting hetzelfde getal opleveren. Echter wortextract is geen 100% sucrose-oplossing, het bevat ook andere stoffen, waardoor in de praktijk de waarden niet hetzelfde zijn. De verschillen zijn klein. veel gebruikte omrekenformules zijn:
+
+$$\text{Brix} = 1,04 \times \text{Plato} \Leftrightarrow \text{Plato} = \text{Brix } / 1,04$$
+
+### SG/Dichtheid
 
 De *dichtheid* of *soortelijke massa* van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Dit is de grootste dichtheid bij een standaard atmosferische druk (1013,25 hectoPascal = 1013,25 millibar = 1 atm). Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m3 = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
 
-De *relatieve dichtheid* of *Specific Gravity* (SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is dus 1.
+$$\rho = \frac{M}{V}$$
+
+met
+
+-  $\rho =$ dichtheid (kg/m^3^)
+-  $M$ = massa (kg)
+-  $V$ = volume (m^3^)
+
+De *relatieve dichtheid* of *Specific Gravity (SG)* van een vloeistof is de dichtheid van een vloeistof gedeeld door de dichtheid van water, beide gemeten bij dezelfde temperatuur en druk. De relatieve dichtheid is daardoor een getal zonder eenheid.   
+
+$$\text{relatieve dichtheid vloeistof} = \frac{\text{dichtheid vloeistof}}{\text{dichtheid water}}$$
+
+Bij 4^o^C en 1 atm. geldt dan ook: relatieve dichtheid water = 1.
+
+De relatieve dichtheid wordt met een hydrometer gemeten.
 
 ```{block2, type = "rmdinfo"}
-Vaak wordt ook de term *soortelijk gewicht (SG)* gebruikt om de soortelijke massa aan te geven. Dit is onjuist, het is een verouderde foutieve term. Massa en gewicht is niet hetzelfde. Massa is een stofeigenschap die onveranderlijk is. Gewicht is de kracht die de massa uitoefent onder invloed van de zwaartekracht, uitgedrukt in Newton (N). Deze kracht wordt uitgeoefend op de ondergrond waarop het voorwerp staat, of het touw waaraan het voorwerp hangt. Het gewicht moet daarom eigenlijk in Newton worden uitgedrukt in niet in kg. Deze kracht is niet overal op aarde hetzelfde. Een massa van 1 kg ondervindt in Nederland een kracht van ongeveer 9,81N, aan de polen is dit 9,83N en aan de evenaar 9,78N. In het dagelijks leven wordt dit vaak afgerond op 10N.
+Vaak wordt ook de term *soortelijk gewicht (SG)* gebruikt om de soortelijke massa aan te geven. Dit is onjuist, het is een verouderde foutieve term. Massa en gewicht is niet hetzelfde. Massa is een stofeigenschap die onveranderlijk is. Gewicht is de kracht die de massa uitoefent op de ondergrond onder invloed van de zwaartekracht, uitgedrukt in Newton (N). Deze kracht is niet overal op aarde hetzelfde. Een massa van 1 kg ondervindt in Nederland een kracht van ongeveer 9,81N, aan de polen is dit 9,83N en aan de evenaar 9,78N. In het dagelijks leven wordt dit vaak afgerond op 10N. Het gewicht moet daarom eigenlijk in Newton worden uitgedrukt en niet in kg, maar helaas gebeurt dat vaak niet. 
 
 Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te weten wat daar precies mee bedoeld wordt.
 
 ```
 
-### Meten dichtheid
+De dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is nl. bij 20oC geijkt. Met behulp van bijgeleverde tabellen moet je dan de correctie aanbrengen.
 
-**Hydrometer**
-
-Met een hydrometer meet je de soortelijke massa. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is nl. bij 20oC geijkt. Met behulp van bijgeleverde tabellen moet je dan de correctie aanbrengen.
-
-**Refractometer**
-
-Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang, maar de meeste refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
+De dichtheid van nog niet vergiste wort kun je ook meten met een **refractometer**. Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang, maar de meeste refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
 
 ```{block2, type = "rmdwarning"}
-De refractometer kun je eigenlijk alleen maar gebruiken voor nog niet vergiste wort omdat aanwezige alcohol de brekingsindex sterk beinvloedt. Met behulp van omrekentabellen kun je een gevonden meetwaarde in geheel of gedeeltelijk vergiste wort hiervoor corrigeren. Je hebt daarbij wel de waarde voor de vergisting nodig. Ook veel brouwsoftware biedt deze mogelijkheid aan.
+Tijdens of na de gisting kun je de refractometer niet zomaar gebruiken voor een SG meting. Dat komt omdat aanwezige alcohol de brekingsindex sterk beinvloedt. Met behulp van omrekentabellen of formules kan dit wel. Je hebt daarbij wel de SG-waarde voor aanvang van de vergisting nodig. Ook veel brouwsoftware biedt deze mogelijkheid aan.
 
 ```
+
+### SG-punten
+
+Bij het berekenen van de mouthoeveelheden voor een brouwsel is het erg handig om te werken met zogenaamde **SG-punten** (Engels: Graphical Units, GU).
+
+$$SG_{punten}  =  1000\times (SG  -  1) \Leftrightarrow SG  =  \frac{SG_{punten} + 1000}{1000}$$
+
+Voor een wort met $SG=1,050$ is dus $\text{SG-punten} = 1000 \times (1,050 - 1)  = 50$.
+
+### Omrekenformule SG-Plato
+
+Eenvoudige benaderingsformules zijn:
+
+-  via SG-punten: $P = \frac{SG_{punten}}{4} \Leftrightarrow SG_{punten} = 4 \times P$
+
+-  via SG: $P = 250 \times (SG - 1) \Leftrightarrow SG = 1 + \frac{P}{250}$
+
+Voor een wort met $SG = 1,050$ is dan $\text{SG-punten} = 50$ en $P = \frac{50}{4} = 12,5$.
+
+Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
 
 ## Bitterheid (EBU)
 
@@ -64,7 +116,81 @@ In de volgende tabel is te zien hoe deze waarden ervaren worden.
 |Bitter        | 30-40 |
 |Zeer bitter   | > 40  |
 
-### Berekening EBU
+## Moutberekening
+
+Om de hoeveelheid mout uit te kunnen rekenen die je voor het brouwen van een bier nodig hebt, moet je vooraf over de volgende gegevens beschikken.
+
+1.  Het bottelvolume.
+2.  Het gewenste begin SG.
+3.  De te gebruiken moutsoorten en de gewenste massapercentages hiervan.
+4.  Rendement van jouw brouwinstallatie (default waarde 70%).
+
+### Potentieel extract
+
+Van een mout kun je maar een bepaald percentage van de massa omzetten in extract (voornamelijk suikers). Dit is voor elke mout verschillend en wordt door de mouterij in een laboratorium bepaald en bij de productspecificaties vermeld. Dit percentage wordt *potentieel extract* genoemd. Hoe hoger de potentiele extractwaarde, des te meer zetmeel er in de mout zit. Voor basismouten (pilsmout, Münchener, ...) ligt het potentieel extract in de buurt van 80%. Mout in de verpakking van de mouterij bevat meestal zo'n 4% vocht waardoor de massa van de mout slechts 96% is. Voor bijvoorbeeld pilsmout is dan het werkelijke potentieel extract 80%*96% = 76,8%.
+
+In de volgende tabel is voor een paar mouten van mouterij Dingemans het werkelijke potentiele extract berekend.
+
+| Moutsoort     | Pot. extract | Vochtigheid | Werkelijk extract |
+|:--------------|:-------------|:------------|:------------------|
+| Pilsmout      | 80%          | 4,5%        | 76,4%             |
+| Münchener     | 80%          | 4,5%        | 75,9%             |
+| Amber 50      | 79%          | 4,5%        | 75,4%             |
+| Cara 120      | 74%          | 6,0%        | 69,6%             |
+| Special B     | 72%          | 5,0%        | 68,4%             |
+| Chocolademout | 70%          | 4,5%        | 66,9%             |
+| Tarwemout     | 83%          | 6,5%        | 77,6%             |
+
+Je krijgt echter niet al het potentieel extract in de kookketel. Bij het maischen wordt niet alle zetmeel omgezet in suikers. En bij het spoelen worden niet alle suikers uitgespoeld, er blijft wat in de bostel achter. Al met al krijg je dus minder suikers in de wort dan waar je op gerekend had. Het rendement van deze processen samen heet het *brouwzaalrendement*. Dit ligt meestal tussen de 65% en 80% en moet je proefondervindelijk voor je egen installatie bepalen.
+
+## Brouwhuisrendement
+
+Een andere factor waarmee rekening gehouden moet worden is dat in de praktijk bij het maischen niet alle zetmeel ook omgezet wordt in suikers. En ook blijven er altijd suikers in de bostel achter, die worden niet uitgespoeld. Je krijgt dus minder suikers in de wort dan waarop je gerekend had. Dit rendement wordt **brouwhuisrendement** genoemd. Voor veel brouwinstallaties ligt dit tussen 70%-80%.
+
+Al deze onzekerheden die niet goed in te schatten zijn zorgen er voor dat de uiteindelijke resultaten afwijken van de ideale situatie. Door regelmatig te meten tijdens je eigen brouwproces krijg je meer grip op het proces in jouw brouwerij, zullen de inschattingen realistischer worden.
+
+### Voorbeeld 1: SMASH bier
+
+Voor de berekening van de hoeveelheid mout in een recept moet je de beschikking hebben over de volgende gegevens:
+
+-  Het bottelvolume.
+-  Het gewenst begin SG.
+-  De te gebruiken moutsoorten en de gewenste massapercentages hiervan.
+-  Het brouwhuisrendement.
+
+Als eerste een eenvoudig voorbeeld, een zogenaamd SMASH bier (SMASH = Single Malt And Single Hop).
+
+Stel je wilt 10 liter SMASH bier maken met pilsmout van Dingemans, een begin SG van 1,050 en een brouwhuisrendement van 75%. Hoeveel pilsmout heb je dan nodig?
+
+Als $SG = 1,050$ dan $Plato = 250 \times(SG-1) = 250 \times 0,05 = 12,5$. Dit komt overeen met 125 gram extract per liter. In 10 liter wort moet dus 1250 gram extract terecht komen. Bij een brouwhuisrendement van 75% moet er dus 1250/75% = 1667 gram extract van de ingrediënten komen.
+
+Pilsmout van Dingemans heeft een potentieel extract van 76,4%. Dus 1000 gram pilsmout levert 764 gram extract. De benodigde hoeveelheid pilsmout is dan 1667/764 = 2182 gram.
+
+### Voorbeeld 2: Weizen
+
+Nu een voorbeeld met 2 moutsoorten: tarwemout (potentieel extract 77,6%) en pilsmout (potentieel extract 76,4%).
+
+Hoeveel van beide moutsoorten heb je nodig om 20 liter Weizen te maken met een begin SG van 1,052. De moutstort bestaat uit 65% tarwemout en 35% pilsmout. En het brouwhuisrendement is 70%.
+
+Als $SG = 1,052$, dan $Plato = 250 \times (1,052-1) = 13,0$. Dit is 130 gram extract per liter. In 20 liter wort moet dan 2600 gram extract terecht komen. Bij een brouwhuisrendement van 70% moet er dus 2600/70% = 3714 gram extract van de ingrediënten komen.
+
+65% hiervan, 2414 gram, moet van de tarwemout komen. Dus nodig 2414/77,6% = 3111 gram tarwemout
+
+35% hiervan, 1300 gram, moet van de pilsmout komen. Dus nodig 1300/76,4% = 1702 gram pilsmout
+
+Totale moutstort: 3111 + 1702 = 4813 gram
+
+## Kleur (EBC)
+
+Hier wordt nog aan gewerkt.
+
+## Waterberekening
+
+Hier wordt nog aan gewerkt.
+
+## Hopberekening
+
+### Berekening bitterheid (EBU)
 
 In de ideale situatie waarin alle alfazuren omgezet worden in isoalfazuren, dus bij een hoprendement van 100%, kan de EBU met de volgende formule berekend worden:
 
@@ -112,32 +238,3 @@ Alle methodes geven een schatting van de EBU waarde. De exacte waarde kan alleen
 
 De adviezen die gegeven worden komen er op neer om een zo constant mogelijk en reproduceerbaar brouwproces uit te voeren. De eigen brouwinstallatie zo goed mogelijk te leren kennen. En dan na het brouwen van een bier de berekende EBU waarde te vergelijken met een laboratoriumuitkomst (wanneer dat kan) of via proeven te vergelijken met een bier waarvan de EBU waarde bekend is. Op basis van de eventuele verschillen kun je dan een correctiefactor voor jouw brouwproces maken. Verder is het opmerkelijk dat de eenvoudige methode verrassend goede schattingen geeft.
 
-## Moutberekening
-
-Van een mout kun je maar een bepaald percentage van de massa omzetten in extract (voornamelijk suikers). Dit is voor elke mout verschillend en wordt door de mouterij in een laboratorium bepaald en bij de productspecificaties vermeld. Dit percentage wordt *potentieel extract* genoemd. Hoe hoger de potentiele extractwaarde, des te meer zetmeel er in de mout zit. Voor basismouten (pilsmout, Münchener, ...) ligt het potentieel extract in de buurt van 80%. Mout in de verpakking van de mouterij bevat meestal zo'n 4% vocht waardoor de massa van de mout slechts 96% is. Voor bijvoorbeeld pilsmout is dan het werkelijke potentieel extract 80%*96% = 76,8%.
-
-In de volgende tabel is voor een paar mouten van mouterij Dingemans het werkelijke potentiele extract berekend.
-
-| Moutsoort     | Pot. extract | Vochtigheid | Werkelijk extract |
-|:--------------|:-------------|:------------|:------------------|
-| Pilsmout      | 80%          | 4,5%        | 76,4%             |
-| Münchener     | 80%          | 4,5%        | 75,9%             |
-| Amber 50      | 79%          | 4,5%        | 75,4%             |
-| Cara 120      | 74%          | 6,0%        | 69,6%             |
-| Special B     | 72%          | 5,0%        | 68,4%             |
-| Chocolademout | 70%          | 4,5%        | 66,9%             |
-| Tarwemout     | 83%          | 6,5%        | 77,6%             |
-
-Je krijgt echter niet al het potentieel extract in de kookketel. Bij het maischen wordt niet alle zetmeel omgezet in suikers. En bij het spoelen worden niet alle suikers uitgespoeld, er blijft wat in de bostel achter. Al met al krijg je dus minder suikers in de wort dan waar je op gerekend had. Het rendement van deze processen samen heet het *brouwzaalrendement*. Dit ligt meestal tussen de 65% en 80% en moet je proefondervindelijk voor je egen installatie bepalen.
-
-## Kleur (EBC)
-
-Hier wordt nog aan gewerkt.
-
-## Waterberekening
-
-Hier wordt nog aan gewerkt.
-
-## Handmatige berekening
-
-Hier wordt nog aan gewerkt.

@@ -4,16 +4,35 @@
 
 -  Weten hoe je aan een goed recept kunt komen.
 -  Een bestaand recept kunnen aanpassen aan de eigen installatie.
+-  Zelf een eenvoudig recept kunnen opstellen.
 
 ## Inleiding
 
-Hoe kom je tot een recept voor een goed en succesvol bier? In het begin is dat niet eenvoudig en gebruik je snel een recept van een ander. Zeker wanneer je een volgens dit recept gebrouwen bier geproefd hebt en lekker vindt, kan dit vertrouwen in het recept geven. Soms moet je dan nog wat aan de hoeveelheden veranderen om het recept aan je eigen installatie aan te passen, maar daarna ben je snel klaar en daar is niets mis mee. Ook zijn er veel boeken en websites met recepten, teveel om op te noemen. Waar je als beginnend brouwer ook veel aan kunt hebben zijn de [Bewezen Recepten](https://www.hobbybrouwen.nl/forum/index.php?topic=4459.0) op het forum van Hobbybrouwen. Dit zijn recepten van bieren die ooit een prijs gewonnen hebben op een wedstrijd.
+Hoe kom je tot een recept voor een goed en succesvol bier? In het begin is dat niet eenvoudig en gebruik je snel een recept van een ander. Zeker wanneer je een volgens dit recept gebrouwen bier geproefd hebt en lekker vindt, kan dit vertrouwen in het recept geven. Soms moet je dan nog wat aan de hoeveelheden veranderen om het recept aan je eigen installatie aan te passen, maar daarna ben je snel klaar en daar is niets mis mee. Ook zijn er veel boeken en websites met recepten, teveel om op te noemen.
+
+Waar je als beginnend brouwer veel aan kunt hebben zijn de [Bewezen Recepten](https://www.hobbybrouwen.nl/forum/index.php?topic=4459.0) op het forum van Hobbybrouwen. Dit zijn recepten van bieren die ooit een prijs gewonnen hebben op een wedstrijd.
 
 Het wordt wat anders wanneer je een bepaald bier wilt klonen of een bier wilt brouwen dat aan bepaalde kenmerken voldoet. Dan moet je het opstellen van een recept wat systematischer aanpakken. En om een goed recept te kunnen samenstellen moet je wat weten over de kenmerken van de verschillende grondstoffen en over de processen die plaatsvinden tijdens het maischen, koken en vergisten.
 
-Een handige gids is verder de Biertypengids van Derek Walsh. Helaas is deze niet meer te koop.
+Een handige gids is verder de Biertypengids van Derek Walsh [@walshBiertypengids2002]. Helaas is deze niet meer te koop.
 
-## Samenstellen bierrecepten
+## Aanpassen bestaand recept
+
+Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen.
+
+### Aanpassen hoeveelheden
+
+Aanpassen aan een ander volume.
+
+Wordt nog verder uitgewerkt.
+
+### Aanpassen ingrediënten
+
+Andere mout, hop (of ander alfapercentage) of gist.
+
+Wordt nog verder uitgewerkt.
+
+## Nieuw recept
 
 Een zeer handige website die je kan helpen bij het samenstellen van recepten is het artikel [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html) Van Jacques Bertens, ook op de site van Hobbybrouwen.
 

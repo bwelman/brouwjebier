@@ -8,7 +8,6 @@ bookdown::gitbook:
         <li><a href="./">Een bierbrouw cursus</a></li>
       after: |
         <li><a href="https://www.twents-bierbrouwersgilde.nl/" target="blank">Twents Bierbrouwersgilde</a></li>
-    #download: ["pdf"]
     sharing:
       facebook: no
       twitter: no
@@ -20,3 +19,5 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+
+bookdown::epub_book: default
