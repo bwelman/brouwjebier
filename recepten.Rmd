@@ -14,8 +14,6 @@ Waar je als beginnend brouwer veel aan kunt hebben zijn de [Bewezen Recepten](ht
 
 Het wordt wat anders wanneer je een bepaald bier wilt klonen of een bier wilt brouwen dat aan bepaalde kenmerken voldoet. Dan moet je het opstellen van een recept wat systematischer aanpakken. En om een goed recept te kunnen samenstellen moet je wat weten over de kenmerken van de verschillende grondstoffen en over de processen die plaatsvinden tijdens het maischen, koken en vergisten.
 
-Een handige gids is verder de Biertypengids van Derek Walsh [@walshBiertypengids2002]. Helaas is deze niet meer te koop.
-
 ## Aanpassen bestaand recept
 
 Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen.
@@ -34,13 +32,45 @@ Wordt nog verder uitgewerkt.
 
 ## Nieuw recept
 
-Een zeer handige website die je kan helpen bij het samenstellen van recepten is het artikel [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html) Van Jacques Bertens, ook op de site van Hobbybrouwen.
+Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doen. Het standaardboek op dit gebied is Designing Great Beers [@danielsDesigningGreatBeers1996]. Zijn zes stappenplan ziet er als volgt uit.
 
-### Uitleg
+1.  Bepaal hoeveel en welk bier je wilt maken en wat de kenmerken van dit bier moeten zijn.
+    +  bottelvolume
+    +  gisttype (bovengistend, ondergistend, wilde gisting)
+    +  begin SG
+    +  bitterheid (IBU)
+    +  kleur (EBC)
+    +  gewenste moutkenmerken
+    +  gewenste hopkenmerken
+    +  gewenste smaak- en geurkenmerken
+    +  gewenste speciale ingrediënten (kruiden, ...)
+2.  Bepaal welke moutsoorten je wilt gebruiken en bereken de hoeveelheden hiervan.
+    +  basismout(en)
+    +  speciale mout(en)
+    +  maischschema
+3.  Bereken de hoeveelheden water en ga na of je het water moet behandelen.
+    +  waterprofiel
+    +  eventuele behandeling (pH, brouwzouten)
+4.  Bepaal welke hopsoorten je wilt gebruiken en bereken de hoeveelheden.
+    +  gewenste hoparoma en smaak
+    +  tijdstip(en) en tijdsduur hopgiften
+    +  dryhopping gewenst?
+5.  Bepaal welke gist je wilt gebruiken en stel een plan voor de vergisting op.
+    +  gistsoort
+    +  hoeveelheid gist
+    +  giststarter nodig?
+    +  vergistingstemperatuur
+    +  diacetylrust nodig?
+    +  lagering nodig?
+6.  Bepaal welke punten van belang zijn voor de afhandeling aan het eind.
+    +  klaring (natuurlijk, met hulpmiddelen)
+    +  verpakken
+       *  bottelen (bottelsuiker, bottelgist, hergistingstemperatuur en -tijd)
+       *  fust (koolzuurdruk en verzadigingsmethode)
 
-Je begint met de keuze van een biertype. Wanneer het gewenste biertype niet in de tabel staat kies je een type dat er het dichtst bij in de buurt komt.
+Een handige gids is de Biertypengids van Derek Walsh [@walshBiertypengids2002]. In deze gids vind je een overzicht van biertypen met uitgebreide technische specificaties, bijzonderheden en receptaanwijzingen voor elk biertype. Helaas is deze biertypengids niet meer te koop. De [BKG Biertypenlijst](https://www.bierkeurmeestersgilde.nl/biertypenlijst) is hieruit voortgekomen. Hierin worden ook de biertypen beschreven met hun kenmerken, maar geen recepturen. De lijst is vooral belangrijk wanneer je met jouw gebrouwde bier wilt meedoen aan een wedstrijd.
 
-Wordt nog verder uitgewerkt.
+Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html) Van Jacques Bertens, op de site van Hobbybrouwen. Je start hier met de keuze van een biertype. Wanneer het gewenste biertype niet in de tabel staat kies je een type dat er het dichtst bij in de buurt komt.
 
 ### Voorbeeld: Weizen
 
