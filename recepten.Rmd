@@ -16,19 +16,9 @@ Het wordt wat anders wanneer je een bepaald bier wilt klonen of een bier wilt br
 
 ## Aanpassen bestaand recept
 
-Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen.
+Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen. Vaak moet het bottelvolume aangepast worden aan het volume voor je eigen installatie. Hierdoor moeten ook de hoeveelheden mout, water, hop  en soms gist worden aangepast. Gebruik van brouwsoftware is ook hier gemakkelijk omdat deze vaak over schalingsmogelijkheden beschikken en alle hoeveelheden aanpassen aan het nieuwe bottelvolume.
 
-### Aanpassen hoeveelheden
-
-Aanpassen aan een ander volume.
-
-Wordt nog verder uitgewerkt.
-
-### Aanpassen ingrediënten
-
-Andere mout, hop (of ander alfapercentage) of gist.
-
-Wordt nog verder uitgewerkt.
+Het kan ook zijn dat een van de ingrediënten wilt wijzigen, bijvoorbeeld omdat een bepaald ingrediënt niet meer voorradig of te koop is. Op internet zijn hiervoor substitutielijsten te vinden.
 
 ## Nieuw recept
 
@@ -74,25 +64,23 @@ Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samen
 
 ### Voorbeeld: Weizen
 
-Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wat speelruimte te hebben hou je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst aan. Voor een Weizen zijn die
+Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wat speelruimte te hebben hou je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst aan.
 
--  Begin SG: 1051
--  Alcoholpercentage (ABV): 5,2%
+-  Begin SG: 1052
+-  Alcoholpercentage (ABV): 5,3%
 -  Kleur: 15 EBC
--  Bitterheid: 15 EBU
+-  Bitterheid: 12 EBU
+-  Kooktijd: 75 min
 
-Alleereerst de moutsamenstelling. Volgens Derek Walsh bestaat een Duitze Weizen uit 70% tarwemout en 30% pilsmout. Op de website zie je onder het kopje Mout dat een Weizen de code 108 heeft. En in de tabel met moutsoorten zie dat een verdeling van 70% tarwemout en 30% pilsmout in orde is.
+Alleereerst de moutsamenstelling. Een Duitze Weizen moet uit minstens 70% tarwemout bestaan. besloten wordt voor een verdeling van 65% tarwemout en 35% pilsmout.
 
-Dan de totale hoeveelheid mout.Uit de grafiek kun je halen dat voor een Begin SG van 1051 je nodig hebt 175 gram mout per liter wort. Voor 20 liter wort dus $20*175 gr = 3500 gram$. De samenstelling van de mout wordt dan
+\@ref(vb2-mout) is berekend dat je dan 3111 gram tarwemout en 1702 gram pilsmout nodig hebt. Totaal dus 4813 gram.
 
--  Tarwemout: 2450 gram
--  Pilsmout : 1050 gram
+Als Hop wordt gekozen voor een Zuid-Duitse hoppe: Hallertau perle met 7,9% alfazuur als bitterhop en Tettnager 3,5% als aromahop. In \@ref(vb2-ebu) is berekend dat je 12 gram van deze hop dodig hebt.
 
-Als Hop wordt gekozen voor een Zuid-Duitse hoppen: Hallertau Tradition met 4,9% alfazuur als bitterhop en Tettnager 3,5% als aromahop
+Als gist wordt gekozen voor een korrelgist welke geschikt is voor tarwebieren. fermentis SafAle WB-06 is een geschikte gist.
 
-Gist Fermentis SafAle WB-06
-
-Wordt nog verder uitgewerkt.
+Voor het maiscschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.
 
 ## Huiswerk:
 

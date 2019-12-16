@@ -240,21 +240,9 @@ Spoelwater = 29,6 - 16,8 = 12,8 lit
 
 ## Hopberekening
 
-### Bitterheid eenheden
+### EBU/IBU eenheid
 
-Door allerlei oorzaken komen niet alle (iso)alfazuren in het uiteindelijke bier terecht. Uiteindelijk komt slechts zo’n 10%-40% van de toegevoegde alfazuren in het bier terecht. De fractie die in het bier terecht komt wordt **Decimaal Hop Rendement (DHR)** genoemd. Voor een schatting van de bitterheid van het bier is dit DHR van groot belang.
-
-**AAU en HBU**
-
-In oude Amerikaanse recepten kom je nog wel eens de eenheden **AAU** (Alpha Acid Unit) en **HBU** (Homebrew Bittering Unit) tegen. Beide eenheden zijn hetzelfde en berekenen de massa van de toegevoegde alfazuren door de hoeveelheid hop te vermenigvuldigen met het percentage alfazuur van de hop. Omdat deze eenheden geen rekening houden met het hoprendement zijn ze voor de berekening van de bitterheid van het bier niet bruikbaar.
-
-De berekening van de hoeveelheid toegevoegd alfazuur kan wel nuttig zijn wanneer het alfazuurpercentage van de beschikbare hop niet overeenkomt met die in het recept. Wanneer je toch evenveel alfazuur wilt toevoegen, dan kun je erg eenvoudig de hoeveelheid hop berekenen.
-
-Staat bijvoorbeeld in een recept dat je 52 gram Cascade hop 5,8% alfa moet toevoegen en beschik je over Cascade hop met 7,5% alfa, dan is de hoeveelheid die je hiervan moet toevoegen $52 \times \frac {5,8}{7,5} = 40$ gram.
-
-**IBU en EBU**
-
-Een betere maat om de bitterheid te berekenen is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
+Een maat om de bitterheid te berekenen is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
 
 $$\text{1 EBU = 1 IBU = 1 mg isoalfazuur per liter bier = 1 ppm isoalfazuur}$$
 
@@ -280,25 +268,17 @@ $$EBU_{ideaal} = 1000 \times \frac{{W \times A}}{V}\text{ in mg/lit}$$
 -  V = volume van het uiteindelijke bier (liter)
 -  De factor 1000 is voor de omrekening van gram naar mg.
 
-**Voorbeeld**
+Bij een toevoeging van 15 gram hop met 4% alfazuur aan 25 liter wort is $EBU_{ideaal} = 1000 \times \frac{{15 \times 0,04}}{{25}} = 24$
 
-Een toevoeging van 15 gram Hallertauer 4% alfa aan 25 liter wort geeft
-
-$EBU_{ideaal} = 1000 \times \frac{{15 \times 0,04}}{{25}} = 24$
-
-De werkelijkheid is complexer, immers niet alle alfazuren komen in het bier. Om dit in rekening te brengen wordt de ideale uitkomst met een getal vermenigvuldigd welke alle processen in rekening brengt die er voor zorgen dat de hoeveelheid isoalfazuren in het bier minder is dan de hoeveelheid alfazuren toegevoegd aan de wort. Dit getal is het eerder genoemde decimaal hoprendement (DHR). De formule wordt dan:
+Door allerlei oorzaken komen niet alle (iso)alfazuren in het uiteindelijke bier terecht. Uiteindelijk komt slechts zo’n 10%-40% van de toegevoegde alfazuren in het bier terecht. De fractie die in het bier terecht komt wordt **Decimaal Hop Rendement (DHR)** genoemd. Voor een schatting van de bitterheid van het bier is dit DHR van groot belang. De formule wordt dan:
 
 $$EBU = EB{U_{ideaal}} \times DHR$$
 
 DHR = Decimaal Hop rendement (als fractie, dus geen percentage)
 
-Zou in het geval van het vorige voorbeeld het hoprendement 25% bedragen (dus DHR = 0,25) dan is EBU = 24 * 0,25 = 6.
-
 Deze eenvoudige recht toe recht aan formule wordt door alle software programma’s gebruikt om de EBU in het bier te schatten. Het probleem is echter het bepalen van het hoprendement. Daarin verschillen de programma’s en tabellen die je tegenkomt.
 
-**Eenvoudige methode**
-
-Gebruik tabel \@ref(tab:tabel-dhr-simpel) voor een ruwe schatting van het digitaal hoprendement (DHR).
+Gebruik tabel \@ref(tab:tabel-dhr-simpel) voor een eenvoudige schatting van het digitaal hoprendement (DHR).
 
 Table: (\#tab:tabel-dhr-simpel) Schatting DHR-waarde op basis van kooktijd
 
@@ -309,20 +289,28 @@ Table: (\#tab:tabel-dhr-simpel) Schatting DHR-waarde op basis van kooktijd
 | Aromahop  | < 10           | 0    |
 | Dryhop    | -              | 0    |
 
-**Kooktijd afhankelijke methodes**
+Wordt bij het hiervoor genoemde voorbeeld de hop 60 min. meegekookt, dan is DHR = 0,25 en EBU = 24 x 0,25 = 6.
 
-Er zijn verschillende methodes om de EBU/IBU te schatten houden rekening met de duur van de kooktijd en de dichtheid van de kookvloeistof. Deze zijn genoemd naar de bedenker van de methode, zoals: Rager, Garetz, Tinseth, Daniels. De brouwprogramma’s bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
+Deze eenvoudige methode  geeft goede schattingen. Daarnaast zijn er verschillende methodes die rekening houden met veel andere factoren, zoals de duur van de kooktijd, SG van de kookvloeistof, hopvorm en correctie voor de ouderdom van de hop. Deze methodes zijn genoemd naar de bedenker ervan, zoals: Rager, Garetz, Tinseth, Daniels. De brouwprogramma’s bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
 
-**Samenvatting**
+Bedenk wel dat alle methodes slechts een schatting van de EBU waarde geven. De exacte waarde kan alleen via een laboratoriumtest bepaald worden. Uit onderzoeken blijkt ook nog eens dat de meeste mensen slechts een verschil van 4 of groter in EBU waarde kunnen waarnemen. Hoe belangrijk is het dan nog om een steeds betere schatting te maken?
 
-Alle methodes geven een schatting van de EBU waarde. De exacte waarde kan alleen via een laboratoriumtest bepaald worden. Uit onderzoeken blijkt ook nog eens dat de meeste mensen slechts een verschil van 4 of groter kunnen waarnemen. Hoe belangrijk is het dan nog om een zo goed mogelijke schatting te maken?
+**Berekening hophoeveelheden**
 
-De adviezen die gegeven worden komen er op neer om een zo constant mogelijk en reproduceerbaar brouwproces uit te voeren. De eigen brouwinstallatie zo goed mogelijk te leren kennen. En dan na het brouwen van een bier de berekende EBU waarde te vergelijken met een laboratoriumuitkomst (wanneer dat kan) of via proeven te vergelijken met een bier waarvan de EBU waarde bekend is. Op basis van de eventuele verschillen kun je dan een correctiefactor voor jouw brouwproces maken. Verder is het opmerkelijk dat de eenvoudige methode verrassend goede schattingen geeft.
+In hoofdstuk \@\ref:hop} is uitgelegd dat er bitterhoppen en aromahoppen zijn. Onder bitterhoppen wordt hier verstaan die hoppen die tenminste 30 minuten meekoken. Hops die korter meekoken hebben een grotere impact op smaak en aroma dan op bitterheid.
+
+Voor de berekening van de hophoeveelheden kun je in het algemeen beter gebruik maken van brouwsoftware. De hiervoor genoemde formules moet je alleen gebruiken voor een schatting van de hoeveelheid bitterhop. Voor de hoeveelheid aromahop kun je beter kijken in een bestaand recept bij de betreffende bierstijl, in eerste instantie van de genoemde hoeveelheden uitgaan en daar mee experimenteren.
+
+De hoeveelheid bitterhop reken je dan uit met de formule $W = \frac{V \times EBU}{1000 \times A \times DHR}$
 
 ### Voorbeeld 1: SMASH bier {#vb1-ebu}
 
-Wordt aan gewerkt.
+Hoeveel Saaz hop met 3,5% alfazuur welke 60 min gekookt wordt is nodig voor het maken van 10 liter met een gewenste bitterheid van 21 EBU?
+
+$W = \frac{10 \times 21}{1000 \times 0,035 \times 0,25} = 24 \text{ gram}$
 
 ### Voorbeeld 2: Weizen {#vb2-ebu}
 
-Wordt aan gewerkt.
+Hoeveel Hallertau Perle hop met 7,9% alfazuur welke 75 min. gekookt wordt is nodig voor het maken van 20 liter met een gewenste bitterheid van 12 EBU?
+
+$W = \frac{20 \times 12}{1000 \times 0,079 \times 0,25} = 12 \text{ gram}$
