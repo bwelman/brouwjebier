@@ -25,7 +25,10 @@ Beide zijn aanwezig in de meeste moutsoorten.
 
 ## Gistsoorten
 
-In hoofdstuk 1 is al aangegeven dat er naast de wilde gisten er twee gistsoorten zijn, bovengist en ondergist. In de volgende tabel staan een aantal kenmerken van deze gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gistsoort.
+In hoofdstuk 1 is al aangegeven dat er naast de wilde gisten er twee gistsoorten zijn, bovengist en ondergist. In tabel \@ref(tab:tabel-gistsoorten) staan een aantal kenmerken van deze gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gistsoort.
+
+
+Table: (\#tab:tabel-gistsoorten) Kenmerken gistsoorten
 
 |**Kenmerk**     |**Bovengist**           |**Ondergist**            |
 |:---------------|:-----------------------|:------------------------|
