@@ -1,5 +1,5 @@
 <!-- # (PART) Deel 1 {-} -->
-# Over bier
+# Over bier {#over-bier}
 
 **Doelstellingen**
 
@@ -56,19 +56,19 @@ Al in de middeleeuwen bedachten bierbrouwers allerlei manieren om bier zo goedko
 
 Bier is een natuurlijk product dat wordt gemaakt van water, graan, hop en gist.
 
-### Water
+### Water {#over-water}
 
 Bier bestaat voor meer dan 90% uit water. Zuiver water is dan ook een belangrijk ingrediënt om goed bier te brouwen. Veel brouwerijen zuiveren het water dat zij gebruiken nog eens extra zodat deze altijd de juiste, speciale samenstelling heeft. Afhankelijk van de biersoort mag dit water sporen van mineralen bevatten.
 
-### Graan
+### Graan {#over-graan}
 
 Graan vormt een belangrijk ingrediënt voor de smaak, alcohol en kleur van het bier. Voor de meeste bieren gebruikt de brouwer **brouwgerst**. Dit is een graan dat speciaal wordt geteeld voor het brouwen van bier. Brouwgerst bevat veel zetmeel en een specifieke hoeveelheid eiwitten (tussen 9,5% en 10,5%). Brouwgerst wordt eerst **gemout** voordat het geschikt is om mee te brouwen. Ook andere granen zijn geschikt om bier mee te brouwen. Tarwe(mout) vormt bijvoorbeeld een belangrijk bestanddeel van witbier. Maar ook met haver, mais en zelfs rijst wordt wel eens bier gebrouwen.
 
-### Hop
+### Hop {#over-hop}
 
 Hop is een klimplant die van nature in Nederland voorkomt. De brouwer gebruikt de bloemetjes van de vrouwelijke hopplant om bier de kenmerkende bittere smaak en aroma (smaak/geur) te geven. Daarnaast geeft hop stevigheid aan het bierschuim en is het een natuurlijk conserveringsmiddel. Naast hop kan de brouwer er voor kiezen om ook andere smaakmakers in het bier te gebruiken. Denk hierbij aan kruiden als anijs, koriander of zoethout. Ook vruchten, al dan niet bewerkt, worden in sommige bieren gebruikt. De bekendste voorbeelden zijn sinaasappelschil in sommige witbieren of kersen in kriekbier. De kleur van de gebruikte mout is bepalend voor de kleur van het bier.
 
-### Gist
+### Gist {#over-gist}
 
 Gist is onmisbaar voor het maken van bier. Gist is een eencellige schimmelsoort die in staat is om suikers om te zetten in alcohol en koolzuurgas. Daarnaast is het ook een belangrijke smaakmaker. Elke giststam (gistcultuur) heeft een eigen aroma en smaak en zorgt in combinatie met de andere ingrediënten voor een uniek bier. Als de gist in het bier achterblijft is het bier troebel. Voor heldere bieren is de gist voor het afvullen gefiltreerd.
 
