@@ -4,9 +4,7 @@
 **Doelstellingen**
 
 -  Overzicht Nederlandstalige brouwsoftware
--  Gebruik Brouwvisie?
--  Gebruik Brouwhulp?
--  Gebruik Excelprogramma Hans Saris?
+-  Demonstratie en gebruik van een programma
 
 ## Brouwvisie
 
@@ -24,7 +22,9 @@ Vereisten: Windows
 
 [Website Brouwhulp](http://wittepaard.roodetoren.nl/index.php/brouwhulp)
 
-Programma van Adri Otte, gratis
+Programma van Adrie Otte, auteur van het boek "Verander water in bier".
+
+Gratis
 
 Vereisten: Windows, Linux
 
@@ -32,12 +32,18 @@ Vereisten: Windows, Linux
 
 Excelprogramma van gildelid Hans Saris, gratis. Wordt niet meer verder ontwikkeld.
 
-Vereisten: Windows, Excel
+Vereisten: Windows en Excel
 
 ## BROdeLuxe
 
-Programma van Peter Wester, gratis.
-
 [Website BROdeLuxe](http://www.brodeluxe.nl/)
 
+Programma van Peter Wester.
+
+Gratis.
+
 Vereisten: Windows
+
+## Handige apps op telefoon
+
+??

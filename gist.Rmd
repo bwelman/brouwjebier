@@ -130,7 +130,7 @@ knitr::include_graphics("images/giststarter.png", dpi = NA)
 1.  Indien mogelijk roer zo'n 12-18 uur met een magneetroerder. Bij gebruik van oude gist duurt het proces langer en moet je ook langer roeren. Je kunt de afnemende activiteit waarnemen doordat er steeds minder schuim gevormd wordt. De kleur van de giststarter lijkt op die van koffie met melk. Laat de starter niet tot het einde doorgisten want dan neemt vitaliteit van de gist weer af.
 1.  Stop met roeren/schudden. Bij gebruik van een magneetroerder de roervlo verwijderen. Hiervoor zijn handige magnetische hulpmiddelen beschikbaar zodat je de vloeistof niet besmet.
 1.  De gist zal uitvlokken en een witte laag op de bodem vormen.
-1.  Wanneer je de giststarter niet meteen gebruikt, zet deze dan in de koelkast, nog steeds met de aluminiumkap erop.
+1.  Wanneer je de giststarter niet meteen gebruikt, zet deze dan in de koelkast, nog steeds met de aluminiumkap erop.\pagebreak
 
 **Gebruik giststarter**
 

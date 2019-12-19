@@ -46,7 +46,7 @@ Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doe
     +  tijdstip(en) en tijdsduur hopgiften
     +  dryhopping gewenst?
 5.  Bepaal welke gist je wilt gebruiken en stel een plan voor de vergisting op.
-    +  gistsoort
+    +  gistsoort (vergistingsgraad, uitvlokking, esters)
     +  hoeveelheid gist
     +  giststarter nodig?
     +  vergistingstemperatuur
@@ -78,12 +78,6 @@ Alleereerst de moutsamenstelling. Een Duitze Weizen moet uit minstens 70% tarwem
 
 Als Hop wordt gekozen voor een Zuid-Duitse hoppe: Hallertau perle met 7,9% alfazuur als bitterhop en Tettnager 3,5% als aromahop. In \@ref(vb2-ebu) is berekend dat je 12 gram van deze hop dodig hebt.
 
-Als gist wordt gekozen voor een korrelgist welke geschikt is voor tarwebieren. fermentis SafAle WB-06 is een geschikte gist.
+Als gist wordt gekozen voor een korrelgist welke geschikt is voor tarwebieren. Fermentis SafAle WB-06 is een zeer geschikte gist voor bieren op tarwebasis.
 
 Voor het maiscschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.
-
-## Huiswerk:
-
--  Zelf maken van een recept voor brouwsel-3 waarbij vooraf aangegeven wordt welke kenmerken het bier moet hebben, zoals kleur, alkohol, bitterheid, moutigheid, zoetigheid, enz.
--  Beoordeling door mentor.
--  Na een proeverij evalueren in hoeverre het brouwsel voldoet aan de vooraf gestelde eisen/wensen. Kwamen de meetwaarden overeen met de beoogde waarden. Verklaring voor eventuele verschillen.

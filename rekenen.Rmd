@@ -50,6 +50,7 @@ Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te wet
 
 ```
 
+\pagebreak
 De (relatieve) dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is nl. bij 20^o^C geijkt. Met behulp van bijgeleverde tabellen moet je dan een correctie aanbrengen.
 
 De dichtheid van nog niet vergiste wort kun je ook meten met een **refractometer**. Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang. De kwalitatief goede refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
@@ -77,7 +78,7 @@ Eenvoudige benaderingsformules zijn:
 
 Voor een wort met $SG = 1,050$ is dan $\text{SG-punten} = 50$ en $P = \frac{50}{4} = 12,5$.
 
-Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
+Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.\pagebreak
 
 ## Moutberekening
 
@@ -169,16 +170,14 @@ Wanneer je de totale benodigde hoeveelheid water weet, reken je eerst de hoeveel
 
 **Maischwater (lit) = Moutstort (kg) x Beslagdikte (lit/kg)**
 
+**Spoelwater = WaterTotaal - Maischwater**
+
 De beslagdikte hangt af van het soort bier dat je wilt brouwen en de gebruikte apparatuur. Gangbare beslagdiktes zijn 3,0 - 3,5 liter water per kilogram mout. Wanneer je dunner inmaischt, dus meer water per kg mout, kun je minder spoelen wat tot een iets lager rendement kan leiden. En je moet er ook rekening mee houden dat het geheel in jouw maischpan past. Je ziet vaak dat bieren met weinig alkohol met een wat dunner beslag gemaakt worden en bieren met veel alkohol met een wat dikker beslag.
 
 ```{block2, type = "rmdinfo"}
 Bij automatische installaties zoals een Braumeister en een Brewmonk heb je hier nauwelijks invloed op. En ook wordt er meestal niet tot weinig gespoeld. Daar heb je dus vaak veel meer maischwater dan spoelwater. Het ligt er dus maar aan of het rendement belangrijk voor je is.
 
 ```
-
-**Spoelwater = WaterTotaal - Maischwater**
-
-In de volgende voorbeelden worden alle berekende volumes op 1 decimaal afgerond.
 
 ### Voorbeeld 1: SMASH bier {#vb1-water}
 
@@ -229,8 +228,6 @@ Verliezen: 4,8 + 3,8 + 1,0 = 9,6 lit
 -  kookverlies = 1,25 (uur) x 3 (lit/uur) = 3,8 lit
 -  ketelverlies = 0,5 lit
 -  bottelverlies = 0,5 lit
-
-Aanvullingen: 0 lit
 
 WaterTotaal = Bottelvolume + Verliezen - Aanvullingen = 20,0 + 9,6 - 0 = 29,6 lit
 
@@ -297,7 +294,7 @@ Bedenk wel dat alle methodes slechts een schatting van de EBU waarde geven. De e
 
 **Berekening hophoeveelheden**
 
-In hoofdstuk \@\ref:hop} is uitgelegd dat er bitterhoppen en aromahoppen zijn. Onder bitterhoppen wordt hier verstaan die hoppen die tenminste 30 minuten meekoken. Hops die korter meekoken hebben een grotere impact op smaak en aroma dan op bitterheid.
+In hoofdstuk \@ref(hop) is uitgelegd dat er bitterhoppen en aromahoppen zijn. Onder bitterhoppen wordt hier verstaan die hoppen die tenminste 30 minuten meekoken. Hops die korter meekoken hebben een grotere impact op smaak en aroma dan op bitterheid.
 
 Voor de berekening van de hophoeveelheden kun je in het algemeen beter gebruik maken van brouwsoftware. De hiervoor genoemde formules moet je alleen gebruiken voor een schatting van de hoeveelheid bitterhop. Voor de hoeveelheid aromahop kun je beter kijken in een bestaand recept bij de betreffende bierstijl, in eerste instantie van de genoemde hoeveelheden uitgaan en daar mee experimenteren.
 
@@ -314,3 +311,35 @@ $W = \frac{10 \times 21}{1000 \times 0,035 \times 0,25} = 24 \text{ gram}$
 Hoeveel Hallertau Perle hop met 7,9% alfazuur welke 75 min. gekookt wordt is nodig voor het maken van 20 liter met een gewenste bitterheid van 12 EBU?
 
 $W = \frac{20 \times 12}{1000 \times 0,079 \times 0,25} = 12 \text{ gram}$
+
+## Vergistingsgraad
+
+De vergistingsgraad (VG) is het percentage van de suikers in de wort die door de gist zijn omgezet in alcohol en koolstofdioxide. Deze hangt met name af van hoe goed de gistsoort maltotriose kan omzetten. Zo heeft volgens opgave van producent Fermentis de gist SafAle S-33 een vergistingsgraad van 68%-72% en de gist SafAle US-05 een vergistingsgraad van 78%-82%. Een gist met een lagere vergistingsgraad produceert minder alkohol en wat zoeter bier.
+
+$VG = \frac{SG_{begin} - SG_{eind}}{SG_{begin} - 1,000}$
+
+Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ is $VG = \frac{1,048 - 1,010}{1,048 - 1,000} = 0,79$ dus 79%.
+
+Wanneer je de door de fabrikant opgegeven vergistingsgraad van de gist kent, kun je deze ook gebruiken om een schatting van $SG_{eind}$ te maken
+
+$SG_{eind} = SG_{begin} - VG \times (SG_{begin} - 1,000)$
+
+Voor een wort met $SG_{begin} = 1,056$ en een gist met een VG van 78% is de schatting $SG_{eind} = 1,056 - 0,78 \times (1,056 - 1,000) = 1,012$
+
+
+```{block2, type = "rmdinfo"}
+De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samenstelling van de wort (welke suikers zitten hierin)
+
+```
+
+\pagebreak
+
+## Alcoholpercentage
+
+Het werkelijke volumepercentage alcohol (ABV = Alcohol By Volume) kun je niet uitrekenen, voor de bepaling ervan heb je een laboratorium nodig. Je kunt wel een redelijke schatting maken uit het verschil tussen $SG_{begin}$ en $SG_{eind}$. Dit verschil moet je dan nog vermenigvuldigen met een getal dat afhangt van $SG_{begin}$. Een vuistregel voor dit getal is 136.
+
+$ABV = 136 \times (SG_{begin} - SG_{eind})$
+
+Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ wordt de schatting $ABV = 136 \times (1,048 - 1,010)= 5,2$.
+
+Wanneer het bier in flessen gebotteld wordt waarin een nagisting plaatsvindt, dan moet je daar nog eens 0,2% tot 0,5% bij optellen, afhankelijk van de toegevoegde hoeveelheid bottelsuiker.

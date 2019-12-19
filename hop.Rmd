@@ -1,5 +1,5 @@
 <!-- # (PART) Deel 3 {-} -->
-# Hop
+# Hop {#hop}
 
 **Doelstellingen**
 
@@ -23,7 +23,7 @@ Hop kun je kopen als bloemen (bellen) en pellets (vermalen en samengeperste korr
 
 Andere vormen die je tegenwoordig kunt kopen zijn: hopolie al dan niet geisomeriseerd) en natte hop in blik. Deze bevatten meer zuren en oliën.
 
-```{r hop, fig.cap="Hop: pellets en bloemen", echo=FALSE}
+```{r hop-bloemen-pellets, fig.cap="Hop: pellets en bloemen", echo=FALSE}
 knitr::include_graphics("images/hop.png", dpi = NA)
 ```
 
