@@ -5,6 +5,19 @@
 -  Biertypenlijst BKG
 -  Inzenden van bieren voor een wedstrijd
 
-## Inleiding
+## Biertypen
 
-Hier wordt nog aan gewerkt.
+Wanneer je een eigen gebrouwd bier instuurt voor een wedstrij, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2019] van het Nederlands BierkeurmeestersGilde (BKG). Op grond van kleur en Begin SG zijn de biertypen ondergebracht in 4 klassen: A, B, C en D. De grens bij kleur ligt bij 30 EBC. En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bierklassen) is deze indeling schematisch weergegeven. Daarnaast kunnen "fantasie-bieren" in een vrije klasse meedoen.
+
+```{r bierklassen, fig.cap="Schematische indeling van biertypen in klassen", echo=FALSE}
+knitr::include_graphics("images/bierklassen.png", dpi = NA)
+```
+
+
+```{r bierklassen-typen, fig.cap="Een aantal biertypen en hun klasse", echo=FALSE}
+knitr::include_graphics("images/bierklassen-typen.png", dpi = NA)
+```
+
+
+
+Aan dit onderdeel wordt nog gewerkt.

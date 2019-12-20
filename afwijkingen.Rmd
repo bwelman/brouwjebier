@@ -12,12 +12,6 @@ Hier wordt nog aan gewerkt.
 
 ### Boterzuur
 
-### Isovaleriaanzuur
-
-### Diacetyl
-
-### DMS
-
 ### Chlorophenol
 
 **Geur/Smaak**: plastic, jodium
@@ -26,6 +20,27 @@ Hier wordt nog aan gewerkt.
 
 **Hoe te voorkomen**: Gebruik deze middelen niet.
 
+### Diacetyl
+
+**Geur/Smaak**: boterbabbelaar.
+
+### DMS
+
+### Isovaleriaanzuur
+
+**Geur/Smaak**: oude kaas, zweet.
+
+**Mogelijke oorzaak**: gebruik van oude of slecht bewaarde hop.
+
+### Papery
+
+**Geur/Smaak**: oude kranten, karton.
+
+**Mogelijke oorzaak**: te hoge bewaartemperatuur (> 15C) van bier.
+
 ## Uitvoering
 
-Wordt op een cursusavond praktisch ingevuld door René Heubach (Grolsch).
+Wordt op een cursusavond praktisch ingevuld door Grolsch.
+
+Aan dit onderdeel wordt nog gewerkt.
+
