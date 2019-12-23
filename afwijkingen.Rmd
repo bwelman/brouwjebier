@@ -6,23 +6,49 @@
 -  Veel voorkomende smaakafwijkingen
 -  Veel voorkomende brouwfouten
 
+## Inleiding
+
+Er kunnen in bier veel ongewenste smaken voorkomen, maar slechts een paar ervan kom je regelmatig tegen. Het merendeel van de afwijkende smaken komt van nature in bier voor. Sommige daarvan zijn zelfs nodig in bepaalde bieren en sommige zijn eigenlijk kenmerken voor specifieke stijlen. Het worden ongewenste smaken wanneer ze in te hoge concentraties aanwezig zijn of niet bij de bierstijl passen. Daarnaast kunnen er ongewenste smaken zijn die afkomstig zijn van externe bronnen (besmetting, reinigingsmiddel, ...).
+
 ## Smaakafwijkingen en oorzaken
 
 Hier wordt nog aan gewerkt.
 
 ### Boterzuur
 
+**Geur/Smaak**: ranzig, zuur, braaksel
+
+**Mogelijke oorzaak**: Gevormd tijdens wortproductie en door bacteriën als gevolg van infectie.
+
+**Hoe te voorkomen**: Hygienisch werken.
+
 ### Chlorophenol
 
-**Geur/Smaak**: plastic, jodium
+**Geur/Smaak**: plastic, jodium, ziekenhuis, tandarts
 
-**Mogelijke oorzaak**: Gebruik van chloorhoudende reinigings- of desinfectiemiddelen.
+**Mogelijke oorzaak**: Achtergebleven chloorhoudende reinigings- of desinfectiemiddelen.
 
-**Hoe te voorkomen**: Gebruik deze middelen niet.
+**Hoe te voorkomen**: Gebruik deze middelen niet. En anders voldoende spoelen (ook kleppen, kranen, bochten)
+
+### Dimethylsulfide (DMS)
+
+Altijd aanwezig in bier. Behoort tot aromaprofiel.
+
+**Geur/Smaak**: Gekookte groente, bloemkool, maïs.
+
+**Mogelijke oorzaak**: Gevormd tijdens wortproductie en door bacteriën als gevolg van infectie.
+
+**Hoe te voorkomen**:
 
 ### Diacetyl
 
+Altijd aanwezig in bier. Behoort tot aromaprofiel.
+
 **Geur/Smaak**: boterbabbelaar.
+
+**Mogelijke oorzaak**: Vorming door gist tijdens de vergisting. In een later stadium wordt het weer afgebroken. kan een gevolg zijn van infectie.
+
+**Hoe te voorkomen**:
 
 ### DMS
 
@@ -30,13 +56,13 @@ Hier wordt nog aan gewerkt.
 
 **Geur/Smaak**: oude kaas, zweet.
 
-**Mogelijke oorzaak**: gebruik van oude of slecht bewaarde hop.
+**Mogelijke oorzaak**: gebruik van oude of slecht bewaarde hop. Vorming tijdens vergisting.
 
 ### Papery
 
-**Geur/Smaak**: oude kranten, karton.
+**Geur/Smaak**: oude / natte kranten, karton.
 
-**Mogelijke oorzaak**: te hoge bewaartemperatuur (> 15C) van bier.
+**Mogelijke oorzaak**: te hoge bewaartemperatuur (> 15C) van bier. Wordt gevormd door oxidatie van vetzuren in bier.
 
 ## Uitvoering
 

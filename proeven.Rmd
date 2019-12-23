@@ -6,19 +6,41 @@
 -  Smaakwiel
 -  Hoe een bier te proeven
 
-## Smaaksoorten
+## Aroma's en smaken
 
-Hier wordt nog aan gewerkt.
+Op de tong kun je alleen de basissmaken waarnemen zoals zoet, zout, zuur, bitter en umami. Deze smaken zijn goed oplosbaar in water waardoor je ze via het speeksel kunt proeven op de tong. Umami is de hartige smaak (bijv. tomatenpuree, ansjovis, Parmezaanse kaas). Ook kun je op de tong nog de smaak van olie en vet waarnemen.
 
-Met de smaak van bier wordt verwezen naar de vijf basissmaken zoet, zuur, zout, bitter en umami (een soort hartigheid). Deze betekenis van smaak wordt waargenomen met de tong.
+Aroma’s zijn de stoffen die er voor zorgen dat een sinaasappel naar een sinaasappel smaakt en een tomaat naar een tomaat. Aroma's zijn vluchtig, dat wil zeggen dat ze snel de lucht invliegen. Het waarnemen van aroma's doe je met de de neus.
 
-## Smaakwiel
+Het proeven van bier bestaat voor ongeveer 80% uit het waarnemen van aroma's en voor 20% uit het waarnemen van smaken. Daarnaast neem je ook nog mondgevoel waar. (Bron: René Heubach, Grolsch smaakpanel)
 
-Hier wordt nog aan gewerkt.
+Door Hans Wächtler van [bierbegeisterung.de](https://bierbegeisterung.de) is een *BIER_AROMABAUM* ontwikkeld. Een vertaalde versie is te zien in figuur \@ref(fig:bier-aromaboom). Hierin kun je zien van welke ingrediënten de diverse aroma's afkomstig zijn.
+
+```{r bier-aromaboom, fig.cap="Bier-Aromaboom", echo=FALSE}
+knitr::include_graphics("images/bier-aromaboom.png", dpi = NA)
+```
+
+Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikkelde smaakwiel gebruikt.
+
+```{r smaakwiel, fig.cap="Smaakwiel voor bier", echo=FALSE}
+knitr::include_graphics("images/smaakwiel.png", dpi = NA)
+```
 
 ## Hoe moet je proeven?
 
-Hier wordt nog aan gewerkt.
+**Proefomstandigheden**
+
+-  Rust
+-  Geurvrij
+-  Zuivere mond
+-  Niet teveel
+
+**Proeffasen**
+
+-  Visueel
+-  Ruiken
+-  Slikken
+-  Nasmaak
 
 ## Uitvoering
 

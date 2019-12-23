@@ -10,7 +10,7 @@
 
 [Website Brouwvisie](http://www.brouwvisie.nl/)
 
-Een binnen het gilde veel gebruikt programma van gildelid Oscar Moerman. Er zien drie uitvoeringen te downloaden:
+Een binnen het gilde veel gebruikt programma van gildelid Oscar Moerman. Er zijn drie uitvoeringen te downloaden:
 
 -  versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
 -  versie 2.32, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €20
@@ -43,7 +43,3 @@ Programma van Peter Wester.
 Gratis.
 
 Vereisten: Windows
-
-## Handige apps op telefoon
-
-??
