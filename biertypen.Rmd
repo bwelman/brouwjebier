@@ -7,17 +7,28 @@
 
 ## Biertypen
 
-Wanneer je een eigen gebrouwd bier instuurt voor een wedstrij, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2019] van het Nederlands BierkeurmeestersGilde (BKG). Op grond van kleur en Begin SG zijn de biertypen ondergebracht in 4 klassen: A, B, C en D. De grens bij kleur ligt bij 30 EBC. En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bierklassen) is deze indeling schematisch weergegeven. Daarnaast kunnen "fantasie-bieren" in een vrije klasse meedoen.
+Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2019] van het Nederlands BierkeurmeestersGilde (BKG). Op grond van kleur en Begin SG zijn de biertypen ondergebracht in 4 klassen: A, B, C en D. De grens bij kleur ligt bij 30 EBC. En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bierklassen) is deze indeling schematisch weergegeven. Daarnaast kunnen "fantasie-bieren" in een vrije klasse meedoen.
 
 ```{r bierklassen, fig.cap="Schematische indeling van biertypen in klassen", echo=FALSE}
 knitr::include_graphics("images/bierklassen.png", dpi = NA)
 ```
 
+In figuur \@ref(fig:bierklassen-typen) zie je een aantal voorbeelden van bieren voor de vier klassen en de relatie bet kleur en begin SG.
 
 ```{r bierklassen-typen, fig.cap="Een aantal biertypen en hun klasse", echo=FALSE}
 knitr::include_graphics("images/bierklassen-typen.png", dpi = NA)
 ```
 
+In figuur \@ref(fig:biertypen-overzicht) tref je een overzicht aan van alle biertypen uit de BKG lijst en hun indeling in klasse.
 
+```{r biertypen-overzicht, fig.cap="Overzicht biertypen en indeling in klasse volgens de BKG lijst.", echo=FALSE}
+knitr::include_graphics("images/biertypen-overzicht.png", dpi = NA)
+```
 
-Aan dit onderdeel wordt nog gewerkt.
+## Wedstrijden
+
+De meeste verenigingen en gildes organiseren onderlinge wedstrijden. En elke vereniging heeft daarbij zijn eigen reglementen en voorwaarden.
+
+Ook wordt er ieder jaar de (Open Nederlandse Kampioenschappen bierbrouwen, het ONK)[https://www.onkbrouwen.nl/] georganiseerd. Hierbij moet je het bier voor een bepaalde klasse insturen. De recepten van de winnende bieren worden vaak op het forum van Hobbybrouwen gepubliceerd, zie [@BewezenReceptenIndex2018]
+
+Verder zijn er internationale wedstrijden waar je aan deel kunt nemen.

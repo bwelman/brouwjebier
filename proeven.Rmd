@@ -1,10 +1,11 @@
-# Proeven
+# Proeven {#proeven}
 
 **Doelstellingen**
 
--  Smaaksoorten
--  Smaakwiel
--  Hoe een bier te proeven
+-  Kennismaken met diverse aroma's en smaken
+-  Hoe een bier te proeven en te beoordelen
+-  Veel voorkomende smaakafwijkingen
+-  Veel voorkomende brouwfouten
 
 ## Aroma's en smaken
 
@@ -37,13 +38,117 @@ knitr::include_graphics("images/smaakwiel.png", dpi = NA)
 
 **Proeffasen**
 
--  Visueel
--  Ruiken
--  Slikken
--  Nasmaak
+1.  *Visueel*. De schuimbelletjes moeten klein en regelmatig zijn en het schuim moet aan het glas kleven en niet te snel inzakken.. Beoordeel verder de kleur.
+2.  *Ruiken*. Dek het bier in het glas af zodat de geuren niet ontsnappen. Neem daarna een paar snelle snuifjes. Probeer goede en foute geuren te herkennen of te omschrijven.
+3.  *Slikken*. Neem eerst een kleine slok en hou die in de mond. Zolang je het bier in de mond houdt proef je vooral de zoete en zure smaken. Probeer daarna het bier over de tong te laten rollen, zodat het met zoveel mogelijk smaakzones in contact komt. Ook de mondholte is belangrijk, want daarmee wordt vooral de alcohol waargenomen. Adem in en uit door de neus zodat de aroma's in contact komen met het reukorgaan. Slik daarna het bier door. Hierbij kun je de bitterheid het beste waarnemen.
+4.  *Nasmaak*. Van belang hierbij is het type nasmaak (vaak hopbitterheid of moutige zoetheid) en de tijdsduur dat de nasmaak blijft hangen.
+
+## Smaak- en geurafwijkingen {#afwijkingen}
+
+Het kan zijn dat de geur en smaak van een bier afwijkt van hetgeen je verwacht had en waarvan de oorzaken veelal in de samenstelling van het recept liggen. Een paar voorbeelden.
+
+-  **Bitterheid**. Deze kan te veel of te weinig zijn, wat komt door een verkeerde hoeveelheid hop.
+-  **Kleur**. Deze kan te licht of te donker zijn, wat komt door een verkeerde hoeveelheid kleurmouten.
+-  **Zoetheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema. Wanneer het bier te droog is, dan een te lange maltoserust bij 63^o^C. En wanneer het te zoet is, dan een te korte maltoserust bij 63^o^C.
+-  **Moutigheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema.
+-  **Schuim**. Bij te weinig schuim kan het zijn dat je een te lange eiwitrust bij 53^0^C hebt aangehouden. Ook te weinig bottelsuiker kan een oorzaak zijn. Wat tarwemout in de stort zorgt voor meer en beter schuim.
+
+Vervelender is het wanneer er ongewenste smaken in het bier zitten. Daar zijn er veel van, maar sommige ervan kom je regelmatig tegen en deze worden hierna besproken. Een aantal afwijkende smaken komen van nature in bier voor. Sommige daarvan zijn zelfs nodig in bepaalde bieren en sommige zijn eigenlijk kenmerken voor specifieke stijlen. Het worden pas ongewenste smaken wanneer ze in te hoge concentraties aanwezig zijn of niet bij de bierstijl passen. Daarnaast kunnen er ongewenste smaken zijn die afkomstig zijn van externe bronnen (besmetting, reinigingsmiddel, ...).
+
+### Aangebrand
+
+**Geur/Smaak**: aangebrand
+
+**Mogelijke oorzaak**: Bij het maischen een te hoge verwarming of te weing geroerd.
+
+**Remedie**: Meer roeren. Maischketel met dikkere bodem.
+
+### Acetaldehyde
+
+Ontstaat altijd tijdens de vergisting en wordt door de gist ook weer weggewerkt.
+
+**Geur/Smaak**: groene appels, gemaaid gras
+
+Stokkende vergisting, niet uitvergist.
+
+**Remedie**: Zorgen voor goede vergisting (voldoende actieve gist), voldoende vergistingstijd, na bottelen in flessen zorgen voor voldoende tijd voor nagisting bij hogere temperatuur.
+
+### Boterzuur
+
+**Geur/Smaak**: ranzig, zuur, braaksel
+
+**Mogelijke oorzaak**: Gevormd tijdens wortproductie en door bacteriën als gevolg van infectie.
+
+**Remedie**: Hygienisch werken.
+
+### Chlorophenol
+
+**Geur/Smaak**: plastic, jodium, ziekenhuis, tandarts
+
+**Mogelijke oorzaak**: Achtergebleven chloorhoudende reinigings- of desinfectiemiddelen.
+
+**Remedie**: Gebruik deze middelen niet. En anders voldoende spoelen (ook kleppen, kranen, bochten)
+
+### Diacetyl
+
+Diacetyl is bijna altijd van nature in enige concentratie aanwezig in bier en behoort tot aromaprofiel.
+
+**Geur/Smaak**: boter(babbelaar), popcorn, toffee
+
+**Mogelijke oorzaak**: Vorming door gist tijdens de vergisting. In een later stadium wordt het weer afgebroken. Kan een gevolg zijn van infectie.
+
+**Remedie**: Voldoende actieve/gezonde gist gebruiken. Langer lageren.
+
+### Dimethylsulfide (DMS)
+
+Altijd aanwezig in bier, wordt gevormd bij het maischen en verdwijnt weer door koken. Behoort tot aromaprofiel.
+
+**Geur/Smaak**: Gekookte groente, bloemkool
+
+**Mogelijke oorzaak**: Te hoge vergistingstemperatuur. Te kort gekookt. Onhygiënisch gewerkt.
+
+**Remedie**: Correcte vergistingstemperatuur. Langer koken. Lagere pH tijdens maischen.
+
+### Dropachtig
+
+**Geur/Smaak**: drop
+
+**Mogelijke oorzaak**: Relatief te veel donkere moutsoorten.
+
+**Remedie**: Minder donkere moutsoorten gebruiken. Kortere kooktijd aanhouden.
+
+### Gistsmaak
+
+**Geur/Smaak**: gist
+
+**Mogelijke oorzaak**: Autolyse van gistcellen.
+
+**Remedie**: Eerder overhevelen na hoofdgisting.
+
+### Isovaleriaanzuur
+
+**Geur/Smaak**: oude kaas, zweet.
+
+**Mogelijke oorzaak**: gebruik van oude of slecht bewaarde hop. Vorming tijdens vergisting.
+
+**Remedie**: Verse hop gebruiken. Hop luchtdicht in diepvries bewaren.
+
+### Papery
+
+**Geur/Smaak**: oude / natte kranten, karton.
+
+**Mogelijke oorzaak**: te hoge bewaartemperatuur (> 15C) van bier. Wordt gevormd door oxidatie van vetzuren in bier.
+
+**Remedie**: Oxidatie vermijden. Koel en donker bewaren.
+
+### Zuur
+
+**Geur/Smaak**: azijn(zuur), melkzuur, zuur
+
+**Mogelijke oorzaak**: Bacteriële infectie.
+
+**Remedie**: Hygienisch werken.
 
 ## Uitvoering
 
-Wordt op een cursusavond praktisch ingevuld door René Heubach (Grolsch).
-
-Aan dit onderdeel wordt nog gewerkt.
+Op een van de cursusavonden wordt het proeven en smaakafwijkingen praktisch ingevuld door René Heubach (Grolsch).
