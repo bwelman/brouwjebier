@@ -51,14 +51,14 @@ RIMS is een afkorting van *Recirculating Infusion Mash System*. Hierbij wordt he
 knitr::include_graphics("images/herms.png", dpi = NA)
 ```
 
-HERMS is een afkorting van *Heat Exchange Recirculating Mash System* en is een variant van een RIMS. Bij dit systeem is er geen directe verwarming van het beslag, wat aanbranden voorkomt. De wort in de maischpan stroomt door een warmtewisselaar in een tank met heet water waarna het weer terug gaat naar de maischketel en door het filterbed met mout stroomt. je hoeft op deze manier niet te roeren en krijgt zeer heldere wort. Het hete water kan in een later stadium als spoelwater fungeren.
+HERMS is een afkorting van *Heat Exchange Recirculating Mash System* en is een variant van een RIMS. Bij dit systeem is er geen directe verwarming van het beslag, wat aanbranden voorkomt. De wort in de maischpan stroomt door een warmtewisselaar in een tank met heet water waarna het weer terug gaat naar de maischketel en door het filterbed met mout stroomt. je hoeft op deze manier niet te roeren en krijgt zeer heldere wort. Het hete water kan in een later stadium als spoelwater fungeren.\pagebreak
 
 ### Electrische brouwketels
 
 Voorbeelden:
 
 -  [Weck inmaakketel](https://www.braumarkt.com/weck-w25a-thermostaat-tijdklok-kraan)
--  [Kochstar inmaakketel](https://www.google.com/aclk?sa=l&ai=DChcSEwj84dbWrc7mAhXBse0KHfVeDEoYABABGgJkZw&sig=AOD64_1jhOTqVHH8ZDjV7Ls1jjxZOj43-g&ctype=5&q=&ved=2ahUKEwirxNDWrc7mAhUBUcAKHSkSDkYQ9aACegQIDxA7&adurl=)
+-  [Kochstar inmaakketel](https://www.unibrew-nederland.nl/kochstar-roestvrijstalen-27-liter-pan-met-digitale-display-tijd-en-temperatuurinstelling.html)
 -  [Brewferm](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/grainfather-connect)
 -  [Speidel Braumeister](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/braumeister-accessoires)
 -  [Brew Monk](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/brew-monk)
