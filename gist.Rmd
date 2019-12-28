@@ -12,30 +12,43 @@
 
 ## Wat is en doet gist
 
-Gist is een eencellig levend organisme dat suiker omzet in alkohol en koolstofdioxide. Tijdens de vergisting van de wort ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deels controleerbaar door de temperatuur en de soort gist.
+Gisten zijn eencellige micro-organismen, behorende tot de schjimmels. De gist is verantwoordelijk voor het omzetten van wort in bier door suiker om te zetten in alkohol en koolstofdioxide. Tijdens de vergisting van de wort ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deels controleerbaar door de temperatuur en de soort gist.
 
-In een zuurstofrijk milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. Ook wordt de pH lager. Voor een giststarter waar het je om de vermenigvuldiging van de gist te doen is moet je dus vooral goed beluchten. Wanneer je bij de vergisting gebruik maakt van een goede giststarter met voldoende gistcellen, hoef je de wort niet te beluchten. De gist moet zich dan vooral bezig houden met het maken van alcohol.
 
-Om alcohol en CO2 te vormen, moet gist beschikken over
+```{r gistafbeelding, fig.cap="Microscopisch beeld van een droge bovengist (bron Fermentis).", echo=FALSE}
+knitr::include_graphics("images/gistafbeelding.png", dpi = NA)
+```
+
+Om alcohol en CO_2_ te vormen, moet gist beschikken over
 
 -  een *energiebron* : suiker (vergistbaar)
 -  een *stikstofbron* voor groei en vermenigvuldiging: aminozuren, peptiden
+-  mineralen
 
-Beide zijn aanwezig in de meeste moutsoorten.
+Deze zijn meestal voldoende aanwezig in de wort.
+
+## Gistingsproces
+
+In een zuurstofrijk milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. Ook wordt de pH lager. wanneer je voldoende gistcellen toevoegt hoef je de wort niet te beluchten. De gist moet zich dan vooral bezig houden met het maken van alcohol.
+
+Daarna begint de hoofdgisting, welke meestal heftig verloopt. Hoe hoger de temperatuur, des te sneller start de vergisting. Bij gebruik van een bovengist duurt de hoofdgisting hooguit een dag of drie. Daarna volgt een secundaire vergisting welke langzamer verloopt.
+
+De temperatuur tijdens de vergisting is een kritische factor. Zo krijg je bij hogere temperaturen meer esters (fruitige aroma's).Voor een goed bier is het belangrijk om de vergisting temperatuurgecontroleerd te laten verlopen. Veel thuisbrouwers maken gebruik van een oude koelkast die ze omgebouwd hebben tot een gistkast. Deze gistkast kan koelen en verwarmen wat door een thermostaat gestuurd wordt. Erg handig is het gebruik van een thermometer in de vorm van een digitale plakstrip die je op de buitenkant van het gistvat kunt plakken.
+
+Aan het eind van de vergisting klonteren de enkele gistcellen samen tot vlokken van wel duizenden gistcellen. Daarna zakken deze vlokken uit naar de bodem van het gistvat. Giststammen vertonen verschillen in de mogelijkheid tot *uitvlokking (flocculatie)* en *uitzakking (sedimentatie)*. Dit proces wordt bevorderd door het gistvat na afloop van de vergisting koud (0-5 ^o^C) weg te zetten. Het bier wordt daardoor helderder.
 
 ## Gistsoorten
 
-In hoofdstuk 1 is al aangegeven dat er naast de wilde gisten er twee gistsoorten zijn, bovengist en ondergist. In tabel \@ref(tab:tabel-gistsoorten) staan een aantal kenmerken van deze gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gistsoort.
-
+In brouwerijen worden twee gistsoorten vaak gebruikt: Saccharomyces cereviae (bovengist) en Saccharomyces pastorianus (ondergist). van deze twee soorten zijn echter verscheidene *giststammen (ondersoorten)* die door brouwers gebruikt worden. In tabel \@ref(tab:tabel-gistsoorten) staan een aantal kenmerken van deze twee gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gebruikte gist.
 
 Table: (\#tab:tabel-gistsoorten) Kenmerken gistsoorten
 
-|**Kenmerk**     |**Bovengist**           |**Ondergist**            |
-|:---------------|:-----------------------|:------------------------|
-|Latijnse naam   |Saccharomyces cerevisiae|Saccharomyces cerevisiae |
-|temperatuur     |16-22                   |8-14                     |
-|Vergistingstijd |4-8 dagen               |2-6 weken                |
-|Biersoorten     |ales                    |pils                     |
+|**Kenmerk**        |**Bovengist**           |**Ondergist**             |
+|:------------------|:-----------------------|:-------------------------|
+|Latijnse naam      |Saccharomyces cereviae  |Saccharomyces pastorianus |
+|Temperatuur (^o^C) |16-22                   |8-15                      |
+|Vergistingstijd    |3-6 dagen               |2-6 weken                 |
+|Biersoorten        |ales                    |pils                      |
 
 
 ```{block2, type = "rmdinfo"}
@@ -57,14 +70,20 @@ Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een
 
 ### Korrelgist
 
-Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Je kunt deze gist over de wort in het gistvat strooien. Maar beter is het om deze gedroogde gist eerst te *hydrateren*, een methode die ook door de leverancier wordt aangeraden.
+Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Voor het gebruik heb je de volgende mogelijkheden:
+
+*  Direct over de wort in het gistvat strooien.
+*  Eerst *hydrateren* en dan aan de wort in het gistvat toevoegen.
+*  Eerst een *giststarter* maken en dan aan de wort in het gistvat toevoegen.
+
+Een giststarter maken om meer gistcellen te hebben is bij korrelgist niet echt nodig. Korrelgist bevat voldoende gistcellen en zoniet, dan voeg je nog een extra zakje korrelgist toe. En over het al dan niet hydrateren wordt verschillend gedacht. Bij een door fabrikant Fermentis uitgevoerde studie kon geen significant verschil worden aangetoond in levensvatbaarheid en vitaliteit van de gist bij direct instrooien en hydrateren. Direct instrooien is dan wel zo handig en gemakkelijk met minder kans op infecties.
 
 **Hydrateren**
 
-De massa water die je nodig hebt voor het hydrateren is 10 keer de massa van de hoeveelheid te gebruiken korrelgist. Gebruik je 1 zakje met 11,5 gram korrelgist, dan heb je dus 115 gram (= 115 ml) water nodig. Het hydrateren kun je het beste uitvoeren in een bekerglas, erlenmeyer, fles of kopje. Zorg wel dat deze schoon is. Het water kun je het beste eerst even koken. Bij gebruik van glazen voorwerpen is een magnetron dan erg handig. Het water moet je daarna afkoelen tot 25-30 ^o^C.
+De massa water die je nodig hebt voor het hydrateren is 10 keer de massa van de hoeveelheid te gebruiken korrelgist. Gebruik je 1 zakje met 11,5 gram korrelgist, dan heb je dus 115 gram (= 115 ml) water nodig. In plaats van steriel water kun je nog beter gehopte wort gebruiken, omdat de iso-alfazuren hierin een bescherming tegen infecties bieden.  Het hydrateren kun je het beste uitvoeren in een bekerglas, erlenmeyer, fles of kopje. Zorg wel dat deze schoon is. Het water moet je eerst even koken. Bij gebruik van glazen voorwerpen is een magnetron dan erg handig. Het water moet je daarna afkoelen tot 20-28 ^o^C.
 
 1.  Desinfecteer de erlenmeyer.
-1.  Voeg het water toe en laat het eventueel afkoelen tot 25-30 ^o^C.
+1.  Voeg het water toe en laat het eventueel afkoelen tot 20-28 ^o^C.
 1.  Strooi de korrelgist voorzichtig op de oppervlakte van het water. Niet roeren!
 1.  Dek de erlenmeyer af met een stukje aluminiumfolie (ontsmetten!).
 1.  Laat het mengsel 15 min. ongestoord staan.
