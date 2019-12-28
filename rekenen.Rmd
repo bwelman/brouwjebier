@@ -114,16 +114,12 @@ Je krijgt echter niet al het potentieel extract in de kookketel. Bij het maische
 
 Al deze onzekerheden die niet goed in te schatten zijn zorgen er voor dat de uiteindelijke resultaten afwijken van de ideale situatie. Door regelmatig te meten tijdens je eigen brouwproces krijg je meer grip op het proces in jouw brouwerij en zullen de inschattingen realistischer worden.
 
-----------
-
 Voor de berekening van de hoeveelheid mout in een recept moet je de beschikking hebben over de volgende gegevens:
 
 -  Het bottelvolume.
 -  Het gewenst begin SG.
 -  De te gebruiken moutsoorten en de gewenste massapercentages hiervan.
 -  Het brouwhuisrendement.
-
-----------
 
 ### Voorbeeld 1: SMASH bier {#vb1-mout}
 
