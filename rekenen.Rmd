@@ -18,8 +18,8 @@ Na vergisting van de wort zijn alleen de vergistbare suikers in alkohol omgezet,
 Het meten van het extractgehalte is voor de thuisbrouwer om vele redenen belangrijk:
 
 -  Het stamwort bepaalt mede de hoeveelheid alkohol in het bier.
--  Aan de gemeten waarde in de spoelvloeistof kun je zien hoeveel er nog gespoeld moet worden.
--  Aan de gemeten waarde in de vergistende vloeistof kun je zien of de vergisting is afgelopen.
+-  Aan de gemeten SG waarde van de vloeistof aan de uitloop van het hevelfilter kun je zien of er nog gespoeld moet worden. (De ideale SG waarde hier moet liggen tussen 1.010 en 1.020)
+-  Aan de gemeten SG waarde in de vergistende vloeistof kun je zien of de vergisting is afgelopen.
 
 Er zijn verschillende eenheden die iets zeggen over het extractgehalte: Plato, Brix en SG/Dichtheid.
 
@@ -233,23 +233,6 @@ Spoelwater = 29,6 - 16,8 = 12,8 lit
 
 ## Hopberekening
 
-### EBU/IBU eenheid
-
-Een maat om de bitterheid te berekenen is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
-
-$$\text{1 EBU = 1 IBU = 1 mg isoalfazuur per liter bier = 1 ppm isoalfazuur}$$
-
-In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden.
-
-Table: (\#tab:tabel-bitterheid) Ervaringen bitterheid en EBU waarde
-
-|Bitterheid    |EBU    |
-|:-------------|:------|
-|Weinig bitter | 5 -20 |
-|Bitterig      | 20-30 |
-|Bitter        | 30-40 |
-|Zeer bitter   | > 40  |
-
 ### EBU berekening
 
 In de ideale situatie waarin alle alfazuren omgezet worden in isoalfazuren, dus bij een hoprendement van 100%, kan de EBU met de volgende formule berekend worden:
@@ -273,7 +256,7 @@ Deze eenvoudige recht toe recht aan formule wordt door alle software programma�
 
 Gebruik tabel \@ref(tab:tabel-dhr-simpel) voor een eenvoudige schatting van het digitaal hoprendement (DHR).
 
-Table: (\#tab:tabel-dhr-simpel) Schatting DHR-waarde op basis van kooktijd
+Table: (\#tab:tabel-dhr-simpel) Eenvoudige schatting DHR-waarde
 
 | Soort hop | Kooktijd (min) | DHR  |
 |:----------|:--|:-----------|:-----|
@@ -284,7 +267,22 @@ Table: (\#tab:tabel-dhr-simpel) Schatting DHR-waarde op basis van kooktijd
 
 Wordt bij het hiervoor genoemde voorbeeld de hop 60 min. meegekookt, dan is DHR = 0,25 en EBU = 24 x 0,25 = 6.
 
-Deze eenvoudige methode  geeft goede schattingen. Daarnaast zijn er verschillende methodes die rekening houden met veel andere factoren, zoals de duur van de kooktijd, SG van de kookvloeistof, hopvorm en correctie voor de ouderdom van de hop. Deze methodes zijn genoemd naar de bedenker ervan, zoals: Rager, Garetz, Tinseth, Daniels. De brouwprogramma’s bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
+Deze eenvoudige methode  geeft redelijk goede schattingen. Daarnaast zijn er verschillende methodes die rekening houden met veel andere factoren, zoals de duur van de kooktijd, SG van de kookvloeistof, hopvorm en correctie voor de ouderdom van de hop. Deze methodes zijn genoemd naar de bedenker ervan, zoals: Rager, Garetz, Tinseth, Daniels.
+
+-  Daniels: Methode met correcties voor kooktijd en wortdichtheid.
+-  Garetz: Relatief ingewikkelde methode met correcties voor kooktijden, wortdichtheid, hopvorm, hopconcentratie, hopzakjes, filtering, hop veroudering en gist uitvlokking.
+-  Rager: Methode met correcties voor kooktijd en wortdichtheid.
+-  Tinseth: Methode met correcties voor kooktijd en wortdichtheid.
+
+
+De brouwprogramma’s bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
+
+| Brouwprogramma | Daniels| Garetz | Rager | Tinseth |
+|:---------------|:-------|:-------|:------|:--------|
+| BrouwHulp      | x      | x      | x     | x       |
+| BrouwVisie     | x      | x      | x     | x       |
+| BrouwWijzer    |        |        |       | x       |
+
 
 Bedenk wel dat alle methodes slechts een schatting van de EBU waarde geven. De exacte waarde kan alleen via een laboratoriumtest bepaald worden. Uit onderzoeken blijkt ook nog eens dat de meeste mensen slechts een verschil van 4 of groter in EBU waarde kunnen waarnemen. Hoe belangrijk is het dan nog om een steeds betere schatting te maken?
 
@@ -327,8 +325,6 @@ Voor een wort met $SG_{begin} = 1,056$ en een gist met een VG van 78% is de scha
 De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samenstelling van de wort (welke suikers zitten hierin)
 
 ```
-
-\pagebreak
 
 ## Alcoholpercentage
 

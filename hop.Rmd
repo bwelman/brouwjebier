@@ -7,15 +7,54 @@
 -  Weten wat er met de hop gebeurt tijdens het koken.
 -  Verschil kennen tussen bitterhoppen en aromahoppen.
 -  Weten wat alfazuurpercentage inhoudt.
--  Gebruik dryhop
+-  Weten op welke momenten je hop toevoegt en wat het effect van een bepaald moment is.
 
 ## Inleiding
 
 De vrouwelijke bloeiwijzen van deze klimplant worden gebruikt bij de bierbereiding. Uit deze bloemen ontwikkelen zich de karakteristieke *hopbellen*. Hierin zitten kleine gele korreltjes *lupuline*, het werkzame bestanddeel uit hop dat bier langer houdbaar maakt, voor de bittere smaak zorgt en voor het aroma.
 
-Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.
+In de lupuline zitten
 
-In de lupuline zitten harsen en vluchtige oliën. De voor de bierbereiding belangrijkste harsen zijn de zogenaamde *alfazuren* en iets minder de *betazuren*. De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo'n 2%-15% van het hopgewicht. De bitterheid van een hopsoort wordt uitgedrukt in het *percentage alfazuur*.
+-  *(hop)harsen*, die voor de bitterheid zorgen. Hiervan zijn de *alfazuren* het belangrijkste en in mindere mate de *betazuren*. Deze laatste geven een minder prettige, scherpere bitterheid aan het bier.
+-  *(hop)oliën*, die aroma's aan het bier geven. Deze oliën zijn vluchtig en verdwijnen snel tijdens het koken. Aromahoppen worden daarom aan het eind van het koken toegevoegd.
+-  *polyfenolen*, die zorgen voor een droog, samentrekkend gevoel in de mond. Een deel van deze stoffen verdwijnen tijdens het koken en de koude lagering.
+
+De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo'n 2%-15% van het hopgewicht. De bitterheid van een hopsoort wordt uitgedrukt in het *percentage alfazuur*.
+
+## Bitterheid (EBU/IBU)
+
+Tijdens het koken (60-90 minuten) veranderen de alfazuren in *iso-alfazuren*. En het zijn deze iso-alfazuren die voor de bitterheid van het bier zorgen.
+
+```{block2, type = "rmdinfo"}
+**Isomeren** zijn stoffen die hetzelfde aantal en hetzelfde soort atomen bevatten: hun molecuulformules zijn dus gelijk. Ze verschillen in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
+
+```
+
+Slechts een gedeelte van de alfazuren wordt omgezet in iso-alfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
+
+-  kooktijd van de hop
+-  de intensiteit van het koken
+-  de gebruikte hopvorm (bloemen, pellets)
+-  het al dan niet gebruiken van een hopzak
+-  SG van de vloeistof
+-  pH
+
+Een maat om de bitterheid te berekenen is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
+
+$$\text{1 EBU = 1 IBU = 1 mg isoalfazuur per liter bier = 1 ppm isoalfazuur}$$
+
+In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden.
+
+Table: (\#tab:tabel-bitterheid) Ervaringen bitterheid en EBU waarde
+
+|Bitterheid    |EBU    |
+|:-------------|:------|
+|Weinig bitter | 5 -20 |
+|Bitterig      | 20-30 |
+|Bitter        | 30-40 |
+|Zeer bitter   | > 40  |
+
+Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.\newpage
 
 ## Hop vormen
 
@@ -29,15 +68,7 @@ knitr::include_graphics("images/hop.png", dpi = NA)
 
 ## Hopsoorten
 
-Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen en daarom wel *dualpurposehoppen* worden genoemd.
-
-## Hop toevoegen
-
-Je kunt op verschillende momenten hop toevoegen waarbij het kookmoment het belangrijkste moment is. De bitterhoppen voeg je aan het begin van het koken toe en de aromahoppen aan het einde.
-
-### Koken
-
-Tijdens het koken (60-90 minuten) ondergaan de alfazuren een moleculaire verandering, *isomerisatie* genoemd. De ontstane stoffen worden *isoalfazuren* genoemd, welke beter oplosbaar zijn in wort en bier en de voornaamste bron van de bitterheid van het bier vormen. De betazuren zijn minder oplosbaar in de wort, maar leveren ook nog een kleine bijdrage aan de bitterheid van het bier.
+Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen, met een lager percentage alfazuur, zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen en daarom wel *dualpurposehoppen* worden genoemd.
 
 Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. En je ook van een *hopspider* gebruik maken.
 
@@ -45,19 +76,30 @@ Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het
 knitr::include_graphics("images/hop-zakje-spider.png", dpi = NA)
 ```
 
-Slechts een gedeelte van de alfazuren wordt omgezet in isoalfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
+## Toevoegmomenten
 
--  kooktijd van de hop
--  de intensiteit van het koken
--  de gebruikte hopvorm (bloemen, pellets)
--  het al dan niet gebruiken van een hopzak
+De momenten waarop je hop toevoegt hangen af van het doel:
 
-### Koudhoppen (Dry hopping)
+-  Voor het verkrijgen van *bitterheid* moeten de alfazuren omgezet worden in iso-alfazuren. Dat gebeurt tijdens het koken (60-90 minuten). De bitterhoppen voeg je daarom aan het begin van het koken toe.
+-  Voor het verkrijgen van *smaak en aroma* zorgen de hopoliën. Omdat deze deels verdampen tijdens het koken voeg je de aromahoppen aan het eind van het koken (de laatste 1-10 minuten) toe of op andere momenten (vlamuit, dryhopping).
 
-Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of destinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is.
+In figuur \@ref(fig:hoprendement-kooktijd) is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
+```{r hoprendement-kooktijd, fig.cap="Effect kooktijd op bitterheid (Tinseth)", echo=FALSE}
+knitr::include_graphics("images/hoprendement-kooktijd.png", dpi = NA)
+```
+
+Eenzelfde soort gedrag treedt op bij het vervluchtigen van de hopoliën. Ook hier een snel begin gevolgd door een afvlakking. De temperatuur waarbij deze oliën vervluchtigen is in het algemeen veel lager dan 100^o^C, voor sommige begint dat al bij 60^o^C. Wanneer je ze dan 10 minuten laat meekoken is al bijna de helft van de beginconcentratie verdwenen. Wanneer je veel hoparoma en -smaak wilt kun je deze beter na het koken toevoegen, of via vlamuit hoppen of via koud hoppen.
+
+**Vlamuit hoppen**
+
+Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtige waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Neem eventueel ook wat minder hop.\pagebreak
+
+**Koudhoppen (Dry hopping)**
+
+Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of desinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is. Wees er wel op bedacht dat je op deze wijze ook wat meer plantaardige smaken toevoegt.
 
 ```{block2, type = "rmdinfo"}
-Brouwers blijven experimenteren om meer hoparoma te krijgen. Zo zijn er brouwerijen die het bier voordat het afgevuld of getapt wordt, door een buis met verse hopbloemen laten lopen.
+Koudhoppen geeft niet hetzelfde effect als Vlamuit hoppen. Denk dus goed na of je een van beide of beide wilt doen.
 
 ```

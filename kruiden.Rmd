@@ -8,7 +8,7 @@
 
 ## Welke kruiden?
 
-Je kunt voor het brouwen van bier ook kruiden (en/of specerijen) gebruiken om het bier een bepaalde smaak en aroma te geven. Met name in witbieren, tripels en zogenaamde winterbieren kom je vaak kruiden tegen. Deze kruiden worden gedurende de laatste 5-10 minuten meegekookt. Voor de toe te voegen hoeveelheid moet je wat experimenteren. Gebruik vooral niet teveel! Weeg de hoeveelheden af met een lepelweegschaal.
+Je kunt voor het brouwen van bier ook kruiden (en/of specerijen) gebruiken om het bier een bepaalde smaak en aroma te geven. Met name in witbieren, tripels en zogenaamde winterbieren kom je vaak kruiden tegen. Deze kruiden worden gedurende de laatste 5-10 minuten meegekookt. Voor de toe te voegen hoeveelheid moet je wat experimenteren. Gebruik vooral niet teveel! Sommige kruiden overheersen snel in de smaak. Weeg de hoeveelheden af met een lepelweegschaal.
 
 ```{r lepelweegschaal, fig.cap="Lepelweegschaal (0,1 gram nauwkeurig)", echo=FALSE}
 knitr::include_graphics("images/lepelweegschaal.png", dpi = NA)
@@ -40,4 +40,4 @@ Kruidnagel geeft een kruidig aroma. Je komt het vooral tegen in winterbieren en 
 
 **Kardemomzaad**
 
-Kardemom geeft een wat scherpe, frisse en aromatische smaak aan het bier. Je komt het vooral tegen bij blonde bieren en tripels, o..a. Tripel Karmeliet. Kneus de zaadjes. Gebruik 0,5 tot 2 gram per 10 liter.
+Kardemom geeft een wat scherpe, frisse en aromatische smaak aan het bier. Je komt het vooral tegen bij blonde bieren en tripels, o..a. Tripel Karmeliet. Kneus de zaadjes. Gebruik 0,5 tot 2 gram per 10 liter. Een kwart peultje is meer dan genoeg voor 20 liter.
