@@ -143,7 +143,7 @@ $SG = 1,052 \Rightarrow SG_{punten} = 52 \Rightarrow Plato = 52/4 = 13,0$. Dit i
 
 35% hiervan, $35\% \times 3714 = 1300$ gram, moet van de pilsmout komen. Dus nodig $1300/76,4\% = 1702$ gram pilsmout
 
-Totale moutstort: $3111 + 1702 = 4813$ gram
+Totale moutstort: $3111 + 1702 = 4813$ gram\newpage
 
 ## Kleur
 
@@ -155,12 +155,17 @@ De hoeveelheid water die je nodig hebt is groter dan het bottelvolume bier. Tijd
 
 **WaterTotaal = Bottelvolume + Verliezen - Aanvullingen**
 
-De verliezen bestaan uit
+Mogelijke *verliezen* zijn afkomstig van:
 
 -  *graanabsorbtie*, dat is het water dat tijdens het maischen door de mout wordt opgenomen en na het filteren in de bostel achterblijft. Vuistregel: $\text{Graanabsorbtie} = \pm \text{ 1 liter water per kg mout}$
 -  *kookverlies*, dat is het water dat tijdens het koken verdampt. De hoeveelheid hangt af van de kookinstallatie, de heftigheid van het koken en vooral de kooktijd. Je zult dit voor je eigen apparatuur moeten vaststellen door voor een aantal brouwsessies de volumes aan het begin en aan het eind van het koken bij te houden in het logboek. Hieruit kun je dan een gemiddelde verdampingssnelheid bepalen. $\text{Kookverlies (lit)} = \text{Kooktijd (uur)} \times \text{Verdampingssnelheid (lit/uur)}$
 -  *ketelverlies*, dat is de hoeveelheid vloeistof die in de kookketel achterblijft plus die door de hop is opgenomen. Ook dit moet je voor je eigen brouwproces vaststellen.
 -  *bottelverlies*, dat is de hoeveelheid vloeistof die in het gistvat achterblijft en niet in de flessen terecht komt.
+
+Mogelijke *aanvullingen* zijn afkomstig van:
+
+-  *giststarter*, wanneer je deze in zijn geheel toevoegt en niet eerst decanteert.
+-  *SG correctie*, water dat je eventueel toevoegt om het SG op een gewenste waarde te krijgen
 
 Wanneer je de totale benodigde hoeveelheid water weet, reken je eerst de hoeveelheid maischwater uit, dan volgt de hoeveelheid spoelwater vanzelf.
 
@@ -174,6 +179,12 @@ De beslagdikte hangt af van het soort bier dat je wilt brouwen en de gebruikte a
 Bij automatische installaties zoals een Braumeister en een Brewmonk heb je hier nauwelijks invloed op. En ook wordt er meestal niet tot weinig gespoeld. Daar heb je dus vaak veel meer maischwater dan spoelwater. Het ligt er dus maar aan of het rendement belangrijk voor je is.
 
 ```
+
+Samengevat, in volgorde bereken je
+
+1.  WaterTotaal
+2.  Maischwater
+3.  Spoelwater
 
 ### Voorbeeld 1: SMASH bier {#vb1-water}
 
@@ -233,6 +244,8 @@ Spoelwater = 29,6 - 16,8 = 12,8 lit
 
 ## Hopberekening
 
+In dit onderdeel wordt de hoeveelheid hop berekend om een bepaalde bitterheid te krijgen. In hoofdstuk \@ref(hop) heb je kunnen lezen dat als maat voor de bitterheid de **EBU** gebruikt wordt en die samenhangt met de hoeveelheid isoalfazuur in het bier. En de isoalfazuren zijn weer ontstaan uit isomerisatie van de alfazuren in de hop.
+
 ### EBU berekening
 
 In de ideale situatie waarin alle alfazuren omgezet worden in isoalfazuren, dus bij een hoprendement van 100%, kan de EBU met de volgende formule berekend worden:
@@ -275,7 +288,7 @@ Deze eenvoudige methode  geeft redelijk goede schattingen. Daarnaast zijn er ver
 -  Tinseth: Methode met correcties voor kooktijd en wortdichtheid.
 
 
-De brouwprogramma’s bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
+De brouwprogramma’s, zie hoofdstuk \@ref(brouwsoftware), bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
 
 | Brouwprogramma | Daniels| Garetz | Rager | Tinseth |
 |:---------------|:-------|:-------|:------|:--------|
@@ -312,7 +325,7 @@ De vergistingsgraad (VG) is het percentage van de suikers in de wort die door de
 
 $VG = \frac{SG_{begin} - SG_{eind}}{SG_{begin} - 1,000}$
 
-Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ is $VG = \frac{1,048 - 1,010}{1,048 - 1,000} = 0,79$ dus 79%.
+Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ is $VG = \frac{1,048 - 1,010}{1,048 - 1,000} = 0,79$ ofwel 79%.
 
 Wanneer je de door de fabrikant opgegeven vergistingsgraad van de gist kent, kun je deze ook gebruiken om een schatting van $SG_{eind}$ te maken
 
@@ -322,7 +335,7 @@ Voor een wort met $SG_{begin} = 1,056$ en een gist met een VG van 78% is de scha
 
 
 ```{block2, type = "rmdinfo"}
-De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samenstelling van de wort (welke suikers zitten hierin)
+De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samenstelling van de wort en dan met name welke suikers in de wort zitten.
 
 ```
 
@@ -334,4 +347,4 @@ $ABV = 136 \times (SG_{begin} - SG_{eind})$
 
 Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ wordt de schatting $ABV = 136 \times (1,048 - 1,010)= 5,2$.
 
-Wanneer het bier in flessen gebotteld wordt waarin een nagisting plaatsvindt, dan moet je daar nog eens 0,2% tot 0,5% bij optellen, afhankelijk van de toegevoegde hoeveelheid bottelsuiker.
+Wanneer het bier in flessen gebotteld wordt waarin een nagisting plaatsvindt, dan moet je daar nog eens 0,2% tot 0,5% bij optellen, afhankelijk van de toegevoegde hoeveelheid bottelsuiker, die immers ook in alcohol (en CO~2~)wordt omgezet.

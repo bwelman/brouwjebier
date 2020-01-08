@@ -12,14 +12,13 @@
 
 ## Wat is en doet gist
 
-Gisten zijn eencellige micro-organismen, behorende tot de schjimmels. De gist is verantwoordelijk voor het omzetten van wort in bier door suiker om te zetten in alkohol en koolstofdioxide. Tijdens de vergisting van de wort ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deels controleerbaar door de temperatuur en de soort gist.
-
+Gisten zijn eencellige micro-organismen, behorende tot de schjimmels. De gist is verantwoordelijk voor het omzetten van wort in bier door suiker om te zetten in alkohol en koolstofdioxide. Tijdens de vergisting van de wort ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook in belangrijke mate de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deels controleerbaar door de temperatuur en de soort gist.
 
 ```{r gistafbeelding, fig.cap="Microscopisch beeld van een droge bovengist (bron Fermentis).", echo=FALSE}
 knitr::include_graphics("images/gistafbeelding.png", dpi = NA)
 ```
 
-Om alcohol en CO_2_ te vormen, moet gist beschikken over
+Om alcohol en CO~2~ te vormen, moet gist beschikken over
 
 -  een *energiebron* : suiker (vergistbaar)
 -  een *stikstofbron* voor groei en vermenigvuldiging: aminozuren, peptiden
@@ -29,13 +28,25 @@ Deze zijn meestal voldoende aanwezig in de wort.
 
 ## Gistingsproces
 
-In een zuurstofrijk milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. Ook wordt de pH lager. wanneer je voldoende gistcellen toevoegt hoef je de wort niet te beluchten. De gist moet zich dan vooral bezig houden met het maken van alcohol.
+In een *aeroob* (= zuurstofrijk) milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. De gist moet zich in deze beginfase vooral bezig houden met groeien. Daarvoor is zuurstof nodig. Wanneer je voldoende gistcellen toevoegt hoef je de wort niet te beluchten. Ook wordt in deze fase de pH lager.  
 
-Daarna begint de hoofdgisting, welke meestal heftig verloopt. Hoe hoger de temperatuur, des te sneller start de vergisting. Bij gebruik van een bovengist duurt de hoofdgisting hooguit een dag of drie. Daarna volgt een secundaire vergisting welke langzamer verloopt.
+Daarna begint een *anaeroob* (= zonder zuurstof) proces, de hoofdgisting, waarbij de alcohol ontstaat. Deze fase verloopt meestal heftig en er ontstaat een dikke laag bruin schuim bovenop de vloeistof. Deze laag wordt ook wel *Krausen* genoemd, zie figuur \@ref(fig:krausen). Het ontstaan van zo'n laag is een zichtbaar teken dat de gist actief is en dat de gisting plaatsvindt. De Krausen bestaat voornamelijk uit levende en dode gistcellen, overtollige eiwitten en andere bijproducten van gistgroei, evenals enkele verbindingen afgeleid van de hop. Je kunt de Krausen ook zien als een indicator van hoe krachtig de gisting verloopt. Een langzame vergisting produceert een dunnere laag Krausen dan een snelle vergisting.
 
-De temperatuur tijdens de vergisting is een kritische factor. Zo krijg je bij hogere temperaturen meer esters (fruitige aroma's).Voor een goed bier is het belangrijk om de vergisting temperatuurgecontroleerd te laten verlopen. Veel thuisbrouwers maken gebruik van een oude koelkast die ze omgebouwd hebben tot een gistkast. Deze gistkast kan koelen en verwarmen wat door een thermostaat gestuurd wordt. Erg handig is het gebruik van een thermometer in de vorm van een digitale plakstrip die je op de buitenkant van het gistvat kunt plakken.
+```{r krausen, fig.cap="Gistend bier met Krausen.", echo=FALSE}
+knitr::include_graphics("images/krausen.png", dpi = NA)
+```
 
-Aan het eind van de vergisting klonteren de enkele gistcellen samen tot vlokken van wel duizenden gistcellen. Daarna zakken deze vlokken uit naar de bodem van het gistvat. Giststammen vertonen verschillen in de mogelijkheid tot *uitvlokking (flocculatie)* en *uitzakking (sedimentatie)*. Dit proces wordt bevorderd door het gistvat na afloop van de vergisting koud (0-5 ^o^C) weg te zetten. Het bier wordt daardoor helderder.
+
+Hoe hoger de temperatuur, des te sneller start de vergisting. Bij gebruik van een bovengist duurt de hoofdgisting hooguit een dag of drie. Daarna volgt een secundaire vergisting welke langzamer verloopt.
+
+De temperatuur tijdens de vergisting is een kritische factor. Zo krijg je bij hogere temperaturen meer esters (fruitige aroma's). Voor een goed bier is het belangrijk om de vergisting temperatuurgecontroleerd te laten verlopen. Veel thuisbrouwers maken gebruik van een oude koelkast die ze omgebouwd hebben tot een gistkast. Deze gistkast kan koelen en verwarmen wat door een thermostaat gestuurd wordt. Erg handig is het gebruik van een thermometer in de vorm van een digitale plakstrip die je op de buitenkant van het gistvat kunt plakken.
+
+Aan het eind van de vergisting klonteren de enkele gistcellen samen tot vlokken van wel duizenden gistcellen. Daarna zakken deze vlokken uit naar de bodem van het gistvat. Giststammen vertonen verschillen in de mogelijkheid tot *uitvlokking (flocculatie)* en *uitzakking (sedimentatie)*. Dit proces wordt bevorderd door het gistvat na afloop van de vergisting koud (0-5 ^o^C) weg te zetten. Het bier wordt daardoor helderder. Ook een groot deel van de Krausen maakt deel uit van het sediment.
+
+```{block2, type = "rmdtip"}
+De beste manier om vast te stellen of de vergisting is afgelopen is door het SG te meten. Deze moet gedurende een paar dagen niet meer afnemen en in de buurt liggen van wat je als eind SG verwacht. De activiteit van het waterslot is een minder goede indicator.
+
+```
 
 ## Gistsoorten
 

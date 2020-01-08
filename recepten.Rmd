@@ -16,13 +16,13 @@ Het wordt wat anders wanneer je een bepaald bier wilt klonen of een bier wilt br
 
 ## Aanpassen bestaand recept
 
-Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen. Vaak moet het bottelvolume aangepast worden aan het volume voor je eigen installatie. Hierdoor moeten ook de hoeveelheden mout, water, hop  en soms gist worden aangepast. Gebruik van brouwsoftware is ook hier gemakkelijk omdat deze vaak over schalingsmogelijkheden beschikken en alle hoeveelheden aanpassen aan het nieuwe bottelvolume.
+Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen. Vaak moet het bottelvolume gewijzigd worden in het volume voor je eigen installatie. Hierdoor moeten ook de hoeveelheden mout, water, hop  en soms gist worden aangepast. Gebruik van brouwsoftware is ook hier gemakkelijk omdat deze vaak over schalingsmogelijkheden beschikken en automatisch alle hoeveelheden aanpassen aan het nieuwe bottelvolume.
 
-Het kan ook zijn dat een van de ingrediënten wilt wijzigen, bijvoorbeeld omdat een bepaald ingrediënt niet meer voorradig of te koop is. Op internet zijn hiervoor substitutielijsten te vinden.
+Het kan ook zijn dat je een van de ingrediënten wilt wijzigen, bijvoorbeeld omdat een bepaald ingrediënt niet meer voorradig of te koop is, of omdat je wat anders nog op voorraad hebt. Op internet zijn hiervoor substitutielijsten te vinden.
 
 ## Nieuw recept
 
-Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doen. Het standaardboek op dit gebied is Designing Great Beers [@danielsDesigningGreatBeers1996]. Zijn zes stappenplan ziet er als volgt uit.
+Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doen. Het standaardboek op dit gebied is Designing Great Beers [@danielsDesigningGreatBeers1996]. Hierin wordt een zes stappenplan beschreven dat er als volgt uitziet.
 
 1.  Bepaal hoeveel en welk bier je wilt maken en wat de kenmerken van dit bier moeten zijn.
     +  bottelvolume
@@ -44,7 +44,7 @@ Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doe
 4.  Bepaal welke hopsoorten je wilt gebruiken en bereken de hoeveelheden.
     +  gewenste hoparoma en smaak
     +  tijdstip(en) en tijdsduur hopgiften
-    +  dryhopping gewenst?
+    +  vlamuit hopping of dryhopping gewenst?
 5.  Bepaal welke gist je wilt gebruiken en stel een plan voor de vergisting op.
     +  gistsoort (vergistingsgraad, uitvlokking, esters)
     +  hoeveelheid gist
@@ -58,13 +58,13 @@ Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doe
        *  bottelen (bottelsuiker, bottelgist, hergistingstemperatuur en -tijd)
        *  fust (koolzuurdruk en verzadigingsmethode)
 
-Een handige gids is de Biertypengids van Derek Walsh [@walshBiertypengids2002]. In deze gids vind je een overzicht van biertypen met uitgebreide technische specificaties, bijzonderheden en receptaanwijzingen voor elk biertype. Helaas is deze biertypengids niet meer te koop. De [BKG Biertypenlijst](https://www.bierkeurmeestersgilde.nl/biertypenlijst) is hieruit voortgekomen. Hierin worden ook de biertypen beschreven met hun kenmerken, maar geen recepturen. De lijst is vooral belangrijk wanneer je met jouw gebrouwde bier wilt meedoen aan een wedstrijd.
+Een handige gids is de Biertypengids van Derek Walsh [@walshBiertypengids2002]. In deze gids vind je een overzicht van biertypen met uitgebreide technische specificaties, bijzonderheden en receptaanwijzingen voor elk biertype. Helaas is deze biertypengids niet meer te koop. De [BKG Biertypenlijst](https://www.bierkeurmeestersgilde.nl/biertypenlijst) is hieruit voortgekomen. Hierin worden ook de biertypen beschreven met hun kenmerken, maar geen recepturen. De lijst is vooral belangrijk wanneer je met jouw gebrouwde bier mee wilt doen aan een wedstrijd.
 
-Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html) Van Jacques Bertens, op de site van Hobbybrouwen. Je start hier met de keuze van een biertype. Wanneer het gewenste biertype niet in de tabel staat kies je een type dat er het dichtst bij in de buurt komt.
+Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html) van Jacques Bertens, op de site van Hobbybrouwen. Je start hier met de keuze van een biertype. Wanneer het gewenste biertype niet in de tabel staat kies je een type dat er het dichtst bij in de buurt komt.
 
 ### Voorbeeld: Weizen
 
-Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wat speelruimte te hebben hou je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst aan.
+Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wat speelruimte te hebben neem je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst.
 
 -  Begin SG: 1052
 -  Alcoholpercentage (ABV): 5,3%
@@ -72,12 +72,12 @@ Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wa
 -  Bitterheid: 12 EBU
 -  Kooktijd: 75 min
 
-Alleereerst de moutsamenstelling. Een Duitze Weizen moet uit minstens 70% tarwemout bestaan. besloten wordt voor een verdeling van 65% tarwemout en 35% pilsmout.
+Alleereerst de moutsamenstelling. Een Duitze Weizen moet uit ongeveer 70% tarwemout bestaan. Je kiest voor een verdeling van 65% tarwemout en 35% pilsmout.
 
-\@ref(vb2-mout) is berekend dat je dan 3111 gram tarwemout en 1702 gram pilsmout nodig hebt. Totaal dus 4813 gram.
+In \@ref(vb2-mout) is berekend dat je dan 3111 gram tarwemout en 1702 gram pilsmout nodig hebt. Totaal dus 4813 gram.
 
-Als Hop wordt gekozen voor een Zuid-Duitse hoppe: Hallertau perle met 7,9% alfazuur als bitterhop en Tettnager 3,5% als aromahop. In \@ref(vb2-ebu) is berekend dat je 12 gram van deze hop dodig hebt.
+Als hop wordt gekozen voor een Zuid-Duitse hop: Hallertau Perle met 7,9% alfazuur als bitterhop. In \@ref(vb2-ebu) is berekend dat je 12 gram van deze hop dodig hebt.
 
 Als gist wordt gekozen voor een korrelgist welke geschikt is voor tarwebieren. Fermentis SafAle WB-06 is een zeer geschikte gist voor bieren op tarwebasis.
 
-Voor het maiscschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.
+Voor het maischschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.

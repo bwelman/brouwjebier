@@ -7,8 +7,6 @@
 
 ## Methodes
 
-Een korte beschrijving.
-
 ### Stijgende infusie
 
 Dit is de methode die het meest wordt toegepast. Hierbij wordt het maischwater verwarmd tot de inmaischtemperatuur. Daarna wordt het maischschema gevolgd, waarbij het beslag een steeds hogere temperatuur krijgt.
@@ -23,11 +21,11 @@ Hierbij wordt een deel van het beslag afgenomen en afzonderlijk aan de kook gebr
 
 ## Installaties
 
-In het kort een aantal brouwinstallaties die je bij de thuisbrouwer tegenkomt. In een cursus voor gevorderden wordt uitvoeriger bij een aantal installaties stil gestaan.
+In het kort een aantal brouwinstallaties die je bij de thuisbrouwer tegenkomt. In een cursus voor gevorderden zal uitvoeriger bij een aantal installaties worden stil gestaan.
 
 ### Brouwen met pannen
 
-Dit is een gangbare methode bij de thuisbrouwer waarbij je werkt twee pannen (ketels), eentje voor het maischen en eentje voor het koken.
+Dit is een gangbare methode bij de thuisbrouwer waarbij je werkt met twee pannen (ketels), eentje voor het maischen en eentje voor het koken.
 
 ### BIAB (Brew In A Bag)
 
@@ -35,7 +33,7 @@ Dit is een gangbare methode bij de thuisbrouwer waarbij je werkt twee pannen (ke
 knitr::include_graphics("images/biab.png", dpi = NA)
 ```
 
-Dit staat voor brouwen in een zak. Het is een gemakkelijke en goedkope oplossing en zeer geschikt voor het maken van kleine hoeveelheden bier. In een pan verwarm je het maischwater tot de inmaischtemperatuur. En in de maischzak doe je de mout, waarna je de maischzak in de pan laat hangen. Na afloop van het maischproces haal je de zak uit de pan en laat deze goed uitlekken. Je kunt direct doorgaan met het aan de kook brengen van de wort. Spoelen doe je niet, waardoor het rendement wel wat lager is.
+Dit staat voor brouwen in een zak. Het is een gemakkelijke en goedkope oplossing en zeer geschikt voor het maken van kleine hoeveelheden bier. In een pan verwarm je het maischwater tot de inmaischtemperatuur. En in de maischzak doe je de mout, waarna je de maischzak in de pan laat hangen. Na afloop van het maischproces haal je de zak uit de pan en laat deze goed uitlekken. Je kunt direct doorgaan met het aan de kook brengen van de wort. Spoelen doe je niet, waardoor het rendement wel wat lager is.\newpage
 
 ### RIMS
 

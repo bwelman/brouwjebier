@@ -47,12 +47,12 @@ In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden.
 
 Table: (\#tab:tabel-bitterheid) Ervaringen bitterheid en EBU waarde
 
-|Bitterheid    |EBU    |
-|:-------------|:------|
-|Weinig bitter | 5 -20 |
-|Bitterig      | 20-30 |
-|Bitter        | 30-40 |
-|Zeer bitter   | > 40  |
+|Bitterheid    |EBU / IBU |
+|:-------------|:---------|
+|Weinig bitter | 5 -20    |
+|Bitterig      | 20-30    |
+|Bitter        | 30-40    |
+|Zeer bitter   | > 40     |
 
 Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.\newpage
 
@@ -70,7 +70,7 @@ knitr::include_graphics("images/hop.png", dpi = NA)
 
 Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen, met een lager percentage alfazuur, zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen en daarom wel *dualpurposehoppen* worden genoemd.
 
-Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. En je ook van een *hopspider* gebruik maken.
+Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. Een andere mogelijkheid is om van een *hopspider* gebruik te maken, die je aan de rand van de ketel hangt.
 
 ```{r ihop-zakje-spider, fig.cap="Links een hopzakje, rechts een hopspider.", echo=FALSE}
 knitr::include_graphics("images/hop-zakje-spider.png", dpi = NA)
@@ -85,15 +85,15 @@ De momenten waarop je hop toevoegt hangen af van het doel:
 
 In figuur \@ref(fig:hoprendement-kooktijd) is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
-```{r hoprendement-kooktijd, fig.cap="Effect kooktijd op bitterheid (Tinseth)", echo=FALSE}
+```{r hoprendement-kooktijd, fig.cap="Effect kooktijd op bitterheid", echo=FALSE}
 knitr::include_graphics("images/hoprendement-kooktijd.png", dpi = NA)
 ```
 
-Eenzelfde soort gedrag treedt op bij het vervluchtigen van de hopoliën. Ook hier een snel begin gevolgd door een afvlakking. De temperatuur waarbij deze oliën vervluchtigen is in het algemeen veel lager dan 100^o^C, voor sommige begint dat al bij 60^o^C. Wanneer je ze dan 10 minuten laat meekoken is al bijna de helft van de beginconcentratie verdwenen. Wanneer je veel hoparoma en -smaak wilt kun je deze beter na het koken toevoegen, of via vlamuit hoppen of via koud hoppen.
+Eenzelfde soort gedrag treedt op bij het vervluchtigen van de hopoliën. Ook hier een snel begin gevolgd door een afvlakking. De temperatuur waarbij deze oliën vervluchtigen is in het algemeen veel lager dan 100^o^C, voor sommige begint dat al bij 60^o^C. Wanneer je ze dan 10 minuten laat meekoken is al bijna de helft van de beginconcentratie verdwenen. Wanneer je veel hoparoma en -smaak wilt kun je deze beter na het koken toevoegen, via vlamuit hoppen of via koud hoppen.
 
 **Vlamuit hoppen**
 
-Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtige waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Neem eventueel ook wat minder hop.\pagebreak
+Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtigen waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Overweeg om wat minder hop te nemen dan bij het koken.\pagebreak
 
 **Koudhoppen (Dry hopping)**
 
