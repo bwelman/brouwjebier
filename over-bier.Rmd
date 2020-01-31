@@ -1,4 +1,4 @@
-<!-- # (PART) Deel 1 {-} -->
+# (PART) Deel 1 {-}
 # Over bier {#over-bier}
 
 **Doelstellingen**

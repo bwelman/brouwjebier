@@ -2,7 +2,7 @@
 
 **Doelstellingen**
 
--  Een *Tripel* volgens een eenvoudig recept (1 maischstap) kunnen maken, onder begeleiding van de mentor.
+-  Een *Tripel* volgens een eenvoudig recept (1 maischstap) kunnen maken.
 -  In grote lijnen de verschillende stappen van het brouwproces leren kennen.
 -  Kennismaken met de apparatuur.
 -  Leren reinigen en desinfecteren van de apparatuur.
@@ -10,7 +10,7 @@
 
 ## Inleiding
 
-In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur beschikt. En het is ook niet de bedoeling dat je nu allerlei brouwapparatuur aanschaft. Verderop in deze cursus wordt daar extra aandacht aan besteed. Vandaar dat het eerste brouwsel op de apparatuur van de mentor wordt uitgevoerd. Tijdens het brouwen zal de mentor je bijstaan in het praktisch bierbrouwen en je alle stappen laten zien en/of laten uitvoeren. De benodigde grondstoffen (behalve water) worden door het gilde verstrekt.
+In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur beschikt. En het is ook niet de bedoeling dat je nu allerlei brouwapparatuur aanschaft. Verderop in deze cursus wordt daar extra aandacht aan besteed. Vandaar dat het eerste brouwsel op de apparatuur van de mentor wordt uitgevoerd. Tijdens het brouwen zal de mentor je bijstaan in het praktisch bierbrouwen en je alle stappen laten zien en/of laten uitvoeren.
 
 > Mocht je wel over eigen apparatuur beschikken dan kan in overleg dit brouwsel ook hierop worden gemaakt in plaats van de apparatuur van de mentor.
 
@@ -134,9 +134,9 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
 -  Eventuele smaak- en geurafwijkingen bespreken.
 
-## Bijlage: Kenmerken Tripel
+## Kenmerken Tripel
 
-Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
+Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
 
 **Algemene kenmerken**
 
@@ -197,9 +197,3 @@ Door het gebruik van tot 25% suiker heeft de tripel weinig body voor zijn hoge a
 -  Kleur: 10–24 EBC
 -  Bitterheid: 20–40 EBU
 -  Koolzuurgehalte: 5,5–7,0 gr/ltr
-
-[Wikipedia](https://nl.wikipedia.org/wiki/Tripel) vermeldt het volgende over de tripel.
-
-Tripel is een zwaar bovengistend bier, met een hergisting op fles. De kleur varieert tussen blond en amber. Hij heeft meestal een sterke moutige en/of hopbittere smaak. Tripel heeft een alcoholpercentage van 7 tot 10%. Het hoge percentage komt niet noodzakelijk uit de hoeveelheid graan, er wordt eventueel suiker (in de vorm van glucose) toegevoegd om het hoge alcoholpercentage te bereiken. Kenmerkend voor een tripel is ook vaak een hoger koolzuurgehalte.
-
-De oorsprong van de term is onbekend, hoewel de belangrijkste theorie is dat het op de een of andere manier de kracht van het bier aangeeft. De naam werd gebruikt in 1956 door de Trappistenbrouwerij in Westmalle om hun sterkste bier een naam te geven, hoewel zowel de term tripel en het soort bier (sterke Pale Ale) al voor 1956 bestonden. De Westmalle-Tripel werd met de naam op grote schaal gekopieerd door de brouwerijen van België, en in 1987 breidde een andere Trappistenbrouwerij, de Koningshoeven in Nederland, haar assortiment uit met het bier 'La Trappe Tripel'. Later waaide deze benaming over naar de Verenigde Staten en andere landen, en wordt nu gebruikt door een reeks van seculiere brouwers voor een sterke Pale Ale in de stijl van Westmalle-Tripel.

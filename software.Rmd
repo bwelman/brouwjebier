@@ -1,4 +1,4 @@
-<!-- # (PART) Deel 4 {-} -->
+# (PART) Deel 4 {-}
 # Brouwsoftware {#brouwsoftware}
 
 **Doelstellingen**

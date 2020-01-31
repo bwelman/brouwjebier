@@ -2,8 +2,8 @@
 
 **Doelstellingen**
 
--  Een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken, onder begeleiding van de mentor.
--  Kennismaken met meerdere moutsoorten en welk effect een moutsoort op het bier heeft..
+-  Een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
+-  Kennismaken met meerdere moutsoorten en welk effect een moutsoort op het bier heeft.
 -  Kennismaken met meerdere maischstappen en weten wat elke maischstap inhoudt.
 -  pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
 -  Verdere kennismaking met apparatuur.
@@ -11,7 +11,7 @@
 
 ## Inleiding
 
-Net als het eerste brouwsel wordt het recept en de benodigde grondstoffen weer verstrekt.
+Net als het eerste brouwsel wordt het recept weer verstrekt.
 
 De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en de achtergronden van deze maischstappen.
 
@@ -98,9 +98,9 @@ Speciale aandachtspunten bij dit brouwsel.
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
 -  Eventuele smaak- en geurafwijkingen bespreken.
 
-## Bijlage: Kenmerken Dubbel
+## Kenmerken Dubbel
 
-Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl)
+Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
 
 **Algemene kenmerken**
 

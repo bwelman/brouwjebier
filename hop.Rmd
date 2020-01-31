@@ -1,4 +1,4 @@
-<!-- # (PART) Deel 3 {-} -->
+# (PART) Deel 3 {-}
 # Hop {#hop}
 
 **Doelstellingen**

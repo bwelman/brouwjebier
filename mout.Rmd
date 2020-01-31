@@ -1,4 +1,4 @@
-<!-- # (PART) Deel 2 {-} -->
+# (PART) Deel 2 {-}
 # Mout
 
 **Doelstellingen**

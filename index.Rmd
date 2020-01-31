@@ -3,13 +3,13 @@ title: "Brouw je Bier"
 subtitle: "Een brouwcursus voor beginners"
 author:
 - "Ben Welman"
-date: '`r format(Sys.time(), "%d %B %Y %H:%M")`'
+date: '`r format(Sys.time(), "%d %B %Y")`'
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [brouwjebier.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Cursusboek bij de brouwcursus van het Twents Bierbrouwersgilde."
+description: "Cursusboek voor het brouwen van bier."
 papersize: a4
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
 cover-image: images/cover.png
@@ -17,7 +17,40 @@ cover-image: images/cover.png
 
 # Voorwoord {-}
 
-<a href="https://www.twents-bierbrouwersgilde.nl/"><img src="images/cover.png" alt="omslagfoto" align="right" style="margin: 0 1em 0 1em" /></a> Het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/) is een vereniging voor echte liefhebbers van bier en het brouwen van bier.
+<a href="https://brouwjebier.nu/"><img src="images/cover.png" alt="omslagfoto" align="right" style="margin: 0 1em 0 1em" /></a>
 
-```{r inleiding, child="inleiding.Rmd"}
-```
+Dit is een online cursus voor het leren brouwen van bier. De cursus is aanvankelijk opgezet voor een papieren handleiding bij een beginnerscursus van het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}. Het ontwikkelen van het cursusmateriaal zorgde voor een verdere verdieping van mijn kennis van het brouwproces en bracht zoveel enthousiasme bij mij teweeg dat het materiaal geschikt gemaaakt is om als een online cursusboek te dienen.
+
+**Opzet cursus**
+
+De cursus is opgezet om samen met anderen, bij voorkeur binnen een club/gilde, te leren wat de kenmerken van bier zijn en hoe het brouwen van bier in zijn werk gaat en dat ook in de praktijk te brengen. In bijlage \@ref(bijlage-gildes) tref verwijzingen naar de websites van een aantal bierbrouwgildes aan. Informeer naar de mogelijkheid tot het volgen van een cursus. Eventueel kun je de cursus ook individueel doorwerken. Maar de praktische onderdelen (brouwen en proeven) lenen zich er meer voor om onder begeleiding van een ervaren hobbybrouwer uit te voeren. 
+
+De cursus is concentrisch opgezet. Dat wil zeggen: eenvoudig beginnen met een steeds verdere uitbreiding en verdieping. Daartoe is de cursus opgedeeld in 4 delen. Elk deel eindigt met het maken van een brouwsel. Dit brouwsel kun je het beste samen met een ervaren hobbybrouwer uitvoeren, die als mentor kan fungeren. Je maakt dus in totaal 4 brouwsels. Ook deze brouwsels gaan van een eenvoudig recept naar een steeds complexer recept. In het begin krijg je een kant en klaar recept aangeleverd, aan het eind zul je er zelf een moeten maken. Het is de bedoeling dat je tijdens het maken van deze vier brouwsels steeds meer zelfstandigheid laat zien.
+
+Daarnaast leer je hoe een bier te proeven en te beoordelen, ook wel *degusteren* genoemd.
+
+-  Deel 1:
+   +  Basisprincipes van het brouwproces.
+   +  Minimale apparatuur.
+   +  *Brouwsel-1*: eenvoudig, volgens verstrekt recept.
+-  Deel 2:
+   +  Nadruk op mout en maischen.
+   +  *Brouwsel-2*: meerdere maischstappen, volgens verstrekt recept.
+-  Deel 3:
+   +  Nadruk op hop, vergisting, en recepten.
+   +  *Brouwsel-3*: voorgeschreven biertype, eigen recept.
+-  Deel 4:
+   +  Nadruk op fouten, afwijkingen en beoordelen.
+   +  Brouwsoftware.
+   +  *Brouwsel-4*: een eigen geformuleerd bier, eigen recept.
+
+**Verwachtingen cursus**
+
+Na het doorwerken van het cursusboek wordt het volgende van je verwacht.
+
+-  Je weet hoe bier gemaakt wordt en je kunt dat ook zelf.
+-  Je weet de achtergronden van de processen.
+-  Je kunt zelf een recept opstellen.
+-  Je weet een bier te classificeren.
+-  Je weet hoe je bier moet proeven en beoordelen.
+-  Je kent een aantal brouwfouten en weet hoe die te vermijden.
