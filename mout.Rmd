@@ -21,7 +21,7 @@ Gerst is een landbouwgewas dat tot de grassenfamilie behoort. Je hebt zomergerst
 
 Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels. Tegenwoordig kun je de mout tot hoeveelheden van 5kg ook in afsluitbare plastic bakken krijgen.
 
-## Moutkleur
+## Moutkleur {#moutkleur}
 
 Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in *EBC*-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
 

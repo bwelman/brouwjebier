@@ -1,4 +1,4 @@
-# Gist
+# Gist {#gist}
 
 **Doelstellingen**
 
@@ -48,7 +48,7 @@ De beste manier om vast te stellen of de vergisting is afgelopen is door het SG 
 
 ```
 
-## Gistsoorten
+## Gistsoorten {#gistsoorten}
 
 In brouwerijen worden twee gistsoorten vaak gebruikt: Saccharomyces cereviae (bovengist) en Saccharomyces pastorianus (ondergist). van deze twee soorten zijn echter verscheidene *giststammen (ondersoorten)* die door brouwers gebruikt worden. In tabel \@ref(tab:tabel-gistsoorten) staan een aantal kenmerken van deze twee gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gebruikte gist.
 
@@ -89,7 +89,7 @@ Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in
 
 Een giststarter maken om meer gistcellen te hebben is bij korrelgist niet echt nodig. Korrelgist bevat voldoende gistcellen en zoniet, dan voeg je nog een extra zakje korrelgist toe. En over het al dan niet hydrateren wordt verschillend gedacht. Bij een door fabrikant Fermentis uitgevoerde studie kon geen significant verschil worden aangetoond in levensvatbaarheid en vitaliteit van de gist bij direct instrooien en hydrateren. Direct instrooien is dan wel zo handig en gemakkelijk met minder kans op infecties.
 
-**Hydrateren**
+#### Hydrateren van korrelgist {#hydrateren}
 
 De massa water die je nodig hebt voor het hydrateren is 10 keer de massa van de hoeveelheid te gebruiken korrelgist. Gebruik je 1 zakje met 11,5 gram korrelgist, dan heb je dus 115 gram (= 115 ml) water nodig. In plaats van steriel water kun je nog beter gehopte wort gebruiken, omdat de iso-alfazuren hierin een bescherming tegen infecties bieden.  Het hydrateren kun je het beste uitvoeren in een bekerglas, erlenmeyer, fles of kopje. Zorg wel dat deze schoon is. Het water moet je eerst even koken. Bij gebruik van glazen voorwerpen is een magnetron dan erg handig. Het water moet je daarna afkoelen tot 20-28 ^o^C.
 
@@ -131,7 +131,7 @@ Brouwsoftware kan voor je uitrekenen hoeveel gist je nodig hebt en ook hoeveel g
 -  [MoreBeer! Yeast Pitch Calculator](https://www.morebeer.com/content/yeast_pitch_calculator)
 -  [**Homebrew Dad's Online Yeast Starter Guide**, Engelstalig](http://yeastcalculator.com/)
 
-## Giststarter
+## Giststarter {#giststarter}
 
 Een giststarter maak je om gistcellen te vermenigvuldigen, zodat er meer gistcellen beschikbaar komen, wat nodig kan zijn voor een groter volume wort of wort met een hoger SG. Het gebruik van een giststarter brengt de vergisting sneller op gang en ook zie je of de gist nog vitaal is. Bij gebruik van vloeibare gist wordt het maken van een gisstarter altijd aangeraden. Voor korrelgisten is het niet echt nodig, maar kan het om dezelfde redenen ook nuttig zijn.
 

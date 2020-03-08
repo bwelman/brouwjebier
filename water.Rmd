@@ -1,4 +1,4 @@
-# Water
+# Water {#water}
 
 **Doelstellingen**
 
@@ -24,7 +24,7 @@ Eigenlijk heb je alleen voor pilsbieren zeer zacht water nodig. Voor de meeste b
 
 Naast de hardheid van het water speelt ook de zuurgraad (pH) een rol bij verschillende processen tijdens het brouwen. Vandaar aan deze twee aspecten hierna de nodige aandacht besteed wordt. De samenstelling van jouw kraanwater kun je bij het waterleidingbedrijf opvragen. Voor Vitens zie [Waterkwaliteitsoverzichten](https://www.vitens.nl/service/waterkwaliteit/waterkwaliteitsoverzichten)
 
-## Zuurgraad
+## Zuurgraad {#zuurgraad}
 
 De pH is een maat voor de *zuurgraad* van een waterige oplossing. De pH van een neutrale waterige oplossing ligt bij kamertemperatuur rond de 7. Zure oplossingen hebben een pH lager dan 7, en dus een hoge zuurgraad. Basische oplossingen hebben een pH hoger dan 7 en dus een lage zuurgraad.
 
