@@ -1,17 +1,19 @@
-# Brouwsel-4
+# Brouwsel-4 {#brouwsel-4}
 
 **Doelstellingen**
 
 -  Eisen/wensen voor een te maken bier kunnen formuleren.
 -  Een recept voor dit bier kunnen opstellen.
--  Dit bier maken.
+-  Het recept in een brouwprogramma kunnen invoeren.
+-  Het bier volgens het opgestelde recept kunnen maken.
+-  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 -  Het gemaakte bier beoordelen of het aan de eisen voldoet.
 -  Eventuele afwijkingen kunnen vaststellen en aan kunnen geven waarom en wanneer deze zijn ontstaan.
 
 **Voorbereiding (huiswerk)**
 
 -  Overleg welk bier je wilt maken. Dit kan een kloon van een bestaand bier zijn, maar je kunt ook de gewenste kenmerken van een "fantasiebier" formuleren.
--  Stel een recept voor het te maken bier samen.
+-  Stel een recept voor het te maken bier samen en voer dit recept in een brouwprogramma in..
 
 **Uitvoering**
 

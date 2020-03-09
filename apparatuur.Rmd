@@ -23,7 +23,7 @@ knitr::include_graphics("images/schrootmolens.png", dpi = NA)
 
 ### Maischpan / Kookpan
 
-Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen tot meerdere. Met of zonder kraan, met of zonder electrische verwarming, met of zonder volume-aanduiding, ... De grootte (volume) hangt af van de hoeveelheid bier die je wilt brouwen. Een vuistregel is dat de pannen zo'n anderhalf tot twee keer groter moeten zijn als het te brouwen volume bier.
+Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen tot meerdere. Met of zonder kraan, met of zonder electrische verwarming, met of zonder volume-aanduiding, ... De grootte (het volume) hangt af van de hoeveelheid bier die je wilt brouwen. Een vuistregel is dat de pannen zo'n anderhalf tot twee keer groter moeten zijn als het te brouwen volume bier.
 
 ```{r brouwketel-kraan, fig.cap="Brouwketel met kraan.", echo=FALSE}
 knitr::include_graphics("images/brouwketel-kraan.png", dpi = NA)
@@ -31,7 +31,7 @@ knitr::include_graphics("images/brouwketel-kraan.png", dpi = NA)
 
 ### Gasbrander / Kookplaat
 
-Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 1^o^C per 2 minuten zijn, maar niet sneller dan 1^o^C per minuut. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
+Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 0,5- 1^o^C per minuut zijn. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
 
 ```{r gasbrander, fig.cap="Gasbrander", echo=FALSE}
 knitr::include_graphics("images/gasbrander.png", dpi = NA)
@@ -44,8 +44,8 @@ Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende t
 -  *Dompelkoeler*, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
 -  *Tegenstroomkoeler*, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
 
-```{r spiraalkoeler, fig.cap="Spiraalvormige dompelkoeler van RVS.", echo=FALSE}
-knitr::include_graphics("images/spiraalkoeler.png", dpi = NA)
+```{r wortkoeler, fig.cap="Links een dompelkoeler, rechts een platenkoeler.", echo=FALSE}
+knitr::include_graphics("images/wortkoeler.png", dpi = NA)
 ```
 
 ### Wortfilter
@@ -58,16 +58,18 @@ knitr::include_graphics("images/wortfilter.png", dpi = NA)
 
 Er zijn ook andere oplossingen zoals
 
--  Maischpan met "valse bodem" waarbij een schijf met kleine gaatjes een einde boven de echte bodem bevestigd is, strak tegen de wand. Hierop ligt dan de mout. De wort kun je dan onder deze valse bodem aftappen.
+-  Maischpan met "valse bodem" waarbij een schijf met kleine gaatjes een eindje boven de echte bodem bevestigd is, strak tegen de wand. Hierop ligt dan de mout. De wort kun je dan onder deze valse bodem aftappen.
 -  Filteremmer, een emmer met gaatjes in de bodem of een rooster.
 
-### Gistvat en Waterslot
+### Gistvat
 
 Er zijn allerlei soorten vaten te koop waarin je de vergisting kunt laten plaatsvinden. Ze verschillen in materiaal (glas, kunststof, RVS), in vorm (rond, konisch ondereind), al dan niet met aftapkranen voor het bier en/of gistdroesem. En natuurlijk verschillen ze in prijs.
 
 ```{r gistvat, fig.cap="Gistvat van kunststof met aftapkraan.", echo=FALSE}
 knitr::include_graphics("images/gistvat.png", dpi = NA)
 ```
+
+### Waterslot
 
 Een gistvat moet van de buitenlucht worden afgesloten. Meestal wordt daarvoor een waterslot genomen. In figuur \@ref(fig:waterslot) zie je twee modellen. Links het klassieke slangmodel, rechts het cylindrische model. In beide gevallen wordt het waterslot gevuld met water waardoor het vat van de buitenlucht wordt afgesloten. Het koolzuurgas dat tijdens de vergisting in het vat ontstaat kan door de overdruk door het water borrelen, naar buiten toe. Het cylindrische model is beter schoon te maken en is ook beter geschikt bij een heftige vergisting.
 

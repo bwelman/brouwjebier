@@ -11,7 +11,7 @@
 
 ## Inleiding
 
-Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel. Die enzymen zijn erg belangrijken, zij zorgen er voor dat tijdens het maischproces het zetmeel in de korrel wordt omgezet in suikers die later tijdens het vergisten weer wordt omgezet in alcohol en koolzuur. Het net ontkiemde mout wordt ook wel *groenmout*  genoemd.
+Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eerst geweekt met water waarna men het laat kiemen. Tijdens het kiemproces ontstaan enzymen in de graankorrel. Die enzymen zijn erg belangrijken, zij zorgen er voor dat tijdens het maischproces het zetmeel in de korrel wordt omgezet in suikers die later tijdens het vergisten weer worden omgezet in alcohol en koolzuur. Het net ontkiemde mout wordt ook wel *groenmout*  genoemd.
 
 Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hogere temperatuur te verwarmen en te drogen. Dit proces heet *eesten* en het gekiemde graan heet *mout*. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen en zijn ook steeds donkerder van kleur. Deze donkere moutsoorten geven het bier smaken als karamel, koffie en gebrand.
 
@@ -33,18 +33,18 @@ knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
 
 ## Moutsoorten van gerst
 
-Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn en wordt het snel onoverzichtelijk. Een belangrijke indeling is die in basismouten en speciale mouten.
+Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn en wordt het al snel onoverzichtelijk. Een belangrijke indeling is die in basismouten en speciale mouten.
 
 ### Basismouten
 
-Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken, dus voor 100% in de moutstort gebruiken.
+Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken, de moutstort bestaat van voor 100% uit een basismout.
 
 Veel gebruikte basismouten zijn:
 
--  **Pilsmout** (ca. 3-5 EBC), wordt gebruikt voor pils zoals de naam al aangeeft, maar het wordt in veel andere brouwsels gebruikt omdat het zoveel enzymen bevat.
--  **Palemout** (ca. 5-7 EBC), wordt veel voor Engelse en Amerikaanse biertypen gebruikt zoals Pale Ale, geeft een wat moutiger smaak dan pilsmout.
--  **Viennamout** (ca. 6-12 EBC), wordt gebruikt in Duitse biertypen (Vienna, Märzen, Oktoberfest), geeft een wat moutiger smaak dan pilsmout. kan tot 100% gebruikt worden, maar dat gebeurt bijna nooit.
--  **Münchenermout** (ca. 12-25 EBC), wordt gebruikt in Duitse biertypen, vooral in bokbieren, geeft een moutiger en wat zoetere smaak.
+-  **Pilsmout** (ca. 3-5 EBC), wordt gebruikt voor pils zoals de naam al aangeeft, maar het wordt in veel andere brouwsels ook gebruikt omdat het zoveel enzymen bevat.
+-  **Palemout** (ca. 5-7 EBC), wordt veel voor Engelse en Amerikaanse biertypen gebruikt zoals Pale Ale. Het geeft een wat moutiger smaak dan pilsmout.
+-  **Viennamout** (ca. 6-12 EBC), wordt gebruikt in Duitse biertypen (Vienna, Märzen, Oktoberfest). Het geeft een wat moutiger smaak dan pilsmout.
+-  **Münchenermout** (ca. 12-25 EBC), wordt gebruikt in Duitse biertypen, vooral in bokbieren. Het geeft een moutiger en zoetere smaak.
 
 ### Speciale mouten
 
@@ -53,9 +53,13 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 -  de kleur van het bier donkerder te maken
 -  een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
 
-Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten.
+Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Je moet ze dus altijd in combinatie met een basismout gebruiken.
 
->Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
+
+```{block2, type = "rmdinfo"}
+Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
+
+```
 
 **Broeimouten**
 
@@ -84,11 +88,11 @@ Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde
 
 ### Tarwemout
 
-Mout van tarwe is lichtgekleurd (ca. 3 EBC) en geeft een weeïge, zoetige, licht zure verfrissende smaak aan het bier. Tarwemout heeft een hoger gehalte aan eiwitten dan gerstemout en zorgt daardoor ook voor een lichte troebelheid van het bier. In witbieren en weizen wordt veel tarwemout gebruikt.
+Mout van tarwe is lichtgekleurd (ca. 3 EBC) en geeft een weeïge, zoetige, licht zure verfrissende smaak aan het bier. Tarwemout heeft een hoger gehalte aan eiwitten dan gerstemout en zorgt daardoor ook voor een lichte troebelheid van het bier. In witbieren en weizen wordt veel tarwemout gebruikt. En veel brouwers voegen een beetje tarwemout aan de stort toe om een betere schuimwerking te krijgen.
 
 ### Havermout
 
-In de middeleeuwen was gemoute haver het meest gebruikte mout, maar wordt nu nauwelijks meergebruikt. Haver bevat veel vet en eiwitten waardoor het bier troebel is met weinig schuim. Het geeft wel een zacht mondgevoel.
+In de middeleeuwen was gemoute haver het meest gebruikte mout, maar het wordt nu nauwelijks meergebruikt. Haver bevat veel vet en eiwitten waardoor het bier troebel is met weinig schuim. Het geeft wel een zacht mondgevoel.
 
 ### Roggemout
 

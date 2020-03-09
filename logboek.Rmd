@@ -1,9 +1,9 @@
-# Logboek
+# Logboek {#logboek}
 
 **Doelstellingen**
 
--  Het belang van een logboek.
--  Wat moet er in een logboek.
+-  Je moet weten waarom het belangrijk is om een logboek bij te houden.
+-  Je moet weten welke informatie in het logboek moet komen.
 
 ## Waarom een logboek?
 
@@ -21,3 +21,5 @@ De volgende onderdelen dienen in een logboek vermeld te worden:
 -  Bottelen.
 -  Beoordeling van het bier.
 -  Eigenlijk alles wat van belang kan zijn om op een later tijdstip na te gaan hoe een en ander verlopen is.
+
+Sommigen gebruiken als logboek een notitieboek of een multomap, anderen houden de gegevens bij in een Word- of Excelbestand. En ook de meeste brouwsoftware biedt mogelijkheden om notities te maken bij een brouwsel. In welke vorm je een logboek bijhoudt is niet belangrijk, als je het maar doet. 

@@ -1,12 +1,14 @@
-# Brouwsel-1
+# Brouwsel-1 {#brouwsel-1}
 
 **Doelstellingen**
 
--  Een *Tripel* volgens een eenvoudig recept (1 maischstap) kunnen maken.
--  In grote lijnen de verschillende stappen van het brouwproces leren kennen.
--  Kennismaken met de apparatuur.
--  Leren reinigen en desinfecteren van de apparatuur.
--  Kennismaking met een aantal grondstoffen.
+-  Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
+-  Je moet de verschillende stappen van het brouwproces in grote lijnen leren kennen.
+-  Je maakt kennis met een aantal grondstoffen.
+-  Je leert de belangrijkste kenmerken van dit biertype.
+-  Je leert omgaan brouwapparatuur.
+-  Je leert hoe je apparatuur moet reinigen en desinfecteren.
+-  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 
 ## Inleiding
 
@@ -17,6 +19,10 @@ In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur besc
 Door het maken van het eerste brouwsel kom je veel van de voorafgaande theorie tegen en ga je deze in de praktijk toepassen. Vaak roept dat weer nieuwe vragen op. De mentor is hierbij jouw vraagbaak. Probeer ook zoveel mogelijk notities te maken om zo nadien alles rustig na te kunnen lezen. Je begrijpt de theorie beter door deze in de praktijk toe te passen. Leg ook een logboek aan waarin je alle waarnemingen opschrijft. Bij dit brouwsel horen ook een aantal vragen die je moet beantwoorden.
 
 Sluit af met een evaluatie. Aan het eind van dit hoofdstuk zit een bijlage met daarin de belangrijkste kenmerken waar een tripel aan moet voldoen. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
+
+**Voorbereiding (huiswerk)**
+
+In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
 
 \newpage
 ## Recept Tripel
@@ -133,67 +139,3 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 -  Brouwproces bespreken. Ga samen met de mentor na wat er goed en fout ging en wat de eventuele invloed hiervan is op het bier.
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
 -  Eventuele smaak- en geurafwijkingen bespreken.
-
-## Kenmerken Tripel
-
-Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
-
-**Algemene kenmerken**
-
-Een tripel is een bovengistend complex blond Belgisch biertype met 7,5 tot 9,5 Vol% alcohol.
-
-**Uiterlijke kenmerken**
-
--  Blond tot goud.
--  Helder (tweeschijn is toegestaan).
--  Stevige, stabiele, romige schuimkraag.
--  Koolzuurgehalte is hoog.
-
-**Geurassociaties**
-
--  Complex met kruidige, fruitige en (niet scherpe) alcoholische aroma's.
--  Duidelijk hoparoma, maar niet overheersend.
--  Licht mout karakter.
--  Fruitigheid loopt uiteen van citrusachtig, banaanachtig tot ander fruit, maar neigt nooit naar oplosmiddelachtige esters.
--  Kruidige fenolen afkomstig van de gist (kruidig, peperig, kruidnagelachtig) zijn waarneembaar, maar mogen niet overheersen.
--  Toevoeging van kruiden (vooral koriander) komt vaak voor, maar is niet vereist.
--  Mooie balans tussen gistkarakter, hop, mout en alcohol.
--  Niets mag overheersen.
-
-**Basissmaak**
-
--  Zoetig, bitterig tot bitter.
-
-**Smaak**
-
--  Samenspel van kruidige, fruitige en alcoholische smaken, ondersteund door een zachte moutigheid.
--  Hopbitterheid gemiddeld tot hoog, en goed in balans met de moutigheid en zoetheid. 
-
-**Body**
-
-Door het gebruik van tot 25% suiker heeft de tripel weinig body voor zijn hoge alcoholpercentage 
-
-**Mondgevoel**
-
--  Soepel, alcoholwarmend en met veel koolzuurprikkeling.
--  Een beetje plakkerigheid is toegestaan.
-
-**Nasmaak**
-
--  Esters, kruidigheid en moutigheid komen in de nasmaak voor.
--  Door het hoge koolzuurgehalte is de nasmaak droog tot licht zoetig en redelijk bitter.
-
-**Opmerkingen**
-
--  Droger en meer koolzuur dan Barley Wine.
--  In vergelijking met Sterke Blonde moutiger
--  Nadruk ligt meer op fenolen dan op esters.
-
-**Technische kenmerken**
-
--  Begin SG: 1075–1085
--  SVG: 73% – 90%
--  Alcoholpercentage (ABV): 7,5–9,5%
--  Kleur: 10–24 EBC
--  Bitterheid: 20–40 EBU
--  Koolzuurgehalte: 5,5–7,0 gr/ltr

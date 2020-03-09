@@ -1,21 +1,20 @@
-# Hygiene
+# Hygiene {#hygiene}
 
 **Doelstellingen**
 
--  Het belang van schoonmaken en desinfecteren.
--  Hoe en waarmee je apparatuur schoon kunt maken.
--  Hoe en waarmee je apparatuur kunt desinfecteren.
--  Wanneer je moet desinfecteren.
+-  Je moet weten hoe belangrijk het schoonmaken en desinfecteren is.
+-  Je moet weten hoe en waarmee je apparatuur kunt schoonmaken en desinfecteren.
+-  Je moet weten wanneer je in het brouwproces moet desinfecteren.
 
 ## Inleiding
 
-Alle apparatuur en hulpmiddelen moeten goed schoongemaakt zijn. En de onderdelen die je na het koken gebruikt moeten gedesinfecteerd zijn. En desinfecteren kan pas wanneer de spullen eerst schoongemaakt zijn. Er zijn veel verschillende meningen over hoe je het beste schoon kunt maken en ontsmetten.
+Alle apparatuur en hulpmiddelen moeten goed schoongemaakt zijn. En de onderdelen die je na het koken gebruikt, dus tijdens de koude kant van het brouwproces, moeten gedesinfecteerd zijn. En desinfecteren kan pas wanneer de spullen eerst schoongemaakt zijn. Er zijn veel verschillende meningen over hoe je het beste schoon kunt maken en ontsmetten.
 
 ## Schoonmaken
 
 Alles goed schoon maken is een eerste vereiste. Schoonmaken is het verwijderen van vuil.
 
-1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. Pas op voor het maken van krassen met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waarin micro-organismen gaan zitten.
+1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. Let er op dat je geen krassen maakt met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waarin micro-organismen gaan zitten.
 2.  Maak hierna de spullen huishoudelijk schoon. Dat kan met water en een neutraal afwasmiddel  zonder geur- en kleurstoffen. Nog beter is het gebruik van speciale reinigingsmiddellen zoals de *Oxi-middelen* en *Enzybrew*.
 
 ```{r schoonmaakmiddelen, fig.cap="Van links naar rechts: (neutraal) afwasmiddel, oxi, enzybrew.", echo=FALSE}
@@ -24,11 +23,11 @@ knitr::include_graphics("images/schoonmaakmiddelen.png", dpi = NA)
 
 ## Desinfecteren
 
-Alle brouwspullen die je tijdens de koude kant van het brouwproces gebruikt moeten gedesinfecteerd worden. Dit doe je om infecties te voorkomen. Met desinfecteren kun je pas beginnen wanneer de deze brouwspullen eerst grondig schoongemaakt zijn. Dus eerst schoonmaken en dan pas desinfecteren!
+Alle brouwspullen die je tijdens de koude kant van het brouwproces gebruikt moeten gedesinfecteerd worden. Dit doe je om infecties te voorkomen. Met desinfecteren kun je pas beginnen wanneer de brouwspullen eerst grondig schoongemaakt zijn. Dus eerst schoonmaken en dan pas desinfecteren!
 
-Desinfecteren is het terugbrengen van het aantalmicro-organismen tot een aanvaardbaar niveau. Het is dus wat anders dan steriliseren, waarbij je alle micro-organismen verwijdert.
+Desinfecteren is het terugbrengen van het aantal micro-organismen tot een aanvaardbaar niveau. Het is dus wat anders dan steriliseren, waarbij je alle micro-organismen verwijdert.
 
-Er zijn behoorlijk wat desinfectiemiddelen te koop. Hieronder volgen een paar bekende. Ga niet werken met bleekwater, die laat een lucht achter (zelfs na goed naspoelen).
+Er zijn behoorlijk wat desinfectiemiddelen te koop. Hieronder volgen een paar bekende. Ga niet werken met bleekwater, dat laat een chloorlucht achter (zelfs na goed naspoelen).
 
 **Star San**
 

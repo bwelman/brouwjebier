@@ -1,13 +1,15 @@
-# Brouwsel-2
+# Brouwsel-2 {#brouwsel-2}
 
 **Doelstellingen**
 
--  Een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
+-  Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
 -  Kennismaken met meerdere moutsoorten en welk effect een moutsoort op het bier heeft.
 -  Kennismaken met meerdere maischstappen en weten wat elke maischstap inhoudt.
 -  pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
 -  Verdere kennismaking met apparatuur.
+-  Je leert de belangrijkste kenmerken van dit biertype.
 -  Meer zelfstandigheid tijdens het brouwproces.
+-  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 
 ## Inleiding
 
@@ -17,7 +19,11 @@ De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en d
 
 Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en het te gebruiken water op de juiste waarde moeten brengen.
 
-Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor. \pagebreak
+Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor.
+
+**Voorbereiding (huiswerk)**
+
+In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. \pagebreak
 
 ## Recept Dubbel
 
@@ -97,73 +103,3 @@ Speciale aandachtspunten bij dit brouwsel.
 -  Brouwproces bespreken.
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
 -  Eventuele smaak- en geurafwijkingen bespreken.
-
-## Kenmerken Dubbel
-
-Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
-
-**Algemene kenmerken**
-
-Een dubbel abdijbier of trappistenbier is een bovengistend typisch Belgisch, klassiek bier van 6,5 tot 7,5 Vol% alcohol.
-
-**Uiterlijke kenmerken**
-
--  Kleur (donker) koper, roodbruin tot donkerbruin.
--  Helder.
--  Stabiele mousse schuimkraag.
--  Een dubbel heeft tamelijk veel koolzuur. 
-
-**Geurassociaties**
-
--  Licht gebrand donker moutig, soms iets karamel, chocolade.
--  Matig zoetig (esters), fruitig (banaan, pruim, afhankelijk van de gistsoort).
--  Het hoparoma is hooguit zwak waarneembaar.
--  Complex, rijk moutige zoetheid, hints van chocolade, karamel en / of toast (maar nooit gebrande aroma's).
--  Matige fruitige esters (meestal inclusief rozijnen en pruimen, soms ook gedroogde kersen).
--  Kruidigheid en hogere alcoholen zijn soms herkenbaar.
--  Zwak hoparoma.
-
-**Basissmaak**
-
--  Zoetig, bitterig.
-
-**Smaak**
-
--  In evenwicht met de geur: zoetig tot mout bitterig, medium alcoholisch.
--  Soms zijn met kruiden toegevoegd, maar altijd in balans met moutigheid.
--  Complexe, medium-volle moutige zoetheid in de hoofdsmaak, matig droog uitlopend.
--  Complex samenspel van mout, esters, alcohol en fenolen (rozijnensmaken komen vaak voor, kruidnagel-achtige kruidigheid is mogelijk).
--  Hoofdsmaak is altijd in de richting van de mout.
--  Geen diacetyl.
--  Niet zo moutig als een bock. \pagebreak
-
-**Body**
-
--  Medium
--  Doordrinkbaar.
--  Laag alcoholwarmend.
-
-**Mondgevoel**
-
--  Iets plakkerig
--  Iets alcoholwarmend.
--  Koolzuurprikkeling is duidelijk aanwezig. 
-
-**Nasmaak**
-
--  (licht) moutig
--  Iets bitter met vaak complexe fruitigheid en kruidigheid, afhankelijk van de gistsoort.
--  Vooral de trappisten dubbel-bieren zijn meer complex in hun (na)smaak
-
-**Opmerkingen**
-
-Een van de meest bekende speciaalbieren in Nederland en België. Minder karamel karakter dan bij een bockbier. 
-
-**Technische kenemerken**
-
--  Begin SG: 1060-1072
--  SVG: 72-89%
--  Alcoholpercentage (ABV): 6,5-7,5%
--  Kleur: 40-100 EBC
--  Bitterheid: 20-30 EBU
--  Koolzuurgehalte: 5,0-7,0 gr/liter
