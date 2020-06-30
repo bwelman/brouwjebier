@@ -1,4 +1,4 @@
-# Rekenen
+# Rekenen {#rekenen}
 
 **Doelstellingen**
 
@@ -33,7 +33,7 @@ De meetmethoden voor Plato en Brix zijn verschillend. Zo wordt Plato meestal met
 
 $$\text{Brix} = 1,04 \times \text{Plato} \Leftrightarrow \text{Plato} = \text{Brix } / 1,04$$
 
-### SG/Dichtheid
+### SG/Dichtheid {#sg-dichtheid}
 
 De *dichtheid* of *soortelijke massa* van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Dit is de grootste dichtheid bij een standaard atmosferische druk (1013,25 hectoPascal = 1013,25 millibar = 1 atm). Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m3 = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
 
@@ -147,7 +147,7 @@ Totale moutstort: $3111 + 1702 = 4813$ gram\newpage
 
 ## Kleur
 
-In \@ref(moutkleur) is uitgelegd dat de kleurwaarden van mout wordt aangegeven met EBC waarden. De bierkleur hangt voor het grootste deel af van deze moutkleuren, de gebruikte hoeveelheden en het volume van de wort. Daarnaast spelen ook nog andere factoren een rol zoals het kookproces en het SG. Dit maakt het berekenen van de bierkleur erg moeilijk. Voor het maken van een schatting van de bierkleur kun je daarom het beste een brouwprogramma gebruiken.
+In \@ref(moutkleur) is uitgelegd dat de kleurwaarden van mout wordt aangegeven met EBC waarden. De bierkleur hangt voor het grootste deel af van deze moutkleuren, de gebruikte hoeveelheden en het volume van de wort. Daarnaast spelen ook nog andere factoren een rol zoals het kookproces en het SG. Dit maakt het berekenen van de bierkleur erg moeilijk. Voor het maken van een schatting van de bierkleur kun je daarom het beste een brouwprogramma gebruiken. Deze brouwprogramma's bieden vaak meerdere berekeningsmethodes aan. De berekening volgens *Morey* is de meest gebruikte.
 
 ## Waterberekening
 
@@ -294,6 +294,7 @@ De brouwprogramma’s, zie hoofdstuk \@ref(brouwsoftware), bieden vaak één of 
 |:---------------|:-------|:-------|:------|:--------|
 | BrouwHulp      | x      | x      | x     | x       |
 | BrouwVisie     | x      | x      | x     | x       |
+| BrOdeLuxe      |        |        |       | x       |
 | BrouwWijzer    |        |        |       | x       |
 
 
@@ -339,7 +340,7 @@ De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samen
 
 ```
 
-## Alcoholpercentage
+## Alcoholpercentage {#alcoholpercentage}
 
 Het werkelijke volumepercentage alcohol (ABV = Alcohol By Volume) kun je niet uitrekenen, voor de bepaling ervan heb je een laboratorium nodig. Je kunt wel een redelijke schatting maken uit het verschil tussen $SG_{begin}$ en $SG_{eind}$. Dit verschil moet je dan nog vermenigvuldigen met een getal dat afhangt van $SG_{begin}$. Een vuistregel voor dit getal is 136.
 

@@ -14,7 +14,7 @@ Voor alle brouwprogramma's geldt dat je eerst een aantal kenmerken van jouw "bro
 
 [Website BrouwVisie](http://www.brouwvisie.nl/)
 
-Een binnen het gilde veel gebruikt programma van gildelid Oscar Moerman. Er zijn drie uitvoeringen te downloaden:
+Programma van Oscar Moerman. Er zijn drie uitvoeringen te downloaden:
 
 -  versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
 -  versie 2.32, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €20. Je kunt deze versie zonder licentie(kosten) uitproberen, maar wel met een aantal beperkingen.
@@ -36,11 +36,7 @@ Vereisten: Windows, Linux
 
 Handleiding: Wordt bij de installatie meegeleverd en is via het menu oproepbaar.
 
-##  Brouwwijzer
-
-Excelprogramma van gildelid Hans Saris, gratis. Wordt niet meer verder ontwikkeld.
-
-Vereisten: Windows en Excel
+Dit programma ondersteunt ook het gebruik van electrische brouwketels als Speidel en Grainfather.
 
 ## BROdeLuxe
 
@@ -54,3 +50,12 @@ Vereisten: Windows
 
 Handleiding: Wordt bij de installatie meegeleverd en is via het menu oproepbaar.
 
+Er is ook een [Brodeluxe Online](http://www.kwbg.nl/brodeluxe/) welke iets minder functionaliteiten heeft.
+
+##  Brouwwijzer
+
+Excelprogramma van Hans Saris.
+
+Gratis. Wordt niet meer verder ontwikkeld.
+
+Vereisten: Windows en Excel

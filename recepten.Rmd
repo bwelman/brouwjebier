@@ -10,17 +10,71 @@
 
 Hoe kom je tot een recept voor een goed en succesvol bier? In het begin is dat niet eenvoudig en gebruik je snel een recept van een ander. Zeker wanneer je een volgens dit recept gebrouwen bier geproefd hebt en lekker vindt, kan dit vertrouwen in het recept geven. Soms moet je dan nog wat aan de hoeveelheden veranderen om het recept aan je eigen installatie aan te passen, maar daarna ben je snel klaar en daar is niets mis mee. Ook zijn er veel boeken en websites met recepten, teveel om op te noemen.
 
-Waar je als beginnend brouwer veel aan kunt hebben zijn de [Bewezen Recepten](https://www.hobbybrouwen.nl/forum/index.php?topic=4459.0) op het forum van Hobbybrouwen. Dit zijn recepten van bieren die ooit een prijs gewonnen hebben op een wedstrijd.
+Een goed houvast biedt ook een gids met biertypen, zoals die van het BKG (BierkeurmeestersGilde) die in hoofdstuk \@ref(biertypen) wordt besproken. De gids geeft voor de biertypes een overzicht van de belangrijkste parameters en biedt daardoor een goed startpunt voor het formuleren van een recept.
+
+Waar je als beginnend brouwer ook veel aan kunt hebben zijn de [Bewezen Recepten](https://www.hobbybrouwen.nl/forum/index.php?topic=4459.0) op het forum van Hobbybrouwen. Dit zijn recepten van bieren die ooit een prijs gewonnen hebben op een wedstrijd.
 
 Het wordt wat anders wanneer je een bepaald bier wilt klonen of een bier wilt brouwen dat aan bepaalde kenmerken voldoet. Dan moet je het opstellen van een recept wat systematischer aanpakken. En om een goed recept te kunnen samenstellen moet je wat weten over de kenmerken van de verschillende grondstoffen en over de processen die plaatsvinden tijdens het maischen, koken en vergisten.
 
-## Aanpassen bestaand recept
+## De belangrijkste parameters voor een recept.
+
+Bij het opstellen van een recept zijn de volgende 5 criteria het meest van belang:
+
+1.	Begin SG
+2.	Kleur
+3.	Bitterheid en bitterheidsverhouding
+4.	Alcoholpercentage
+5.	Essentiële ingrediënten
+
+Voor de eerste vier criteria vind je in de BKG biertypenlijst een waardenbereik van het criterium voor een bepaald biertype. Voor een nieuw recept kun je het beste beginnen door in het midden van dat bereik uit te komen. 
+
+### Begin SG
+
+Het begin SG geeft in feite aan hoeveel vergistbare stoffen in de wort zitten. Meestal wordt hiervoor als maat de dimensieloze relatieve dichtheid (zie ook \@ref(sg-dichtheid)) voor gebruikt. Zuiver water heeft een relatieve dichtheid van 1,000. Voor de bieren uit de BKG biertypenlijst loopt het begin SG van 1,028 tot 1,120.
+
+In hoofdstuk \@ref(rekenen) leer je hoe je een schatting van het begin SG kunt maken op basis van de moutstort, het brouwvolume en het brouwhuisrendement.
+
+Het begin SG is zowel bepalend voor het alcoholgehalte als de body van het bier. Bieren met een laag begin SG hebben doorgaans minder alcohol en body dan die met een hoog begin SG.
+
+### Kleur
+
+De kleur van het bier hangt voor het grootste deel af van de kleur en verhouding van de gebruikte moutsoorten en het brouwvolume. Voor een schatting van de bierkleur kun je het beste gebruik maken van brouwsoftware (zie hoofdstuk \@ref(brouwsoftware)).
+
+Om de gewenste doelkleur voor het bier te krijgen moet je de moutstort aanpassen door meer of minder van een donkere mout te gebruiken.
+
+### Bitterheid en bitterheidsverhouding
+
+De bitterheid van een bier wordt uitgedrukt in EBU (IBU). In hoofdstuk \@ref(rekenen) wordt ook uitgelegd hoe je hiervoor een schatting kunt maken.
+
+Naast de bitterheid van de hop is ook de balans met de zoetheid van de mout van belang. Dit kan uitgedrukt worden met de bitterheidsverhouding (BV).
+
+$BV = \frac{EBU}{SG_{punten}}$
+
+De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in de volgende tabel.
+
+|Biertype |Begin SG   |Gemid. SGpunten|EBU  |Gemid. EBU|BV
+|:--------|:---------:|:-------------:|:---:|:--------:|:----------:|
+|IPA (USA)|1,056-1,070|63             |40-70|55        |55/63 = 0,87|
+|Weizen   |1,046-1,057|52             |10-20|15        |15/52 = 0,29|
+
+### Alcoholpercentage
+
+Het volumepercentage alcohol (ABV) kan worden berekend uit het begin SG en het eind SG, zie \@ref(alcoholpercentage). Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:
+
++ *Begin SG*. In het algemeen geldt hoe hoger het begin SG, hoe hoger het alcoholpercentage.
++ *Gistsoort*. Sommige gistsoorten zijn effectiever in het omzetten van suikers in alcohol dan andere gistsoorten.
+
+### Essentiële ingrediënten
+
+Voor sommige biertypes zijn bepaalde ingrediënten essentieel. Ook hiervoor biedt de biertypengids meestal uitkomst. Zo moet de moutstort voor een Weizen uit minimaal 50% tarwemout bestaan. En ook heb je voor de kenmerkende banaan- en kruidnagelsmaak van een Weizen een speciale Weizengist nodig.
+
+## Aanpassen van een bestaand recept
 
 Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen. Vaak moet het bottelvolume gewijzigd worden in het volume voor je eigen installatie. Hierdoor moeten ook de hoeveelheden mout, water, hop  en soms gist worden aangepast. Gebruik van brouwsoftware is ook hier gemakkelijk omdat deze vaak over schalingsmogelijkheden beschikken en automatisch alle hoeveelheden aanpassen aan het nieuwe bottelvolume.
 
 Het kan ook zijn dat je een van de ingrediënten wilt wijzigen, bijvoorbeeld omdat een bepaald ingrediënt niet meer voorradig of te koop is, of omdat je wat anders nog op voorraad hebt. Op internet zijn hiervoor substitutielijsten te vinden.
 
-## Nieuw recept
+## Werkwijze nieuw recept
 
 Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doen. Het standaardboek op dit gebied is Designing Great Beers [@danielsDesigningGreatBeers1996]. Hierin wordt een zes stappenplan beschreven dat er als volgt uitziet.
 
@@ -71,6 +125,7 @@ Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wa
 -  Kleur: 15 EBC
 -  Bitterheid: 12 EBU
 -  Kooktijd: 75 min
+-  Bitterheidsverhouding = 12/52 = 0,23
 
 Alleereerst de moutsamenstelling. Een Duitze Weizen moet uit ongeveer 70% tarwemout bestaan. Je kiest voor een verdeling van 65% tarwemout en 35% pilsmout.
 

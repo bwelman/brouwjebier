@@ -23,9 +23,15 @@ Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschik
 
 ## Moutkleur {#moutkleur}
 
-Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. De kleur van mout wordt uitgedrukt in *EBC*-waarden (European Brewery Convention). Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. Voor de aanduiding van de moutkleur kom je meerdere normen tegen. De oudste is de onnauwkeurige *Lovibond* schaal uit 1893. Opvallend is dat de Amerikanen deze nog steeds gebruiken voor de kleur van de mout, maar voor de kleur van bier de nieuwere *SRM* (Standard Reference Method) gebruiken. In Europa wordt voor zowel voor de kleur van mout als voor bier de *EBC* (European Brewery Convention) gebruikt. Je kunt SRM- en EBC-waarden goed in elkaar omrekenen met de formule
 
-De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's voor het brouwen rekenen dat voor je uit, zie hoofdstuk \@ref(brouwsoftware).
+$\text{EBC} = 1,97 \times \text{SRM}$
+
+Ruwweg is de EBC-waarde dus het dubbele van de SRM-waarde.
+
+Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
+
+De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's (zie hoofdstuk \@ref(brouwsoftware)) voor het brouwen rekenen dat voor je uit.
 
 ```{r kleurenkaart, fig.cap="EBC kleurenkaart", echo=FALSE}
 knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
