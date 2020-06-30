@@ -38,6 +38,8 @@ Het begin SG is zowel bepalend voor het alcoholgehalte als de body van het bier.
 
 ### Kleur
 
+![](images/bierkleur.png)
+
 De kleur van het bier hangt voor het grootste deel af van de kleur en verhouding van de gebruikte moutsoorten en het brouwvolume. Voor een schatting van de bierkleur kun je het beste gebruik maken van brouwsoftware (zie hoofdstuk \@ref(brouwsoftware)).
 
 Om de gewenste doelkleur voor het bier te krijgen moet je de moutstort aanpassen door meer of minder van een donkere mout te gebruiken.

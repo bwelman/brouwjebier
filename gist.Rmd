@@ -67,10 +67,12 @@ Er zijn ook gistsoorten die tussen een ondergist en bovengist zitten, die vergis
 
 ```
 
+## Verpakkingsvorm
+
 De hobbybrouwer kan gist kopen als
 
--  korrelgist (gedroogde gist). Bekende leveranciers zijn: Fermentis, Danstar/Lallemand, Mangrove Jack
--  vloeibare gist. Leveranciers: White Labs, Wyeast
+-  korrelgist (gedroogde gist)
+-  vloeibare gist.
 
 Korrelgisten zijn goedkoper dan vloeibare gisten en ook het gebruik ervan is simpeler. Zo hoef je bij korrelgisten niet van tevoren een giststarter te maken. Van de vloeibare gisten is echter een groter assortiment voor specifieke biertypes leverbaar, alhoewel er steeds meer soorten korrelgisten op de markt komen.
 
@@ -81,7 +83,7 @@ Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een
 
 ### Korrelgist
 
-Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Voor het gebruik heb je de volgende mogelijkheden:
+Bekende leveranciers zijn Fermentis, Danstar/Lallemand en Mangrove Jack. Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Voor het gebruik heb je de volgende mogelijkheden:
 
 *  Direct over de wort in het gistvat strooien.
 *  Eerst *hydrateren* en dan aan de wort in het gistvat toevoegen.
@@ -105,16 +107,24 @@ De massa water die je nodig hebt voor het hydrateren is 10 keer de massa van de 
 
 ### Vloeibare gist
 
-**Wyeast** vloeibare gisten worden geleverd in een zogenaamde *smack-pack*. Dit is een foliezak met binnenin vloeibare gist en een klein zakje met gistvoeding. Voor gebruik moet je tussen twee handen het kleine zakje kapot drukken/slaan zonder dat de grotere foliezak beschadigt. De gistvoeding komt nu bij de gist. Kneed en schud de zak zodat alles goed gemengd wordt. De gist gaat zich nu vermenigvuldigen en de zak zwelt hierdoor op. De duur van het groeiproces hangt af van de ouderdom van de gist en kan meer dan een dag duren.
-
-**White Labs** is een geconcentreerde vloeibare gist (PurePitch) in een foliezakje. De gist is direct klaar voor gebruik.
-
-Beide vloeibare gisten worden geleverd in een verpakking die voldoende gistcellen heeft voor het vergisten van 20 liter wort met een SG van ongeveer 1,048. Voor een groter volume wort of voor bier met een hoger SG heb je meer gistcellen nodig, dus meer verpakkingen. Het alternatief is om een zogenaamde **giststarter** te maken.
+De twee bekendste leveranciers zijn [Wyeast](https://wyeastlab.com/) en [White Labs](https://www.whitelabs.com/). Beide leveren vloeibare gisten in een verpakking die voldoende gistcellen bevat voor het vergisten van 20 liter wort met een SG van ongeveer 1,048. Voor een groter volume wort of voor bier met een hoger SG heb je meer gistcellen nodig, dus meer verpakkingen. Het alternatief is om een zogenaamde **giststarter** te maken.
 
 ```{block2, type = "rmdtip"}
 Bij gebruik van vloeibare gist kun je het beste altijd een giststarter maken.
 
 ```
+
+#### Wyeast
+
+De vloeibare gisten worden geleverd in een zogenaamde *smack-pack*. Dit is een foliezak met binnenin vloeibare gist en een klein zakje met gistvoeding. Voor gebruik moet je tussen twee handen het kleine zakje kapot drukken/slaan zonder dat de grotere foliezak beschadigt. De gistvoeding komt nu bij de gist. Kneed en schud de zak zodat alles goed gemengd wordt. De gist gaat zich nu vermenigvuldigen en de zak zwelt hierdoor op. De duur van het groeiproces hangt af van de ouderdom van de gist en kan meer dan een dag duren.
+
+Een overzicht van de beschikbare gisten kun je vinden op [Wyeast Yeast Strains](https://wyeastlab.com/beer-strains). Naast de eigenschappen van een bepaalde gistsoort vind je hier ook welk biertype een gistsoort het meest geschikt is.
+
+#### White Labs
+
+Deze levert een geconcentreerde vloeibare gist (PurePitch) in een foliezakje. De gist is direct klaar voor gebruik.
+
+Een overzicht van de beschikbare gisten en bijbehorende biertypes kun je vinden op [White Labs Yeast Bank](https://www.whitelabs.com/yeast-bank).
 
 ### Wilde gisten
 

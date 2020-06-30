@@ -1,0 +1,128 @@
+# Notities (WIP)
+
+## Klaring met gelatine
+
+Na de lagering en voor het bottelen kun je desgewenst het bier klaren met gelatinepoeder. Het gaat als volgt.
+
+1. Koel het bier af tot onder de 10^o^C.
+1. Maak een gelatineoplossing. Voor 20 liter bier voeg je 5 gram gelatinepoeder toe aan 60 ml koud water. Zet deze in de magnetron en geef achter elkaar stoten van 7 sec. Roer na elke stoot met de onderkant van de thermometer. Ga hiermee door tot de oplossing een temperatuur van 63^o^C-65^o^C heeft.
+1. Voeg de gelatineoplossing toe aan het koude bier en roer deze er voorzichtig door heen.
+1. Laat het bier verder afkoelen naar een temperatuur dicht bij 0^o^C en laat het zo'n 2-3 dagen staan.
+1. Daarna kan het bier gebotteld worden.
+
+Voor andere klaringstechnieken zie http://byo.com/recipes-tag/item/645-fining-your-beer-techniques.
+
+## Etiketten
+
+Boven op de dop passen ronde etiketten van Herma No. 4386, doorsnede 20mm. Met de (gratis) software Herma Label Designer 1.1 NL kun je deze etiketten erg mooi bedrukken, ook met ronde tekst. Het voordeel hiervan is dat je later het etiket niet meer van de fles hoeft los te weken.
+
+![Voorbeeld rond etiket](images/etiket-herma.png)
+
+Voor het maken van fraaiere etiketten is online software beschikbaar, zoals
+
++ [Beer Labelizer](https://www.beerlabelizer.com/). Je kunt kiezen uit een aantal voorgedefinieerde ontwerpen, deze van eigen tekst voorzien, een eigen afbeelding toevoegen en daarna het etiket afdrukken of als een afbeelding (jpeg, png) bewaren.
++ [Labeley](https://labeley.com/). Je kunt kiezen uit aantal ontwerpen die je aan kunt passen met eigen achtergronden, afbeeldingen en teksten. Wanneer je het ontwerp wilt bewaren moet je eerst een account aanmaken.
+
+## Gist
+
+Gist is een eencellig levend organisme dat suiker omzet in alkohol en koolstofdioxide. Tijdens de vergisting ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deel controleerbaar door de temperatuur en de soort gist.
+
+In een zuurstofrijk milieu gaat de gist zich vooral vermenigvuldigen en maakt geen alcohol. Ook wordt de pH lager. Voor een giststarter waar het je om de vermenigvuldiging van de gist te doen is moet je dus vooral goed beluchten. Wanneer je bij de vergisting gebruik maakt van een goede giststarter met voldoende gistcellen, hoef je de wort niet te beluchten. De gist moet zich dan vooral bezig houden met het maken van alcohol.
+
+Pitching Rate: de verhouding tussen de gist en de wort (gram korrelgist per liter wort).
+
+Gist gaat niet zo snel dood, maar gaat wel "slapen" bij
+
++ een temperatuurschok, als de starter een andere temperatuur heeft dan de wort.
++ een groot verschil in suikerprofiel tussen starter en wort. De suiker in de wort bestaat vooral uit maltose.
++ langdurig bewaren. Gist ouder dan 1 jaar kun je nog prima gebruiken, maar het duurt dan wel enkele dagen tot een week voordat de gist levendig is.
++ Autolyse treedt niet snel op, behalve wanneer er druk op de gist wordt uitgeoefend, bijvoorbeeld door veel vloeistof er boven. Bij de huisbrouwer is autolyse geen punt, maar bij grote brouwerijen kan het snel gaan.
++ Mixen van giststrains geeft de voordelen van beide.
+
+Luie gist:
+
++ Gist wordt lui van gemakkelijke suikers. Bij veel gemakkelijke suikers begint de gist dan niet aan moeilijker suikers zoals maltotriose.
++ Het toevoegen van suiker, kandij, honing kun je daarom beter niet tijdens het koken toevoegen. Voeg deze in het gistvat toe aan het einde van de hoofdvergisting.
++ Sommige giststammen zijn uit zichzelf lui, bijv. korrelgist S-33. Deze is daarom vooral geschikt voor zoete bieren.
++ Een gistcel maakt zo'n 4-5 baby's.
++ Pas op voor wilde giststammen. Deze eten de suikers op die de biergisten laten liggen.. Geeft dan een grotere kans op plofflessen.
+
+Bewaren van de gist
+
+Gist kan behoorlijk lang bewaard worden.
+
++ In de koelkast kan gist in een jampotje ideaal 1-3 dagen bewaard worden, tot 2 weken kan ook nog wel, maar n 4 weken zijn de helft van de gistcellen dood. Voor gebruik eerst een starter maken. Tip: je kunt de gist activeren door vloeistof af te gieten en verse wort toe te voegen.
++ Ca. 2 jaar in een diepvriezer.
+
+Er zijn twee soorten gist verkrijgbaar: gedroogde gist (korrelgist) en vloeibare gist (reinculturen van Wyeast of White Labs). Daarnaast kun je ook zelf gist opkweken uit flessen commercieel bier waarin gist zit. Het is belangrijk dat de gist die aan de wort toegevoegd wordt, voldoende gezonde en actieve gistcellen bevat. Daarom wordt er vaak een gistarter gemaakt die bij de wort gedaan wordt.
+
+Fusel alcoholen (fusel oils) zijn mengsels van verschillende soorten alcoholen (vooral 1-propanol en isoamylalcohol), geproduceerd als bijproduct van de alcoholische vergisting.
+
+Tips:
+
++ Maak altijd een giststarter. Ook als de verpakking korrelgist of vloeibare gist voldoende is voor de hoeveelheid wort. Je weet dan altijd zeker dat de gist ook actief is.
++ Maak ook een starter bij korrelgist, want daardoor verdwijnt de korrelgistsmaak (bron: Grolsch)
++ Heb korrelgist paraat wanneer de giststarter niet binnen 36 uur actief wordt.
+
+Gist calculators:
+
++ [YeastCalc](http://www.yeastcalculator.com/)
++ [MrMalty](http://www.mrmalty.com/calc/calc.html)
+
+Overzicht en vervangers:
+
++ [Homebrew Yeast Strains Chart](https://byo.com/article/yeast/), hiermee kun je voor een bepaald biertype de geschikte gistsoorten vinden. Erg handig.
+
+## Gist kweken
+
+### Gistslurry invriezen
+
+Voor het invriezen van gistslurry heb je glycerine 33% nodig.
+
+Glycerine uit winkel bevat meestal 80% glycerol en 20% water. Aan 10 ml van dit mengsel voeg je 14 ml water toe om de gewenste concentratie van 33% glycerol te krijgen. Doe dit mengsel in een kleine erlenmeyer, dek af met magnetronfolie en kook het mengsel kort in de magnetron.
+
+Schenk een deel van de slurry in een gedesinfecteerde maatcilinder, want slurry schenken vanuit de grote erlenmeyer met giststarter is niet handig. Vul de cryobuisjes voor ongeveer 40% met deze gistslurry. Hieraan een evengroot volume glycerine 33% toevoegen, die vooraf gekookt is.
+
+Etiketteer de buisjes en schud de inhoud voor een goed menging. Leg ze plat in een plastic bakje en zet het doosje in de diepvries. Schud de buisjes steeds om het halve uur tot de inhoud bevroren is.
+
+### Gist opkweken
+
+Voor het aanmaken van een giststarter hieruit eerst de inhoud ontdooien. Daarna stapsgewijs de giststarter laten groeien. Begin met 100 ml als eerste stap en daarna opschalen naar 500 ml, 1 lit, 1,5 lit..De eerste stap duurt een aantal dagen tot wel een week, de gist moet even wennen en de tijd krijgen zich te vermenigvuldigen. De volgende stap zal ca. 2 dagen in beslag nemen wanneer de temp tussen de 20-25 graden is. De dan volgende stappen idem. Als het schuim zo goed als weg is, is de starter uitgegegist, dat wil je eigenlijk niet, je wilt een zeer actieve starter. Gebruik ook gistvoeding, dat helpt vitale gist te kweken.
+
+### Achtergrondinfo
+
++ glycerol = propaan-1,2,3-triol
++ glycerine = een mengsel van glycerol met water. Meestal 80% glycerol en 20% water.
+
+WAARSCHUWING: Gebruik geen glycol. Dat is 1,2-ethaandiol (ook wel ethyleenglycol of etheenglycol genoemd). Wordt als antivriesmiddel gebruikt.
+
+### Lees verder
+
++ [Het invriezen en bewaren van gist](https://www.twortwat.nl/t-4/nieuws.detail?item_id=1151341194&type=4&back=1&page=/artikelen)
++ [Glycerol in mijn bier?](https://brouwerijdewatertoren.blogspot.com/2014/07/glycerol-in-mijn-bier.html)
++ [YEAST HARVESTING](http://brulosophy.com/methods/yeast-harvesting/)
+
+## Gist oogsten uit commercieel bier
+
+De methode kan alleen gebruikt worden wanneer in de fles gist aanwezig is. Uit gefiltreerd en/of gepasteuriseerd bier kan geen gist opgekweekt worden. De gist moet ook voldoende levendig zijn en niet besmet. Geschikte bieren zijn:
+
++ Hoegaarden witbier, grand cru
++ La Chouffe
++ Westmalle tripel, dubbel
+
+Gebruik ook bier dat nog redelijk jong is (zie houdbaarheidsdatum). Meestal is de inhoud van 2-3 flessen bier voldoende om 1 liter giststarter te maken.
+
+1. Laat de flessen bier een paar dagen rechtop in de koelkast staan zodat de aanwezige gist goed naar de bodem is gezakt.
+1. Maak op de bekende wijze een giststarter m.b.v. moutextract of gebruik ingevroren wort van een vorig brouwsel en breng deze op de gewenste temperatuur (meestal 20-22 ^o^C). Het is aan te bevelen om een giststarter te maken waarvan het s.g. in de buurt ligt van het bier waaruit het opgekweekt wordt. Eventueel wat gistvoedingszout toevoegen.
+1. Ontsmet de flessen bier rond de kroonkurk. Schenk daarna voorzichtig het bier uit tot de laatste twee centimeter.
+1. Schud het restant van het bier in de fles goed door en voeg deze daarna aan de giststarter toe. Een alternatief is om wat van de giststarter aan het resterende bier in de fles toe te voegen, dan goed doorschudden en toevoegen aan de giststarter.
+1. Dek de erlenmeyer (of fles) af met een waterslot (of aluminium folie of een prop steriele watten).
+1. Afhankelijk van de mogelijkheden: roeren/schudden en/of beluchten.
+
+Na 2-5 dagen heb je een goede giststarter. Het kan zijn dat je deze nog moet vermeerderen voor een groter volume giststarter.
+
+Bron: https://www.twortwat.nl/t-4/nieuws.detail?item_id=1151337244&amp;type=4&amp;back=1&amp;page=/artikelen
+
+
+
+ 

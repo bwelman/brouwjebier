@@ -88,7 +88,9 @@ De relatieve dichtheid (Specific Gravity, SG) van een vloeistof is de dichtheid 
 
 ```
 
-Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing). Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
+Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing).
+
+Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
 
 ```{r hydrometer-aflezing, fig.cap="Hydrometer met bijpassende maatcilinder.", echo=FALSE}
 knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
@@ -135,8 +137,7 @@ Een refractometer meet de brekingsindex van licht door een vloeistof (bijvoorbee
 knitr::include_graphics("images/refractometer.png", dpi = NA)
 ```
 
-Maak het glazen prisma schoon en droog, breng dan 1-2 druppels vloeistof aan, druk het afsluitkapje aan en houdt de refractometer tegen het licht. In het kijkglas zie
-je dan een horizontale kleurgrens. Stel eventueel scherp en lees de meetwaarde op de schaal af.
+Maak het glazen prisma schoon en droog, breng dan 1-2 druppels vloeistof aan, druk het afsluitkapje aan en houdt de refractometer tegen het licht. In het kijkglas zie je dan een horizontale kleurgrens. Stel eventueel scherp en lees de meetwaarde op de schaal af.
 
 De meeste refractometers gebruiken als meeteenheid het aantal graden *Brix*. En 1^o^ Brix is 1 gram sucrose in 100 gram oplossing.
 
@@ -154,6 +155,18 @@ Voor een nauwkeuriger methode kun je brouwsoftware gebruiken.
 Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft! Voor dit omrekenen zijn wel formules beschikbaar en ook de brouwsoftware kan dat voor je doen. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
 
 ```
+
+**Calibreren**
+
+Voor het calibreren van een refractometer het zetten van het nulpunt meestal voldoende. Dit doe je door een meting met gedestilleerd (of gedemineraliseerd) water uit te voeren. Gedestilleerd water heeft namelijk een dichtheid van 1000, de Brixwaarde moet dan 0 zijn. Een goede refractometer heeft een stelknop of stelschroef om de schaalaflezing op 0 in te stellen. 
+
+Voor een nog grotere nauwkeurigheid kun je eventueel nog een ijking voor een punt aan het eind van de schaal uitvoeren. Echter deze ijking kun je niet op de refractometer zelf instellen, maar vaak wel in de brouwsoftware invoeren. Voor deze ijking moet je een suikeroplossing maken met een bekende Brixwaarde, bijvoorbeeld 20 gram suiker en 80 gram water. Deze heeft een Brix van 20.
+
+```{block2, type = "rmdtip"}
+Je kunt natuurlijk ook metingen uitvoeren met zowel de refractometer en een hydrometer en deze waarden met alkaar vergelijken.
+
+```
+
 
 ### Vergistingskast
 

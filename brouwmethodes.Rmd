@@ -33,7 +33,22 @@ Dit is een gangbare methode bij de thuisbrouwer waarbij je werkt met twee pannen
 knitr::include_graphics("images/biab.png", dpi = NA)
 ```
 
-Dit staat voor brouwen in een zak. Het is een gemakkelijke en goedkope oplossing en zeer geschikt voor het maken van kleine hoeveelheden bier. In een pan verwarm je het maischwater tot de inmaischtemperatuur. En in de maischzak doe je de mout, waarna je de maischzak in de pan laat hangen. Na afloop van het maischproces haal je de zak uit de pan en laat deze goed uitlekken. Je kunt direct doorgaan met het aan de kook brengen van de wort. Spoelen doe je niet, waardoor het rendement wel wat lager is.\newpage
+Dit staat voor brouwen in een zak. Voor deze brouwmethode heb je maar 1 pan nodig en een (gaasachtige) zak. Het is een gemakkelijke en goedkope oplossing en zeer geschikt voor het maken van kleine hoeveelheden bier. De werkwijze is als volgt:
+
+1. De totale hoeveelheid water die je nodig hebt wordt tegelijk in de pan gedaan en op maischtemperatuur gebracht.
+1. Wanneer het water op temperatuur is wordt alle mout in een zak in de pan gehangen.
+1. Volg verder het maischschema. Af en toe moet de mout in de zak geroerd worden.
+1. Wanneer het maischen klaar is wordt de zak uit de vloeistof gehaald en laat je deze uitlekken.
+1. Spoelen doe je meestal niet, waardoor het rendement wel wat lager is.
+1. Daarna kan het kookgedeelte beginnen.
+
+Aandachtspunten:
+
++ De ketel moet groot genoeg zijn zodat alle vloeistof en mout er in kan.
++ Voor het materiaal van de zak kun je het beste 100% polyester of nylon nemen.
++ Hang de zak over de rand van de ketel en zet deze vast (bijvoorbeeld met wasknijpers)
++ Pas op voor aanbranden van de zak wanneer je een directe verwarming gebruikt en de zak op de bodem hangt.
++ De wort kan iets minder helder zijn.
 
 ### RIMS
 

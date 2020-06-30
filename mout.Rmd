@@ -104,6 +104,33 @@ In de middeleeuwen was gemoute haver het meest gebruikte mout, maar het wordt nu
 
 Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig gebruikt.
 
+## Moutextract
+
+Door de wort in te koken tot een vloeibare, stroperige pasta of tot een poedervorm, krijg je moutextract. Wanneer je bier brouwt met moutextract hoef je niet meer te schroten en te  maischen. Het koken met hop moet nog wel, alhoewel er ook gehopte moutextract te koop is. Het brouwen met moutextract wordt veel door Amerikaanse hobbybrouwers gedaan. Je hebt moutextract dus in twee soorten: vloeibaar en poeder.
+
+Omdat moutextract een geconcentreerde vorm van mout is, heb je er minder van nodig. Wanneer je in een recept de mout vervangt door moutextract moet je de volgende rekenregels hanteren:
+
++ 1 kg moutextractpoeder = 1,60 kg gerstemout
++ 1 kg vloeibaar moutextract = 1,30 kg gerstemout
+
+**giststarter**
+
+Moutextractpoeder is zeer geschikt voor het maken van een giststarter.
+
+**suiker vervanging**
+
+Moutextractpoeder kun je ook gebruiken ter vervanging van suiker in het recept. De bieren worden hierdoor minder droog en krijgen een rijkere smaak, meer body en een mooiere stabiele schuimkraag. Gebruiksmogelijkheden tijdens het brouwen:
+
++ Vervang de helft van het gewicht aan suiker door een even groot gewicht aan moutextractpoeder. Bijvoorbeeld i.p.v. 1 kg suiker voeg je dan 500 gram suiker en 500 gram moutextractpoeder toe.
++ Vervang de suiker volledig door een even groot gewicht aan moutextractpoeder. Dus 1 kg suiker vervangen door 1 kg moutextractpoeder. Het bier krijgt hierdoor een hoger moutpercentage, een rijke smaak en een vollere body.
+
+<!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
+
+```{block2, type = "rmdwarning"}
+Moutextractpoeder is sterk hygroscopisch, trekt dus water aan. Bewaar het daarom op een droge, koele en bij voorkeur donkere plaats in een goed afgesloten doos.
+
+```
+
 ## Mouterijen
 
 Enkele bekende mouterijen zijn:
@@ -114,7 +141,7 @@ Enkele bekende mouterijen zijn:
    +  [Vloermouterij Masterveld in Ratum](https://www.vloermouterijmasterveld.nl/)
 -  België
    +  [Dingemans in Stabroek](http://www.dingemansmout.be/)
-   +  [Castle Malting in Beloeil](https://www.castlemalting.com/)
+   +  [Castle Malting in Beloeil](https://www.castlemalting.com/du)
 -  Duitsland
    +  [Weyermann in Bamberg](https://www.weyermann.de/)
    +  [BestMalz in Heidelberg](https://bestmalz.de)
