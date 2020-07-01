@@ -96,13 +96,30 @@ Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er
 
 In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
 
-| Stap:              | **Eiwitrust**  | **Maltoserust**  | **Versuikeringsrust**  |
-|:-------------------|:---------------|:-----------------|:-----------------------|
-| Enzym              | Proteinase     | beta-amylase     | alpha-amylase          |
-| Temperatuur (^o^C) | 50 (44-55)     | 62 (55-66)       | 72 (65-75)             |
-| Rusttijd (min.)    | 10-30          | 15-45            | 15-45                  |
-| pH                 | 4,2-5,3        | 5,0-5,6          | 5,3-5,8                |
 
+|                  |Eiwitrust       |Maltoserust             |Versuikeringsrust       |
+|:-----------------|:---------------|:-----------------------|:-----------------------|
+|Enzym             |Proteinase      |beta-amylase            |alpha-amylase           |
+|pH                |4,2-5,3         |5,0-5,6                 |5,3-5,8                 |
+
+
+|Temperatuur (^o^C)|50 (44-55)      |62 (55-66)              |72 (65-75)              |
+|------------------|----------------|------------------------|------------------------|
+|lagere temp.      |\+ klaring      |\+ vergistingsgraad     |\+ vergistingsgraad     |
+|                  |\- schuim       |\- onvergistbare suikers|\- onvergistbare suikers|
+|                  |\- volmondigheid|                        |                        |
+|hogere temp.      |\- klaring      |\- vergistingsgraad     |\- vergistingsgraad     |
+|                  |\+ schuim       |\+ onvergistbare suikers|\+ onvergistbare suikers|
+|                  |\+ volmondigheid|                        |                        |
+
+|Rusttijd (min.)   |10-30           |15-45                   |15-45                   |
+|------------------|----------------|------------------------|------------------------|
+|kortere tijd      |\+ klaring      |\- vergistingsgraad     |\- vergistingsgraad     |
+|                  |\+ schuim       |\+ onvergistbare suikers|\+ onvergistbare suikers|
+|                  |\- volmondigheid|                        |                        |
+|langere tijd      |\- klaring      |\+ vergistingsgraad     |\+ vergistingsgraad     |
+|                  |\+ schuim       |\- onvergistbare suikers|\- onvergistbare suikers|
+|                  |\- volmondigheid|                        |                        |
 
 ```{r infusie-3staps, fig.cap="Voorbeeld maischstappen in een infusieproces", echo=FALSE}
 knitr::include_graphics("images/infusie-3staps.png", dpi = NA)
@@ -119,3 +136,10 @@ Bij een eenstapsmaisch ligt de temperatuur meestal aan de bovenkant voor de beta
 Bij het maken van een Weizen wordt nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
 
 ```
+
+
+<!-- + [The Science of Step Mashing](https://byo.com/article/the-science-of-step-mashing/) -->
+<!-- + [Enzymes in Beer: What’s Happening In the Mash](https://www.homebrewersassociation.org/how-to-brew/enzymes-in-beer-whats-happening-in-the-mash/) -->
+<!-- + [Understanding Enzymes](https://byo.com/article/understanding-enzymes-homebrew-science/) -->
+<!-- + [The Brewer’s Window: What Temperature Should I Mash at?](https://missionarybrewer.wordpress.com/2012/02/01/the-brewers-window-what-temperature-should-i-mash-at/) -->
+

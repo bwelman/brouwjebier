@@ -15,6 +15,10 @@ Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eers
 
 Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hogere temperatuur te verwarmen en te drogen. Dit proces heet *eesten* en het gekiemde graan heet *mout*. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen en zijn ook steeds donkerder van kleur. Deze donkere moutsoorten geven het bier smaken als karamel, koffie en gebrand.
 
+```{r moutproces, fig.cap="Moutproces en moutsoorten", echo=FALSE}
+knitr::include_graphics("images/moutproces.png", dpi = NA)
+```
+
 Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. Zo bestaat het moutrecept voor Weizenbier voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
 
 Gerst is een landbouwgewas dat tot de grassenfamilie behoort. Je hebt zomergerst en wintergerst. *Zomergerst* moet zo vroeg mogelijk gezaaid worden, als het kan vanaf half februari tot begin april. De oogsttijd is half augustus. Zomergerst is meestal *tweerijig* en wordt het meest gebruikt voor het brouwen van bier. *Wintergerst* wordt in de eerste helft van oktober gezaaid en geoogst eind juli, begin augustus. Wintergerst is meestal *zesrijig* en bevat veel meer eiwitten en minder zetmeel dan de tweerijige zomergerst. Met name in Amerika wordt deze gerst veel gebruikt voor het brouwen van bier.(Bron: https://nl.wikipedia.org/wiki/Gerst)

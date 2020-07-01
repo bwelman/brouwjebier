@@ -18,7 +18,7 @@ Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)
 
 | Naam      | Andere naam    |
 |:----------|:---------------|
-| Glucose   | Druivensuiker  |
+| Glucose   | Druivensuiker, Dextrose |
 | Fructose  | Vruchtensuiker |
 | Galactose |                |
 
@@ -28,11 +28,13 @@ Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De mo
 
 | Naam       | Andere naam | Verbinding van      |Splitsingsenzym |
 |:-----------|:------------|:--------------------|:---------------|
-| Sacharose  | Sucrose     | Glucose ~ Fructose  | Saccharase     |
+| Sacharose  | Sucrose     | Glucose ~ Fructose  | Saccharase (Invertase) |
 | Maltose    | Moutsuiker  | Glucose ~ Glucose   | Maltase        |
 | Lactose    | Melksuiker  | Glucose ~ Galactose | Lactase        |
 
-Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose*.
+Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose* of *sucrose*.
+
+Lactose komt voor in melk van alle zoogdieren. Zo bevat koemelk 4%-5% lactose. Lactose zit dus ook in de meeste zuivelproducten. Lactose komt in wort nauwelijks voor en is voor de bierbereiding niet van belang. Lactose is minder zoet dan sacharose.
 
 **Trisachariden**
 
@@ -40,11 +42,11 @@ Deze suikers bestaan uit drie met elkaar verbonden monosachariden. De meest bela
 
 **Polysachariden**
 
-Dit zijn koolhydraten die zijn opgebouwd uit tien of meer monosachariden. Een lid van deze groep is *zetmeel* dat in feite een mengsel is van twee polysachariden, amylose en amylopectine. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
+Dit zijn koolhydraten die zijn opgebouwd uit meer dan drie monosachariden. Een lid van deze groep is *zetmeel*, dat in feite een mengsel is van twee polysachariden, amylose en amylopectine. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
 
 ## Suikers in de wort
 
-Tijdens het maischen wordt het zetmeel door de *amylase-enzymen* eerst afgebroken in kleinere stukken die wel *dextrines* genoemd worden. Een deel hiervan wordt verder afgebroken tot vergistbare suikers als maltose, sacharose, glucose en fructose. De dextrinen die niet verder worden afgebroken zijn niet vergistbaar. Zij geven het bier een vollere smaak en dragen bij aan de body van het bier.
+Tijdens het maischen wordt het zetmeel door de *amylase-enzymen* eerst afgebroken in kleinere stukken die ook wel *dextrines* genoemd worden. Een deel hiervan wordt verder afgebroken tot vergistbare suikers als maltose, sacharose, glucose en fructose. Dextrines kunnen niet door biergist vergist worden. De dextrines die niet verder worden afgebroken blijven in het bier achter en zorgen voor een vollere smaak en meer body van het bier.
 
 Typische hoeveelheden van de vijf meest voorkomende suikers in een wort van pilsmout zijn:
 
@@ -64,11 +66,11 @@ Om een aantal redenen worden bij het brouwen soms suikers aan de wort toegevoegd
 
 ## Suikers en gist
 
-Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disachariden hebben ze het niet moeilijk, maar met de trisachariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moeilijk vergistbaar en overgistbaar.
+Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disachariden hebben ze het niet moeilijk, maar met de trisachariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moeilijk vergistbaar en onvergistbaar.
 
 De meeste biergisten beginnen bij het afbreken van de sacharose dat in gelijke hoeveelheden glucose en fructose wordt omgezet. Daarna vergisten ze eerst het grootste deel van de glucose voordat ze aan de andere monosachariden (fructose) beginnen. Daarna beginnen ze met de maltose en aan het eind de maltotriose.
 
-Het is bekend dat in wort met hoge gehaltes van glucose en fructose (meer dan 15-20%) de vergisting van de maltose afgeremd kan worden en zelfs helemaal kan stoppen. De gist heeft de monosachariden vergist en is daarna gestopt waardoor meer dan de helft van de totale suikers niet vergist is. In het hoofdstuk over gist wordt dieper ingegaan op het vergistingsproces.
+Het is bekend dat in wort met hoge gehaltes van glucose en fructose (meer dan 15-20%) de vergisting van de maltose afgeremd kan worden en zelfs helemaal kan stoppen. De gist heeft de monosachariden vergist en is daarna gestopt waardoor meer dan de helft van de totale suikers niet vergist is. Dit gedrag is waarschijnlijk een veelvoorkomende oorzaak van stokkende vergistingen in worten die veel geraffineerde suikers bevatten. In hoofdstuk \@ref(gist) wordt dieper ingegaan op het vergistingsproces.
 
 ## Samenvatting
 
@@ -83,3 +85,8 @@ Van belang om te onthouden is dat alle vergistbare suikers worden afgebroken tot
 
 -  Ontstaan vooral tijdens Alpha-Amylase bij 72^o^ C.
 -  Zorgen voor body in het bier.
+
+
+<!-- + [Brewing Sugars & How To Use Them](https://byo.com/article/sweetness-brewing-sugars-how-to-use-them/) -->
+<!-- + [Brewing Sugars](https://www.winning-homebrew.com/brewing-sugars.html) -->
+
