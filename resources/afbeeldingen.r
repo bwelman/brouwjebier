@@ -4,7 +4,7 @@ library(DiagrammeRsvg)
 
 exportpad <- "S:/bier/brouwjebier/images/"
 
-# Brouwproces
+# Afbeelding Brouwproces
 bp <- grViz("
       digraph brouwproces {
       graph [layout = dot, rankdir = LR]
@@ -25,7 +25,7 @@ bp <- grViz("
 export_svg(bp) %>% charToRaw() %>% rsvg() %>% png::writePNG(paste(exportpad, "brouwproces.png", sep = ""))
 
 
-# Moutproces en moutsoorten
+# Afbeelding Moutproces en moutsoorten
 mp <- grViz("
 	  digraph moutproces {
 	  graph[rankdir=TD]
@@ -77,3 +77,42 @@ mp <- grViz("
 ")
 
 export_svg(mp) %>% charToRaw() %>% rsvg() %>% png::writePNG(paste(exportpad, "moutproces.png", sep = ""))
+
+# Afbeelding Biertypen en klassen
+
+library(tidyverse)
+
+bkg_biertypen <- read_delim("S:/websites/vlearmoesbier/static/download/bkg_biertypen.csv",
+							";", escape_double = FALSE, locale = locale(decimal_mark = ","),
+							trim_ws = TRUE)
+
+# Voor BEGINSG en EBC wordt nu met de gemiddelde waarde gewerkt.
+# Voor het maken van de plaatjes zijn alleen de kolommen BIERTYPE, KLASSE, EBC, BEGINSG nodig.
+# EBC waarden >= 120 en BEGINSG<1100 worden weggelaten.
+# eventueel kleuren voor de klassen nog verder aanpassen
+
+bkg_biertypen2 <- bkg_biertypen %>%
+	mutate(EBC = (EBCMIN + EBCMAX)/2) %>%
+	mutate(BEGINSG = (BEGINSGMIN +BEGINSGMAX)/2) %>%
+	select(BIERTYPE, KLASSE, EBC, BEGINSG) %>%
+	filter(EBC < 90) %>%
+	filter(BEGINSG < 1100)
+
+plot1 <- ggplot(data = bkg_biertypen2,
+				aes( x = EBC, y = BEGINSG)) +
+	geom_point(size=1, color = "Red") +
+	labs(title = "Biertypes en klassen", x = "Kleur (EBC)", y = "Begin SG") +
+	geom_hline(yintercept = 1060, linetype = "dashed", color = "black") +
+	geom_vline(xintercept = 30,  linetype = "dashed", color = "black") +
+	theme_bw() +
+	annotate("text", x=15, y=1040, label= "A", size=8, color = "Red") +
+	annotate("text", x=45, y=1040, label= "B", size=8, color = "Red") +
+	annotate("text", x=15, y=1075, label= "C", size=8, color = "Red") +
+	annotate("text", x=45, y=1075, label= "D", size=8, color = "Red") +
+	geom_text(label = bkg_biertypen2$BIERTYPE, nudge_x = 0.25, nudge_y = 0.25, check_overlap = TRUE, size = 3)
+plot1
+
+# bewaar als png bestand
+png(paste(exportpad,"bierklassen-typen.png",sep="")) # open png bestand
+plot1
+dev.off() # sluit bestand
