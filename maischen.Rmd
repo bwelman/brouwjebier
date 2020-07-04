@@ -121,8 +121,7 @@ In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De 
 |                  |\+ schuim       |\- onvergistbare suikers|\- onvergistbare suikers|
 |                  |\- volmondigheid|                        |                        |
 
-```{r infusie-3staps, echo=FALSE, message=FALSE, fig.align="center", out.width="70%", fig.cap="Voorbeeld maischstappen in een infusieproces"}
-require(tidyverse)
+```{r infusie-3staps, echo=FALSE, fig.cap="Voorbeeld maischstappen in een infusieproces"}
 
 infusie3 <- tibble(tijd = c(0, 30,45,57,97,108,133,138,143),
 					temp = c(20,50,50,62,62,72,72,78,78))
