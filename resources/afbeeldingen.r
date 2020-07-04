@@ -113,6 +113,4 @@ plot1 <- ggplot(data = bkg_biertypen2,
 plot1
 
 # bewaar als png bestand
-png(paste(exportpad,"bierklassen-typen.png",sep="")) # open png bestand
-plot1
-dev.off() # sluit bestand
+ggpubr::ggexport(plot1, filename = paste(exportpad, "bierklassen-typen.png", sep=""))

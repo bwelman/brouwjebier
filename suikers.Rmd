@@ -72,7 +72,7 @@ De meeste biergisten beginnen bij het afbreken van de sacharose dat in gelijke h
 
 Het is bekend dat in wort met hoge gehaltes van glucose en fructose (meer dan 15-20%) de vergisting van de maltose afgeremd kan worden en zelfs helemaal kan stoppen. De gist heeft de monosachariden vergist en is daarna gestopt waardoor meer dan de helft van de totale suikers niet vergist is. Dit gedrag is waarschijnlijk een veelvoorkomende oorzaak van stokkende vergistingen in worten die veel geraffineerde suikers bevatten. In hoofdstuk \@ref(gist) wordt dieper ingegaan op het vergistingsproces.
 
-## Samenvatting
+## Samenvatting {#suikers-samenvatting}
 
 Van belang om te onthouden is dat alle vergistbare suikers worden afgebroken tot monosachariden en dat de gist voorrang geeft aan het omzetten van die suikers. Bij het formuleren van het maischproces heb je invloed op de soort suikers die in de wort komen. En samen met de keuze voor een gistsoort heb je hierdoor invloed op de hoeveelheid onvergistbare suikers in het bier.
 

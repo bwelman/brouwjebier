@@ -10,7 +10,7 @@
 -  Je leert hoe je apparatuur moet reinigen en desinfecteren.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 
-## Inleiding
+## Inleiding {#b1-inleiding}
 
 In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur beschikt. En het is ook niet de bedoeling dat je nu allerlei brouwapparatuur aanschaft. Verderop in deze cursus wordt daar extra aandacht aan besteed. Vandaar dat het eerste brouwsel op de apparatuur van de mentor wordt uitgevoerd. Tijdens het brouwen zal de mentor je bijstaan in het praktisch bierbrouwen en je alle stappen laten zien en/of laten uitvoeren.
 
@@ -25,7 +25,7 @@ Sluit af met een evaluatie. Aan het eind van dit hoofdstuk zit een bijlage met d
 In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
 
 \newpage
-## Recept Tripel
+## Recept Tripel {#b1-recept}
 
 Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
 
@@ -67,7 +67,7 @@ Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
 
 \newpage
 
-## Draaiboek
+## Draaiboek {#b1-draaiboek}
 
 Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgende brouwsels moet je daar zelf om denken.
 
@@ -118,7 +118,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.	 Reinig de gebruikte apparatuur.
 1.  Proef regelmatig het bier en noteer je waarnemingen.
 
-## Vragen
+## Vragen {#b1-vragen}
 
 1.	 Hoe noemt men de eenstapsmaisch methode ook wel?
 1.	 Wat was de temperatuur van het water voor de moutstort en wat is de temperatuur van de wort direct erna? Waarom is er een verschil?
@@ -134,7 +134,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.	 Bereken het alcoholpercentage (ABV %) van het bier met de formule $ABV\% = (Begin SG - Eind SG) \times 0,136 + 0,4$
 1.  Door de schijnbare vergistingsgraad uit te rekenen krijg je een idee hoeveel procent van de aanwezige suikers is omgezet. Bereken de schijnbare vergistingsgraad (SVG) met de formule $SVG = \frac{Begin SG - Eind SG}{Begin SG -1000} \times 100$
 
-## Evaluatie
+## Evaluatie {#b1-evaluatie}
 
 -  Brouwproces bespreken. Ga samen met de mentor na wat er goed en fout ging en wat de eventuele invloed hiervan is op het bier.
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.

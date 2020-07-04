@@ -6,7 +6,7 @@
 -  Een bestaand recept kunnen aanpassen aan de eigen installatie.
 -  Zelf een eenvoudig recept kunnen opstellen.
 
-## Inleiding
+## Hoe verkrijg je een recept
 
 Hoe kom je tot een recept voor een goed en succesvol bier? In het begin is dat niet eenvoudig en gebruik je snel een recept van een ander. Zeker wanneer je een volgens dit recept gebrouwen bier geproefd hebt en lekker vindt, kan dit vertrouwen in het recept geven. Soms moet je dan nog wat aan de hoeveelheden veranderen om het recept aan je eigen installatie aan te passen, maar daarna ben je snel klaar en daar is niets mis mee. Ook zijn er veel boeken en websites met recepten, teveel om op te noemen.
 
@@ -36,7 +36,7 @@ In hoofdstuk \@ref(rekenen) leer je hoe je een schatting van het begin SG kunt m
 
 Het begin SG is zowel bepalend voor het alcoholgehalte als de body van het bier. Bieren met een laag begin SG hebben doorgaans minder alcohol en body dan die met een hoog begin SG.
 
-### Kleur
+### Kleur {#bierkleur}
 
 ![](images/bierkleur.png)
 
@@ -59,9 +59,9 @@ De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoa
 |IPA (USA)|1,056-1,070|63             |40-70|55        |55/63 = 0,87|
 |Weizen   |1,046-1,057|52             |10-20|15        |15/52 = 0,29|
 
-### Alcoholpercentage
+### Alcoholpercentage {#recept-alcoholpercentage}
 
-Het volumepercentage alcohol (ABV) kan worden berekend uit het begin SG en het eind SG, zie \@ref(alcoholpercentage). Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:
+Het volumepercentage alcohol (ABV) kan worden berekend uit het begin SG en het eind SG, zie \@ref(rekenen-alcoholpercentage). Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:
 
 + *Begin SG*. In het algemeen geldt hoe hoger het begin SG, hoe hoger het alcoholpercentage.
 + *Gistsoort*. Sommige gistsoorten zijn effectiever in het omzetten van suikers in alcohol dan andere gistsoorten.

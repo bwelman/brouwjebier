@@ -11,7 +11,7 @@
 -  Meer zelfstandigheid tijdens het brouwproces.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 
-## Inleiding
+## Inleiding {#b2-inleiding}
 
 Net als het eerste brouwsel wordt het recept weer verstrekt.
 
@@ -25,7 +25,7 @@ Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop u
 
 In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. \pagebreak
 
-## Recept Dubbel
+## Recept Dubbel {#b2-recept}
 
 Volume: 20 liter
 
@@ -71,7 +71,7 @@ Eind SG: $\pm1014$
    +  Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
 
 
-## Uitvoering (draaiboek)
+## Draaiboek {#b2-draaiboek}
 
 Voor een algemeen uitgebreid draaiboek zie Brouwsel-1.
 
@@ -84,7 +84,7 @@ Speciale aandachtspunten bij dit brouwsel.
 -  Smackpack enkele dagen van de voren kneuzen en warm leggen. Zie handleiding op de verpakking.
 -  Schrijf de brouwgegevens op in een logboek of brouwprogramma. Doe dit ook bij het beoordelen van je bier, de proefnotaties.
 
-## Vragen
+## Vragen {#b2-vragen}
 
 1.  Hoe noemt men deze maischmethode?
 1.  Welke enzymen zijn actief bij 63^o^C en 73^o^C?
@@ -98,7 +98,7 @@ Speciale aandachtspunten bij dit brouwsel.
 1.	 Stel je wilt je dubbel wat zoeter hebben, wat zou je wijzigen aan je recept en waarom?
 1.  Vraag de kwaliteit van jouw kraanwater op bij het drinkwaterbedrijf. Welke pH en welke hardheid heeft het?
 
-## Evaluatie
+## Evaluatie {#b2-evaluatie}
 
 -  Brouwproces bespreken.
 -  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.

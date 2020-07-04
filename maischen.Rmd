@@ -92,7 +92,7 @@ Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er
 
 > **Alpha-amylaserust: zorgt voor volmondiger bier.**
 
-### Samenvatting
+### Samenvatting (#maischen-samenvatting)
 
 In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
 
@@ -121,8 +121,21 @@ In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De 
 |                  |\+ schuim       |\- onvergistbare suikers|\- onvergistbare suikers|
 |                  |\- volmondigheid|                        |                        |
 
-```{r infusie-3staps, fig.cap="Voorbeeld maischstappen in een infusieproces", echo=FALSE}
-knitr::include_graphics("images/infusie-3staps.png", dpi = NA)
+```{r infusie-3staps, echo=FALSE, message=FALSE, fig.align="center", out.width="70%", fig.cap="Voorbeeld maischstappen in een infusieproces"}
+require(tidyverse)
+
+infusie3 <- tibble(tijd = c(0, 30,45,57,97,108,133,138,143),
+					temp = c(20,50,50,62,62,72,72,78,78))
+infusieplot <- ggplot(data = infusie3, aes( x = tijd, y = temp, label=temp)) +
+	geom_line(size =1.2, colour =  "#E69F00") +
+	geom_text(size=3, vjust= -0.8, hjust = 1) +
+	labs(title = "Voorbeeld infusieproces (3-staps)", x = "Tijd (min)", y = "Temperatuur (C)") +
+	theme_bw() +
+	scale_x_continuous(breaks = seq(0,150,10)) + scale_y_continuous(breaks = seq(0,90,10)) +
+	annotate("text", x=30, y=48, label = "proteinase", hjust = 0) +
+	annotate("text", x=60, y=60, label = "beta-amylase", hjust = 0) +
+	annotate("text", x=110, y=70, label = "alpha-amylase", hjust = 0)
+infusieplot
 ```
 
 

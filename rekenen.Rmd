@@ -340,7 +340,7 @@ De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samen
 
 ```
 
-## Alcoholpercentage {#alcoholpercentage}
+## Alcoholpercentage {#rekenen-alcoholpercentage}
 
 Het werkelijke volumepercentage alcohol (ABV = Alcohol By Volume) kun je niet uitrekenen, voor de bepaling ervan heb je een laboratorium nodig. Je kunt wel een redelijke schatting maken uit het verschil tussen $SG_{begin}$ en $SG_{eind}$. Dit verschil moet je dan nog vermenigvuldigen met een getal dat afhangt van $SG_{begin}$. Een vuistregel voor dit getal is 136.
 

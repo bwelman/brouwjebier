@@ -8,24 +8,22 @@
 -  Je moet eventuele afwijkingen kunnen vaststellen.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 
-**Voorbereiding (huiswerk)**
+## Huiswerk {#b3-huiswerk}
+
+**Voorbereiding**
 
 -  In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
 -  Zoek uit welke stappen in het maisch- en vergistingsproces voor een bepaalde smaak kunnen zorgen.
 -  Maak een handmatige berekening van de hoeveelheid maisch- en spoelwater.
+-  Stel een recept op en laat het beoordelen door de mentor.
 
-**Uitvoering**
+## Draaiboek {#b3-draaiboek}
 
 -  Uitvoering bij de mentor of een van de teamleden.
 
-**Evaluatie**
+## Evaluatie {#b3-evaluatie}
 
 -  Brouwproces bespreken.
--  Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
+-  Kwamen de meetwaarden overeen met de beoogde waarden. Zoek een verklaring voor eventuele verschillen.
+-  Gezamenlijk proeven, beoordelen of bier aan eisen/wensen voldoet.
 -  Eventuele smaak- en geurafwijkingen bespreken.
-
-## Huiswerk:
-
--  Zelf maken van een recept voor brouwsel-3 waarbij vooraf aangegeven wordt welke kenmerken het bier moet hebben, zoals kleur, alkohol, bitterheid, moutigheid, zoetigheid, enz.
--  Beoordeling door mentor.
--  Na een proeverij evalueren in hoeverre het brouwsel voldoet aan de vooraf gestelde eisen/wensen. Kwamen de meetwaarden overeen met de beoogde waarden. Verklaring voor eventuele verschillen.
