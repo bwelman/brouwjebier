@@ -85,7 +85,7 @@ De momenten waarop je hop toevoegt hangen af van het doel:
 
 In figuur \@ref(fig:hoprendement-kooktijd) is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
-```{r hoprendement-kooktijd, echo=FALSE, fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050"}
+```{r hoprendement-kooktijd, echo=FALSE, fig.align="center", out.width="70%", fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050"}
 mytb <- tibble(kooktijd = c(seq(0,60,3), 70,80,90, 120, 150), dhr = (1.65*0.000125^.050) * (1-exp(-0.04*kooktijd))/4.15)
 ggplot(data = mytb, aes(x = kooktijd, y = dhr)) +
 	geom_line(size = 1.2, colour = "darkgreen") +

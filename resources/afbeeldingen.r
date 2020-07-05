@@ -114,3 +114,23 @@ plot1
 
 # bewaar als png bestand
 ggpubr::ggexport(plot1, filename = paste(exportpad, "bierklassen-typen.png", sep=""))
+
+# Maak tabel met biertypen per klasse
+library(tidyverse)
+
+bkg_biertypen <- read_delim("S:/websites/vlearmoesbier/static/download/bkg_biertypen.csv",
+							";", escape_double = FALSE, locale = locale(decimal_mark = ","),
+							trim_ws = TRUE)
+bt <- bkg_biertypen %>% select(BIERTYPE, KLASSE)
+
+
+kla <- bt %>% filter(KLASSE == "A") %>% mutate("Klasse A" = BIERTYPE) %>% select("Klasse A") %>% mutate(id = seq.int(nrow(.)))
+klb <- bt %>% filter(KLASSE == "B") %>% mutate("Klasse B" = BIERTYPE) %>% select("Klasse B") %>% mutate(id = seq.int(nrow(.)))
+klc <- bt %>% filter(KLASSE == "C") %>% mutate("Klasse C" = BIERTYPE) %>% select("Klasse C") %>% mutate(id = seq.int(nrow(.)))
+kld <- bt %>% filter(KLASSE == "D") %>% mutate("Klasse D" = BIERTYPE) %>% select("Klasse D") %>% mutate(id = seq.int(nrow(.)))
+lijst <- list(kla, klb, klc, kld)
+tabel <- Reduce(function(x,y,...) merge(x,y, all=TRUE,...), lijst) %>% select(-id)
+
+# In de Rmd kun je de tabel mooi produceren met knitr::kable(). OM geen NA's af te drukken moet je dit via options aangeven
+# options(knitr.kable.NA = '')
+# knitr::kable(tabel)

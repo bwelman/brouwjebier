@@ -14,11 +14,7 @@ In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebe
 knitr::include_graphics("images/bierklassen-typen.png", dpi = NA)
 ```
 
-De laatste versie van de BKG Biertypenlijst (versie 2.3, Augustus 2019 telt 69 biertypen. In figuur \@ref(fig:biertypen-overzicht) zie je de indeling in klasse van deze biertypen.
-
-```{r biertypen-overzicht, fig.cap="Overzicht biertypen en indeling in klasse volgens de BKG lijst.", echo=FALSE}
-knitr::include_graphics("images/biertypen-overzicht.png", dpi = NA)
-```
+De laatste versie van de BKG Biertypenlijst (versie 2.3, Augustus 2019 telt 69 biertypen. In bijlage \@ref(biertype-lijst) kun je de laatste versie van de indeling van de biertypen in klassen zien.
 
 ## BJCP Bierstijlen
 
