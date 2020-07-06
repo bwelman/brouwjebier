@@ -70,13 +70,13 @@ knitr::include_graphics("images/hop.png", dpi = NA)
 
 Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van elkaar. Meestal worden de hopsoorten ingedeeld als *bitterhoppen* en *aromahoppen*. De bitterhoppen hebben een hoog percentage alfazuur en worden vooral gebruikt om voor de bitterheid te zorgen. En de aromahoppen, met een lager percentage alfazuur, zorgen vooral voor aroma, geur en smaak. Er zijn ook veel hopsoorten die zowel voor bitterheid als aroma kunnen dienen en daarom wel *dualpurposehoppen* worden genoemd.
 
+## Hop toevoegen
+
 Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. Een andere mogelijkheid is om van een *hopspider* gebruik te maken, die je aan de rand van de ketel hangt.
 
 ```{r ihop-zakje-spider, fig.cap="Links een hopzakje, rechts een hopspider.", echo=FALSE}
 knitr::include_graphics("images/hop-zakje-spider.png", dpi = NA)
 ```
-
-## Toevoegmomenten
 
 De momenten waarop je hop toevoegt hangen af van het doel:
 
