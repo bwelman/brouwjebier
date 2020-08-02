@@ -75,7 +75,7 @@ Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in 
     -  *Blauwkleuring* wijst op de aanwezigheid van zetmeel. Je moet dan nog wat langer maischen.
     -  Blijft de kleur *bruin*, dan is alle zetmeel omgezet. Het maischproces is dan klaar.
 
-```{r jodiumtest, fig.cap="Jodiumtest: bruine kleur, geen zetmeel meer aanwezig.", echo=FALSE}
+```{r jodiumtest, fig.cap="Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.", echo=FALSE}
 knitr::include_graphics("images/jodiumtest.png", dpi = NA)
 ```
 

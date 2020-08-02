@@ -92,7 +92,7 @@ Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er
 
 > **Alpha-amylaserust: zorgt voor volmondiger bier.**
 
-### Samenvatting (#maischen-samenvatting)
+### Samenvatting {#maischen-samenvatting}
 
 In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
 
