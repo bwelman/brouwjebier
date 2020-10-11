@@ -58,7 +58,7 @@ In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbi
 
 Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Over deze processen wordt in hoofdstuk \@ref(maischen) uitvoeriger ingegaan. Het beslag ga je onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde **rusttijd**. De verschillende temperaturen waarbij gerust wordt heet **maischschema**.
 
-```{block2, type = "rmdtip"}
+```{block2, type = "rmdinfo"}
 Om de temperatuur tijdens de rust constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
 
 ```

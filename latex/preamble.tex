@@ -14,14 +14,19 @@
   }
   { \end{minipage}
   }
-\newenvironment{rmdinfo}
-  {\begin{rmdblock}{info}}
+\newenvironment{rmdidea}
+  {\begin{rmdblock}{icon-idea}}
   {\end{rmdblock}}
-\newenvironment{rmdtip}
-  {\begin{rmdblock}{tip}}
+\newenvironment{rmdinfo}
+  {\begin{rmdblock}{icon-info}}
   {\end{rmdblock}}
 \newenvironment{rmdwarning}
-  {\begin{rmdblock}{warning}}
+  {\begin{rmdblock}{icon-warning}}
   {\end{rmdblock}}
+
+\newenvironment{graybox}{
+  \definecolor{shadecolor}{rgb}{0.83, 0.83, 0.83}  % light gray
+  \begin{shaded}}
+ {\end{shaded}}
 
 \frontmatter

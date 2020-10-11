@@ -96,7 +96,7 @@ Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeis
 knitr::include_graphics("images/hydrometer-aflezing.png", dpi = NA)
 ```
 
-```{block2, type = "rmdtip"}
+```{block2, type = "rmdinfo"}
 In plaats van een hydrometer kun je ook een refractometer gebruiken.
 
 ```
@@ -162,7 +162,7 @@ Voor het calibreren van een refractometer het zetten van het nulpunt meestal vol
 
 Voor een nog grotere nauwkeurigheid kun je eventueel nog een ijking voor een punt aan het eind van de schaal uitvoeren. Echter deze ijking kun je niet op de refractometer zelf instellen, maar vaak wel in de brouwsoftware invoeren. Voor deze ijking moet je een suikeroplossing maken met een bekende Brixwaarde, bijvoorbeeld 20 gram suiker en 80 gram water. Deze heeft een Brix van 20.
 
-```{block2, type = "rmdtip"}
+```{block2, type = "rmdinfo"}
 Je kunt natuurlijk ook metingen uitvoeren met zowel de refractometer en een hydrometer en deze waarden met alkaar vergelijken.
 
 ```

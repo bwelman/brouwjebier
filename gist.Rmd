@@ -43,7 +43,7 @@ De temperatuur tijdens de vergisting is een kritische factor. Zo krijg je bij ho
 
 Aan het eind van de vergisting klonteren de enkele gistcellen samen tot vlokken van wel duizenden gistcellen. Daarna zakken deze vlokken uit naar de bodem van het gistvat. Giststammen vertonen verschillen in de mogelijkheid tot *uitvlokking (flocculatie)* en *uitzakking (sedimentatie)*. Dit proces wordt bevorderd door het gistvat na afloop van de vergisting koud (0-5 ^o^C) weg te zetten. Het bier wordt daardoor helderder. Ook een groot deel van de Krausen maakt deel uit van het sediment.
 
-```{block2, type = "rmdtip"}
+```{block2, type = "rmdinfo"}
 De beste manier om vast te stellen of de vergisting is afgelopen is door het SG te meten. Deze moet gedurende een paar dagen niet meer afnemen en in de buurt liggen van wat je als eind SG verwacht. De activiteit van het waterslot is een minder goede indicator.
 
 ```
@@ -109,7 +109,7 @@ De massa water die je nodig hebt voor het hydrateren is 10 keer de massa van de 
 
 De twee bekendste leveranciers zijn [Wyeast](https://wyeastlab.com/) en [White Labs](https://www.whitelabs.com/). Beide leveren vloeibare gisten in een verpakking die voldoende gistcellen bevat voor het vergisten van 20 liter wort met een SG van ongeveer 1,048. Voor een groter volume wort of voor bier met een hoger SG heb je meer gistcellen nodig, dus meer verpakkingen. Het alternatief is om een zogenaamde **giststarter** te maken.
 
-```{block2, type = "rmdtip"}
+```{block2, type = "rmdinfo"}
 Bij gebruik van vloeibare gist kun je het beste altijd een giststarter maken.
 
 ```
