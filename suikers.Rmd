@@ -16,21 +16,23 @@ Suikers zijn koolhydraten die zoet smaken. En koolhydraten zijn verbindingen van
 
 Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)_6$, maar ze verschillen in struktuur en daardoor ook in eigenschappen. Zo is fructose meer dan twee keer zoeter dan glucose.
 
-| Naam      | Andere naam    |
-|:----------|:---------------|
-| Glucose   | Druivensuiker, Dextrose |
-| Fructose  | Vruchtensuiker |
-| Galactose |                |
+```{r tabel-mono, echo=FALSE}
+mono <- data.frame(Naam = c("Glucose", "Fructose", "Galactose"), 
+				   Alias = c("Druivensuiker, Dextrose", "Vruchtensuiker", ""))
+mono %>% kbl(caption = "Monosachariden") %>% kable_styling(full_width = FALSE)
+```
 
 **Disachariden**
 
 Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De molekuulformule is $C_{12}(H_2O)_{11}$. Een bepaald enzym kan voor een splitsing in de monosachariden zorgen.
 
-| Naam       | Andere naam | Verbinding van      |Splitsingsenzym |
-|:-----------|:------------|:--------------------|:---------------|
-| Sacharose  | Sucrose     | Glucose ~ Fructose  | Saccharase (Invertase) |
-| Maltose    | Moutsuiker  | Glucose ~ Glucose   | Maltase        |
-| Lactose    | Melksuiker  | Glucose ~ Galactose | Lactase        |
+```{r tabel-di, echo=FALSE}
+di <- data.frame(Naam = c("Sacharose", "Maltose", "Lactose"), 
+				 Alias = c("Sucrose", "Moutsuiker", "Melksuiker"), 
+				 Verbinding = c("Glucose ~ Fructose", "Glucose ~ Glucose", "Glucose ~ Galactose"), 
+				 Splitsingsenzym = c("Saccharase", "Maltase", "Lactase"))
+di %>% kbl(caption = "Disachariden") %>% kable_styling(full_width = FALSE)
+```
 
 Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose* of *sucrose*.
 

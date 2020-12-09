@@ -20,12 +20,12 @@ Een *enzym* is een eiwit dat als katalysator fungeert bij een bepaalde chemische
 
 De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op *ase* en wordt voorafgegaan door het begindeel van de naam van het substraat. Ook is een enzym reactie- en substraatspecifiek, dat wil zeggen dat een enzym slechts een type reactie katalyseert bij een bepaald substraat. Een paar voorbeelden:
 
-| Substraat            | Enzym      |
-|:---------------------|:-----------|
-| maltose (moutsuiker) | maltase    |
-| amylose (zetmeel)    | amylase    |
-| proteïne (eiwit)     | proteinase |
-| cellulose            | cellulase  |
+
+```{r tabel-enzymen, echo=FALSE}
+mono <- data.frame(Substraat = c("maltose (moutsuiker)", "amylose (zetmeel)", "proteïne (eiwit)", "cellulose"), 
+				   Enzym = c("maltase", "amylase", "proteinase", "cellulase"))
+mono %>% kbl(caption = "Substraten en hun splitsingsenzymen") %>% kable_styling()
+```
 
 Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Een enzym heeft één optimale temperatuur en één optimale pH-waarde. In \@ref(maischproces) wordt hier verder op ingegaan. En er zijn ook stoffen die de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
 

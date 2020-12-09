@@ -17,8 +17,8 @@ Voor alle brouwprogramma's geldt dat je eerst een aantal kenmerken van jouw "bro
 Programma van Oscar Moerman. Er zijn drie uitvoeringen te downloaden:
 
 -  versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
--  versie 2.32, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €20. Je kunt deze versie zonder licentie(kosten) uitproberen, maar wel met een aantal beperkingen.
--  versie 2.20 Pro, voor kleine commerciële brouwerijen, licentiekosten €75 per jaar
+-  versie 2.x, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €20. Je kunt deze versie zonder licentie(kosten) uitproberen, maar wel met een aantal beperkingen.
+-  versie 2.x Pro, voor kleine commerciële brouwerijen, licentiekosten €75 per jaar
 
 Vereisten: Windows
 

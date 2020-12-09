@@ -290,6 +290,8 @@ Deze eenvoudige methode  geeft redelijk goede schattingen. Daarnaast zijn er ver
 
 De brouwprogramma’s, zie hoofdstuk \@ref(brouwsoftware), bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
 
+Table: (\#tab:tabel-software-bittermethode) Brouwprogramma's en hun ondersteunde methodes voor de EBU berekening.
+
 | Brouwprogramma | Daniels| Garetz | Rager | Tinseth |
 |:---------------|:-------|:-------|:------|:--------|
 | BrouwHulp      | x      | x      | x     | x       |

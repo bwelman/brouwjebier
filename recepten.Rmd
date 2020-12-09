@@ -54,6 +54,8 @@ $BV = \frac{EBU}{SG_{punten}}$
 
 De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in de volgende tabel.
 
+Table: (\#tab:tabel-biertype-bv) Twee biertypes en hun bitterheidsverhouding (BV).
+
 |Biertype |Begin SG   |Gemid. SGpunten|EBU  |Gemid. EBU|BV
 |:--------|:---------:|:-------------:|:---:|:--------:|:----------:|
 |IPA (USA)|1,056-1,070|63             |40-70|55        |55/63 = 0,87|
