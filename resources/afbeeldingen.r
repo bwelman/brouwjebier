@@ -11,12 +11,12 @@ bp <- grViz("
       
       # node opdrachten
       node [shape = rectangle, style = filled, fillcolor = Linen, fontname = Arial]
-      1[label = 'zetmeel (mout)', fillcolor = Beige]
-      2[label = 'suiker', fillcolor = Beige]
-      3[label = 'alkohol', fillcolor = Beige]
+      1[label = 'zetmeel (mout)']
+      2[label = 'suiker']
+      3[label = 'alkohol']
 
       # edge opdrachten
-      edge [fontname = Arial]
+      edge [fontname = Arial, fontsize = 11]
       1 -> 2[label = 'maischen']
       2 -> 3[label = 'vergisten']
     }
