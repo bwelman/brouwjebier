@@ -1,7 +1,7 @@
 bookdown::gitbook:
   includes:
     in_header: google_analytics.html
-  css: [css/style.css, css/toc.css]
+  css: [css/style.css, css/toc.css, css/fonts.css]
   split_by: chapter
   config:
     toc:

@@ -48,7 +48,7 @@ Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken
 knitr::include_graphics("images/schrootsel.png", dpi = NA)
 ```
 
-Omdat geschrote mout snel in kwaliteit achteruit gaat kun je het beste de mout zelf schroten. Er zijn verschillende soorten schrootmolens voor de hobbybrouwer. Zie hiervoor hoofdstuk \@ref(apparatuur).
+Omdat geschrote mout snel in kwaliteit achteruit gaat kun je het beste de mout kort van te voren zelf schroten. Er zijn verschillende soorten schrootmolens voor de hobbybrouwer. Zie hiervoor hoofdstuk \@ref(apparatuur).
 
 ## Maischen {#b-maischen}
 
@@ -56,7 +56,7 @@ In deze stap moet het zetmeel in de mout door enzymen omgezet worden in suikers.
 
 In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbij je de geschrote mout toevoegt aan het water wordt de **inmaischtemperatuur** genoemd. Ook deze temperatuur staat in het recept.
 
-Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Over deze processen wordt in hoofdstuk \@ref(maischen) uitvoeriger ingegaan. Het beslag ga je onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde **rusttijd**. De verschillende temperaturen waarbij gerust wordt heet **maischschema**.
+Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Op deze processen wordt in hoofdstuk \@ref(maischen) uitvoeriger ingegaan. Het beslag ga je onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde **rusttijd**. Een schema met de verschillende rusttijden en bijbehorende temperaturen heet een **maischschema**.
 
 ```{block2, type = "rmdinfo"}
 Om de temperatuur tijdens de rust constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
@@ -81,7 +81,7 @@ knitr::include_graphics("images/jodiumtest.png", dpi = NA)
 
 ### Voortgang (SG) meten {#b-voortgang}
 
-Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor hoofdstuk \@ref(apparatuur).
+Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG (zie \@ref(#sg-dichtheid)) van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor hoofdstuk \@ref(apparatuur).
 
 Tijdens het maischen neemt ook de viscositeit van de vloeistof af, dat wil zeggen de maisch wordt minder stroperig en meer vloeibaar, dunner dus. Het roeren gaat daardoor steeds gemakkelijker.
 
@@ -94,7 +94,7 @@ Omdat je verder wilt met de suikeroplossing moet het mengsel aan het eind van he
 -  **wort**, een heldere zoete vloeistof
 -  **(bier)bostel**, de vaste bestanddelen die overblijven.
 
-De bostel heb je voor de bierbereiding niet nodig. De meeste hobbybrouwers gooien het in de afvalcontainer. Het kan ook op de composthoop of als voer voor varkens en kippen gebruikt worden. Er zitten nog veel voedingsstoffen en vezels in. Daarom kun je het ook gebruiken om er een (bier)brood mee te bakken.
+De bostel heb je voor de bierbereiding niet nodig. De meeste hobbybrouwers gooien het in de afvalcontainer. Het kan ook op de composthoop of als voer voor varkens en kippen gebruikt worden. Er zitten nog veel voedingsstoffen en vezels in. Daarom kun je een deel ervan ook gebruiken om er een (bier)brood mee te bakken.
 
 Om deze scheiding uit te voeren heb je een filter nodig. Er zijn veel verschillende uitvoeringen van een wortfilter. Hobbybrouwers gebruiken vaak een *hevelfilter*, al dan niet zelf gemaakt. Zie hiervoor bij \@ref(apparatuur). De kafjes en korrelresten vormen hierbij het filterbed. Vandaar dat je niet te fijn mag schroten, want dan werkt het filterbed niet goed. De wort laat je in de kookketel (kookpan) lopen.
 
@@ -108,18 +108,20 @@ In het recept is weer terug te vinden hoeveel **spoelwater** je nodig hebt. Ook 
 
 ## Koken {#b-koken}
 
-De wort gaat nu minstens een uur gekookt worden. Tijdens het koken gaat er hop toegevoegd worden. In het recept staat weer hoe lang de *kooktijd* is en hoeveel gram van welke *hop* hoe lang moet meekoken. Zorg voor een zogenaamde "rollende kook".
+De wort gaat nu minstens een uur gekookt worden. Tijdens het koken ga je de hop toevoegen. In het recept staat weer hoe lang de *kooktijd* is en hoeveel gram van welke *hop* hoe lang moet meekoken. Zorg voor een zogenaamde "rollende kook".
 
 Je kunt de hop op verschillende manieren aan de wort toevoegen.
 
--  Gewoon in de vloeistof doen. Je moet dan de wort na het koken filteren, want anders komen de hopresten in het gistvat terecht.
--  De hop in hopzakjes doen en dan aan de vloeistof toevoegen. Deze kun je na het koken uit de ketel halen.
++  Gewoon in de vloeistof doen. Om te voorkomen dat er na het koken teveel hopresten in het gistvat terecht komen, kun je na afloop
+   -  de wort filteren.
+   -  de hopresten laten bezinken en dan de wort overhevelen.
++  De hop in hopzakjes doen en dan aan de vloeistof toevoegen. Deze kun je na het koken uit de ketel halen.
 
 Koken is om meerdere redenen erg belangrijk. Tijdens het koken
 
 -  vlokken eiwitten uit, vooral in het begin. Deze kun je het beste met een schuimspaan afscheppen.
 -  lossen bitterstoffen uit de hop op. Deze **bitterhop** moet minstens een uur koken en zorgt voor de kenmerkende bittere smaak van bier.
--  komen aromastoffen uit de hop in het bier. Deze **aromahop** kook je minder lang mee.
+-  komen aromastoffen uit de hop in het bier. Deze **aromahop** kook je minder lang mee en hebben daardoor wat minder invloed op de bitterheid.
 -  verdampen ongewenste vluchtige stoffen.
 -  verdampt water, waardoor de concentratie van suiker toeneemt en het SG dus stijgt.
 -  ontstaat een steriele vloeistof.
@@ -139,9 +141,9 @@ Na het koken van de wort moet deze afgekoeld worden tot de temperatuur waarbij v
 
 ## Filteren {#b-filteren2}
 
-De afgekoelde vloeistof moet nu naar het *gistvat*. Echter er kunnen nog hopresten en eiwitvlokken in de wort zitten waarvan je liever niet wilt dat die in het gistvat terecht komen. In dat geval moet je de vloeistof filteren voordat deze het gistvat ingaat. Gelukkig zakken de vaste stoffen meestal naar de bodem om daat te bezinken.
+De afgekoelde vloeistof moet nu naar het *gistvat*. Echter er kunnen nog hopresten en eiwitvlokken in de wort zitten waarvan je liever niet wilt dat die in het gistvat terecht komen. In dat geval moet je de vloeistof filteren voordat deze het gistvat ingaat. Gelukkig zakken de vaste stoffen meestal naar de bodem om daar te bezinken, waardoor je de vloeistof kunt overhevelen.
 
-Je kunt dit bezinken een handje helpen door een *whirlpool* maken. Hiervoor roer je flink rond met een roerspaan zodat er een draaikolk ontstaat. Daarna wacht je 10-15 minuten. Wanneer de vaste stoffen voldoende bezonken zijn kun je de vloeistof overhevelen naar het gistvat. Er blijft dan nog een klein beetje in de kookketel achter. Meet het volume dat naar het gistvat gaat, zodat je weet hoeveel er in de kookketel is achtergebleven.
+Je kunt dit bezinken een handje helpen door een *whirlpool* maken. Hiervoor roer je flink rond met een grote roerspaan zodat er een draaikolk ontstaat. Daarna wacht je 10-15 minuten. Wanneer de vaste stoffen voldoende bezonken zijn kun je de vloeistof overhevelen naar het gistvat. Er blijft dan nog een klein beetje in de kookketel achter. Meet het volume dat naar het gistvat gaat, zodat je weet hoeveel er in de kookketel is achtergebleven.
 
 ## Gist toevoegen {#b-pitchen}
 
@@ -155,17 +157,17 @@ Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuur
 
 Wanneer de vloeistof is uitvergist kan het gelagerd worden. Het *jongbier* kan dan rijpen en helder worden. Hiertoe hevel je het bier over in een ander vat. Dit vat moet zo vol mogelijk zijn om oxidatie van het jongbier te voorkomen. Sluit het vat wel af met een waterslot. Dit *klaren*  gebeurt het beste bij een lage temperatuur. Afhankelijk van het soort bier kan deze periode wel 2-8 weken duren.
 
-De meeste thuisbrouwers slaan deze periode over. Wat velen wel doen is het gistvat aan het eind nog zo'n 3 dagen in de koelkast zetten. Hierbij zakt de gist beter uit naar de bodem en wordt het bier ook grotendeels geklaard. En wanneer je daarna gaat bottelen heb je met een koude vloeistof minder kans op schuimvorming.
+De meeste thuisbrouwers slaan deze periode over. Wat velen wel doen is het gistvat aan het eind nog zo'n 3 dagen in de koelkast zetten. Hierbij zakt de gist beter uit naar de bodem en wordt het bier ook grotendeels geklaard. En wanneer je daarna gaat bottelen heb je met een koude vloeistof ook minder kans op schuimvorming.
 
 ## Bottelen {#b-bottelen}
 
 Als laatste moet het bier afgevuld worden. Zeker in het begin zal dat in flessen zijn. Later mogelijk ook in vaatjes.
 
-Je kunt pas met bottelen beginnen wanneer je zeker weet dat het bier is uitgegist. Zoniet, dan kan er teveel koolzuurgas in de fles terecht komen en loop je het risico van bom. De activiteit van gisting kun je volgen door op het waterslot te letten. Maar een betere methode is door het SG met een hydrometer te meten. Het SG moet zo'n 3 dagen constant blijven, dan kan er gebotteld worden.
+Je kunt pas met bottelen beginnen wanneer je zeker weet dat het bier is uitgegist. Zoniet, dan kan er teveel koolzuurgas in de fles terecht komen en loop je het risico van een "bom". De activiteit van de gisting kun je volgen door op het waterslot te letten. Maar een betere methode is door het SG met een hydrometer te meten. De vergisting is afgelopen wanneer het SG gedurende een dag of drie niet meer verandert en in de buurt ligt van het gewenste eind SG uit het recept. Dan kan er gebotteld worden.
 
-Om voldoende koolzuurgas in het flessenbier te krijgen moet er een *navergisting* in de fles plaatsvinden. Dat kan door nog wat suiker, zogenaamde *bottelsuiker*, aan het bier toe te voegen. De hoeveelheid hiervan is weer in het recept terug te vinden. Deze bottelsuiker wordt in een beetje water opgelost, aan de kook gebracht en daarna aan het jongbier toegevoegd. Bij deze navergisting ontstaat weer alcohol en koolstofdioxide. Door de fles af te sluiten kan het koolzuurgas niet meer weg en wordt het opgenomen in het bier. Het alcoholgehalte kan door deze navergisting met ca. 0,2%-0,5% toenemen.
+Om voldoende koolzuurgas in flessenbier te krijgen moet er een *navergisting* in de fles plaatsvinden. Dat kan door nog wat suiker, zogenaamde *bottelsuiker*, aan het bier toe te voegen. De hoeveelheid hiervan is weer in het recept terug te vinden. Deze bottelsuiker wordt in een beetje water opgelost, aan de kook gebracht en daarna aan het jongbier toegevoegd. Bij deze navergisting ontstaat weer alcohol en koolstofdioxide. Door de fles af te sluiten kan het koolzuurgas niet meer weg en wordt het opgenomen in het bier. Het alcoholgehalte kan door deze navergisting met ca. 0,2%-0,5% toenemen.
 
-Om er voor te zorgen dat de bottelsuiker goed vergist wordt moet je de flessen een kleine week op kamertemperatuur wegzetten. Daarna de flessen zo koud mogelijk wegzetten.
+Om er voor te zorgen dat de bottelsuiker goed vergist wordt moet je de flessen een kleine week op kamertemperatuur houden. Daarna de flessen zo koud mogelijk wegzetten.
 
 Voor het afsluiten van flessen heb je kroonkurken nodig en voor het aanbrengen hiervan een kroonkurkapparaat. Je kunt natuurlijk ook bottelen in beugelflessen, dan heb je dat niet nodig.
 

@@ -61,3 +61,14 @@ Na het doorwerken van de cursus wordt het volgende van je verwacht.
 -  Je weet hoe je bier moet proeven en beoordelen.
 -  Je kent een aantal brouwfouten en weet hoe die te vermijden.
 
+**Werkbalk scherm**
+
+Aan de linkerbovenkant van deze pagina zie je een aantal icons voor een keuzemenu.
+
+![](images/werkbalk_sidebar.png) - Voor het in- en uitschakelen van de zijbalk aan de linkerkant met de inhoudsopgave.
+
+![](images/werkbalk_search.png) - Toont een zoekbalk zodat je door de inhoud kunt zoeken.
+
+![](images/werkbalk_font.png)  - Voor de keuze uit het lettertype (Sans/Serif), het vergroten/verkleinen hiervan en voor de kleurmodus (White, Sepia, Night).
+
+![](images/werkbalk_info.png) - Toont een schermpje met info bij dit menu.
