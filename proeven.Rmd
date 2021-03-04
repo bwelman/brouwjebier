@@ -1,11 +1,13 @@
 # Proeven {#proeven}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Kennismaken met diverse aroma's en smaken
 -  Hoe een bier te proeven en te beoordelen
 -  Veel voorkomende smaakafwijkingen
 -  Veel voorkomende brouwfouten
+:::
 
 ## Aroma's en smaken
 

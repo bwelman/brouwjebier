@@ -1,6 +1,7 @@
 # (PART) Deel 3 {-}
 # Hop {#hop}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Weten waarom hop bij de bierbereiding wordt gebruikt.
@@ -8,6 +9,7 @@
 -  Verschil kennen tussen bitterhoppen en aromahoppen.
 -  Weten wat alfazuurpercentage inhoudt.
 -  Weten op welke momenten je hop toevoegt en wat het effect van een bepaald moment is.
+:::
 
 ## Wat zit er in hop
 
@@ -25,10 +27,9 @@ De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo
 
 Tijdens het koken (60-90 minuten) veranderen de alfazuren in *iso-alfazuren*. En het zijn deze iso-alfazuren die voor de bitterheid van het bier zorgen.
 
-```{block2, type = "rmdinfo"}
+:::{.tip}
 **Isomeren** zijn stoffen die hetzelfde aantal en hetzelfde soort atomen bevatten: hun molecuulformules zijn dus gelijk. Ze verschillen in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
-
-```
+:::
 
 Slechts een gedeelte van de alfazuren wordt omgezet in iso-alfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
 
@@ -104,7 +105,6 @@ Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken t
 
 Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of desinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is. Wees er wel op bedacht dat je op deze wijze ook wat meer plantaardige smaken toevoegt.
 
-```{block2, type = "rmdinfo"}
+:::{.tip}
 Koudhoppen geeft niet hetzelfde effect als Vlamuit hoppen. Denk dus goed na of je een van beide of beide wilt doen.
-
-```
+:::

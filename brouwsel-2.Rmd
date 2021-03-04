@@ -1,5 +1,6 @@
 # Brouwsel-2 {#brouwsel-2}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
@@ -10,6 +11,7 @@
 -  Je leert de belangrijkste kenmerken van dit biertype.
 -  Meer zelfstandigheid tijdens het brouwproces.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
+:::
 
 ## Inleiding {#b2-inleiding}
 

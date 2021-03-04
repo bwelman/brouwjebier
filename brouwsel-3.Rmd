@@ -1,5 +1,6 @@
 # Brouwsel-3 {#brouwsel-3}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Je moet een recept voor een **Weizen** kunnen opstellen.
@@ -7,6 +8,7 @@
 -  Je moet kunnen beoordelen of het brouwsel aan de eisen voldoet.
 -  Je moet eventuele afwijkingen kunnen vaststellen.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
+:::
 
 ## Huiswerk {#b3-huiswerk}
 

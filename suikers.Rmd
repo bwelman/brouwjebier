@@ -1,12 +1,14 @@
 # Suikers
 
+:::{.chapterintro}
 **Doelstellingen**
 
--  Verschil kennen tussen vergistbare en overgistbare suikers.
+-  Het verschil kennen tussen vergistbare en overgistbare suikers.
 -  De indeling van suikers in categorieën kennen.
--  De rol van bij de verschillende soorten suikers kennen.
+-  De rol van de verschillende soorten suikers kennen.
 -  Welke suikers in de wort zitten.
 -  Hoe en waardoor de verschillende suikers worden afgebroken.
+:::
 
 ## Wat zijn suikers?
 
@@ -59,7 +61,7 @@ Typische hoeveelheden van de vijf meest voorkomende suikers in een wort van pils
 -  2% fructose
 -  12% onvergistbare dextrines
 
-Om een aantal redenen worden bij het brouwen soms suikers aan de wort toegevoegd:
+Om een aantal redenen wordt bij het brouwen soms suiker aan de wort toegevoegd:
 
 -  Voor een hoger alkoholgehalte zonder de body van het bier te verhogen. Zo wordt voor de Belgische Sterke Blonde kandijsuiker gebruikt om een briljant helder, sterk alkoholisch bier met een dun-medium body te krijgen.
 -  Om de body van het bier te verlagen terwijl het alkoholgehalte gehandhaafd blijft. Zo wordt voor een Amerikaanse Light Lager minder mout gebruikt en in de plaats daarvan suikers (uit mais, riet, rijst). Je krijgt een dun bier met toch alkohol.

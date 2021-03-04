@@ -1,6 +1,7 @@
 # (PART) Deel 2 {-}
 # Mout
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Weten wat het moutproces inhoudt.
@@ -8,6 +9,7 @@
 -  De basismouten kennen.
 -  Weten waarom speciale mouten gebruikt worden.
 -  De groepen speciale mouten kennen.
+:::
 
 ## Wat is mout
 
@@ -19,7 +21,7 @@ Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hog
 knitr::include_graphics("images/moutproces.png", dpi = NA)
 ```
 
-Als graan wordt allereerst gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. Zo bestaat het moutrecept voor Weizenbier voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
+Als graan wordt voornamelijk gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. Zo bestaat het moutrecept voor Weizenbier voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
 
 Gerst is een landbouwgewas dat tot de grassenfamilie behoort. Je hebt zomergerst en wintergerst. *Zomergerst* moet zo vroeg mogelijk gezaaid worden, als het kan vanaf half februari tot begin april. De oogsttijd is half augustus. Zomergerst is meestal *tweerijig* en wordt het meest gebruikt voor het brouwen van bier. *Wintergerst* wordt in de eerste helft van oktober gezaaid en geoogst eind juli, begin augustus. Wintergerst is meestal *zesrijig* en bevat veel meer eiwitten en minder zetmeel dan de tweerijige zomergerst. Met name in Amerika wordt deze gerst veel gebruikt voor het brouwen van bier.(Bron: https://nl.wikipedia.org/wiki/Gerst)
 
@@ -27,7 +29,7 @@ Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschik
 
 ## Moutkleur {#moutkleur}
 
-Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. Voor de aanduiding van de moutkleur kom je meerdere normen tegen. De oudste is de onnauwkeurige *Lovibond* schaal uit 1893. Opvallend is dat de Amerikanen deze nog steeds gebruiken voor de kleur van de mout, maar voor de kleur van bier de nieuwere *SRM* (Standard Reference Method) gebruiken. In Europa wordt voor zowel voor de kleur van mout als voor bier de *EBC* (European Brewery Convention) gebruikt. Je kunt SRM- en EBC-waarden goed in elkaar omrekenen met de formule
+Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. Voor de aanduiding van de moutkleur kom je meerdere normen tegen. De oudste is de onnauwkeurige *Lovibond* schaal uit 1893. Opvallend is dat de Amerikanen deze nog steeds gebruiken voor de kleur van de mout, maar voor de kleur van bier de nieuwere *SRM* (Standard Reference Method) gebruiken. In Europa wordt zowel voor de kleur van de mout als voor de kleur van bier de *EBC* (European Brewery Convention) gebruikt. Je kunt SRM- en EBC-waarden goed in elkaar omrekenen met de formule
 
 $\text{EBC} = 1,97 \times \text{SRM}$
 
@@ -43,11 +45,11 @@ knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
 
 ## Moutsoorten van gerst
 
-Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn en wordt het al snel onoverzichtelijk. Een belangrijke indeling is die in basismouten en speciale mouten.
+Voor het maken van bier worden vaak meerdere moutsoorten gebruikt. Wel is het zo dat de mouterijen verschillende namen gebruiken voor vergelijkbare moutsoorten. Voor een beginnende brouwer kan dit lastig zijn en wordt het al snel onoverzichtelijk. Een belangrijke indeling is die in *basismouten* en *speciale mouten*.
 
 ### Basismouten
 
-Dit zijn mouten die voldoende enzymen bevatten om het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken, de moutstort bestaat van voor 100% uit een basismout.
+Dit zijn mouten die voldoende enzymen bevatten om al het zetmeel om te zetten. Je kunt een bier maken door alleen een basismout te gebruiken. De moutstort bestaat dan voor 100% uit een basismout.
 
 Veel gebruikte basismouten zijn:
 
@@ -65,15 +67,13 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 
 Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Je moet ze dus altijd in combinatie met een basismout gebruiken.
 
-
-```{block2, type = "rmdinfo"}
+:::{.tip}
 Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
-
-```
+:::
 
 **Broeimouten**
 
-In een broeimout blijft de korrel na het weken langer vochtig en warm. Een deel van het graan zal daardoor gaan "broeien" met als gevolg dat een deel van het zetmeel al wordt omgezet in suikers. En wanneer hierna geeest wordt zullen de ontstane suikers gaan karamelliseren. Dit in tegenstelling tot pilsmout waar na het kiemen direct geeest wordt en er geen of minder afbraak van zetmeel plaatsvindt en er meer enzymwerking overblijft. Viennamout en Münchenermout zijn zowel broeimouten als basismouten. Wat donkerder broeimouten zijn Ambermout (50 EBC) en Aromatic (150 EBC)
+In een broeimout blijft de korrel na het weken langer vochtig en warm. Een deel van het graan zal daardoor gaan "broeien" met als gevolg dat een deel van het zetmeel al wordt omgezet in suikers. En wanneer hierna geëest wordt zullen de ontstane suikers gaan karamelliseren. Dit in tegenstelling tot pilsmout waar na het kiemen direct geëest wordt en er geen of minder afbraak van zetmeel plaatsvindt en er meer enzymwerking overblijft. Viennamout en Münchenermout zijn zowel broeimouten als basismouten. Wat donkerder broeimouten zijn Ambermout (50 EBC) en Aromatic (150 EBC)
 
 **Cara(mel)- en Crystalmouten**
 
@@ -98,15 +98,15 @@ Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde
 
 ### Tarwemout
 
-Mout van tarwe is lichtgekleurd (ca. 3 EBC) en geeft een weeïge, zoetige, licht zure verfrissende smaak aan het bier. Tarwemout heeft een hoger gehalte aan eiwitten dan gerstemout en zorgt daardoor ook voor een lichte troebelheid van het bier. In witbieren en weizen wordt veel tarwemout gebruikt. En veel brouwers voegen een beetje tarwemout aan de stort toe om een betere schuimwerking te krijgen.
+Mout van tarwe is lichtgekleurd (ca. 3 EBC) en geeft een weeïge, zoetige, licht zure verfrissende smaak aan het bier. Tarwemout heeft een hoger gehalte aan eiwitten dan gerstemout en zorgt daardoor ook voor een lichte troebelheid van het bier. In witbieren en weizen wordt veel tarwemout gebruikt. En veel brouwers voegen een beetje tarwemout aan de moutstort toe om een betere schuimwerking te krijgen.
 
 ### Havermout
 
-In de middeleeuwen was gemoute haver het meest gebruikte mout, maar het wordt nu nauwelijks meergebruikt. Haver bevat veel vet en eiwitten waardoor het bier troebel is met weinig schuim. Het geeft wel een zacht mondgevoel.
+In de middeleeuwen was gemoute haver het meest gebruikte mout, maar het wordt nu nauwelijks meer gebruikt. Haver bevat veel vet en eiwitten waardoor het bier troebel is met weinig schuim. Het geeft wel een zacht mondgevoel.
 
 ### Roggemout
 
-Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt het weinig gebruikt.
+Rogge geeft een zacht kruidige en lichtzure smaak aan het bier en het bier wordt er ook wat dikker (viskeus) door. In Duitsland wordt nog *Roggenbier* gemaakt, verder wordt rogge weinig gebruikt.
 
 ## Moutextract
 
@@ -130,10 +130,9 @@ Moutextractpoeder kun je ook gebruiken ter vervanging van suiker in het recept. 
 
 <!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
 
-```{block2, type = "rmdwarning"}
+:::{.important}
 Moutextractpoeder is sterk hygroscopisch, trekt dus water aan. Bewaar het daarom op een droge, koele en bij voorkeur donkere plaats in een goed afgesloten doos.
-
-```
+:::
 
 ## Mouterijen
 

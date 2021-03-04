@@ -23,6 +23,7 @@ language:
 
 rmd_files:
     - "index.Rmd"
+    - "voorwoord.Rmd"
     - "over-bier.Rmd"
     - "brouwproces.Rmd"
     - "apparatuur.Rmd"

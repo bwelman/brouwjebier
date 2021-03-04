@@ -1,10 +1,12 @@
 # Recepten
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Weten hoe je aan een goed recept kunt komen.
 -  Een bestaand recept kunnen aanpassen aan de eigen installatie.
 -  Zelf een eenvoudig recept kunnen opstellen.
+:::
 
 ## Hoe verkrijg je een recept
 

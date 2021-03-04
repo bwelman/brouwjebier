@@ -1,10 +1,12 @@
 # Hygiene {#hygiene}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Je moet weten hoe belangrijk het schoonmaken en desinfecteren is.
 -  Je moet weten hoe en waarmee je apparatuur kunt schoonmaken en desinfecteren.
--  Je moet weten wanneer je in het brouwproces moet desinfecteren.
+-  Je moet weten op welk moment in het brouwproces je moet desinfecteren.
+:::
 
 ## Schoonmaken
 
@@ -12,7 +14,7 @@ Alle apparatuur en hulpmiddelen moeten goed schoongemaakt zijn. Dat is een eerst
 
 Schoonmaken is het verwijderen van vuil.
 
-1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. Let er op dat je geen krassen maakt met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waarin micro-organismen gaan zitten.
+1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. Let er op dat je geen krassen maakt met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waar micro-organismen in gaan zitten.
 2.  Maak hierna de spullen huishoudelijk schoon. Dat kan met water en een neutraal afwasmiddel  zonder geur- en kleurstoffen. Nog beter is het gebruik van speciale reinigingsmiddellen zoals de *Oxi-middelen* en *Enzybrew*.
 
 ```{r schoonmaakmiddelen, fig.cap="Van links naar rechts: (neutraal) afwasmiddel, oxi, enzybrew.", echo=FALSE}
@@ -29,7 +31,7 @@ Er zijn behoorlijk wat desinfectiemiddelen te koop. Hieronder volgen een paar be
 
 **Star San**
 
-Star San van fabrikant Five Star (VS), is een sterk schuimend, zuur anionisch ontsmettingsmiddel (desinfectans) op basis van fosforzuur (50%) en dodecylbenzeensulfonzuur (15%) dat zonder spoelen gebruikt kan worden. Het is zeer effectief, eenvoudig in gebruik en heeft een contacttijd van ca. 2 minuten nodig. Het is als een geconcentreerde vloeistof te koop. Je hebt er maar weinig van nodig.
+Star San van fabrikant Five Star (VS), is een sterk schuimend, zuur, anionisch ontsmettingsmiddel (desinfectans) op basis van fosforzuur (50%) en dodecylbenzeensulfonzuur (15%) dat zonder spoelen gebruikt kan worden. Het is zeer effectief, eenvoudig in gebruik en heeft een contacttijd van ca. 2 minuten nodig. Het is als een geconcentreerde vloeistof te koop die je voor gebruik moet verdunnen. Je hebt er maar weinig van nodig.
 
 Eigenschappen:
 
@@ -55,7 +57,7 @@ Een ontsmettingsmiddel op basis van actieve zuurstof. Het is als poeder verkrijg
 
 **Sulfiet met citroenzuur**
 
-Sulfiet (Kaliummetabisulfiet) is verkrijgbaar als een wit poeder, net als citroenuur. Bij het maken van een oplossing met deze beide stoffen ontstaat gasvormig zwaveldioxide (giftig, gevaarlijk). Sulfiet wordt door de hobbybrouwer steeds minder gebruikt.
+Sulfiet (Kaliummetabisulfiet) is verkrijgbaar als een wit poeder, net als citroenzuur. Bij het maken van een oplossing met deze beide stoffen ontstaat gasvormig zwaveldioxide (giftig, gevaarlijk). Sulfiet wordt door de hobbybrouwer steeds minder gebruikt.
 
 -  Dosering: 1-2 gram gram sulfiet per liter water + 0,5 gram citroenzuur.
 -  Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Goed naspoelen met water.

@@ -1,8 +1,10 @@
 # Biertypen {#biertypen}
 
+:::{.chapterintro}
 **Doelstellingen**
 
--  Je maakt kennis met de biertypenlijst van het BKG
+-  Je maakt kennis met biertypenlijsten
+:::
 
 ## BKG Biertypen {#bkg-biertypen}
 

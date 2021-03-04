@@ -1,5 +1,6 @@
 # Brouwsel-4 {#brouwsel-4}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Eisen/wensen voor een te maken bier kunnen formuleren.
@@ -9,6 +10,7 @@
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 -  Het gemaakte bier beoordelen of het aan de eisen voldoet.
 -  Eventuele afwijkingen kunnen vaststellen en aan kunnen geven waarom en wanneer deze zijn ontstaan.
+:::
 
 ## Huiswerk {#b4-huiswerk}
 

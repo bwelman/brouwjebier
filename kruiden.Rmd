@@ -1,10 +1,12 @@
 # Kruiden
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  De rol van kruiden/specerijen kunnen aangeven.
 -  Weten welke kruiden/specerijen bij de bierbereiding gebruikt kunnen worden
 -  Weten wanneer en hoeveel kruiden je kunt toevoegen.
+:::
 
 ## Welke kruiden?
 

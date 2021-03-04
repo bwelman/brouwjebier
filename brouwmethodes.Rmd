@@ -1,9 +1,11 @@
 # Brouwmethodes {#brouwmethodes}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Overzicht brouwmethodes
 -  Kennismaking met verschillende brouwinstallaties
+:::
 
 ## Methodes
 

@@ -1,5 +1,6 @@
 # Brouwsel-1 {#brouwsel-1}
 
+:::{.chapterintro}
 **Doelstellingen**
 
 -  Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
@@ -9,6 +10,7 @@
 -  Je leert omgaan brouwapparatuur.
 -  Je leert hoe je apparatuur moet reinigen en desinfecteren.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
+:::
 
 ## Inleiding {#b1-inleiding}
 
@@ -18,11 +20,11 @@ In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur besc
 
 Door het maken van het eerste brouwsel kom je veel van de voorafgaande theorie tegen en ga je deze in de praktijk toepassen. Vaak roept dat weer nieuwe vragen op. De mentor is hierbij jouw vraagbaak. Probeer ook zoveel mogelijk notities te maken om zo nadien alles rustig na te kunnen lezen. Je begrijpt de theorie beter door deze in de praktijk toe te passen. Leg ook een logboek aan waarin je alle waarnemingen opschrijft. Bij dit brouwsel horen ook een aantal vragen die je moet beantwoorden.
 
-Sluit af met een evaluatie. Aan het eind van dit hoofdstuk zit een bijlage met daarin de belangrijkste kenmerken waar een tripel aan moet voldoen. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
+Sluit af met een evaluatie.
 
 **Voorbereiding (huiswerk)**
 
-In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
+In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
 
 \newpage
 ## Recept Tripel {#b1-recept}

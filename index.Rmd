@@ -1,6 +1,5 @@
 --- 
 title: "Brouw je Bier"
-subtitle: "Een brouwcursus voor beginners"
 author:
 - "Ben Welman"
 date: '`r format(Sys.time(), "%d %B %Y")`'
@@ -21,54 +20,31 @@ library(tidyverse)
 library(kableExtra)
 ```
 
-# Voorwoord {-}
+:::{.welcome}
+# Welkom {.unnumbered}
 
 <a href="https://brouwjebier.nu/"><img src="images/cover.png" alt="omslagfoto" align="right" style="margin: 0 1em 0 1em" /></a>
 
-Dit is een online cursus voor het leren brouwen van bier. De cursus is aanvankelijk opgezet voor een papieren handleiding bij een beginnerscursus van het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}. Het ontwikkelen van het cursusmateriaal zorgde voor een verdere verdieping van mijn kennis van het brouwproces en bracht zoveel enthousiasme bij mij teweeg dat het materiaal geschikt gemaakt is om als een online cursusboek te dienen.
+Dit is de online versie van een cursus voor het leren brouwen van bier.
 
-**Opzet cursus**
+De cursus is aanvankelijk opgezet voor een gedrukte handleiding bij een beginnerscursus van het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}. Dit bracht zoveel enthousiasme bij mij te weeg dat ik het materiaal daarna verder geschikt gemaakt heb om als een online cursusboek te dienen. En er wordt nog steeds om het cursusmateriaal verder te verbeteren en uit te breiden.
 
-De cursus is opgezet om samen met anderen, bij voorkeur binnen een club/gilde, te leren wat de kenmerken van bier zijn en hoe het brouwen van bier in zijn werk gaat en dat ook in de praktijk te brengen. In bijlage \@ref(bijlage-gildes) tref verwijzingen naar de websites van een aantal bierbrouwgildes aan. Informeer naar de mogelijkheid tot het volgen van een cursus. Eventueel kun je de cursus ook individueel doorwerken. Maar de praktische onderdelen (brouwen en proeven) lenen zich er meer voor om onder begeleiding van een ervaren hobbybrouwer uit te voeren. 
+## Licentie {.unnumbered}
 
-De cursus is concentrisch opgezet. Dat wil zeggen: eenvoudig beginnen met een steeds verdere uitbreiding en verdieping. Daartoe is de cursus opgedeeld in 4 delen. Elk deel eindigt met het maken van een brouwsel. Dit brouwsel kun je het beste samen met een ervaren hobbybrouwer uitvoeren, die als mentor kan fungeren. Je maakt dus in totaal 4 brouwsels. Ook deze brouwsels gaan van een eenvoudig recept naar een steeds complexer recept. In het begin krijg je een kant en klaar recept aangeleverd, aan het eind zul je er zelf een moeten maken. Het is de bedoeling dat je tijdens het maken van deze vier brouwsels steeds meer zelfstandigheid laat zien.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
 
-Daarnaast leer je hoe je een bier moet proeven en beoordelen, ook wel *degusteren* genoemd.
+## Over de auteur {.unnumbered}
 
--  Deel 1:
-   +  Basisprincipes van het brouwproces.
-   +  Minimale apparatuur.
-   +  *Brouwsel-1*: eenvoudig, volgens verstrekt recept.
--  Deel 2:
-   +  Nadruk op mout, suikers en maischen.
-   +  *Brouwsel-2*: meerdere maischstappen, volgens verstrekt recept.
--  Deel 3:
-   +  Nadruk op hop, vergisting, rekenen en recepten.
-   +  *Brouwsel-3*: voorgeschreven biertype, eigen recept.
--  Deel 4:
-   +  Nadruk op fouten, afwijkingen en beoordelen.
-   +  Brouwsoftware.
-   +  *Brouwsel-4*: een eigen geformuleerd bier, eigen recept.
+Ben Welman
 
-**Verwachtingen cursus**
+<img src="images/authors/benw2.png" class="cover" width="150" height="150" alt="Ben Welman"/>Ik heb Chemische Technologie gestudeerd aan de THT, de huidige [Universiteit Twente](https://www.utwente.nl/) en tijdens de studie veelvuldig kennis gemaakt met bier, zowel theoretisch als practisch!
+Na eerst een aantal jaren scheikunde en wiskunde te hebben gegeven op middelbare scholen ben ik begonnen als docent informatica en statistiek bij de opleiding Commercieel Technische Bedrijfskunde van  de Hogeschool Enschede, nu [Saxion Hogescholen](https://www.saxion.nl/). Van daaruit intern overgestapt naar een researchfunctie voor het ontwikkelen en ondersteunen van e-learning.
 
-Na het doorwerken van de cursus wordt het volgende van je verwacht.
+Na mijn pensionering heb ik meer tijd voor mijn hobby's: biljarten, bridgen, bierbrouwen, broodbakken en reizen (vooral met de Pössl en de fiets mee). Daarnaast hou ik nog wat tijd over om de studieboeken voor Access en Excel te onderhouden en me te verdiepen in data analyse met vooral [R](https://en.wikipedia.org/wiki/R_(programming_language)) en wat minder met [Python](https://www.python.org/).
 
--  Je weet hoe bier gemaakt wordt en je kunt dat ook zelf.
--  Je weet de achtergronden van de processen.
--  Je kunt zelf een recept opstellen.
--  Je weet een bier te classificeren.
--  Je weet hoe je bier moet proeven en beoordelen.
--  Je kent een aantal brouwfouten en weet hoe die te vermijden.
+<br><br>
+Douwe Beimin
 
-**Werkbalk scherm**
-
-Aan de linkerbovenkant van deze pagina zie je een aantal icons voor een keuzemenu.
-
-![](images/werkbalk_sidebar.png) - Voor het in- en uitschakelen van de zijbalk aan de linkerkant met de inhoudsopgave.
-
-![](images/werkbalk_search.png) - Toont een zoekbalk zodat je door de inhoud kunt zoeken.
-
-![](images/werkbalk_font.png)  - Voor de keuze uit het lettertype (Sans/Serif), het vergroten/verkleinen hiervan en voor de kleurmodus (White, Sepia, Night).
-
-![](images/werkbalk_info.png) - Toont een schermpje met info bij dit menu.
+<img src="images/authors/DouweBeimin.jpg" class="cover" width="150" height="150" alt="Douwe Beimin"/>
+De inhoud van deze cursus is mede tot stand gekomen door inbreng en feedback van Douwe Beimin, de organisator en docent van de brouwcursus en tevens secretaris van het Twent Bierbrouwersgilde. Waarvoor veel dank.
+:::
