@@ -7,7 +7,7 @@ exportpad <- "S:/bier/brouwjebier/images/"
 # Afbeelding Brouwproces
 bp <- grViz("
       digraph brouwproces {
-      graph [layout = dot, rankdir = LR]
+      graph [layout = dot, rankdir = LR, bgcolor=transparent]
       
       # node opdrachten
       node [shape = rectangle, style = filled, fillcolor = Linen, fontname = Arial]
@@ -28,7 +28,7 @@ export_svg(bp) %>% charToRaw() %>% rsvg() %>% png::writePNG(paste(exportpad, "br
 # Afbeelding Moutproces en moutsoorten
 mp <- grViz("
 	  digraph moutproces {
-	  graph[rankdir=TD]
+	  graph[rankdir=TD, bgcolor=transparent]
 	  node[shape = oval, style = filled]
 	  N11[fillcolor=DarkGoldenRod, label='gerst']
 	  N21[fillcolor=SteelBlue, label='Inweken met water\n(kamertemperatuur)']
