@@ -14,12 +14,6 @@ geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
 cover-image: images/cover.png
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message = FALSE)
-library(tidyverse)
-library(kableExtra)
-```
-
 :::{.welcome}
 # Welkom {.unnumbered}
 

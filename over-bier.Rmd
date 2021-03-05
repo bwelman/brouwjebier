@@ -23,7 +23,7 @@ Bier is de oudste alcoholhoudende drank ter wereld. Het wordt wereldwijd gedronk
 
 In de vroege Middeleeuwen was het brouwen van bier een huishoudelijke bezigheid, voorbehouden aan vrouwen. Om in hun levensonderhoud te voorzien, brouwden ook kloosterlingen (monniken en nonnen) verschillende bieren. In de tijd van Karel de Grote (rond 800) ontstonden grotere brouwerijen om de hoeveelheden bier te brouwen die nodig waren voor het hof of voor grotere huishoudens. Naast het thuis brouwen kwam ook het zogenaamde koopbrouwen door ambachtslieden in gebruik. Met de koopbrouwer was de commerciële bierbrouwerij geboren.
 
-```{r bier-me, fig.cap="Bier in de Middeleeuwen", echo=FALSE}
+```{r bier-me, out.width="40%", fig.cap="Bier in de Middeleeuwen"}
 knitr::include_graphics("images/bier-me.png", dpi = NA)
 ```
 
@@ -48,8 +48,8 @@ Halverwege de jaren tachtig vond een nieuwe ontwikkeling plaats. Anders smakende
 
 ### Reinheitsgebot
 
-```{r reinheitsgebot, fig.cap="Het Reinheitsgebot kort en krachtig.", echo=FALSE}
-knitr::include_graphics("images/reinheitsgebot.png", dpi = NA)
+```{r reinheitsgebot, out.width="50%", fig.cap="Het Reinheitsgebot kort en krachtig."}
+knitr::include_graphics("images/reinheitsgebot.jpg")
 ```
 
 Al in de middeleeuwen bedachten bierbrouwers allerlei manieren om bier zo goedkoop mogelijk te produceren. Uit deze tijd stamt daarom de eerste warenwet: het Duitse Reinheitsgebot uit 1516, uitgevaardigd door Wilhelm IV van Beieren. De wet bepaalde dat bier alleen mocht worden gebrouwen van gerst, water en hop. Anders mocht het geen bier worden genoemd. Gist was toen nog niet ontdekt en werd later toegevoegd aan de bepaling. Pas na een klacht van de Europese Unie – omdat het gebod vrijhandel belemmerde – is het in 1987 afgeschaft. Duitse brouwers houden er overigens nog krampachtig aan vast, omdat ze anders gelijk uit de Duitse markt liggen. Gerst is echter een dure grondstof. Veel andere brouwers voegen daarom tot meer dan 50 procent andere zetmeelbronnen toe, zoals tarwe, mais of rijst.

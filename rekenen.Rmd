@@ -31,7 +31,9 @@ Plato en Brix zijn beide eenheden om het massapercentage extract in een vloeisto
 
 $$\text{1 graad Plato/Brix = 1 gram sucrose (sacharose) in 100 gram oplossing}$$
 
-De meetmethoden voor Plato en Brix zijn verschillend. Zo wordt Plato meestal met een hydrometer gemeten en Brix met een refractometer. Wanneer een oplossing alleen maar sucrose bevat zal de Plato- en Brixmeting hetzelfde getal opleveren. Echter wortextract is geen 100% sucrose-oplossing, het bevat ook andere stoffen, waardoor in de praktijk de waarden niet hetzelfde zijn. De verschillen zijn klein. veel gebruikte omrekenformules zijn:
+De meetmethoden voor Plato en Brix zijn verschillend. Zo wordt Plato meestal met een hydrometer gemeten en Brix met een refractometer. In de professionele brouwwereld wordt als meeteenheid het aantal graden Plato gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
+
+Wanneer een oplossing alleen maar sucrose bevat zal de Plato- en Brixmeting hetzelfde getal opleveren. Echter wortextract is geen 100% sucrose-oplossing, het bevat ook andere stoffen, waardoor in de praktijk de waarden niet hetzelfde zijn. De verschillen zijn klein. veel gebruikte omrekenformules zijn:
 
 $$\text{Brix} = 1,04 \times \text{Plato} \Leftrightarrow \text{Plato} = \text{Brix } / 1,04$$
 
@@ -78,7 +80,9 @@ Eenvoudige benaderingsformules zijn:
 
 Voor een wort met $SG = 1,050$ is dan $\text{SG-punten} = 50$ en $P = \frac{50}{4} = 12,5$.
 
-Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.\pagebreak
+Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
+
+Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft! Voor dit omrekenen zijn wel formules beschikbaar en ook de brouwsoftware kan dat voor je doen. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
 
 ## Moutberekening
 

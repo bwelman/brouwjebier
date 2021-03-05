@@ -4,12 +4,11 @@
 **Doelstellingen**
 
 -  Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
--  Je moet de verschillende stappen van het brouwproces in grote lijnen leren kennen.
+-  Je kent de verschillende stappen van het brouwproces in grote lijnen.
 -  Je maakt kennis met een aantal grondstoffen.
--  Je leert de belangrijkste kenmerken van dit biertype.
--  Je leert omgaan brouwapparatuur.
+-  Je maakt kennis met de belangrijkste kenmerken van het biertype.
+-  Je leert omgaan met brouwapparatuur.
 -  Je leert hoe je apparatuur moet reinigen en desinfecteren.
--  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 :::
 
 ## Inleiding {#b1-inleiding}

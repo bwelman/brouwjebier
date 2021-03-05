@@ -4,11 +4,10 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Weten wat het moutproces inhoudt.
--  Weten hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
--  De basismouten kennen.
--  Weten waarom speciale mouten gebruikt worden.
--  De groepen speciale mouten kennen.
+-  Je weet wat het moutproces inhoudt.
+-  Je weet hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
+-  Je leert de basismouten kennen en een aantal speciale mouten.
+-  Je weet waarom speciale mouten gebruikt worden.
 :::
 
 ## Wat is mout
@@ -17,8 +16,8 @@ Mout is graan dat een speciale behandeling heeft ondergaan. Het graan wordt eers
 
 Zodra de kiemen gevormd zijn wordt het proces gestopt door het graan bij een hogere temperatuur te verwarmen en te drogen. Dit proces heet *eesten* en het gekiemde graan heet *mout*. Mouten die langer en op een hogere temperatuur verhit worden bevatten steeds minder enzymen en zijn ook steeds donkerder van kleur. Deze donkere moutsoorten geven het bier smaken als karamel, koffie en gebrand.
 
-```{r moutproces, fig.cap="Moutproces en moutsoorten", echo=FALSE}
-knitr::include_graphics("images/moutproces.png", dpi = NA)
+```{r moutproces, fig.cap="Moutproces en moutsoorten.", out.width="100%"}
+grViz(diagram = "diagrammen/moutproces.gv", height = 500)
 ```
 
 Als graan wordt voornamelijk gerst gebruikt waaruit dus gerstemout gemaakt wordt. Daarnaast worden soms ook andere graansoorten gebruikt, zoals tarwe, haver, spelt. Zo bestaat het moutrecept voor Weizenbier voor minimaal de helft uit tarwemout. Ook rijst en mais worden soms gebruikt, vooral omdat deze grondstoffen goedkoper zijn.
@@ -31,16 +30,14 @@ Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschik
 
 Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. Voor de aanduiding van de moutkleur kom je meerdere normen tegen. De oudste is de onnauwkeurige *Lovibond* schaal uit 1893. Opvallend is dat de Amerikanen deze nog steeds gebruiken voor de kleur van de mout, maar voor de kleur van bier de nieuwere *SRM* (Standard Reference Method) gebruiken. In Europa wordt zowel voor de kleur van de mout als voor de kleur van bier de *EBC* (European Brewery Convention) gebruikt. Je kunt SRM- en EBC-waarden goed in elkaar omrekenen met de formule
 
-$\text{EBC} = 1,97 \times \text{SRM}$
-
-Ruwweg is de EBC-waarde dus het dubbele van de SRM-waarde.
+$\text{EBC} = 1,97 \times \text{SRM} \approx 2 \times \text{SRM}$
 
 Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort. 
 
 De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in figuur \@ref(fig:kleurenkaart). En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's (zie hoofdstuk \@ref(brouwsoftware)) voor het brouwen rekenen dat voor je uit.
 
-```{r kleurenkaart, fig.cap="EBC kleurenkaart", echo=FALSE}
-knitr::include_graphics("images/kleurenkaart.png", dpi = NA)
+```{r kleurenkaart, fig.cap="EBC kleurenkaart", out.width="40%"}
+knitr::include_graphics("images/kleurenkaart.png")
 ```
 
 ## Moutsoorten van gerst
@@ -117,16 +114,12 @@ Omdat moutextract een geconcentreerde vorm van mout is, heb je er minder van nod
 + 1 kg moutextractpoeder = 1,60 kg gerstemout
 + 1 kg vloeibaar moutextract = 1,30 kg gerstemout
 
-**giststarter**
+Moutextractpoeder is zeer geschikt voor het maken van een [giststarter]. Ook kun je moutextractpoeder gebruiken ter vervanging van suiker in het recept. De bieren worden hierdoor minder droog en krijgen een rijkere smaak, meer body en een mooiere stabiele schuimkraag. 
 
-Moutextractpoeder is zeer geschikt voor het maken van een giststarter.
-
-**suiker vervanging**
-
-Moutextractpoeder kun je ook gebruiken ter vervanging van suiker in het recept. De bieren worden hierdoor minder droog en krijgen een rijkere smaak, meer body en een mooiere stabiele schuimkraag. Gebruiksmogelijkheden tijdens het brouwen:
-
+:::{.workedexample}
 + Vervang de helft van het gewicht aan suiker door een even groot gewicht aan moutextractpoeder. Bijvoorbeeld i.p.v. 1 kg suiker voeg je dan 500 gram suiker en 500 gram moutextractpoeder toe.
 + Vervang de suiker volledig door een even groot gewicht aan moutextractpoeder. Dus 1 kg suiker vervangen door 1 kg moutextractpoeder. Het bier krijgt hierdoor een hoger moutpercentage, een rijke smaak en een vollere body.
+:::
 
 <!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
 
