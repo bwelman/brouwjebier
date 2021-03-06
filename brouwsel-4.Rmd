@@ -3,13 +3,13 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Eisen/wensen voor een te maken bier kunnen formuleren.
--  Een recept voor dit bier kunnen opstellen.
--  Het recept in een brouwprogramma kunnen invoeren.
--  Het bier volgens het opgestelde recept kunnen maken.
--  Je leert de belangrijkste kenmerken van het te brouwen biertype.
--  Het gemaakte bier beoordelen of het aan de eisen voldoet.
--  Eventuele afwijkingen kunnen vaststellen en aan kunnen geven waarom en wanneer deze zijn ontstaan.
+-  Je kunt eisen/wensen voor een te maken bier formuleren.
+-  Je kunt de belangrijkste kenmerken van het te brouwen biertype achterhalen.
+-  Je kunt een recept voor dit bier opstellen.
+-  Je kunt het recept in een brouwprogramma invoeren.
+-  Je kunt het bier volgens het opgestelde recept brouwen.
+-  Je kunt beoordelen of het gemaakte bier aan de eisen/wensen voldoet.
+-  Je kunt eventuele afwijkingen vaststellen en aangeven waardoor deze zijn ontstaan.
 :::
 
 ## Huiswerk {#b4-huiswerk}

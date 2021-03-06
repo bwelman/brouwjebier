@@ -46,9 +46,9 @@ rmd_files:
     - "brouwmethodes.Rmd"
     - "biertypen.Rmd"
     - "brouwsel-4.Rmd"
-    - "appendix-biertypen.Rmd"
-    - "appendix-gildes.Rmd"
-    - "appendix-webwinkels.Rmd"
+    - "app-bkgtabel.Rmd"
+    - "app-gildes.Rmd"
+    - "app-webwinkels.Rmd"
     - "referenties.Rmd"
 
 before_chapter_script: "_common.R"

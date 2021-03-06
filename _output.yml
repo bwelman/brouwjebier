@@ -1,19 +1,12 @@
-bookdown::gitbook:
+bookdown::bs4_book:
   includes:
     in_header: google_analytics.html
-  css: [css/style.css, css/toc.css, css/fonts.css]
-  split_by: chapter
-  config:
-    toc:
-      collapse: section
-      before: |
-        <li><a href="./">Een bierbrouw cursus</a></li>
-      after: |
-        <li><a href="https://www.twents-bierbrouwersgilde.nl/" target="blank">Twents Bierbrouwersgilde</a></li>
-    sharing:
-      facebook: no
-      twitter: no
-      all: no
+  css: [css/textbook.css]
+  theme:
+    primary: "#569BBD"
+    fg: "#2b2121"
+    bg: "#FFFFFF"
+    font-family-base: "Source Sans Pro"
 
 bookdown::pdf_book:
   includes:
@@ -23,11 +16,3 @@ bookdown::pdf_book:
   keep_tex: no
 
 bookdown::epub_book: default
-
-bookdown::bs4_book:
-  css: [css/textbook.css]
-  theme:
-    primary: "#569BBD"
-    fg: "#2b2121"
-    bg: "#FFFFFF"
-    font-family-base: "Source Sans Pro"

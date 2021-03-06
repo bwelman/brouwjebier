@@ -8,15 +8,16 @@
 
 ## BKG Biertypen {#bkg-biertypen}
 
-Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2019] van het Nederlands BierkeurmeestersGilde (BKG). Via hun website kun je de lijst downloaden, een PDF document van 83 pagina's.
+Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2019] van het Nederlands BierkeurmeestersGilde (BKG). Via hun website kun je de lijst als PDF document downloaden.
 
-In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebeurt op basis van bierkleur (EBC) en het Begin SG. De grens bij kleur ligt bij 30 EBC (ongeveer de kleur van Grolsch Amber). En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bierklassen-typen) is deze indeling schematisch weergegeven met een aantal voorbeelden van bieren.
+In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebeurt op basis van bierkleur (EBC) en het Begin SG. De grens bij kleur ligt bij 30 EBC (ongeveer de kleur van Grolsch Amber). En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bkg-schema) is deze indeling schematisch weergegeven met een aantal voorbeelden van bieren.
 
-```{r bierklassen-typen, fig.cap="Een aantal biertypes en hun klasse", echo=FALSE}
-knitr::include_graphics("images/bierklassen-typen.png", dpi = NA)
+```{r bkg-schema, fig.cap="Een aantal biertypes en hun klasse", out.width="100%"}
+# afkomstig uit resources/utils.R
+bkg.schema
 ```
 
-De laatste versie van de BKG Biertypenlijst (versie 2.3, Augustus 2019 telt 69 biertypen. In bijlage \@ref(biertype-lijst) kun je de laatste versie van de indeling van de biertypen in klassen zien.
+De laatste versie van de BKG Biertypenlijst (versie 2.3, Augustus 2019 telt 69 biertypen. In bijlage \@ref(biertype-tabel) kun je de laatste versie van de indeling van de biertypen in klassen zien.
 
 ## BJCP Bierstijlen
 

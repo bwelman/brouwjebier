@@ -3,15 +3,15 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Kennismaken met diverse aroma's en smaken
--  Hoe een bier te proeven en te beoordelen
--  Veel voorkomende smaakafwijkingen
--  Veel voorkomende brouwfouten
+-  Je maakt kennis met diverse aroma's en smaken in bier.
+-  Je leert hoe je een bier moet proeven en beoordelen.
+-  Je maakt kennis met een aantal veel voorkomende smaakafwijkingen.
+-  Je leert welke brouwfouten veel voorkomen en hoe je die moet vermijden.
 :::
 
 ## Aroma's en smaken
 
-Op de tong kun je alleen de basissmaken waarnemen zoals zoet, zout, zuur, bitter en umami. Deze smaken zijn goed oplosbaar in water waardoor je ze via het speeksel kunt proeven op de tong. Umami is de hartige smaak (bijv. tomatenpuree, ansjovis, Parmezaanse kaas). Ook kun je op de tong nog de smaak van olie en vet waarnemen.
+Op de tong kun je alleen de basissmaken waarnemen zoals *zoet*, *zout*, *zuur*, *bitter* en *umami*. Deze smaken zijn goed oplosbaar in water waardoor je ze via het speeksel kunt proeven op de tong. Umami is de hartige smaak (bijv. tomatenpuree, ansjovis, Parmezaanse kaas). Ook kun je op de tong nog de smaak van olie en vet waarnemen.
 
 Aroma’s zijn de stoffen die er voor zorgen dat een sinaasappel naar een sinaasappel smaakt en een tomaat naar een tomaat. Aroma's zijn vluchtig, dat wil zeggen dat ze snel de lucht invliegen. Het waarnemen van aroma's doe je met de de neus.
 
@@ -19,14 +19,14 @@ Het proeven van bier bestaat voor ongeveer 80% uit het waarnemen van aroma's en 
 
 Door Hans Wächtler van [bierbegeisterung.de](https://bierbegeisterung.de) is een *BIER_AROMABAUM* ontwikkeld. Een vertaalde versie is te zien in figuur \@ref(fig:bier-aromaboom). Hierin kun je zien van welke ingrediënten de diverse aroma's afkomstig zijn.
 
-```{r bier-aromaboom, fig.cap="Bier-Aromaboom", echo=FALSE}
-knitr::include_graphics("images/bier-aromaboom.png", dpi = NA)
+```{r bier-aromaboom, fig.cap="Bier-Aromaboom", out.width="80%"}
+knitr::include_graphics("images/bier-aromaboom.png")
 ```
 
 Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikkelde smaakwiel gebruikt.
 
-```{r smaakwiel, fig.cap="Smaakwiel voor bier", echo=FALSE}
-knitr::include_graphics("images/smaakwiel.png", dpi = NA)
+```{r smaakwiel, fig.cap="Smaakwiel voor bier", out.width="80%"}
+knitr::include_graphics("images/smaakwiel.png")
 ```
 
 ## Hoe moet je proeven?
@@ -51,11 +51,15 @@ Het kan zijn dat de geur en smaak van een bier afwijkt van hetgeen je verwacht h
 
 -  **Bitterheid**. Deze kan te veel of te weinig zijn, wat komt door een verkeerde hoeveelheid hop.
 -  **Kleur**. Deze kan te licht of te donker zijn, wat komt door een verkeerde hoeveelheid kleurmouten.
--  **Zoetheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema. Wanneer het bier te droog is, dan een te lange maltoserust bij 63^o^C. En wanneer het te zoet is, dan een te korte maltoserust bij 63^o^C.
+-  **Zoetheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema. Te droog bier kan veroorzaakt zijn door een te lange maltoserust bij 63^o^C. En het bier kan te zoet zijn door een te korte maltoserust bij 63^o^C.
 -  **Moutigheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema.
 -  **Schuim**. Bij te weinig schuim kan het zijn dat je een te lange eiwitrust bij 53^0^C hebt aangehouden. Ook te weinig bottelsuiker kan een oorzaak zijn. Wat tarwemout in de stort zorgt voor meer en beter schuim.
 
-Vervelender is het wanneer er ongewenste smaken in het bier zitten. Daar zijn er veel van, maar sommige ervan kom je regelmatig tegen en deze worden hierna besproken. Een aantal afwijkende smaken komen van nature in bier voor. Sommige daarvan zijn zelfs nodig in bepaalde bieren en sommige zijn eigenlijk kenmerken voor specifieke stijlen. Het worden pas ongewenste smaken wanneer ze in te hoge concentraties aanwezig zijn of niet bij de bierstijl passen. Daarnaast kunnen er ongewenste smaken zijn die afkomstig zijn van externe bronnen (besmetting, reinigingsmiddel, ...).
+Vervelender is het wanneer er ongewenste smaken in het bier zitten. Daar zijn er veel van, maar sommige kom je regelmatig tegen en deze worden hierna besproken.
+
+Een aantal afwijkende smaken komen van nature in bier voor. Sommige daarvan zijn zelfs nodig in bepaalde bieren en sommige zijn eigenlijk kenmerken voor specifieke stijlen. Het worden pas ongewenste smaken wanneer ze in te hoge concentraties aanwezig zijn of niet bij de bierstijl passen.
+
+Daarnaast kunnen er ongewenste smaken zijn die afkomstig zijn van externe bronnen (besmetting, reinigingsmiddel, ...).
 
 ### Aangebrand
 

@@ -3,9 +3,9 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Weten hoe je aan een goed recept kunt komen.
--  Een bestaand recept kunnen aanpassen aan de eigen installatie.
--  Zelf een eenvoudig recept kunnen opstellen.
+-  Je weet hoe je aan een goed recept kunt komen.
+-  Je kunt een bestaand recept aanpassen aan de eigen installatie.
+-  Je kunt zelf een eenvoudig recept opstellen aan de hand van gewenste kenmerken.
 :::
 
 ## Hoe verkrijg je een recept
@@ -32,9 +32,9 @@ Voor de eerste vier criteria vind je in de BKG biertypenlijst een waardenbereik 
 
 ### Begin SG
 
-Het begin SG geeft in feite aan hoeveel vergistbare stoffen in de wort zitten. Meestal wordt hiervoor als maat de dimensieloze relatieve dichtheid (zie ook \@ref(sg-dichtheid)) voor gebruikt. Zuiver water heeft een relatieve dichtheid van 1,000. Voor de bieren uit de BKG biertypenlijst loopt het begin SG van 1,028 tot 1,120.
+Het begin SG geeft in feite aan hoeveel vergistbare stoffen in de wort zitten. Meestal wordt hiervoor als maat de dimensieloze relatieve dichtheid (zie ook \@ref(sg-dichtheid)) gebruikt. Voor de bieren uit de BKG biertypenlijst loopt het begin SG van 1,028 tot 1,120.
 
-In hoofdstuk \@ref(rekenen) leer je hoe je een schatting van het begin SG kunt maken op basis van de moutstort, het brouwvolume en het brouwhuisrendement.
+In hoofdstuk \@ref(rekenen) vind je aanwijzingen hoe je een schatting van het begin SG kunt maken op basis van de moutstort, het brouwvolume en het brouwhuisrendement.
 
 Het begin SG is zowel bepalend voor het alcoholgehalte als de body van het bier. Bieren met een laag begin SG hebben doorgaans minder alcohol en body dan die met een hoog begin SG.
 
@@ -48,24 +48,33 @@ Om de gewenste doelkleur voor het bier te krijgen moet je de moutstort aanpassen
 
 ### Bitterheid en bitterheidsverhouding
 
-De bitterheid van een bier wordt uitgedrukt in EBU (IBU). In hoofdstuk \@ref(rekenen) wordt ook uitgelegd hoe je hiervoor een schatting kunt maken.
+In hoofdstuk \@ref(rekenen) vind je aanwijzingen hoe je een schatting van de bitterheid (EBU) kunt maken op basis van de hoeveelheid hop, het alfazuurpercentage hiervan en de kooktijd van de hop.
 
 Naast de bitterheid van de hop is ook de balans met de zoetheid van de mout van belang. Dit kan uitgedrukt worden met de bitterheidsverhouding (BV).
 
 $BV = \frac{EBU}{SG_{punten}}$
 
-De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in de volgende tabel.
+De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in tabel \@ref(tab:biertype-bv).
 
-Table: (\#tab:tabel-biertype-bv) Twee biertypes en hun bitterheidsverhouding (BV).
+```{r biertype-bv}
+biertype.bv <- data.frame(
+    bt = c("IPA (USA", "Weizen"),
+    og = c("1,056-1,070", "1,046-1,057"),
+    sgpt = c(63, 52),
+    ebu = c("40-70", "10-20"),
+    ebugem = c(55, 15),
+    bv = c("55/63 = 0,87", "15/52 = 0,29")
+)
 
-|Biertype |Begin SG   |Gemid. SGpunten|EBU  |Gemid. EBU|BV
-|:--------|:---------:|:-------------:|:---:|:--------:|:----------:|
-|IPA (USA)|1,056-1,070|63             |40-70|55        |55/63 = 0,87|
-|Weizen   |1,046-1,057|52             |10-20|15        |15/52 = 0,29|
+biertype.bv %>% 
+    kbl(col.names = c("Biertype", "Begin SG", "Gemid. SGpunten", "EBU", "Gemid. EBU", "BV"), 
+        caption = "Twee biertypes en hun bitterheidsverhouding (BV)") %>%
+    kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+```
 
 ### Alcoholpercentage {#recept-alcoholpercentage}
 
-Het volumepercentage alcohol (ABV) kan worden berekend uit het begin SG en het eind SG, zie \@ref(rekenen-alcoholpercentage). Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:
+Het volumepercentage alcohol (ABV = Alcohol By Volume) kan worden berekend uit het begin SG en het eind SG, zie \@ref(rekenen-alcoholpercentage). Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:
 
 + *Begin SG*. In het algemeen geldt hoe hoger het begin SG, hoe hoger het alcoholpercentage.
 + *Gistsoort*. Sommige gistsoorten zijn effectiever in het omzetten van suikers in alcohol dan andere gistsoorten.
@@ -76,7 +85,7 @@ Voor sommige biertypes zijn bepaalde ingrediënten essentieel. Ook hiervoor bied
 
 ## Aanpassen van een bestaand recept
 
-Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen. Vaak moet het bottelvolume gewijzigd worden in het volume voor je eigen installatie. Hierdoor moeten ook de hoeveelheden mout, water, hop  en soms gist worden aangepast. Gebruik van brouwsoftware is ook hier gemakkelijk omdat deze vaak over schalingsmogelijkheden beschikken en automatisch alle hoeveelheden aanpassen aan het nieuwe bottelvolume.
+Wanneer je volgens een bestaand recept van iemand anders wilt brouwen, kan het zijn dat je dit recept wat aan moet passen. Vaak moet het bottelvolume gewijzigd worden in het volume voor je eigen installatie. En ook kunnen de verliezen en brouwhuisrendement anders zijn. Hierdoor moet je de hoeveelheden mout, water, hop  en soms gist aanpassen. Gebruik van brouwsoftware is ook hier gemakkelijk omdat deze vaak over schalingsmogelijkheden beschikt en daardoor automatisch alle hoeveelheden kan aanpassen.
 
 Het kan ook zijn dat je een van de ingrediënten wilt wijzigen, bijvoorbeeld omdat een bepaald ingrediënt niet meer voorradig of te koop is, of omdat je wat anders nog op voorraad hebt. Op internet zijn hiervoor substitutielijsten te vinden.
 
@@ -113,7 +122,7 @@ Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doe
     +  diacetylrust nodig?
     +  lagering nodig?
 6.  Bepaal welke punten van belang zijn voor de afhandeling aan het eind.
-    +  klaring (natuurlijk, met hulpmiddelen)
+    +  klaring (natuurlijk of met hulpmiddelen)
     +  verpakken
        *  bottelen (bottelsuiker, bottelgist, hergistingstemperatuur en -tijd)
        *  fust (koolzuurdruk en verzadigingsmethode)
@@ -124,21 +133,17 @@ Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samen
 
 ### Voorbeeld: Weizen
 
-Je wilt een recept samenstellen voor het maken van 20 liter Duitse Weizen. Om wat speelruimte te hebben neem je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst.
+Je wilt een recept samenstellen voor een Duitse Weizen. Om wat speelruimte te hebben neem je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst. Een Duitze Weizen moet voor 50% - 70% uit tarwemout bestaan. Daar moet je een keuze uit maken.
 
--  Begin SG: 1052
--  Alcoholpercentage (ABV): 5,3%
--  Kleur: 15 EBC
--  Bitterheid: 12 EBU
--  Kooktijd: 75 min
--  Bitterheidsverhouding = 12/52 = 0,23
-
-Alleereerst de moutsamenstelling. Een Duitze Weizen moet uit ongeveer 70% tarwemout bestaan. Je kiest voor een verdeling van 65% tarwemout en 35% pilsmout.
-
-In \@ref(vb2-mout) is berekend dat je dan 3111 gram tarwemout en 1702 gram pilsmout nodig hebt. Totaal dus 4813 gram.
-
-Als hop wordt gekozen voor een Zuid-Duitse hop: Hallertau Perle met 7,9% alfazuur als bitterhop. In \@ref(vb2-ebu) is berekend dat je 12 gram van deze hop dodig hebt.
-
-Als gist wordt gekozen voor een korrelgist welke geschikt is voor tarwebieren. Fermentis SafAle WB-06 is een zeer geschikte gist voor bieren op tarwebasis.
++ Begin SG: 1046–1057 => keuze 1052
++ Alcoholpercentage (ABV): 4,5-5,9% => keuze 5,2%
++ Kleur: 6-25 EBC => keuze 15 EBC
++ Bitterheid: 10-20 EBU => keuze 15 EBU
++ Kooktijd: 75 min
++ Bitterheidsverhouding = 15/52 = 0,29
++ Ingrediënten:
+  - Mout: 65% tarwemout, 35% pilsmout
+  - Hop: Zuid-Duitse hop, bijvoorbeeld Hallertau Perle
+  - Gist: korrelgist geschikt voor tarwebieren, bijvoorbeeld Fermentis SafAle WB-06
 
 Voor het maischschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.

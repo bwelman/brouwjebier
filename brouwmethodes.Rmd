@@ -3,23 +3,23 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Overzicht brouwmethodes
--  Kennismaking met verschillende brouwinstallaties
+-  Je leert een aantal brouwmethodes kennen.
+-  Je maakt kennis met een paar verschillende brouwinstallaties.
 :::
 
 ## Methodes
 
 ### Stijgende infusie
 
-Dit is de methode die het meest wordt toegepast. Hierbij wordt het maischwater verwarmd tot de inmaischtemperatuur. Daarna wordt het maischschema gevolgd, waarbij het beslag een steeds hogere temperatuur krijgt.
+Dit is de methode die het meest wordt toegepast. Hierbij wordt het maischwater verwarmd tot de inmaischtemperatuur. Daarna wordt het maischschema gevolgd, waarbij het beslag na de rusttijd tot de volgende temperatuur wordt opgewarmd.
 
 ### Dalende infusie
 
-Dit is een van oorsprong Engelse methode, waarbij tijdens het maischen maar één temperatuur, $\pm 65^oC$ wordt aangehouden. Ook hierbij wordt het maischwater verwarmd tot de inmaischtemperatuur. Daarna wordt de mout gestort waardoor de temperatuur daalt tot de maischtemperatuur, welke vervolgens een tijdlang (ca. anderhalf uur) wordt aangehouden.
+Dit is een van oorsprong Engelse methode, waarbij tijdens het maischen maar één temperatuur, $\pm 65^oC$ wordt aangehouden. Hierbij wordt het maischwater verwarmd tot iets boven de inmaischtemperatuur. Daarna wordt de mout gestort waardoor de temperatuur daalt tot de maischtemperatuur, welke vervolgens een tijdlang (ca. anderhalf uur) wordt aangehouden. Brouwsoftware kan voor je uitrekenen tot welke temperatuur je het maischwater moet verwarmen voordat je de mout stort.
 
 ### Decoctie
 
-Hierbij wordt een deel van het beslag afgenomen en afzonderlijk aan de kook gebracht en daarna weer aan de hoofdmaisch toegevoegd. Deze handeling kun je eventueel nog 1-2 keer herhalen. Dit wordt een 1-traps, 2-traps of 3-traps decoctie genoemd. Het is een ingewikkelder methode, die een hoger rendement oplevert en specifieke smaken aan het bier kan geven.
+Hierbij wordt een deel van het beslag afgenomen en afzonderlijk aan de kook gebracht en daarna weer aan de hoofdmaisch toegevoegd. Deze handeling kun je eventueel nog 1-2 keer herhalen. Dit wordt een 1-traps, 2-traps of 3-traps decoctie genoemd. Het is een ingewikkelder methode, die een hoger rendement oplevert en specifieke smaken aan het bier kan geven. Ook hier kan brouwsoftware helpen.
 
 ## Installaties
 
@@ -31,8 +31,8 @@ Dit is een gangbare methode bij de thuisbrouwer waarbij je werkt met twee pannen
 
 ### BIAB (Brew In A Bag)
 
-```{r biab, fig.cap="BIAB - Brouwen in een zak.", echo=FALSE}
-knitr::include_graphics("images/biab.png", dpi = NA)
+```{r biab, fig.cap="BIAB - Brouwen in een zak.", out.width="40%"}
+knitr::include_graphics("images/biab.png")
 ```
 
 Dit staat voor brouwen in een zak. Voor deze brouwmethode heb je maar 1 pan nodig en een (gaasachtige) zak. Het is een gemakkelijke en goedkope oplossing en zeer geschikt voor het maken van kleine hoeveelheden bier. De werkwijze is als volgt:
@@ -54,16 +54,16 @@ Aandachtspunten:
 
 ### RIMS
 
-```{r rims, fig.cap="RIMS - schematische weergave.", echo=FALSE}
-knitr::include_graphics("images/rims.png", dpi = NA)
+```{r rims, fig.cap="RIMS - schematische weergave.", out.width="40%"}
+knitr::include_graphics("images/rims.png")
 ```
 
 RIMS is een afkorting van *Recirculating Infusion Mash System*. Hierbij wordt het maischwater continu rondgepompt door de mout. In de maischpan zit onderin een filterplaat of valse bodem, waardoor het mout in de maischpan blijft. Tijdens het rondpompen wordt het water verwarmd. Aan de bovenkant van de maischpan wordt het water via een verdeler op de mout gespoeld.
 
 ### HERMS
 
-```{r herms, fig.cap="HERMS - schematische weergave.", echo=FALSE}
-knitr::include_graphics("images/herms.png", dpi = NA)
+```{r herms, fig.cap="HERMS - schematische weergave.", out.width="50%"}
+knitr::include_graphics("images/herms.png")
 ```
 
 HERMS is een afkorting van *Heat Exchange Recirculating Mash System* en is een variant van een RIMS. Bij dit systeem is er geen directe verwarming van het beslag, wat aanbranden voorkomt. De wort in de maischpan stroomt door een warmtewisselaar in een tank met heet water waarna het weer terug gaat naar de maischketel en door het filterbed met mout stroomt. je hoeft op deze manier niet te roeren en krijgt zeer heldere wort. Het hete water kan in een later stadium als spoelwater fungeren.\pagebreak

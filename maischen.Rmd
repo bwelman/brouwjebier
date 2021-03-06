@@ -3,12 +3,12 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Weten wat de rol is van enzymen.
--  De temperatuur- en pH afhankelijkheid van enzymen kennen.
--  De alfa-amylase kunnen beschrijven
--  De beta-amylase kunnen beschrijven.
--  De invloed van tijd en temperatuur bij de maischstappen kennen.
--  Een maisschema kunnen  opstellen.
+-  Je weet wat de rol is van enzymen.
+-  Je kent de temperatuur- en pH afhankelijkheid van enzymen.
+-  Je kunt aangeven wat er bij de alfa-amylase gebeurt.
+-  Je kunt aangeven wat er bij de beta-amylase gebeurt.
+-  Je weet wat de invloed is van de tijdsduur en de temperatuur bij de maischstappen.
+-  Je kunt een maisschema opstellen.
 :::
 
 ## Enzymen
@@ -22,27 +22,29 @@ Een *enzym* is een eiwit dat als katalysator fungeert bij een bepaalde chemische
 De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op *ase* en wordt voorafgegaan door het begindeel van de naam van het substraat. Ook is een enzym reactie- en substraatspecifiek, dat wil zeggen dat een enzym slechts één type reactie katalyseert bij een bepaald substraat. Een paar voorbeelden:
 
 
-```{r tabel-enzymen, echo=FALSE}
+```{r tabel-enzymen}
 mono <- data.frame(Substraat = c("maltose (moutsuiker)", "amylose (zetmeel)", "proteïne (eiwit)", "cellulose"), 
 				   Enzym = c("maltase", "amylase", "proteinase", "cellulase"))
-mono %>% kbl(caption = "Substraten en hun splitsingsenzymen") %>% kable_styling()
+mono %>% 
+	kbl(caption = "Substraten en hun splitsingsenzymen") %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
 Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Een enzym heeft één optimale temperatuur en één optimale pH-waarde. In \@ref(maischproces) wordt hier verder op ingegaan. En er zijn ook stoffen die de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
 
 **Temperatuur**
 
-Net als bij andere chemische reacties verlopen reacties waarbij enzymen betrokken zijn sneller wanneer de temperatuur hoger wordt. Echter bij een te hoge temperatuur kunnen enzymen degenereren waardoor ze niet meer werken. En deze degeneratie kan niet meer ongedaan gemaakt worden. De enzymactiviteit stijgt dus bij het toenemen van de temperatuur tot een maximale waarde en neemt daana weer af, zie figuur \@ref(fig:enzym-temp).
+Net als bij andere chemische reacties verlopen reacties waarbij enzymen betrokken zijn sneller wanneer de temperatuur hoger wordt. Echter bij een te hoge temperatuur kunnen enzymen degenereren waardoor ze niet meer werken. En deze degeneratie kan niet meer ongedaan gemaakt worden. De enzymactiviteit stijgt dus bij het toenemen van de temperatuur tot een maximale waarde en neemt daana weer af, zie figuur \@ref(fig:enzymactiviteit).
 
-```{r enzym-temp, fig.cap="Verband tussen enzymactiviteit en temperatuur", echo=FALSE}
-knitr::include_graphics("images/enzym-temp.png", dpi = NA)
+```{r enzymactiviteit, fig.cap="Verband tussen enzymactiviteit en temperatuur", out.width="40%"}
+knitr::include_graphics("images/enzymactiviteit.png")
 ```
 
 Elk enzym kent een dergelijk verloop, maar deze is voor elk enzym verschillend, evenals de optimale temperatuur.
 
 **pH**
 
-De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als bij de temperatuur in figuur \@ref(fig:enzym-temp) is er voor de pH ook een bepaalde pH-waarde waarbij de enzymactiviteit optimaal is en een gebied daaromheen waarbij die activiteit minder is. En voor elk enzym is dat weer verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
+De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als bij de temperatuur in figuur \@ref(fig:enzymactiviteit) is er voor de pH een soortgelijke grafiek te maken met een bepaalde pH-waarde waarbij de enzymactiviteit optimaal is en een gebied daaromheen waarbij die activiteit minder is. En voor elk enzym is dat weer verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
 
 **Concentratie substraat**
 
@@ -101,34 +103,15 @@ Alpha-amylaserust: zorgt voor volmondiger bier.
 
 ### Samenvatting {#maischen-samenvatting}
 
-In de volgende tabel zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
+In figuur \@ref(fig:maischtabel) zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
 
+```{r maischtabel, fig.cap="Overzicht maischstappen, enzymen, pH en invloed temperatuur en rusttijd.", out.width="100%"}
+knitr::include_graphics("images/maischtabel.png")
+```
 
-|                  |Eiwitrust       |Maltoserust             |Versuikeringsrust       |
-|:-----------------|:---------------|:-----------------------|:-----------------------|
-|Enzym             |Proteinase      |beta-amylase            |alpha-amylase           |
-|pH                |4,2-5,3         |5,0-5,6                 |5,3-5,8                 |
+En in figuur \@ref(fig:infusie-3staps) zie je een grafiek van het temperatuurverloop tegen de tijd bij een 3-staps infusieproces.
 
-
-|Temperatuur (^o^C)|50 (44-55)      |62 (55-66)              |72 (65-75)              |
-|------------------|----------------|------------------------|------------------------|
-|lagere temp.      |\+ klaring      |\+ vergistingsgraad     |\+ vergistingsgraad     |
-|                  |\- schuim       |\- onvergistbare suikers|\- onvergistbare suikers|
-|                  |\- volmondigheid|                        |                        |
-|hogere temp.      |\- klaring      |\- vergistingsgraad     |\- vergistingsgraad     |
-|                  |\+ schuim       |\+ onvergistbare suikers|\+ onvergistbare suikers|
-|                  |\+ volmondigheid|                        |                        |
-
-|Rusttijd (min.)   |10-30           |15-45                   |15-45                   |
-|------------------|----------------|------------------------|------------------------|
-|kortere tijd      |\+ klaring      |\- vergistingsgraad     |\- vergistingsgraad     |
-|                  |\+ schuim       |\+ onvergistbare suikers|\+ onvergistbare suikers|
-|                  |\- volmondigheid|                        |                        |
-|langere tijd      |\- klaring      |\+ vergistingsgraad     |\+ vergistingsgraad     |
-|                  |\+ schuim       |\- onvergistbare suikers|\- onvergistbare suikers|
-|                  |\- volmondigheid|                        |                        |
-
-```{r infusie-3staps, echo=FALSE, fig.align="center", out.width="70%", fig.cap="Voorbeeld maischstappen in een infusieproces"}
+```{r infusie-3staps, fig.cap="Voorbeeld maischstappen in een infusieproces", out.width="100%"}
 
 infusie3 <- tibble(tijd = c(0, 30,45,57,97,108,133,138,143),
 					temp = c(20,50,50,62,62,72,72,78,78))
@@ -137,7 +120,7 @@ infusieplot <- ggplot(data = infusie3, aes( x = tijd, y = temp, label=temp)) +
 	geom_text(size=3, vjust= -0.8, hjust = 1) +
 	labs(title = "Voorbeeld infusieproces (3-staps)", x = "Tijd (min)", y = "Temperatuur (C)") +
 	theme_bw() +
-	scale_x_continuous(breaks = seq(0,150,10)) + scale_y_continuous(breaks = seq(0,90,10)) +
+	scale_x_continuous(breaks = seq(0,150,10)) + scale_y_continuous(breaks = seq(0,100,10)) +
 	annotate("text", x=30, y=48, label = "proteinase", hjust = 0) +
 	annotate("text", x=60, y=60, label = "beta-amylase", hjust = 0) +
 	annotate("text", x=110, y=70, label = "alpha-amylase", hjust = 0)

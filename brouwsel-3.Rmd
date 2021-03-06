@@ -14,7 +14,7 @@
 
 **Voorbereiding**
 
--  In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
+-  In bijlage \@ref(app-bkgtabel) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
 -  Zoek uit welke stappen in het maisch- en vergistingsproces voor een bepaalde smaak kunnen zorgen.
 -  Maak een handmatige berekening van de hoeveelheid maisch- en spoelwater.
 -  Stel een recept op en laat het beoordelen door de mentor.

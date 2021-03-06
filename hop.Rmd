@@ -4,16 +4,15 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Weten waarom hop bij de bierbereiding wordt gebruikt.
--  Weten wat er met de hop gebeurt tijdens het koken.
--  Verschil kennen tussen bitterhoppen en aromahoppen.
--  Weten wat alfazuurpercentage inhoudt.
--  Weten op welke momenten je hop toevoegt en wat het effect van een bepaald moment is.
+-  Je leert waarom hop bij de bierbereiding wordt gebruikt.
+-  Je leert wat er met de hop gebeurt tijdens het koken.
+-  Je maakt kennis met het alfazuurpercentage van hop.
+-  Je leert het verschil kennen tussen bitterhoppen en aromahoppen en de momenten waarop deze toegevoegd worden.
 :::
 
 ## Wat zit er in hop
 
-De vrouwelijke bloeiwijzen van deze klimplant worden gebruikt bij de bierbereiding. Uit deze bloemen ontwikkelen zich de karakteristieke *hopbellen*. Hierin zitten kleine gele korreltjes *lupuline*, het werkzame bestanddeel uit hop dat bier langer houdbaar maakt, voor de bittere smaak zorgt en voor het aroma.
+De vrouwelijke bloeiwijzen van deze klimplant worden gebruikt bij de bierbereiding. Uit deze bloemen ontwikkelen zich de karakteristieke *hopbellen*. Hierin zitten kleine gele korreltjes, *lupuline* geheten, het werkzame bestanddeel uit hop dat bier langer houdbaar maakt, voor de bittere smaak zorgt en voor het aroma.
 
 In de lupuline zitten
 
@@ -28,7 +27,7 @@ De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo
 Tijdens het koken (60-90 minuten) veranderen de alfazuren in *iso-alfazuren*. En het zijn deze iso-alfazuren die voor de bitterheid van het bier zorgen.
 
 :::{.tip}
-**Isomeren** zijn stoffen die hetzelfde aantal en hetzelfde soort atomen bevatten: hun molecuulformules zijn dus gelijk. Ze verschillen in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
+**Isomeren** zijn stoffen die hetzelfde aantal en hetzelfde soort atomen bevatten. Hun molecuulformules zijn dus gelijk. Ze verschillen in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
 :::
 
 Slechts een gedeelte van de alfazuren wordt omgezet in iso-alfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
@@ -40,20 +39,24 @@ Slechts een gedeelte van de alfazuren wordt omgezet in iso-alfazuren. De hoeveel
 -  SG van de vloeistof
 -  pH
 
-Een maat om de bitterheid te berekenen is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
+Een maat om de bitterheid in uit te drukken is de **EBU** (European Bitter Unit) en de in Amerika gebruikte **IBU** (International Bitter Unit). Deze eenheden zijn in feite hetzelfde, maar verschillen in de analysemethode waardoor er toch kleine verschillen kunnen zijn.
 
-$$\text{1 EBU = 1 IBU = 1 mg isoalfazuur per liter bier = 1 ppm isoalfazuur}$$
+$$\text{1 EBU = 1 IBU = 1 mg iso-alfazuur per liter bier = 1 ppm iso-alfazuur}$$
 
 In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden.
 
-Table: (\#tab:tabel-bitterheid) Ervaringen bitterheid en EBU waarde
-
-|Bitterheid    |EBU / IBU |
-|:-------------|:---------|
-|Weinig bitter | 5 -20    |
-|Bitterig      | 20-30    |
-|Bitter        | 30-40    |
-|Zeer bitter   | > 40     |
+```{r tabel-bitterheid}
+df <- tribble(
+	~Bitterheid, ~EBU,
+	"Weinig bitter", "5-20",
+	"Bitterig", "20-30",
+	"Bitter", "30-40",
+	"Zeer Bitter", "> 40"
+)
+df %>% 
+	kbl(caption = "Ervaringen bitterheid") %>%
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+```
 
 Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.\newpage
 
@@ -63,8 +66,8 @@ Hop kun je kopen als bloemen (bellen) en pellets (vermalen en samengeperste korr
 
 Andere vormen die je tegenwoordig kunt kopen zijn: hopolie al dan niet geisomeriseerd) en natte hop in blik. Deze bevatten meer zuren en oliën.
 
-```{r hop-bloemen-pellets, fig.cap="Hop: pellets en bloemen", echo=FALSE}
-knitr::include_graphics("images/hop.png", dpi = NA)
+```{r hop-bloemen-pellets, fig.cap="Hop: pellets en bloemen", out.width="40%"}
+knitr::include_graphics("images/hop.png")
 ```
 
 ## Hopsoorten
@@ -75,8 +78,8 @@ Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van el
 
 Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. Een andere mogelijkheid is om van een *hopspider* gebruik te maken, die je aan de rand van de ketel hangt.
 
-```{r ihop-zakje-spider, fig.cap="Links een hopzakje, rechts een hopspider.", echo=FALSE}
-knitr::include_graphics("images/hop-zakje-spider.png", dpi = NA)
+```{r ihop-zakje-spider, fig.cap="Links een hopzakje, rechts een hopspider.", out.width="40%"}
+knitr::include_graphics("images/hop-zakje-spider.png",)
 ```
 
 De momenten waarop je hop toevoegt hangen af van het doel:
@@ -86,7 +89,7 @@ De momenten waarop je hop toevoegt hangen af van het doel:
 
 In figuur \@ref(fig:hoprendement-kooktijd) is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
-```{r hoprendement-kooktijd, echo=FALSE, fig.align="center", out.width="70%", fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050"}
+```{r hoprendement-kooktijd, fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050", out.width="80%"}
 mytb <- tibble(kooktijd = c(seq(0,60,3), 70,80,90, 120, 150), dhr = (1.65*0.000125^.050) * (1-exp(-0.04*kooktijd))/4.15)
 ggplot(data = mytb, aes(x = kooktijd, y = dhr)) +
 	geom_line(size = 1.2, colour = "darkgreen") +
@@ -97,14 +100,14 @@ ggplot(data = mytb, aes(x = kooktijd, y = dhr)) +
 
 Eenzelfde soort gedrag treedt op bij het vervluchtigen van de hopoliën. Ook hier een snel begin gevolgd door een afvlakking. De temperatuur waarbij deze oliën vervluchtigen is in het algemeen veel lager dan 100^o^C, voor sommige begint dat al bij 60^o^C. Wanneer je ze dan 10 minuten laat meekoken is al bijna de helft van de beginconcentratie verdwenen. Wanneer je veel hoparoma en -smaak wilt kun je deze beter na het koken toevoegen, via vlamuit hoppen of via koud hoppen.
 
-**Vlamuit hoppen**
+### Vlamuit hoppen
 
 Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtigen waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Overweeg om wat minder hop te nemen dan bij het koken.\pagebreak
 
-**Koudhoppen (Dry hopping)**
+### Koudhoppen (Dry hopping)
 
 Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of desinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is. Wees er wel op bedacht dat je op deze wijze ook wat meer plantaardige smaken toevoegt.
 
-:::{.tip}
+:::{.important}
 Koudhoppen geeft niet hetzelfde effect als Vlamuit hoppen. Denk dus goed na of je een van beide of beide wilt doen.
 :::

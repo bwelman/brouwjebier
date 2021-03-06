@@ -4,13 +4,12 @@
 **Doelstellingen**
 
 -  Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
--  Kennismaken met meerdere moutsoorten en welk effect een moutsoort op het bier heeft.
--  Kennismaken met meerdere maischstappen en weten wat elke maischstap inhoudt.
--  pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
--  Verdere kennismaking met apparatuur.
--  Je leert de belangrijkste kenmerken van dit biertype.
--  Meer zelfstandigheid tijdens het brouwproces.
--  Je leert de belangrijkste kenmerken van het te brouwen biertype.
+-  Je maakt kennis met meerdere moutsoorten en de effecten hiervan op het bier.
+-  Je gaat met meerdere maischstappen werken en weet wat elke maischstap inhoudt.
+-  Je kunt de pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
+-  Je leert de apparatuur nog beter kennen.
+-  Je maakt kennis met de belangrijkste kenmerken van het biertype.
+-  Er wordt meer zelfstandigheid tijdens het brouwproces van je verwacht.
 :::
 
 ## Inleiding {#b2-inleiding}
@@ -19,13 +18,13 @@ Net als het eerste brouwsel wordt het recept weer verstrekt.
 
 De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en de achtergronden van deze maischstappen.
 
-Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en het te gebruiken water op de juiste waarde moeten brengen.
+Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en eventueel het water op de juiste waarde moeten brengen.
 
 Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor.
 
 **Voorbereiding (huiswerk)**
 
-In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. \pagebreak
+In bijlage \@ref(app-bkgtabel) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. \pagebreak
 
 ## Recept Dubbel {#b2-recept}
 

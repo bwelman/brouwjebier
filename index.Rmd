@@ -14,6 +14,10 @@ geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"
 cover-image: images/cover.png
 ---
 
+```{r}
+source("resources/utils.R")
+```
+
 :::{.welcome}
 # Welkom {.unnumbered}
 

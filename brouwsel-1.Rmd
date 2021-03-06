@@ -23,7 +23,7 @@ Sluit af met een evaluatie.
 
 **Voorbereiding (huiswerk)**
 
-In bijlage \@ref(bijlage-biertypen) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
+In bijlage \@ref(app-bkgtabel) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
 
 \newpage
 ## Recept Tripel {#b1-recept}

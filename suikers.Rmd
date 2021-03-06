@@ -3,11 +3,11 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Het verschil kennen tussen vergistbare en overgistbare suikers.
--  De indeling van suikers in categorieën kennen.
--  De rol van de verschillende soorten suikers kennen.
--  Welke suikers in de wort zitten.
--  Hoe en waardoor de verschillende suikers worden afgebroken.
+-  Je kent het verschil tussen vergistbare en overgistbare suikers.
+-  Je kent de indeling van suikers in verschillende soorten.
+-  Je kent de rol van de verschillende soorten suikers.
+-  Je weet welke soorten suikers in de wort zitten.
+-  Je weet hoe en waardoor de verschillende suikers worden afgebroken.
 :::
 
 ## Wat zijn suikers?
@@ -18,22 +18,26 @@ Suikers zijn koolhydraten die zoet smaken. En koolhydraten zijn verbindingen van
 
 Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)_6$, maar ze verschillen in struktuur en daardoor ook in eigenschappen. Zo is fructose meer dan twee keer zoeter dan glucose.
 
-```{r tabel-mono, echo=FALSE}
+```{r tabel-mono}
 mono <- data.frame(Naam = c("Glucose", "Fructose", "Galactose"), 
 				   Alias = c("Druivensuiker, Dextrose", "Vruchtensuiker", ""))
-mono %>% kbl(caption = "Monosachariden") %>% kable_styling(full_width = FALSE)
+mono %>% 
+	kbl(caption = "Monosachariden") %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
 **Disachariden**
 
 Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De molekuulformule is $C_{12}(H_2O)_{11}$. Een bepaald enzym kan voor een splitsing in de monosachariden zorgen.
 
-```{r tabel-di, echo=FALSE}
+```{r tabel-di}
 di <- data.frame(Naam = c("Sacharose", "Maltose", "Lactose"), 
 				 Alias = c("Sucrose", "Moutsuiker", "Melksuiker"), 
 				 Verbinding = c("Glucose ~ Fructose", "Glucose ~ Glucose", "Glucose ~ Galactose"), 
 				 Splitsingsenzym = c("Saccharase", "Maltase", "Lactase"))
-di %>% kbl(caption = "Disachariden") %>% kable_styling(full_width = FALSE)
+di %>% 
+	kbl(caption = "Disachariden") %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
 Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose* of *sucrose*.
@@ -82,12 +86,12 @@ Van belang om te onthouden is dat alle vergistbare suikers worden afgebroken tot
 
 **Vergistbare suikers**
 
--  Ontstaan vooral tijdens Beta-Amylase bij 62^o^ C.
+-  Ontstaan vooral tijdens Beta-Amylase bij 62^o^C.
 -  Zorgen voor alkohol in het bier.
 
 **Onvergistbare suikers**
 
--  Ontstaan vooral tijdens Alpha-Amylase bij 72^o^ C.
+-  Ontstaan vooral tijdens Alpha-Amylase bij 72^o^C.
 -  Zorgen voor body in het bier.
 
 

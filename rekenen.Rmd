@@ -3,43 +3,46 @@
 :::{.chapterintro}
 **Doelstellingen**
 
--  Kennis van de volgende eenheden:
-    +  Extractgehalte (Brix, Plato, SG/Dichtheid)
+-  Je weet wat de volgende begrippen inhouden:
+    +  Extractgehalte (Brix, Plato, SG, Dichtheid)
     +  Bitterheid (IBU)
     +  Kleur (EBC)
--  Berekening hoeveelheid mout, water (maisch- en spoelwater) en hop.
+-  Je kunt globaal berekenen hoeveel mout, water (maisch- en spoelwater) en hop je nodig hebt.
 :::
 
 ## Extractgehalte
 
-Met *extract* wordt bedoeld de totale hoeveelheid van alle opgeloste stoffen in de wort of bier. Het extractgehalte in de wort voor aanvang van de vergisting wordt *stamwort* genoemd en wordt uitgedrukt in *graden Plato*. Voor commerciële brouwers is het stamwort een belangrijke waarde, want hierover wordt de te betalen belasting berekend.
+Met *extract* wordt bedoeld de totale hoeveelheid van alle opgeloste stoffen in de wort of bier. Het extractgehalte in de wort voor aanvang van de vergisting wordt **stamwort** genoemd en wordt uitgedrukt in *graden Plato*. Voor commerciële brouwers is het stamwort een belangrijke waarde, want hierover wordt de te betalen belasting berekend.
 
-Na vergisting van de wort zijn alleen de vergistbare suikers in alkohol omgezet, er zit dus nog "restextract" in het bier. Dit is wat de *body* van het bier genoemd wordt.
+Na vergisting van de wort zijn alleen de vergistbare suikers in alkohol omgezet, er zit dus nog *restextract* in het bier. Dit is wat de **body** van het bier genoemd wordt.
 <!--- http://www.belgium-beer.be/page3.html -->
 
 Het meten van het extractgehalte is voor de thuisbrouwer om vele redenen belangrijk:
 
 -  Het stamwort bepaalt mede de hoeveelheid alkohol in het bier.
--  Aan de gemeten SG waarde van de vloeistof aan de uitloop van het hevelfilter kun je zien of er nog gespoeld moet worden. (De ideale SG waarde hier moet liggen tussen 1.010 en 1.020)
+-  Aan de gemeten SG waarde van de vloeistof bij de uitloop van het hevelfilter kun je zien of er nog gespoeld moet worden. (De ideale SG waarde hier moet liggen tussen 1.010 en 1.020)
 -  Aan de gemeten SG waarde in de vergistende vloeistof kun je zien of de vergisting is afgelopen.
 
-Er zijn verschillende eenheden die iets zeggen over het extractgehalte: Plato, Brix en SG/Dichtheid.
+Er zijn verschillende eenheden die iets zeggen over het extractgehalte: Plato, Brix en SG (Dichtheid).
 
 ### Plato en Brix
 
-Plato en Brix zijn beide eenheden om het massapercentage extract in een vloeistof uit te drukken. De definities voor beide zijn hetzelfde:
+Plato en Brix zijn beide eenheden om het massapercentage extract in een vloeistof in uit te drukken. De definities voor beide zijn hetzelfde:
 
 $$\text{1 graad Plato/Brix = 1 gram sucrose (sacharose) in 100 gram oplossing}$$
 
 De meetmethoden voor Plato en Brix zijn verschillend. Zo wordt Plato meestal met een hydrometer gemeten en Brix met een refractometer. In de professionele brouwwereld wordt als meeteenheid het aantal graden Plato gebruikt. Tot drie decimalen is dit hetzelfde als Brix.
 
-Wanneer een oplossing alleen maar sucrose bevat zal de Plato- en Brixmeting hetzelfde getal opleveren. Echter wortextract is geen 100% sucrose-oplossing, het bevat ook andere stoffen, waardoor in de praktijk de waarden niet hetzelfde zijn. De verschillen zijn klein. veel gebruikte omrekenformules zijn:
+Wanneer een oplossing alleen maar sucrose bevat zal de Plato- en Brixmeting hetzelfde getal opleveren. Echter wortextract is geen 100% sucrose-oplossing, het bevat ook andere stoffen, waardoor in de praktijk de waarden niet hetzelfde zijn. De verschillen zijn klein. Veel gebruikte omrekenformules zijn:
 
-$$\text{Brix} = 1,04 \times \text{Plato} \Leftrightarrow \text{Plato} = \text{Brix } / 1,04$$
+$$\text{Brix} = 1,04 \times \text{Plato}$$
+$$\text{Plato} = \text{Brix } / 1,04$$
 
 ### SG/Dichtheid {#sg-dichtheid}
 
-De *dichtheid* of *soortelijke massa* van een stof is de massa (kg) gedeeld door volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Dit is de grootste dichtheid bij een standaard atmosferische druk (1013,25 hectoPascal = 1013,25 millibar = 1 atm). Gemakshalve wordt voor de dichtheid van water uitgegaan van 1000 kg/m3 = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
+De *dichtheid* of *soortelijke massa* van een stof is de massa (kg) gedeeld door het volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water uitgegaan van
+
+$$\text{dichtheid water} = 1000 \ kg/m3 = 1 \  kg/lit = 1000 \ gr/lit = 1 \ gr/ml$$
 
 De *relatieve dichtheid* of *Specific Gravity (SG)* van een vloeistof is de dichtheid van een vloeistof gedeeld door de dichtheid van water, beide gemeten bij dezelfde temperatuur en druk. De relatieve dichtheid is daardoor een getal zonder eenheid.   
 
@@ -48,18 +51,26 @@ $$\text{relatieve dichtheid vloeistof (SG)} = \frac{\text{dichtheid vloeistof}}{
 Bij 4^o^C en 1 atm. geldt dan ook: relatieve dichtheid water = 1.
 
 :::{.tip}
-Vaak wordt ook de term *soortelijk gewicht (SG)* gebruikt om de soortelijke massa aan te geven. Dit is een verouderde foutieve term. Massa is niet hetzelfde als gewicht. Massa is een stofeigenschap die onveranderlijk is. Gewicht is de kracht die de massa uitoefent op de ondergrond onder invloed van de zwaartekracht en wordt uitgedrukt in Newton (N). Deze kracht is niet overal op aarde hetzelfde. Een massa van 1 kg heeft in Nederland een gewicht van ongeveer 9,81N, aan de polen is dit 9,83N en aan de evenaar 9,78N. In het dagelijks leven wordt dit vaak afgerond op 10N.
+Vaak wordt ook de term **soortelijk gewicht (SG)** gebruikt om de soortelijke massa aan te geven. Dit is een verouderde foutieve term. Massa is niet hetzelfde als gewicht.
+
++ Massa is een onveranderlijke stofeigenschap en wordt uitgedrukt in kg.
++ Gewicht is de kracht die de massa uitoefent op de ondergrond onder invloed van de zwaartekracht en wordt uitgedrukt in Newton (N). Deze kracht is niet overal op aarde hetzelfde.
+
+Een massa van 1 kg heeft in Nederland een gewicht van ongeveer 9,81N, aan de polen is dit 9,83N en aan de evenaar 9,78N. In het dagelijks leven wordt dit vaak afgerond op 10N.
 
 Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te weten wat daar precies mee bedoeld wordt. In dit cursusboek staat SG voor relatieve dichtheid.
 :::
 
 \pagebreak
-De (relatieve) dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is nl. bij 20^o^C geijkt. Met behulp van bijgeleverde tabellen moet je dan een correctie aanbrengen.
+De (relatieve) dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is namelijk bij 20^o^C geijkt. Met behulp van bijgeleverde tabellen moet je dan een correctie aanbrengen.
 
 De dichtheid van nog niet vergiste wort kun je ook meten met een **refractometer**. Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang. De kwalitatief goede refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
 
 :::{.important}
-Tijdens of na de gisting kun je de refractometer niet zomaar gebruiken voor een SG meting. Dat komt omdat de aanwezige alcohol de brekingsindex sterk beinvloedt. Met behulp van omrekentabellen of formules kun je een gemeten Brix-waarde omrekenen naar een SG-waarde. Je hebt daarbij dan wel de SG-waarde voor aanvang van de vergisting nodig. Brouwsoftware biedt deze mogelijkheid aan.
+Tijdens of na de gisting kun je de refractometer niet zomaar gebruiken voor een SG meting. Dat komt omdat de aanwezige alcohol de brekingsindex sterk beinvloedt. 
+Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft!
+
+Met behulp van omrekentabellen, formules of brouwsoftware kun je een gemeten Brix-waarde in geheel of gedeeltelijk vergiste wort omrekenen naar een SG-waarde. Je hebt daarbij dan wel de SG-waarde voor aanvang van de vergisting nodig.
 :::
 
 ### SG-punten
@@ -70,53 +81,72 @@ $$SG_{punten}  =  1000\times (SG  -  1) \Leftrightarrow SG  =  \frac{SG_{punten}
 
 Voor een wort met $SG=1,050$ is dus $\text{SG-punten} = 1000 \times (1,050 - 1)  = 50$.
 
-### Omrekenformule SG-Plato
+### Omrekenen SG - Plato
 
 Eenvoudige benaderingsformules zijn:
 
--  via SG-punten: $P = SG_{punten}/4 \Leftrightarrow SG_{punten} = 4 \times P$
+-  via SG-punten: $Plato = SG_{punten}/4$ en $SG_{punten} = 4 \times Plato$
 
--  via SG: $P = 250 \times (SG - 1) \Leftrightarrow SG = 1 + \frac{P}{250}$
+-  via SG: $Plato = 250 \times (SG - 1)$ en $SG = 1 + \frac{Plato}{250}$
 
-Voor een wort met $SG = 1,050$ is dan $\text{SG-punten} = 50$ en $P = \frac{50}{4} = 12,5$.
+::: {.workedexample}
+Voor een wort met $SG = 1,050$ is dan 
+
+$\text{SG-punten} = 50$ en $Plato = \frac{50}{4} = 12,5$.
+:::
 
 Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
 
-Je kunt dit niet zomaar toepassen op geheel of gedeeltelijk vergiste wort. Hierin zit namelijk alcohol die de brekingsindex verandert. Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft! Voor dit omrekenen zijn wel formules beschikbaar en ook de brouwsoftware kan dat voor je doen. Hiervoor is het wel noodzakelijk dat het begin SG bekend is.
-
 ## Moutberekening
 
-Om de hoeveelheid mout uit te kunnen rekenen die je voor het brouwen van een bier nodig hebt, moet je vooraf over de volgende gegevens beschikken.
+Om de hoeveelheid mout uit te kunnen rekenen die je voor het brouwen van een bier nodig hebt, moet je vooraf over de volgende gegevens beschikken:
 
 1.  Het bottelvolume.
 2.  Het gewenste begin SG.
 3.  De te gebruiken moutsoorten en de gewenste massapercentages hiervan.
 4.  Rendement van jouw brouwinstallatie.
 
-**Potentieel extract**
+### Potentieel extract
 
-Van een mout kun je maar een bepaald percentage van de massa omzetten in extract (voornamelijk suikers). Dit is voor elke mout verschillend en wordt door de mouterij in een laboratorium bepaald en bij de productspecificaties vermeld. Dit percentage wordt *potentieel extract* genoemd. Hoe hoger de potentiele extractwaarde, des te meer zetmeel er in de mout zit. Voor basismouten (pilsmout, Münchener mout, ...) ligt het potentieel extract in de buurt van 80%. Mout in de verpakking van de mouterij bevat meestal ook wat vocht waardoor de werkelijke massa van de mout wat minder is.
+Van een mout kun je maar een bepaald percentage van de massa omzetten in extract (voornamelijk suikers). Dit is voor elke mout verschillend en wordt door de mouterij in een laboratorium bepaald en bij de productspecificaties vermeld. Dit percentage wordt **potentieel extract** genoemd. Hoe hoger de potentiele extractwaarde, des te meer zetmeel er in de mout zit. Voor basismouten (pilsmout, Münchener mout, ...) ligt het potentieel extract in de buurt van 80%.
 
-In tabel \@ref(tab:tabel-pe) is de werkelijke extractwaarde voor een paar moutsoorten berekend. Zo is het werkelijke potentieel extract voor pilsmout $80\% \times (100\% - 4,5\%) = 80\% \times 95,5\% = 76,4\%$.
+> Mout in de verpakking van de mouterij bevat meestal ook wat vocht waardoor de werkelijke massa van de mout wat minder is.
 
-Table: (\#tab:tabel-pe) Potentieel extract van een paar moutsoorten van mouterij Dingemans
+In tabel \@ref(tab:extracten) is de werkelijke extractwaarde voor een paar moutsoorten berekend. Zo is het werkelijke potentieel extract voor pilsmout $80\% \times (100\% - 4,5\%) = 80\% \times 95,5\% = 76,4\%$.
 
-| Moutsoort     | Pot. extract | Vochtigheid | Werkelijk extract |
-|:--------------|:-------------|:------------|:------------------|
-| Pilsmout      | 80%          | 4,5%        | 76,4%             |
-| Münchener     | 80%          | 4,5%        | 75,9%             |
-| Amber 50      | 79%          | 4,5%        | 75,4%             |
-| Cara 120      | 74%          | 6,0%        | 69,6%             |
-| Special B     | 72%          | 5,0%        | 68,4%             |
-| Chocolademout | 70%          | 4,5%        | 66,9%             |
-| Tarwemout     | 83%          | 6,5%        | 77,6%             |
+```{r extracten}
+# namen (N), potentieel extract (PE) en vochtigheid (V) opnemen in dataframe
+mout.dingemans <- data.frame(
+	N = c("Pilsmout", "Münchener", "Amber 50", "Cara 120", "Special B", "Chocolademout", "Tarwemout"),
+	PE = c(0.80, 0.80, 0.79, 0.74, 0.72, 0.70, 0.83),
+	V = c(0.045, 0.045, 0.045, 0.060, 0.050, 0.045, 0.065)
+)
+# Werkelijk Extract ((WE)) berekenen en aan dataframe toevoegen
+mout.dingemans <- mout.dingemans %>% 
+	mutate(WE = PE*(1 - V))
 
+# Formatteren als percentages met functie percent uit package formattable
+mout.dingemans %>% 
+	mutate(PE = percent(PE, digits = 0)) %>% 
+	mutate(V = percent(V, digits = 1)) %>%
+	mutate(WE = percent(WE, digits = 1)) %>%
+	kbl(col.names = c("Moutsoort", "Potentieel Extract", "Vochtigheid", "Werkelijk Extract"), 
+		caption = "Potentieel extract van een paar moutsoorten van mouterij Dingemans.") %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+```
 
-**Brouwhuisrendement**
+### Brouwhuisrendement
 
-Je krijgt echter niet al het potentieel extract in de kookketel. Bij het maischen wordt niet alle zetmeel omgezet in suikers. En bij het spoelen worden niet alle suikers uitgespoeld, er blijft wat in de bostel achter. Al met al krijg je dus minder suikers in de wort dan waar je op gerekend had. Het rendement van deze processen samen heet het *brouwhuisrendement*. Dit ligt meestal tussen de 65% en 80% en moet je proefondervindelijk voor je eigen installatie bepalen.
+Je krijgt echter niet al het potentieel extract in de kookketel. Oorzaken:
 
-Al deze onzekerheden die niet goed in te schatten zijn zorgen er voor dat de uiteindelijke resultaten afwijken van de ideale situatie. Door regelmatig te meten tijdens je eigen brouwproces krijg je meer grip op het proces in jouw brouwerij en zullen de inschattingen realistischer worden.
++ Bij het maischen wordt niet alle zetmeel omgezet in suikers.
++ Bij het spoelen worden niet alle suikers uitgespoeld, er blijft wat in de bostel achter.
+
+Al met al krijg je dus minder suikers in de wort dan waar je op gerekend had. Het rendement van deze processen samen heet het **brouwhuisrendement**. Dit ligt meestal tussen de 65% en 80%.
+
+Wanneer je van brouwsoftware gebruik maakt dan wil deze software jouw brouwhuisrendement weten om berekeningen uit te kunnen voeren. Dit rendement moet je proefondervindelijk voor je eigen installatie bepalen. Het is dus zeker bij de eerste brouwsels erg belangrijk om alle hoeveelheden goed te meten en in het logboek bij te houden. Door regelmatig te meten tijdens je eigen brouwproces krijg je meer grip op het proces in jouw brouwerij en zullen de inschattingen realistischer worden.
+
+Al deze onzekerheden die niet goed in te schatten zijn zorgen er voor dat de uiteindelijke resultaten af kunnen wijken van de ideale situatie. 
 
 Voor de berekening van de hoeveelheid mout in een recept moet je de beschikking hebben over de volgende gegevens:
 
@@ -125,51 +155,27 @@ Voor de berekening van de hoeveelheid mout in een recept moet je de beschikking 
 -  De te gebruiken moutsoorten en de gewenste massapercentages hiervan.
 -  Het brouwhuisrendement.
 
-### Voorbeeld 1: SMASH bier {#vb1-mout}
-
-Een eerste eenvoudig voorbeeld van een zogenaamd SMASH bier (SMASH = Single Malt And Single Hop).
-
-Stel je wilt 10 liter SMASH bier maken met pilsmout van Dingemans, een begin SG van 1,050 en een brouwhuisrendement van 75%. Hoeveel pilsmout heb je dan nodig?
-
-$SG = 1,050 \Rightarrow SG_{punten} = 50 \Rightarrow Plato = 50/4 = 12,5$. Dit komt overeen met 125 gram extract per liter. In 10 liter wort moet dus $10 \times 125 = 1250$ gram extract terecht komen. Bij een brouwhuisrendement van 75% moet er dan $1250/75\% = 1667$ gram extract van de ingrediënten komen.
-
-Pilsmout van Dingemans heeft een potentieel extract van 76,4%. Dus 1000 gram pilsmout levert 764 gram extract. De benodigde hoeveelheid pilsmout is dan $1667/764 = 2182$ gram.
-
-### Voorbeeld 2: Weizen {#vb2-mout}
-
-Nu een voorbeeld met 2 moutsoorten: tarwemout (potentieel extract 77,6%) en pilsmout (potentieel extract 76,4%).
-
-Hoeveel van beide moutsoorten heb je nodig om 20 liter Weizen te maken met een begin SG van 1,052. De moutstort bestaat uit 65% tarwemout en 35% pilsmout. En het brouwhuisrendement is 70%.
-
-$SG = 1,052 \Rightarrow SG_{punten} = 52 \Rightarrow Plato = 52/4 = 13,0$. Dit is 130 gram extract per liter. In 20 liter wort moet dan $20 \times 130 = 2600$ gram extract terecht komen. Bij een brouwhuisrendement van 70% moet er dan $2600/70\% = 3714$ gram extract van de ingrediënten komen.
-
-65% hiervan, $65\% \times 3714 = 2414$ gram, moet van de tarwemout komen. Dus nodig $2414/77,6\% = 3111$ gram tarwemout
-
-35% hiervan, $35\% \times 3714 = 1300$ gram, moet van de pilsmout komen. Dus nodig $1300/76,4\% = 1702$ gram pilsmout
-
-Totale moutstort: $3111 + 1702 = 4813$ gram\newpage
-
-## Kleur
+## Kleurberekening
 
 In \@ref(moutkleur) is uitgelegd dat de kleurwaarden van mout wordt aangegeven met EBC waarden. De bierkleur hangt voor het grootste deel af van deze moutkleuren, de gebruikte hoeveelheden en het volume van de wort. Daarnaast spelen ook nog andere factoren een rol zoals het kookproces en het SG. Dit maakt het berekenen van de bierkleur erg moeilijk. Voor het maken van een schatting van de bierkleur kun je daarom het beste een brouwprogramma gebruiken. Deze brouwprogramma's bieden vaak meerdere berekeningsmethodes aan. De berekening volgens *Morey* is de meest gebruikte.
 
 ## Waterberekening
 
-De hoeveelheid water die je nodig hebt is groter dan het bottelvolume bier. Tijdens het brouwen treden er allerlei verliezen op die gecompenseerd moeten worden. En ook kan het zijn dat je tijdens het proces nog extra water toevoegt, bijvoorbeeld in de vorm van een giststarter.
+De hoeveelheid water die je nodig hebt is uiteraard groter dan het bottelvolume bier. Tijdens het brouwen treden er allerlei verliezen op die gecompenseerd moeten worden. En ook kan het zijn dat je tijdens het proces nog extra water toevoegt, bijvoorbeeld in de vorm van een giststarter.
 
 **WaterTotaal = Bottelvolume + Verliezen - Aanvullingen**
 
-Mogelijke *verliezen* zijn afkomstig van:
+Mogelijke **verliezen** zijn afkomstig van:
 
--  *graanabsorbtie*, dat is het water dat tijdens het maischen door de mout wordt opgenomen en na het filteren in de bostel achterblijft. Vuistregel: $\text{Graanabsorbtie} = \pm \text{ 1 liter water per kg mout}$
--  *kookverlies*, dat is het water dat tijdens het koken verdampt. De hoeveelheid hangt af van de kookinstallatie, de heftigheid van het koken en vooral de kooktijd. Je zult dit voor je eigen apparatuur moeten vaststellen door voor een aantal brouwsessies de volumes aan het begin en aan het eind van het koken bij te houden in het logboek. Hieruit kun je dan een gemiddelde verdampingssnelheid bepalen. $\text{Kookverlies (lit)} = \text{Kooktijd (uur)} \times \text{Verdampingssnelheid (lit/uur)}$
--  *ketelverlies*, dat is de hoeveelheid vloeistof die in de kookketel achterblijft plus die door de hop is opgenomen. Ook dit moet je voor je eigen brouwproces vaststellen.
--  *bottelverlies*, dat is de hoeveelheid vloeistof die in het gistvat achterblijft en niet in de flessen terecht komt.
+-  *graanabsorbtie* - dit is het water dat tijdens het maischen door de mout wordt opgenomen en na het filteren in de bostel achterblijft. Vuistregel: $\text{Graanabsorbtie} = \pm \text{ 1 liter water per kg mout}$
+-  *kookverlies* - dit is het water dat tijdens het koken verdampt. De hoeveelheid hangt af van de kookinstallatie, de heftigheid van het koken en vooral de kooktijd. Je zult dit voor je eigen apparatuur moeten vaststellen door voor een aantal brouwsessies de volumes aan het begin en aan het eind van het koken bij te houden in het logboek. Hieruit kun je dan een gemiddelde verdampingssnelheid bepalen. $\text{Kookverlies (lit)} = \text{Kooktijd (uur)} \times \text{Verdampingssnelheid (lit/uur)}$
+-  *ketelverlies* - dit is de hoeveelheid vloeistof die in de kookketel achterblijft, plus die door de hop is opgenomen. Ook dit moet je voor je eigen brouwproces vaststellen.
+-  *bottelverlies* - dit is de hoeveelheid vloeistof die in het gistvat achterblijft en niet in de flessen terecht komt.
 
-Mogelijke *aanvullingen* zijn afkomstig van:
+Mogelijke **aanvullingen** zijn afkomstig van:
 
--  *giststarter*, wanneer je deze in zijn geheel toevoegt en niet eerst decanteert.
--  *SG correctie*, water dat je eventueel toevoegt om het SG op een gewenste waarde te krijgen
+-  *giststarter* - wanneer je deze in zijn geheel toevoegt en niet eerst decanteert.
+-  *SG correctie* - dit is water dat je eventueel toevoegt om het SG op een gewenste waarde te krijgen.
 
 Wanneer je de totale benodigde hoeveelheid water weet, reken je eerst de hoeveelheid maischwater uit, dan volgt de hoeveelheid spoelwater vanzelf.
 
@@ -177,7 +183,7 @@ Wanneer je de totale benodigde hoeveelheid water weet, reken je eerst de hoeveel
 
 **Spoelwater = WaterTotaal - Maischwater**
 
-De beslagdikte hangt af van het soort bier dat je wilt brouwen en de gebruikte apparatuur. Gangbare beslagdiktes zijn 3,0 - 3,5 liter water per kilogram mout. Wanneer je dunner inmaischt, dus meer water per kg mout, kun je minder spoelen wat tot een iets lager rendement kan leiden. En je moet er ook rekening mee houden dat het geheel in jouw maischpan past. Je ziet vaak dat bieren met weinig alkohol met een wat dunner beslag gemaakt worden en bieren met veel alkohol met een wat dikker beslag.
+De beslagdikte hangt af van het soort bier dat je wilt brouwen en de gebruikte apparatuur. Gangbare beslagdiktes zijn 3,0 - 3,5 liter water per kilogram mout. Wanneer je dunner inmaischt, dus meer water per kg mout, kun je minder spoelen wat tot een iets lager rendement kan leiden. Daarnaast moet je er ook rekening mee houden dat het geheel in jouw maischpan past. Je ziet vaak dat bieren met weinig alkohol met een wat dunner beslag gemaakt worden en bieren met veel alkohol met een wat dikker beslag.
 
 :::{.tip}
 Bij automatische installaties zoals een Braumeister en een Brewmonk heb je hier nauwelijks invloed op. En ook wordt er meestal niet tot weinig gespoeld. Daar heb je dus vaak veel meer maischwater dan spoelwater. Het ligt er dus maar aan of het rendement belangrijk voor je is.
@@ -189,67 +195,11 @@ Samengevat, in volgorde bereken je
 2.  Maischwater
 3.  Spoelwater
 
-### Voorbeeld 1: SMASH bier {#vb1-water}
-
-Gegevens:
-
--  10 liter SMASH bier uit 2182 gram mout
--  beslagdikte 3 lit/kg
--  kooktijd 60 min
--  verdampingsfactor 3 lit/uur
--  ketelverlies 0,5 liter
--  bottelverlies 0,5 liter
--  giststarter 1 liter
-
-Bottelvolume: 10 lit
-
-Verliezen: 2,2 + 3,0 + 0, 5 + 0,5 = 6,2 lit
-
--  graanabsorbtie = 2,182 (kg) x 1 (lit/kg) = 2,2 lit
--  kookverlies = 1 (uur) x 3 (lit/uur) = 3,0 lit
--  ketelverlies = 0,5 lit
--  bottelverlies = 0,5 lit
-
-Aanvullingen: 1,0 lit (giststarter)
-
-WaterTotaal = Bottelvolume + Verliezen - Aanvullingen = 10,0 + 6,2 - 1,0 = 15,2 lit
-
-Maischwater = 2,182 x 3 = 6,5 lit
-
-Spoelwater = 15,2 - 6,5 = 8,7 lit
-
-### Voorbeeld 2: Weizen {#vb2-water}
-
-Gegevens:
-
--  20 liter Weizen bier uit 4813 gram mout
--  beslagdikte 3,5 lit/kg
--  kooktijd 75 min
--  verdampingsfactor 3 lit/uur
--  ketelverlies 0,5 liter
--  gistvatverlies 0,5 liter
--  geen giststarter (korrelgist gebruikt)
-
-Bottelvolume: 20 lit
-
-Verliezen: 4,8 + 3,8 + 1,0 = 9,6 lit
-
--  graanabsorbtie = 4,813 (kg) x 1 (lit/kg) = 4,8 lit
--  kookverlies = 1,25 (uur) x 3 (lit/uur) = 3,8 lit
--  ketelverlies = 0,5 lit
--  bottelverlies = 0,5 lit
-
-WaterTotaal = Bottelvolume + Verliezen - Aanvullingen = 20,0 + 9,6 - 0 = 29,6 lit
-
-Maischwater = 4,813 x 3,5 = 16,8 lit
-
-Spoelwater = 29,6 - 16,8 = 12,8 lit
-
 ## Hopberekening
 
 In dit onderdeel wordt de hoeveelheid hop berekend om een bepaalde bitterheid te krijgen. In hoofdstuk \@ref(hop) heb je kunnen lezen dat als maat voor de bitterheid de **EBU** gebruikt wordt en die samenhangt met de hoeveelheid isoalfazuur in het bier. En de isoalfazuren zijn weer ontstaan uit isomerisatie van de alfazuren in de hop.
 
-### EBU berekening
+### EBU
 
 In de ideale situatie waarin alle alfazuren omgezet worden in isoalfazuren, dus bij een hoprendement van 100%, kan de EBU met de volgende formule berekend worden:
 
@@ -262,7 +212,7 @@ $$EBU_{ideaal} = 1000 \times \frac{{W \times A}}{V}\text{ in mg/lit}$$
 
 Bij een toevoeging van 15 gram hop met 4% alfazuur aan 25 liter wort is $EBU_{ideaal} = 1000 \times \frac{{15 \times 0,04}}{{25}} = 24$
 
-Door allerlei oorzaken komen niet alle (iso)alfazuren in het uiteindelijke bier terecht. Uiteindelijk komt slechts zo’n 10%-40% van de toegevoegde alfazuren in het bier terecht. De fractie die in het bier terecht komt wordt **Decimaal Hop Rendement (DHR)** genoemd. Voor een schatting van de bitterheid van het bier is dit DHR van groot belang. De formule wordt dan:
+Door allerlei oorzaken komen niet alle (iso)alfazuren in het uiteindelijke bier terecht, maar slechts zo'n 10%-40% van de toegevoegde alfazuren. De fractie die in het bier terecht komt wordt **Decimaal Hop Rendement (DHR)** genoemd. Voor een schatting van de bitterheid van het bier is dit DHR van groot belang. De formule wordt dan:
 
 $$EBU = EB{U_{ideaal}} \times DHR$$
 
@@ -270,16 +220,20 @@ DHR = Decimaal Hop rendement (als fractie, dus geen percentage)
 
 Deze eenvoudige recht toe recht aan formule wordt door alle software programma’s gebruikt om de EBU in het bier te schatten. Het probleem is echter het bepalen van het hoprendement. Daarin verschillen de programma’s en tabellen die je tegenkomt.
 
-Gebruik tabel \@ref(tab:tabel-dhr-simpel) voor een eenvoudige schatting van het digitaal hoprendement (DHR).
+Gebruik tabel \@ref(tab:dhr-simpel) voor een eenvoudige schatting van het digitaal hoprendement (DHR).
 
-Table: (\#tab:tabel-dhr-simpel) Eenvoudige schatting DHR-waarde
+```{r dhr-simpel}
+dhr.simpel <- data.frame(
+	hopsoort = c("Bitterhop", "Smaakhop", "Aromahop", "Dryhop"),
+	kooktijd = c(">= 60", "10-30", "< 10", ""),
+	dhr = c("0,25", "0,10", "0", "0")
+)
 
-| Soort hop | Kooktijd (min) | DHR  |
-|:----------|:--|:-----------|:-----|
-| Bitterhop | >= 60          | 0,25 |
-| Smaakhop  | 10-30          | 0,10 |
-| Aromahop  | < 10           | 0    |
-| Dryhop    | -              | 0    |
+dhr.simpel %>% 
+	kbl(col.names = c("Hopsoort", "Kooktijd (min)", "DHR"),
+		caption = "DHR schatting") %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+```
 
 Wordt bij het hiervoor genoemde voorbeeld de hop 60 min. meegekookt, dan is DHR = 0,25 en EBU = 24 x 0,25 = 6.
 
@@ -290,40 +244,31 @@ Deze eenvoudige methode  geeft redelijk goede schattingen. Daarnaast zijn er ver
 -  Rager: Methode met correcties voor kooktijd en wortdichtheid.
 -  Tinseth: Methode met correcties voor kooktijd en wortdichtheid.
 
-
 De brouwprogramma’s, zie hoofdstuk \@ref(brouwsoftware), bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
 
-Table: (\#tab:tabel-software-bittermethode) Brouwprogramma's en hun ondersteunde methodes voor de EBU berekening.
+```{r ebumethode}
+ebumethode <- data.frame(
+	Brouwprogramma = c("Brouwhulp", "Brouwvisie", "BrOdeLuxe"),
+	Daniels = c("x", "x", ""),
+	Garetz = c("x", "x", ""),
+	Rager = c("x", "x", ""),
+	Tinseth = c("x", "x", "x")
+)
 
-| Brouwprogramma | Daniels| Garetz | Rager | Tinseth |
-|:---------------|:-------|:-------|:------|:--------|
-| BrouwHulp      | x      | x      | x     | x       |
-| BrouwVisie     | x      | x      | x     | x       |
-| BrOdeLuxe      |        |        |       | x       |
-| BrouwWijzer    |        |        |       | x       |
-
+ebumethode %>% 
+	kbl(caption = "EBU methode") %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+```
 
 Bedenk wel dat alle methodes slechts een schatting van de EBU waarde geven. De exacte waarde kan alleen via een laboratoriumtest bepaald worden. Uit onderzoeken blijkt ook nog eens dat de meeste mensen slechts een verschil van 4 of groter in EBU waarde kunnen waarnemen. Hoe belangrijk is het dan nog om een steeds betere schatting te maken?
 
-**Berekening hophoeveelheden**
+### Hophoeveelheid
 
 In hoofdstuk \@ref(hop) is uitgelegd dat er bitterhoppen en aromahoppen zijn. Onder bitterhoppen wordt hier verstaan die hoppen die tenminste 30 minuten meekoken. Hops die korter meekoken hebben een grotere impact op smaak en aroma dan op bitterheid.
 
-Voor de berekening van de hophoeveelheden kun je in het algemeen beter gebruik maken van brouwsoftware. De hiervoor genoemde formules moet je alleen gebruiken voor een schatting van de hoeveelheid bitterhop. Voor de hoeveelheid aromahop kun je beter kijken in een bestaand recept bij de betreffende bierstijl, in eerste instantie van de genoemde hoeveelheden uitgaan en daar mee experimenteren.
+Voor de berekening van de hophoeveelheden kun je in het algemeen beter gebruik maken van brouwsoftware. De hiervoor genoemde formules moet je alleen gebruiken voor een schatting van de hoeveelheid bitterhop. Voor de hoeveelheid aromahop kun je beter kijken in een bestaand recept bij de betreffende bierstijl en in eerste instantie van de genoemde hoeveelheden uitgaan en daar mee experimenteren.
 
 De hoeveelheid bitterhop reken je dan uit met de formule $W = \frac{V \times EBU}{1000 \times A \times DHR}$
-
-### Voorbeeld 1: SMASH bier {#vb1-ebu}
-
-Hoeveel Saaz hop met 3,5% alfazuur welke 60 min gekookt wordt is nodig voor het maken van 10 liter met een gewenste bitterheid van 21 EBU?
-
-$W = \frac{10 \times 21}{1000 \times 0,035 \times 0,25} = 24 \text{ gram}$
-
-### Voorbeeld 2: Weizen {#vb2-ebu}
-
-Hoeveel Hallertau Perle hop met 7,9% alfazuur welke 75 min. gekookt wordt is nodig voor het maken van 20 liter met een gewenste bitterheid van 12 EBU?
-
-$W = \frac{20 \times 12}{1000 \times 0,079 \times 0,25} = 12 \text{ gram}$
 
 ## Vergistingsgraad
 
@@ -352,3 +297,95 @@ $ABV = 136 \times (SG_{begin} - SG_{eind})$
 Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ wordt de schatting $ABV = 136 \times (1,048 - 1,010)= 5,2$.
 
 Wanneer het bier in flessen gebotteld wordt waarin een nagisting plaatsvindt, dan moet je daar nog eens 0,2% tot 0,5% bij optellen, afhankelijk van de toegevoegde hoeveelheid bottelsuiker, die immers ook in alcohol (en CO~2~)wordt omgezet.
+
+## Voorbeelden
+
+### SMASH bier {#vb-smash}
+
+Een voorbeeld van de berekening voor 10 liter SMASH (Single Malt And Single Hop) bier met mout van Dingemans.
+
+Uitgangspunten:
+
++ Bottelvolume: 10 liter
++ Ingrediënten: pilsmout, bitterhop Saaz (3,5% alpha), gist (via liter giststarter)
++ Begin SG: 1,050
++ Bitterheid: 21 EBU
++ Brouwhuisrendement: 75%
++ Beslagdikte: 3 lit/kg
++ Kooktijd: 60 min.
++ Verliezen: verdampingsfactor=3 lit/uur, ketelverlies=0,5 liter, bottelverlies=0,5 liter
+
+**Moutberekening**
+
+$SG = 1,050 \Rightarrow SG_{punten} = 50 \Rightarrow Plato = 50/4 = 12,5$.
+
+Dit komt overeen met 125 gram extract per liter. In 10 liter wort moet dus 10 x 125 = 1250 gram extract terecht komen. Bij een brouwhuisrendement van 75% moet er dan 1250 / 75\% = 1667 gram extract van de ingrediënten komen.
+
+Pilsmout van Dingemans heeft een werkelijk extract van 76,4%. Dus 1000 gram pilsmout levert 764 gram extract. Om de benodigde hoeveelheid extract van 1167 gram te krijgen heb je dus 1667/764 = 2182 gram = 2,182 kg pilsmout.
+
+**Waterberekening**
+
+Verliezen totaal = 2,2 + 3,0 + 0, 5 + 0,5 = 6,2 lit
+
+-  graanabsorbtie = 2,182 (kg) x 1 (lit/kg) = 2,2 lit
+-  kookverlies = 1 (uur) x 3 (lit/uur) = 3,0 lit
+-  ketelverlies = 0,5 lit
+-  bottelverlies = 0,5 lit
+
+Aanvullingen: 1,0 lit (giststarter)
+
+WaterTotaal = Bottelvolume + Verliezen - Aanvullingen = 10,0 + 6,2 - 1,0 = 15,2 lit
+
+Maischwater = Moutstort (kg) x Beslagdikte (lit/kg) = 2,182 x 3 = 6,5 lit
+
+Spoelwater = WaterTotaal - Maischwater = 15,2 - 6,5 = 8,7 lit
+
+**Hopberekening**
+
+$W = \frac{10 \times 21}{1000 \times 0,035 \times 0,25} = 24 \text{ gram}$
+
+### Weizen {#vb-weizen}
+
+Een voorbeeld van een Weizen met 2 moutsoorten van Dingemans.
+
+Uitgangspunten:
+
++ Bottelvolume: 20 liter
++ Ingrediënten: 65% Tarwemout, 35% pilsmout, bitterhop Hallertau (7,9% alpha), korrelgist (geen starter)
++ Begin SG: 1,052
++ Bitterheid: 12 EBU
++ Brouwhuisrendement: 70%
++ Beslagdikte: 3,5 lit/kg
++ Kooktijd: 75 min.
++ Verliezen: verdampingsfactor = 3 lit/uur, ketelverlies=0,5 liter, bottelverlies=0,5 liter
+
+**Moutberekening**
+
+$SG = 1,052 \Rightarrow SG_{punten} = 52 \Rightarrow Plato = 52/4 = 13,0$.
+
+Dit is 130 gram extract per liter. In 20 liter wort moet dan 20 x 130 = 2600 gram extract terecht komen. Bij een brouwhuisrendement van 70% moet er dan 2600/70\% = 3714 gram extract van de ingrediënten komen.
+
++ 65% hiervan is tarwemout. Dus 65\% x 3714 = 2414 gram moet van de tarwemout (werkelijk extract 77,6%) komen. Dus nodig 2414/77,6\% = 3111 gram tarwemout.
+
++ 35% hiervan is pilsmout. 35\% x 3714 = 1300 gram moet van de pilsmout (werkelijk extract 76,4%) komen. Dus nodig 1300/76,4\% = 1702 gram pilsmout.
+
+Totale moutstort: 3111 + 1702 = 4813 gram = 4,813 kg
+
+**Waterberekening**
+
+Verliezen totaal = 4,8 + 3,8 + 1,0 = 9,6 lit
+
+-  graanabsorbtie = 4,813 (kg) x 1 (lit/kg) = 4,8 lit
+-  kookverlies = 1,25 (uur) x 3 (lit/uur) = 3,8 lit
+-  ketelverlies = 0,5 lit
+-  bottelverlies = 0,5 lit
+
+WaterTotaal = Bottelvolume + Verliezen - Aanvullingen = 20,0 + 9,6 - 0 = 29,6 lit
+
+Maischwater = Moutstort (kg) x Beslagdikte (lit/kg) = 4,813 x 3,5 = 16,8 lit
+
+Spoelwater = WaterTotaal - Maischwater = 29,6 - 16,8 = 12,8 lit
+
+**Hopberekening**
+
+$W = \frac{20 \times 12}{1000 \times 0,079 \times 0,25} = 12 \text{ gram}$
