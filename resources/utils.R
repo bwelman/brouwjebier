@@ -39,3 +39,21 @@ bkg.schema <- ggplot(data = bkg.selectie, aes( x = EBC, y = BEGINSG)) +
 	annotate("text", x=15, y=1075, label= "C", size=8, color = "Red") +
 	annotate("text", x=45, y=1075, label= "D", size=8, color = "Red") +
 	geom_text(label = bkg.selectie$BIERTYPE, nudge_x = 0.25, nudge_y = 0.25, check_overlap = TRUE, size = 3)
+
+# Kleurenkaart voor bierkleuren
+
+bierkleuren <- data.frame(
+	kleur = c("04-Blond", "06-Lichtgoud", "08-Goud", "10-Goudoranje", "12-Oranje", "16-Amber", "20-Koper", 
+			  "24-Lichtbruin", "28-Middelbruin", "30-Bruin", "40-Roodbruin", "50-Donkerbruin", "60-Zwartbruin", "80-Zwart"), 
+	hex = c("#FFF59B","#FFF381","#FCE162","#FDCF4F","#F9B939","#EFA90E","#CE800A",
+			"#B35E18","#9B481A","#8F4019","#622413","#43180F","#2D100B","#110707"))
+
+kleurenkaart <- ggplot(data = bierkleuren, aes(x = kleur, y =1, fill = kleur)) + 
+	geom_col(show.legend = F, width = 1) + 
+	scale_fill_manual(values = bierkleuren$hex) +
+	scale_x_discrete(expand=c(0,0)) +
+	scale_y_discrete(expand=c(0,0)) +
+	labs(x = NULL, y = NULL) +
+	coord_flip() +
+	labs(title = "EBC Kleurenkaart") +
+	theme(aspect.ratio = 6/5)
