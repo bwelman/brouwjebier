@@ -7,6 +7,8 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [brouwjebier.bib]
 biblio-style: apalike
+csl: chemical-engineering-progress.csl
+nocite: '@*'
 link-citations: yes
 description: "Cursusboek voor het brouwen van bier."
 papersize: a4
