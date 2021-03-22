@@ -18,6 +18,21 @@ cover-image: images/cover.png
 
 ```{r}
 source("resources/utils.R")
+library(metathis) # metadata functions
+meta() %>%
+	meta_description("Cursus bierbrouwen voor beginners") %>%
+	meta_name("keywords" = "tutorial, cursus, studieboek, brouwcursus, bier, brouwen, bierbrouwen") %>%
+	meta_general() %>%
+	meta_social(
+		title = "Cursus bierbrouwen voor beginners",
+		url = "https://brouwjebier.nu/",
+		image = "https://brouwjebier.nu/images/cover.png",
+		og_type = "book",
+		og_author = "Ben Welman",
+		og_locale = "nl_NL",
+		twitter_card_type = "summary",
+		twitter_creator = "@benwem"
+	)
 ```
 
 :::{.welcome}
