@@ -1,7 +1,7 @@
 library(tidyverse)
 library(kableExtra)
 
-bkg.list <- read_csv2("S:/websites/vlearmoesbier/static/download/bkg_biertypen.csv")
+bkg.list <- read_csv2("resources/bkg_biertypen.csv")
 
 # Tabel met klassen als kolommen (in )
 bkg.klasse <- bkg.list %>% 
