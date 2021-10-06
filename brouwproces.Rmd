@@ -12,7 +12,7 @@
 In grote lijnen gaat het maken van bier als volgt:
 
 ```{r brouwproces, fig.cap="Het brouwproces in grote lijnen.", out.width="100%"}
-grViz(diagram = "diagrammen/brouwproces.gv", height = 50)
+knitr::include_graphics("images/brouwproces.png")
 ```
 
 1.  Het zetmeel in de mout moet worden omgezet in suikers.
