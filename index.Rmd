@@ -19,7 +19,7 @@ cover-image: images/cover.png
 ```{r}
 source("resources/utils.R")
 ```
-
+\mainmatter
 :::{.welcome}
 # Welkom {.unnumbered}
 
