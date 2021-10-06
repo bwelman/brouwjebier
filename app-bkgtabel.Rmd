@@ -6,7 +6,18 @@ Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target
 
 ## Biertypenlijst {#biertype-tabel}
 
-```{r bkg-tabel}
+```{r bkg-tabel, echo=FALSE}
+# Tabel met klassen als kolommen
+bkg.klasse <- read_csv2("resources/bkg_biertypen.csv") %>% 
+	select(BIERTYPE, KLASSE)
+
+kla <- bkg.klasse %>% filter(KLASSE == "A") %>% select(BIERTYPE) %>% rename("Klasse A" = BIERTYPE) %>% mutate(id = seq.int(nrow(.)))
+klb <- bkg.klasse %>% filter(KLASSE == "B") %>% select(BIERTYPE) %>% rename("Klasse B" = BIERTYPE) %>% mutate(id = seq.int(nrow(.)))
+klc <- bkg.klasse %>% filter(KLASSE == "C") %>% select(BIERTYPE) %>% rename("Klasse C" = BIERTYPE) %>% mutate(id = seq.int(nrow(.)))
+kld <- bkg.klasse %>% filter(KLASSE == "D") %>% select(BIERTYPE) %>% rename("Klasse D" = BIERTYPE) %>% mutate(id = seq.int(nrow(.)))
+lijst <- list(kla, klb, klc, kld)
+bkg.tabel <- Reduce(function(x,y,...) merge(x,y, all=TRUE,...), lijst) %>% select(-id)
+
 bkg.tabel %>%
 	kbl(caption = "Tabel biertypen volgens BKG") %>%
 	kable_styling(latex_options = "scale_down", bootstrap_options = c("condensed", "responsive"), font_size = 12)
