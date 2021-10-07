@@ -43,7 +43,7 @@ Een maat om de bitterheid in uit te drukken is de **EBU** (European Bitter Unit)
 
 $$\text{1 EBU = 1 IBU = 1 mg iso-alfazuur per liter bier = 1 ppm iso-alfazuur}$$
 
-In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden.
+In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden. Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.
 
 ```{r tabel-bitterheid}
 df <- tribble(
@@ -54,11 +54,9 @@ df <- tribble(
 	"Zeer Bitter", "> 40"
 )
 df %>% 
-	kbl(caption = "Ervaringen bitterheid") %>%
+	kbl(caption = "Ervaringen bitterheid", position="!h") %>%
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
-
-Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.\newpage
 
 ## Hop vormen
 
@@ -98,11 +96,12 @@ ggplot(data = mytb, aes(x = kooktijd, y = dhr)) +
 	scale_x_continuous(breaks = seq(0, 150, 10)) + scale_y_continuous(breaks = seq(0, 0.3, 0.05))
 ```
 
+\pagebreak
 Eenzelfde soort gedrag treedt op bij het vervluchtigen van de hopoliën. Ook hier een snel begin gevolgd door een afvlakking. De temperatuur waarbij deze oliën vervluchtigen is in het algemeen veel lager dan 100^o^C, voor sommige begint dat al bij 60^o^C. Wanneer je ze dan 10 minuten laat meekoken is al bijna de helft van de beginconcentratie verdwenen. Wanneer je veel hoparoma en -smaak wilt kun je deze beter na het koken toevoegen, via vlamuit hoppen of via koud hoppen.
 
 ### Vlamuit hoppen
 
-Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtigen waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Overweeg om wat minder hop te nemen dan bij het koken.\pagebreak
+Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtigen waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Overweeg om wat minder hop te nemen dan bij het koken.
 
 ### Koudhoppen (Dry hopping)
 

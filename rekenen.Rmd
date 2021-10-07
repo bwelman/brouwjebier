@@ -61,7 +61,6 @@ Een massa van 1 kg heeft in Nederland een gewicht van ongeveer 9,81N, aan de pol
 Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te weten wat daar precies mee bedoeld wordt. In dit cursusboek staat SG voor relatieve dichtheid.
 :::
 
-\pagebreak
 De (relatieve) dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is namelijk bij 20^o^C geijkt. Met behulp van bijgeleverde tabellen moet je dan een correctie aanbrengen.
 
 De dichtheid van nog niet vergiste wort kun je ook meten met een **refractometer**. Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang. De kwalitatief goede refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.

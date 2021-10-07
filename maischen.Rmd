@@ -15,18 +15,15 @@
 
 Tijdens het maischproces worden lange ketens zetmeel en eiwitten die in de mout zitten, omgezet in veel kleinere ketens, suikers en kleinere eiwitten. Die reactie wordt mogelijk gemaakt door enzymen die in de mout zitten. Bij deze omzetting zijn meerdere enzymen betrokken.
 
-:::{.tip}
 Een *enzym* is een eiwit dat als katalysator fungeert bij een bepaalde chemische reactie in of buiten een cel. Het enzym maakt de reactie mogelijk of versnelt de reactie, zonder daarbij zelf te worden verbruikt of van samenstelling te veranderen. De stof waar het enzym op inwerkt heet het *substraat*. ([Wikipedia](https://nl.wikipedia.org/wiki/Enzym))
-:::
 
 De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op *ase* en wordt voorafgegaan door het begindeel van de naam van het substraat. Ook is een enzym reactie- en substraatspecifiek, dat wil zeggen dat een enzym slechts één type reactie katalyseert bij een bepaald substraat. Een paar voorbeelden:
-
 
 ```{r tabel-enzymen}
 mono <- data.frame(Substraat = c("maltose (moutsuiker)", "amylose (zetmeel)", "proteïne (eiwit)", "cellulose"), 
 				   Enzym = c("maltase", "amylase", "proteinase", "cellulase"))
 mono %>% 
-	kbl(caption = "Substraten en hun splitsingsenzymen") %>% 
+	kbl(caption = "Substraten en enzymen", position="!h") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
@@ -62,6 +59,10 @@ Je maakt een *beslag* door het geschrote mout aan het *maischwater* toe te voege
 Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen uitgevoerd. En bij elke stap wordt een bepaald rusttijd (inwerkingstijd) aangehouden. Deze temperatuurstappen met de bijbehorende rusttijden wordt het *maisschema* genoemd.
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
+
+::: {.tip}
+Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
+:::
 
 ### Eiwitrust (Proteinaserust)
 
@@ -128,9 +129,7 @@ infusieplot
 ```
 
 :::{.tip}
-1. Bij een eenstapsmaischproces ligt de temperatuur meestal aan de bovenkant voor de beta-amylase en aan de onderkant voor de alpha-amylase, zo $\pm 65^o C$. En een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
-
-2. Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
+Bij een eenstapsmaischproces ligt de temperatuur meestal aan de bovenkant voor de beta-amylase en aan de onderkant voor de alpha-amylase, zo $\pm 65^o C$. En een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
 :::
 
 <!-- + [The Science of Step Mashing](https://byo.com/article/the-science-of-step-mashing/) -->

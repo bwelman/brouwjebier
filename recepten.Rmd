@@ -40,7 +40,9 @@ Het begin SG is zowel bepalend voor het alcoholgehalte als de body van het bier.
 
 ### Kleur {#bierkleur}
 
-![](images/bierkleur.png)
+```{r bierkleuren, out.width="40%", fig.cap="Bier in verschillende kleuren."}
+knitr::include_graphics("images/bierkleur.png")
+```
 
 De kleur van het bier hangt voor het grootste deel af van de kleur en verhouding van de gebruikte moutsoorten en het brouwvolume. Voor een schatting van de bierkleur kun je het beste gebruik maken van brouwsoftware (zie hoofdstuk \@ref(brouwsoftware)).
 
@@ -68,10 +70,11 @@ biertype.bv <- data.frame(
 
 biertype.bv %>% 
     kbl(col.names = c("Biertype", "Begin SG", "Gemid. SGpunten", "EBU", "Gemid. EBU", "BV"), 
-        caption = "Twee biertypes en hun bitterheidsverhouding (BV)") %>%
+        caption = "Twee biertypes en hun bitterheidsverhouding (BV)", position = "!h") %>%
     kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
+\newpage
 ### Alcoholpercentage {#recept-alcoholpercentage}
 
 Het volumepercentage alcohol (ABV = Alcohol By Volume) kan worden berekend uit het begin SG en het eind SG, zie \@ref(rekenen-alcoholpercentage). Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:

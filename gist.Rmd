@@ -55,12 +55,12 @@ In brouwerijen worden twee gistsoorten vaak gebruikt: Saccharomyces cereviae (bo
 
 ```{r tabel-gistsoorten}
 gistsoort <- data.frame(
-	Kenmerk = c("Latijnse naam", "Temperatuur (^o^C)", "Vergistingstijd", "Biersoorten"),
+	Kenmerk = c("Latijnse naam", "Temperatuur (C)", "Vergistingstijd", "Biersoorten"),
 	Bovengist = c("Saccharomyces cereviae", "16-22", "3-6 dagen", "ales"),
 	Ondergist = c("Saccharomyces pastorianus", "8-15", "2-6 weken", "pils")
 )
 gistsoort %>% 
-	kbl(caption = "Kenmerken gistsoorten") %>% 
+	kbl(caption = "Kenmerken gistsoorten", position = "!h") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 

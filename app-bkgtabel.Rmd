@@ -19,9 +19,11 @@ lijst <- list(kla, klb, klc, kld)
 bkg.tabel <- Reduce(function(x,y,...) merge(x,y, all=TRUE,...), lijst) %>% select(-id)
 
 bkg.tabel %>%
-	kbl(caption = "Tabel biertypen volgens BKG") %>%
+	kbl(caption = "Tabel biertypen volgens BKG", position = "!h") %>%
 	kable_styling(latex_options = "scale_down", bootstrap_options = c("condensed", "responsive"), font_size = 12)
 ```
+
+\newpage
 
 ## Dubbel kenmerken {#biertype-dubbel}
 
@@ -58,7 +60,7 @@ Een dubbel abdijbier of trappistenbier is een bovengistend typisch Belgisch, kla
 -  Complex samenspel van mout, esters, alcohol en fenolen (rozijnensmaken komen vaak voor, kruidnagel-achtige kruidigheid is mogelijk).
 -  Hoofdsmaak is altijd in de richting van de mout.
 -  Geen diacetyl.
--  Niet zo moutig als een bock. \pagebreak
+-  Niet zo moutig als een bock.
 
 **Body**
 
@@ -76,7 +78,6 @@ Een dubbel abdijbier of trappistenbier is een bovengistend typisch Belgisch, kla
 
 -  (licht) moutig
 -  Iets bitter met vaak complexe fruitigheid en kruidigheid, afhankelijk van de gistsoort.
--  Vooral de trappisten dubbel-bieren zijn meer complex in hun (na)smaak
 
 **Opmerkingen**
 

@@ -59,6 +59,7 @@ Je kunt de **pH verlagen** door het toevoegen van melkzuur of fosforzuur en de *
 Wanneer je over de watersamenstelling van het drinkwaterbedrijf beschikt kun je ook redelijk goed de pH van het brouwsel vooraf inschatten met brouwsoftware en tevens bepalen welke correcties je moet uitvoeren.
 :::
 
+\newpage
 ## Hardheid
 
 In kraanwater kunnen diverse ionen voorkomen. De voor de brouwer belangrijkste zijn

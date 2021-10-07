@@ -22,7 +22,7 @@ Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)
 mono <- data.frame(Naam = c("Glucose", "Fructose", "Galactose"), 
 				   Alias = c("Druivensuiker, Dextrose", "Vruchtensuiker", ""))
 mono %>% 
-	kbl(caption = "Monosachariden") %>% 
+	kbl(caption = "Monosachariden", position="!h") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
@@ -36,7 +36,7 @@ di <- data.frame(Naam = c("Sacharose", "Maltose", "Lactose"),
 				 Verbinding = c("Glucose ~ Fructose", "Glucose ~ Glucose", "Glucose ~ Galactose"), 
 				 Splitsingsenzym = c("Saccharase", "Maltase", "Lactase"))
 di %>% 
-	kbl(caption = "Disachariden") %>% 
+	kbl(caption = "Disachariden", position="!h") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
