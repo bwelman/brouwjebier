@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
   #cache = TRUE,
   echo = FALSE, # hide code unless otherwise noted in chunk options
   out.width = "60%",
-  fig.align = 'left',
+  fig.align = 'center',
   fig.width = 6,
   fig.asp = 0.618,  # 1 / phi
   fig.show = "hold"
