@@ -60,9 +60,10 @@ In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbi
 
 Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Op deze processen wordt in hoofdstuk \@ref(maischen) uitvoeriger ingegaan. Het beslag ga je onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde **rusttijd**. Een schema met de verschillende rusttijden en bijbehorende temperaturen heet een **maischschema**.
 
-:::{.tip}
+```{block2, type="tip"}
 Om de temperatuur tijdens de rust constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
-:::
+
+```
 
 Voor een goede werking van de enzymen is het ook noodzakelijk dat het maischwater een *pH* van 5,2-5,4 heeft. Meet daarom de pH en indien nodig zuur dan het water aan met wat melkzuur of fosforzuur. Zie hiervoor \@ref(zuurgraad).
 
@@ -131,9 +132,10 @@ Het proces tot en met het koken noemt men de *warme kant* van het brouwproces. H
 
 Maak er verder een gewoonte van om het volume en het SG van de wort te meten, zowel voor het koken als na het koken.
 
-:::{.important}
+```{block2, type="important"}
 Na het koken moet je zeer hygiënisch te werk gaan!
-:::
+
+```
 
 ## Koelen {#b-koelen}
 

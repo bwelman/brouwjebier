@@ -78,9 +78,10 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 
 Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Je moet ze dus altijd in combinatie met een basismout gebruiken.
 
-:::{.tip}
+```{block2, type="tip"}
 Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
-:::
+
+```
 
 #### Broeimouten {.unnumbered}
 
@@ -137,9 +138,9 @@ Moutextractpoeder is zeer geschikt voor het maken van een [giststarter]. Ook kun
 
 <!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
 
-:::{.important}
+```{block2, type="important"}
 Moutextractpoeder is sterk hygroscopisch, trekt dus water aan. Bewaar het daarom op een droge, koele en bij voorkeur donkere plaats in een goed afgesloten doos.
-:::
+```
 
 ## Mouterijen
 

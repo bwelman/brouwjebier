@@ -83,11 +83,11 @@ knitr::include_graphics("images/waterslot.png")
 
 Een hydrometer is een instrument om de dichtheid (soortelijke massa) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.
 
-:::{.tip}
+```{block2, type="tip"}
 De dichtheid of soortelijke massa van een stof is de massa (kg) gedeeld door het volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water meestal uitgegaan van 1000 kg/m^3^ = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
 
 De relatieve dichtheid (Specific Gravity, SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is 1,000.
-:::
+```
 
 Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en laat je hierin de hydrometer zakken. Deze moet vrij van de bodem en de wand kunnen zweven. Draai de hydrometer een paar keer rond zodat klevende gasbelletjes kunnen ontsnappen. Laat de hydrometer tot rust komen en lees af op het vloeistofniveau, zie figuur \@ref(fig:hydrometer-aflezing).
 
@@ -97,9 +97,10 @@ Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeis
 knitr::include_graphics("images/hydrometer-aflezing.png")
 ```
 
-:::{.tip}
+```{block2, type="tip"}
 In plaats van een hydrometer kun je ook een refractometer gebruiken.
-:::
+
+```
 
 ### Kroonkurken en kroonkurkapparaat
 
@@ -147,9 +148,10 @@ Voor het calibreren van een refractometer is het zetten van het nulpunt meestal 
 
 Voor een nog grotere nauwkeurigheid kun je eventueel nog een ijking voor een punt aan het eind van de schaal uitvoeren. Echter deze ijking kun je niet op de refractometer zelf instellen, maar vaak wel in de brouwsoftware invoeren. Voor deze ijking moet je een suikeroplossing maken met een bekende Brixwaarde, bijvoorbeeld 20 gram suiker en 80 gram water. Deze heeft een Brix van 20.
 
-:::{.tip}
+```{block2, type="tip"}
 Je kunt natuurlijk ook metingen uitvoeren met zowel de refractometer en een hydrometer en deze waarden met elkaar vergelijken.
-:::
+
+```
 
 ### Vergistingskast
 

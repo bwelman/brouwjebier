@@ -45,9 +45,9 @@ Voor een goed bier is het belangrijk om de vergisting temperatuurgecontroleerd t
 
 Aan het eind van de vergisting klonteren de enkele gistcellen samen tot vlokken van wel duizenden gistcellen. Daarna zakken deze vlokken uit naar de bodem van het gistvat. Giststammen vertonen verschillen in de mogelijkheid tot *uitvlokking (flocculatie)* en *uitzakking (sedimentatie)*. Dit proces wordt bevorderd door het gistvat na afloop van de vergisting koud (0-5 ^o^C) weg te zetten. Het bier wordt daardoor helderder. Ook een groot deel van de Krausen maakt deel uit van het sediment.
 
-:::{.tip}
+```{block2, type="tip"}
 De beste manier om vast te stellen of de vergisting is afgelopen is door het SG te meten. Deze moet gedurende een paar dagen niet meer afnemen en in de buurt liggen van wat je als eind SG verwacht. De activiteit van het waterslot is een minder goede indicator.
-:::
+```
 
 ## Gistsoorten {#gistsoorten}
 
@@ -64,9 +64,10 @@ gistsoort %>%
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
-:::{.tip}
+```{block2, type="tip"}
 Er zijn ook gistsoorten die tussen een ondergist en bovengist zitten, die vergisten bij 15-16 ^o^C. Deze gisten worden ook wel *hybride* gisten genoemd.
-:::
+
+```
 
 ## Verpakkingsvorm
 
@@ -77,9 +78,9 @@ De hobbybrouwer kan gist kopen als
 
 Korrelgisten zijn goedkoper dan vloeibare gisten en ook het gebruik ervan is simpeler. Zo hoef je bij korrelgisten niet van tevoren een giststarter te maken. Van de vloeibare gisten is echter een groter assortiment voor specifieke biertypes leverbaar, alhoewel er steeds meer soorten korrelgisten op de markt komen.
 
-:::{.tip}
+```{block2, type="tip"}
 Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een uur voor gebruik haal je deze uit de koelkast om op de omgevingstemperatuur te laten komen.
-:::
+```
 
 ### Korrelgist
 
@@ -113,9 +114,10 @@ De massa water die je nodig hebt voor het hydrateren is ongeveer 10 keer de mass
 
 De twee bekendste leveranciers zijn [Wyeast](https://wyeastlab.com/) en [White Labs](https://www.whitelabs.com/). Beide leveren vloeibare gisten in een verpakking die voldoende gistcellen bevat voor het vergisten van 20 liter wort met een SG van ongeveer 1,048. Voor een groter volume wort of voor bier met een hoger SG heb je meer gistcellen nodig, dus meer verpakkingen. Het alternatief is om een zogenaamde [giststarter] te maken.
 
-:::{.tip}
+```{block2, type="tip"}
 Bij gebruik van vloeibare gist kun je het beste altijd een giststarter maken.
-:::
+
+```
 
 #### Wyeast
 
@@ -150,9 +152,9 @@ Een giststarter maak je om gistcellen te vermenigvuldigen, zodat er meer gistcel
 
 Maak de giststarter 2-3 dagen voordat je de gist aan de wort wilt toevoegen. Het benodigde volume van de giststarter hangt af van het begin SG van de wort, de batchgrootte, de leeftijd van de gist en het al dan niet gebruiken van een magneetroerder. Gebruik een gistcalculator of brouwsoftware om uit te rekenen hoeveel giststarter je moet maken en hoeveel gist je daarvoor nodig hebt. Een vuistregel is zo'n 10% van de hoeveelheid te brouwen bier.
 
-::: {.tip}
+```{block2, type="tip"}
 Wanneer je spoedig weer deze gist nodig hebt kan het handig zijn om wat meer giststarter te maken, zodat je het overblijvende deel in de koelkast kunt bewaren (of invriezen) voor later gebruik.
-:::
+```
 
 De beste voedingsbron voor de gist in een starter is maltose. Daarvoor maak je met moutextractpoeder een oplossing met een SG van ongeveer 1,040 (niet zwaarder). Een alternatief is om op een brouwdag 1-2 liter wort achter te houden, in te vriezen om deze dan later als voedingsbron voor de starter te gebruiken. Gebruik geen oplossing van kristalsuiker want dan heb je grote kans dat de vergisting van de wort minder goed verloopt.
 

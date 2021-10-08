@@ -60,9 +60,9 @@ Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in ee
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
-:::{.tip}
+```{block2, type="tip"}
 Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
-:::
+```
 
 ### Eiwitrust (Proteinaserust)
 
@@ -72,9 +72,10 @@ Werkzame enzym: *Proteinase*
 
 In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens, onder andere aminozuren. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit, de body en een goede vergisting. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
-:::{.important}
+```{block2, type="important"}
 Eiwitrust (optioneel): zorgt voor betere schuimkraag en vergisting.
-:::
+
+```
 
 ### Maltoserust (Beta-amylaserust)
 
@@ -84,9 +85,10 @@ Werkzame enzym: *Beta-Amylase*
 
 In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suikers. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
-:::{.important}
+```{block2, type="important"}
 Beta-amylaserust: zorgt voor meer alcohol en droger bier.
-:::
+
+```
 
 ### Versuikeringsrust(Alpha-amylaserust)
 
@@ -98,9 +100,10 @@ Breekt het overgebleven zetmeel af tot vergistbare en vooral onvergistbare suike
 
 Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er nog zetmeel in het beslag zit. Zoja, dan moet je de rusttijd nog wat langer laten duren.
 
-:::{.important}
+```{block2, type="important"}
 Alpha-amylaserust: zorgt voor volmondiger bier.
-:::
+
+```
 
 ### Samenvatting {#maischen-samenvatting}
 
@@ -128,9 +131,9 @@ infusieplot <- ggplot(data = infusie3, aes( x = tijd, y = temp, label=temp)) +
 infusieplot
 ```
 
-:::{.tip}
+```{block2, type="tip"}
 Bij een eenstapsmaischproces ligt de temperatuur meestal aan de bovenkant voor de beta-amylase en aan de onderkant voor de alpha-amylase, zo $\pm 65^o C$. En een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
-:::
+```
 
 <!-- + [The Science of Step Mashing](https://byo.com/article/the-science-of-step-mashing/) -->
 <!-- + [Enzymes in Beer: What’s Happening In the Mash](https://www.homebrewersassociation.org/how-to-brew/enzymes-in-beer-whats-happening-in-the-mash/) -->
