@@ -23,7 +23,7 @@ Bier is de oudste alcoholhoudende drank ter wereld. Het wordt wereldwijd gedronk
 
 In de vroege Middeleeuwen was het brouwen van bier een huishoudelijke bezigheid, voorbehouden aan vrouwen. Om in hun levensonderhoud te voorzien, brouwden ook kloosterlingen (monniken en nonnen) verschillende bieren. In de tijd van Karel de Grote (rond 800) ontstonden grotere brouwerijen om de hoeveelheden bier te brouwen die nodig waren voor het hof of voor grotere huishoudens. Naast het thuis brouwen kwam ook het zogenaamde koopbrouwen door ambachtslieden in gebruik. Met de koopbrouwer was de commerciële bierbrouwerij geboren.
 
-```{r bier-me, out.width="40%", fig.cap="Bier in de Middeleeuwen"}
+```{r bier-me, echo=FALSE, out.width="40%", fig.cap="Bier in de Middeleeuwen"}
 knitr::include_graphics("images/bier-me.png", dpi = NA)
 ```
 
@@ -48,7 +48,7 @@ Halverwege de jaren tachtig vond een nieuwe ontwikkeling plaats. Anders smakende
 
 ### Reinheitsgebot
 
-```{r reinheitsgebot, out.width="50%", fig.cap="Het Reinheitsgebot kort en krachtig."}
+```{r reinheitsgebot, echo=FALSE, out.width="50%", fig.cap="Het Reinheitsgebot kort en krachtig."}
 knitr::include_graphics("images/reinheitsgebot.jpg")
 ```
 

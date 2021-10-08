@@ -45,7 +45,7 @@ $$\text{1 EBU = 1 IBU = 1 mg iso-alfazuur per liter bier = 1 ppm iso-alfazuur}$$
 
 In tabel \@ref(tab:tabel-bitterheid) is te zien hoe deze waarden ervaren worden. Daarnaast zorgt de bitterheid van de hop voor een tegenhanger van de zoetheid van een bier. Bij een goed bier zijn bitterheid en zoetheid in balans. Bij zoete en zware bieren moet je voor meer bitterheid zorgen dan bij lichte en droge bieren.
 
-```{r tabel-bitterheid}
+```{r tabel-bitterheid, echo=FALSE}
 df <- tribble(
 	~Bitterheid, ~EBU,
 	"Weinig bitter", "5-20",
@@ -64,7 +64,7 @@ Hop kun je kopen als bloemen (bellen) en pellets (vermalen en samengeperste korr
 
 Andere vormen die je tegenwoordig kunt kopen zijn: hopolie al dan niet geisomeriseerd) en natte hop in blik. Deze bevatten meer zuren en oliën.
 
-```{r hop-bloemen-pellets, fig.cap="Hop: pellets en bloemen", out.width="40%"}
+```{r hop-bloemen-pellets, echo=FALSE, fig.cap="Hop: pellets en bloemen", out.width="40%"}
 knitr::include_graphics("images/hop.png")
 ```
 
@@ -76,7 +76,7 @@ Er zijn erg veel hopsoorten te koop en veel van deze soorten zijn familie van el
 
 Je kunt de hop rechtstreeks aan de wort toevoegen. De pellets vallen tijdens het koken uiteen in gruis. Na het koken heb je onderin de ketel een groene drab van de bloemen of gruis, samen met uitgevlokt eiwit. Minder troep in de kookketel krijg je wanneer je hopbloemen in een *hopzakje* toevoegt. Deze kun je na het koken weer uit de ketel vissen. Een andere mogelijkheid is om van een *hopspider* gebruik te maken, die je aan de rand van de ketel hangt.
 
-```{r ihop-zakje-spider, fig.cap="Links een hopzakje, rechts een hopspider.", out.width="40%"}
+```{r ihop-zakje-spider, echo=FALSE, fig.cap="Links een hopzakje, rechts een hopspider.", out.width="40%"}
 knitr::include_graphics("images/hop-zakje-spider.png",)
 ```
 
@@ -87,7 +87,7 @@ De momenten waarop je hop toevoegt hangen af van het doel:
 
 In figuur \@ref(fig:hoprendement-kooktijd) is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
-```{r hoprendement-kooktijd, fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050", out.width="80%"}
+```{r hoprendement-kooktijd, echo=FALSE, fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050", out.width="80%"}
 mytb <- tibble(kooktijd = c(seq(0,60,3), 70,80,90, 120, 150), dhr = (1.65*0.000125^.050) * (1-exp(-0.04*kooktijd))/4.15)
 ggplot(data = mytb, aes(x = kooktijd, y = dhr)) +
 	geom_line(size = 1.2, colour = "darkgreen") +

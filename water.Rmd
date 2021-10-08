@@ -45,7 +45,7 @@ Wanneer je de pH van het beslag gaat meten kun je dat het beste zo'n 10 minuten 
 
 Het goedkoopst kun je de pH meten met pH strips. Deze zijn te koop voor verschillende pH gebieden. Koop strips die het pH bereik voor de amylase goed afdekken, zoals het bereik 5,2-6,8 zoals je kunt zien in figuur \@ref(fig:ph52-68).
 
-```{r ph52-68, fig.cap="pH strips voor het bereik 5,2-6,8.", out.width="30%"}
+```{r ph52-68, echo=FALSE, fig.cap="pH strips voor het bereik 5,2-6,8.", out.width="30%"}
 knitr::include_graphics("images/ph52-68.png")
 ```
 

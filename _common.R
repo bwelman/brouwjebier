@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
   message = FALSE,
   warning = FALSE,
   #cache = TRUE,
-  echo = FALSE, # hide code unless otherwise noted in chunk options
+  echo = TRUE, # nodig voor rmd block2 chunks
   out.width = "60%",
   fig.align = 'center',
   fig.width = 6,

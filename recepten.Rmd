@@ -40,7 +40,7 @@ Het begin SG is zowel bepalend voor het alcoholgehalte als de body van het bier.
 
 ### Kleur {#bierkleur}
 
-```{r bierkleuren, out.width="40%", fig.cap="Bier in verschillende kleuren."}
+```{r bierkleuren, echo=FALSE, out.width="40%", fig.cap="Bier in verschillende kleuren."}
 knitr::include_graphics("images/bierkleur.png")
 ```
 
@@ -58,7 +58,7 @@ $BV = \frac{EBU}{SG_{punten}}$
 
 De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in tabel \@ref(tab:biertype-bv).
 
-```{r biertype-bv}
+```{r biertype-bv, echo=FALSE}
 biertype.bv <- data.frame(
     bt = c("IPA (USA", "Weizen"),
     og = c("1,056-1,070", "1,046-1,057"),

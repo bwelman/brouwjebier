@@ -19,13 +19,13 @@ Het proeven van bier bestaat voor ongeveer 80% uit het waarnemen van aroma's en 
 
 Door Hans Wächtler van [bierbegeisterung.de](https://bierbegeisterung.de) is een *BIER_AROMABAUM* ontwikkeld. Een vertaalde versie is te zien in figuur \@ref(fig:bier-aromaboom). Hierin kun je zien van welke ingrediënten de diverse aroma's afkomstig zijn.
 
-```{r bier-aromaboom, fig.cap="Bier-Aromaboom", out.width="80%"}
+```{r bier-aromaboom, echo=FALSE, fig.cap="Bier-Aromaboom", out.width="80%"}
 knitr::include_graphics("images/bier-aromaboom.png")
 ```
 
 Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikkelde smaakwiel gebruikt.
 
-```{r smaakwiel, fig.cap="Smaakwiel voor bier", out.width="80%"}
+```{r smaakwiel, echo=FALSE, fig.cap="Smaakwiel voor bier", out.width="80%"}
 knitr::include_graphics("images/smaakwiel.png")
 ```
 

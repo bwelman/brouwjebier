@@ -22,7 +22,7 @@ Gerst is een landbouwgewas dat tot de grassenfamilie behoort. Je hebt zomergerst
 
 Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschikte plastic emmers met goed sluitende deksels. Tegenwoordig kun je de mout tot hoeveelheden van 5kg ook in afsluitbare plastic bakken krijgen.
 
-```{r moutproces, fig.cap="Moutproces en moutsoorten.", out.width="100%"}
+```{r moutproces, echo=FALSE, fig.cap="Moutproces en moutsoorten.", out.width="100%"}
 knitr::include_graphics("images/moutproces.png")
 ```
 

@@ -11,7 +11,7 @@
 
 Je kunt voor het brouwen van bier ook kruiden (en/of specerijen) gebruiken om het bier een bepaalde smaak en aroma te geven. Met name in witbieren, tripels en zogenaamde winterbieren kom je vaak kruiden tegen. Deze kruiden worden gedurende de laatste 5-10 minuten meegekookt. Voor de toe te voegen hoeveelheid moet je wat experimenteren. Gebruik vooral niet teveel! Sommige kruiden overheersen snel in de smaak. Weeg de hoeveelheden af met een lepelweegschaal.
 
-```{r lepelweegschaal, fig.cap="Lepelweegschaal (0,1 gram nauwkeurig)", out.width="40%"}
+```{r lepelweegschaal, echo=FALSE, fig.cap="Lepelweegschaal (0,1 gram nauwkeurig)", out.width="40%"}
 knitr::include_graphics("images/lepelweegschaal.png")
 ```
 

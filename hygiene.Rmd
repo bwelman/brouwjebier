@@ -17,7 +17,7 @@ Schoonmaken is het verwijderen van vuil.
 1.  Grof en aangehecht vuil kun je verwijderen met water en een zachte borstel. Nog beter is het gebruik van schoonmakpads. Deze hebben een groter reinigingsoppervlak. Let er op dat je geen krassen maakt met schurende materialen, vooral op plastic. In krassen gaat gauw vuil zitten waar je moeilijker bij komt en waar micro-organismen in gaan zitten.
 2.  Maak hierna de spullen huishoudelijk schoon. Dat kan met water en een neutraal afwasmiddel  zonder geur- en kleurstoffen. Nog beter is het gebruik van speciale reinigingsmiddellen zoals de *Oxi-middelen* en *Enzybrew*.
 
-```{r schoonmaakmiddelen, fig.cap="Van links naar rechts: (neutraal) afwasmiddel, oxi, enzybrew.", out.width="40%"}
+```{r schoonmaakmiddelen, echo=FALSE, fig.cap="Van links naar rechts: (neutraal) afwasmiddel, oxi, enzybrew.", out.width="40%"}
 knitr::include_graphics("images/schoonmaakmiddelen.png")
 ```
 
@@ -62,6 +62,6 @@ Sulfiet (Kaliummetabisulfiet) is verkrijgbaar als een wit poeder, net als citroe
 -  Dosering: 1-2 gram gram sulfiet per liter water + 0,5 gram citroenzuur.
 -  Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Goed naspoelen met water.
 
-```{r desinfectiemiddelen, fig.cap="Destinfectiemiddelen: Starsan en Chemipro Oxi", out.width="25%"}
+```{r desinfectiemiddelen, echo=FALSE, fig.cap="Destinfectiemiddelen: Starsan en Chemipro Oxi", out.width="25%"}
 knitr::include_graphics("images/desinfectiemiddelen.png")
 ```

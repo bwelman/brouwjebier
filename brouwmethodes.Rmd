@@ -31,7 +31,7 @@ Dit is een gangbare methode bij de thuisbrouwer waarbij je werkt met twee pannen
 
 ### BIAB (Brew In A Bag)
 
-```{r biab, fig.cap="BIAB - Brouwen in een zak.", out.width="40%"}
+```{r biab, echo=FALSE, fig.cap="BIAB - Brouwen in een zak.", out.width="40%"}
 knitr::include_graphics("images/biab.png")
 ```
 
@@ -66,7 +66,7 @@ Voorbeelden:
 
 ### RIMS
 
-```{r rims, fig.cap="RIMS - schematische weergave.", out.width="40%"}
+```{r rims, echo=FALSE, fig.cap="RIMS - schematische weergave.", out.width="40%"}
 knitr::include_graphics("images/rims.png")
 ```
 
@@ -74,7 +74,7 @@ RIMS is een afkorting van *Recirculating Infusion Mash System*. Hierbij wordt he
 
 ### HERMS
 
-```{r herms, fig.cap="HERMS - schematische weergave.", out.width="50%"}
+```{r herms, echo=FALSE, fig.cap="HERMS - schematische weergave.", out.width="50%"}
 knitr::include_graphics("images/herms.png")
 ```
 

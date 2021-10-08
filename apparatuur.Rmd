@@ -19,7 +19,7 @@ Veel hobbybrouwers zijn ook handige doe-het-zelvers en maken een groot deel van 
 
 Deze heb je nodig voor het schroten van de mout. De goedkoopste uitvoering is een **schijvenmolen** en een wat duurdere variant is de **walsenmolen**. Een schijvenmolen vermaalt de mout wat meer. Een walsenmolen kneust de mout. Vaak kun je een schrootmolen wel bij een lid van het gilde lenen. De meeste molens kun je ook met een boormachine laten draaien.
 
-```{r schrootmolens, fig.cap="Twee soorten schrootmolens. Links een schijvenmolen en rechts een walsenmolen.", out.width="50%"}
+```{r schrootmolens, echo=FALSE, fig.cap="Twee soorten schrootmolens. Links een schijvenmolen en rechts een walsenmolen.", out.width="50%"}
 knitr::include_graphics("images/schrootmolens.png")
 ```
 
@@ -27,7 +27,7 @@ knitr::include_graphics("images/schrootmolens.png")
 
 Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen tot meerdere. Met of zonder kraan, met of zonder electrische verwarming, met of zonder volume-aanduiding, ... De grootte (het volume) hangt af van de hoeveelheid bier die je wilt brouwen. Een vuistregel is dat de pannen zo'n anderhalf tot twee keer groter moeten zijn als het te brouwen volume bier.
 
-```{r brouwketel-kraan, fig.cap="Brouwketel met kraan.", out.width="30%"}
+```{r brouwketel-kraan, echo=FALSE, fig.cap="Brouwketel met kraan.", out.width="30%"}
 knitr::include_graphics("images/brouwketel-kraan.png")
 ```
 
@@ -35,7 +35,7 @@ knitr::include_graphics("images/brouwketel-kraan.png")
 
 Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben. De opwarmsnelheid van de wort moet zo'n 0,5- 1^o^C per minuut zijn. Voor kleine ketels (tot 10 liter) kun je vaak de keuken gebruiken of een losse electrische kookplaat. Voor de wat grotere ketels zit je vaak wel aan gas vast.
 
-```{r gasbrander, fig.cap="Gasbrander", out.width="30%"}
+```{r gasbrander, echo=FALSE, fig.cap="Gasbrander", out.width="30%"}
 knitr::include_graphics("images/gasbrander.png")
 ```
 
@@ -46,7 +46,7 @@ Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende t
 -  *Dompelkoeler*, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
 -  *Tegenstroomkoeler*, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
 
-```{r wortkoeler, fig.cap="Links een dompelkoeler, rechts een platenkoeler.", out.width="50%"}
+```{r wortkoeler, echo=FALSE, fig.cap="Links een dompelkoeler, rechts een platenkoeler.", out.width="50%"}
 knitr::include_graphics("images/wortkoeler.png")
 ```
 
@@ -54,7 +54,7 @@ knitr::include_graphics("images/wortkoeler.png")
 
 Een wortfilter dient er voor om de vloeistof (wort) van de vaste stoffen (moutresten, kafjes) te scheiden. Het is niet moeilijk om er zelf een te maken die past bij de maischpan, zie figuur \@ref(fig:wortfilter).
 
-```{r wortfilter, fig.cap="Wortfilter van koper met hevel.", out.width="30%"}
+```{r wortfilter, echo=FALSE, fig.cap="Wortfilter van koper met hevel.", out.width="30%"}
 knitr::include_graphics("images/wortfilter.png")
 ```
 
@@ -67,7 +67,7 @@ Er zijn ook andere oplossingen zoals
 
 Er zijn allerlei soorten vaten te koop waarin je de vergisting kunt laten plaatsvinden. Ze verschillen in materiaal (glas, kunststof, RVS), in vorm (rond, konisch ondereind), al dan niet met aftapkranen voor het bier en/of gistdroesem. En natuurlijk verschillen ze in prijs.
 
-```{r gistvat, fig.cap="Gistvat van kunststof met aftapkraan.", out.width="25%"}
+```{r gistvat, echo=FALSE, fig.cap="Gistvat van kunststof met aftapkraan.", out.width="25%"}
 knitr::include_graphics("images/gistvat.png")
 ```
 
@@ -75,7 +75,7 @@ knitr::include_graphics("images/gistvat.png")
 
 Een gistvat moet van de buitenlucht worden afgesloten. Meestal wordt daarvoor een waterslot genomen. In figuur \@ref(fig:waterslot) zie je twee modellen. Links het klassieke slangmodel, rechts het cylindrische model. In beide gevallen wordt het waterslot gevuld met water waardoor het vat van de buitenlucht wordt afgesloten. Het koolzuurgas dat tijdens de vergisting in het vat ontstaat kan door de overdruk door het water borrelen, naar buiten toe. Het cylindrische model is beter schoon te maken en is ook beter geschikt bij een heftige vergisting.
 
-```{r waterslot, fig.cap="Waterslot, links een slangmodel, rechts een cylindrische model.", out.width="25%"}
+```{r waterslot, echo=FALSE, fig.cap="Waterslot, links een slangmodel, rechts een cylindrische model.", out.width="25%"}
 knitr::include_graphics("images/waterslot.png")
 ```
 
@@ -93,7 +93,7 @@ Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en
 
 Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
 
-```{r hydrometer-aflezing, fig.cap="Hydrometer met bijpassende maatcilinder.", out.width="50%"}
+```{r hydrometer-aflezing, echo=FALSE, fig.cap="Hydrometer met bijpassende maatcilinder.", out.width="50%"}
 knitr::include_graphics("images/hydrometer-aflezing.png")
 ```
 
@@ -105,7 +105,7 @@ In plaats van een hydrometer kun je ook een refractometer gebruiken.
 
 Wanneer je in beugelflessen bottelt heb je deze niet nodig.
 
-```{r kroonkurkapparaat, fig.cap="Kroonkurkapparaat.", out.width="25%"}
+```{r kroonkurkapparaat, echo=FALSE, fig.cap="Kroonkurkapparaat.", out.width="25%"}
 knitr::include_graphics("images/kroonkurkapparaat.png")
 ```
 
@@ -133,7 +133,7 @@ knitr::include_graphics("images/kroonkurkapparaat.png")
 
 Een refractometer meet de brekingsindex van licht door een vloeistof (bijvoorbeeld wort, bier, wijn). Aan de hand hiervan kan dan de hoeveelheid opgeloste suiker in een waterige vloeistof worden bepaald. Hoe meer opgeloste suiker, hoe meer het licht gebroken wordt. Een refractometer kan daarom gebruikt worden om de dichtheid (soortelijke massa) van een vloeistof te bepalen.
 
-```{r refractometer, fig.cap="Refractometer en de aflezing daarvan.", out.width="40%"}
+```{r refractometer, echo=FALSE, fig.cap="Refractometer en de aflezing daarvan.", out.width="40%"}
 knitr::include_graphics("images/refractometer.png")
 ```
 
@@ -155,6 +155,6 @@ Je kunt natuurlijk ook metingen uitvoeren met zowel de refractometer en een hydr
 
 Een gecontroleerde en juiste vergistingstemperatuur verhoogt de kwaliteit van het vergistingsproces en dus van je bier. Om dat te bereiken heb je een zogenaamde vergistingskast nodig. Veel hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro. Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ruimte ook gebruiken.
 
-```{r inkbird, fig.cap="Inkbird ITC-308 temperatuurregelaar.", out.width="30%"}
+```{r inkbird, echo=FALSE, fig.cap="Inkbird ITC-308 temperatuurregelaar.", out.width="30%"}
 knitr::include_graphics("images/inkbird.png")
 ```

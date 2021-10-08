@@ -11,7 +11,7 @@
 
 In grote lijnen gaat het maken van bier als volgt:
 
-```{r brouwproces, fig.cap="Het brouwproces in grote lijnen.", out.width="100%"}
+```{r brouwproces, echo=FALSE, fig.cap="Het brouwproces in grote lijnen.", out.width="100%"}
 knitr::include_graphics("images/brouwproces.png")
 ```
 
@@ -30,7 +30,7 @@ In het begin krijg je zo'n recept vaak van anderen, maar al snel zul je een eige
 
 Binnen in de gerstkorrel zit zetmeel. Om het zetmeel in suikers om te zetten heb je de hulp van verschillende enzymen (een bepaald soort eiwitten) nodig. Echter in onbehandelde brouwgerst zitten deze enzymen niet. Vandaar dat onbehandelde brouwgerst niet geschikt is voor het brouwen van bier.
 
-```{r moutsoorten, fig.cap="Drie moutsoorten: van een donkere kleur naar een lichtere kleur.", out.width="40%"}
+```{r moutsoorten, echo=FALSE, fig.cap="Drie moutsoorten: van een donkere kleur naar een lichtere kleur.", out.width="40%"}
 knitr::include_graphics("images/moutsoorten.png")
 ```
 
@@ -46,7 +46,7 @@ Als voorbereiding op het echte brouwen ga je alle ingrediënten eerst afwegen. D
 
 Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken worden. Dat heet **schroten**. Met behulp van een schrootmolen worden de korrels gekneusd zodat er een breuk in de korrel ontstaat waardoor het water bij het binnenste (het zetmeel) kan komen. Verwar het niet met fijnmalen. De kafjes die om de korrel zitten moeten zoveel mogelijk heel blijven, zie figuur \@ref(fig:schrootsel). Deze kafjes helpen je later bij het filteren van het bier. Als je het mout te fijn schroot kun je later problemen met het filteren krijgen. En ook loop je dan de kans dat er meer ongewenste stoffen uit de kaf van het mout vrijkomen, wat de kwaliteit van het bier niet ten goede komt.
 
-```{r schrootsel, fig.cap="Mooi schrootsel, niet te fijn.", out.width="40%"}
+```{r schrootsel, echo=FALSE, fig.cap="Mooi schrootsel, niet te fijn.", out.width="40%"}
 knitr::include_graphics("images/schrootsel.png")
 ```
 
@@ -76,7 +76,7 @@ Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in 
     -  *Blauwkleuring* wijst op de aanwezigheid van zetmeel. Je moet dan nog wat langer maischen.
     -  Blijft de kleur *bruin*, dan is alle zetmeel omgezet. Het maischproces is dan klaar.
 
-```{r jodiumtest, fig.cap="Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.", out.width="40%"}
+```{r jodiumtest, echo=FALSE, fig.cap="Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.", out.width="40%"}
 knitr::include_graphics("images/jodiumtest.png")
 ```
 

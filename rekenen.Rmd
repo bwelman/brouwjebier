@@ -113,7 +113,7 @@ Van een mout kun je maar een bepaald percentage van de massa omzetten in extract
 
 In tabel \@ref(tab:extracten) is de werkelijke extractwaarde voor een paar moutsoorten berekend. Zo is het werkelijke potentieel extract voor pilsmout $80\% \times (100\% - 4,5\%) = 80\% \times 95,5\% = 76,4\%$.
 
-```{r extracten}
+```{r extracten, echo=FALSE}
 # namen (N), potentieel extract (PE) en vochtigheid (V) opnemen in dataframe
 mout.dingemans <- data.frame(
 	N = c("Pilsmout", "Münchener", "Amber 50", "Cara 120", "Special B", "Chocolademout", "Tarwemout"),
@@ -221,7 +221,7 @@ Deze eenvoudige recht toe recht aan formule wordt door alle software programma�
 
 Gebruik tabel \@ref(tab:dhr-simpel) voor een eenvoudige schatting van het digitaal hoprendement (DHR).
 
-```{r dhr-simpel}
+```{r dhr-simpel, echo=FALSE}
 dhr.simpel <- data.frame(
 	hopsoort = c("Bitterhop", "Smaakhop", "Aromahop", "Dryhop"),
 	kooktijd = c(">= 60", "10-30", "< 10", ""),
@@ -245,7 +245,7 @@ Deze eenvoudige methode  geeft redelijk goede schattingen. Daarnaast zijn er ver
 
 De brouwprogramma’s, zie hoofdstuk \@ref(brouwsoftware), bieden vaak één of meerdere van deze methodes aan. Meestal is Tinseth de standaardkeuze.
 
-```{r ebumethode}
+```{r ebumethode, echo=FALSE}
 ebumethode <- data.frame(
 	Brouwprogramma = c("Brouwhulp", "Brouwvisie", "BrOdeLuxe"),
 	Daniels = c("x", "x", ""),

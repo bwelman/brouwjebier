@@ -16,7 +16,7 @@
 
 Gisten zijn eencellige micro-organismen, behorende tot de schjimmels. De gist is verantwoordelijk voor het omzetten van wort in bier door suiker om te zetten in alkohol en koolstofdioxide. Tijdens de vergisting van de wort ontstaan diverse smaakcomponenten. Een zeer groot gedeelte van de smaak van het bier wordt bepaald door stoffen die gevormd zijn door de gist. De gebruikte gist bepaalt dan ook in belangrijke mate de smaak van het bier. Verander je van gist dan verandert ook de smaak van je bier. Het ontstaan van deze smaken is deels controleerbaar door de temperatuur en de soort gist.
 
-```{r gistafbeelding, fig.cap="Microscopisch beeld van een droge bovengist (bron Fermentis).", out.width="40%"}
+```{r gistafbeelding, echo=FALSE, fig.cap="Microscopisch beeld van een droge bovengist (bron Fermentis).", out.width="40%"}
 knitr::include_graphics("images/gistafbeelding.png")
 ```
 
@@ -34,7 +34,7 @@ In een **aeroob** (= zuurstofrijk) milieu gaat de gist zich vooral vermenigvuldi
 
 Na de vermeerdering begint een **anaeroob** (= zonder zuurstof) proces, de hoofdgisting, waarbij de alcohol ontstaat. Deze fase verloopt meestal heftig en er ontstaat een dikke laag bruin schuim bovenop de vloeistof. Deze laag wordt ook wel *Krausen* genoemd, zie figuur \@ref(fig:krausen). Het ontstaan van zo'n laag is een zichtbaar teken dat de gist actief is en dat de gisting plaatsvindt. De Krausen bestaat voornamelijk uit levende en dode gistcellen, overtollige eiwitten en andere bijproducten van gistgroei, evenals enkele verbindingen afgeleid van de hop. Je kunt de Krausen ook zien als een indicator van hoe krachtig de gisting verloopt. Een langzame vergisting produceert een dunnere laag Krausen dan een snelle vergisting.
 
-```{r krausen, fig.cap="Gistend bier met Krausen.", out.width="30%"}
+```{r krausen, echo=FALSE, fig.cap="Gistend bier met Krausen.", out.width="30%"}
 knitr::include_graphics("images/krausen.png")
 ```
 
@@ -53,7 +53,7 @@ De beste manier om vast te stellen of de vergisting is afgelopen is door het SG 
 
 In brouwerijen worden twee gistsoorten vaak gebruikt: Saccharomyces cereviae (bovengist) en Saccharomyces pastorianus (ondergist). van deze twee soorten zijn echter verscheidene *giststammen (ondersoorten)* die door brouwers gebruikt worden. In tabel \@ref(tab:tabel-gistsoorten) staan een aantal kenmerken van deze twee gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de gebruikte gist.
 
-```{r tabel-gistsoorten}
+```{r tabel-gistsoorten, echo=FALSE}
 gistsoort <- data.frame(
 	Kenmerk = c("Latijnse naam", "Temperatuur (C)", "Vergistingstijd", "Biersoorten"),
 	Bovengist = c("Saccharomyces cereviae", "16-22", "3-6 dagen", "ales"),
@@ -161,11 +161,11 @@ Het is het handigste om meteen vanaf het begin alles in een erlenmeyer uit te vo
 Verder is het gebruik van een magneetroerder erg nuttig omdat voor de gistgroei zuurstof nodig is. De roersnelheid moet zodanig zijn dat een een kleine trechter (vortex) in de vloeistof getrokken wordt. Sneller roeren is niet nodig. Wanneer je niet over een roerder beschikt moet je de oplossing regelmatig schudden en zwenken zodat er zoveel mogelijk zuurstof in de oplossing komt. Een alternatief is beluchten met een steriel luchtfiltertje en een pompje.
 
 
-```{r giststarter, fig.cap="Giststarter op magneetroerder", out.width="30%"}
+```{r giststarter, echo=FALSE, fig.cap="Giststarter op magneetroerder", out.width="30%"}
 knitr::include_graphics("images/giststarter.png")
 ```
 
-::: {.guidedpractice}
+:::{.guidedpractice}
 **Recept voor 1 liter giststarter**
 
 1.  Weeg 100 gram moutextractpoeder af en doe deze in een voldoend grote erlenmeyer.

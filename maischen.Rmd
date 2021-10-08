@@ -19,7 +19,7 @@ Een *enzym* is een eiwit dat als katalysator fungeert bij een bepaalde chemische
 
 De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op *ase* en wordt voorafgegaan door het begindeel van de naam van het substraat. Ook is een enzym reactie- en substraatspecifiek, dat wil zeggen dat een enzym slechts één type reactie katalyseert bij een bepaald substraat. Een paar voorbeelden:
 
-```{r tabel-enzymen}
+```{r tabel-enzymen, echo=FALSE}
 mono <- data.frame(Substraat = c("maltose (moutsuiker)", "amylose (zetmeel)", "proteïne (eiwit)", "cellulose"), 
 				   Enzym = c("maltase", "amylase", "proteinase", "cellulase"))
 mono %>% 
@@ -33,7 +33,7 @@ Een goede werking van enzymen is afhankelijk van verschillende factoren. De bela
 
 Net als bij andere chemische reacties verlopen reacties waarbij enzymen betrokken zijn sneller wanneer de temperatuur hoger wordt. Echter bij een te hoge temperatuur kunnen enzymen degenereren waardoor ze niet meer werken. En deze degeneratie kan niet meer ongedaan gemaakt worden. De enzymactiviteit stijgt dus bij het toenemen van de temperatuur tot een maximale waarde en neemt daana weer af, zie figuur \@ref(fig:enzymactiviteit).
 
-```{r enzymactiviteit, fig.cap="Verband tussen enzymactiviteit en temperatuur", out.width="40%"}
+```{r enzymactiviteit, echo=FALSE, fig.cap="Verband tussen enzymactiviteit en temperatuur", out.width="40%"}
 knitr::include_graphics("images/enzymactiviteit.png")
 ```
 
@@ -60,7 +60,7 @@ Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in ee
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
-::: {.tip}
+:::{.tip}
 Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
 :::
 
@@ -106,13 +106,13 @@ Alpha-amylaserust: zorgt voor volmondiger bier.
 
 In figuur \@ref(fig:maischtabel) zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
 
-```{r maischtabel, fig.cap="Overzicht maischstappen, enzymen, pH en invloed temperatuur en rusttijd.", out.width="100%"}
+```{r maischtabel, echo=FALSE, fig.cap="Overzicht maischstappen, enzymen, pH en invloed temperatuur en rusttijd.", out.width="100%"}
 knitr::include_graphics("images/maischtabel.png")
 ```
 
 En in figuur \@ref(fig:infusie-3staps) zie je een grafiek van het temperatuurverloop tegen de tijd bij een 3-staps infusieproces.
 
-```{r infusie-3staps, fig.cap="Voorbeeld maischstappen in een infusieproces", out.width="100%"}
+```{r infusie-3staps, echo=FALSE, fig.cap="Voorbeeld maischstappen in een infusieproces", out.width="100%"}
 
 infusie3 <- tibble(tijd = c(0, 30,45,57,97,108,133,138,143),
 					temp = c(20,50,50,62,62,72,72,78,78))
