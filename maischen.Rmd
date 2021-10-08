@@ -73,7 +73,7 @@ Werkzame enzym: *Proteinase*
 In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens, onder andere aminozuren. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit, de body en een goede vergisting. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
 ```{block2, type="important"}
-Eiwitrust (optioneel): zorgt voor betere schuimkraag en vergisting.
+**Eiwitrust** (optioneel): zorgt voor betere schuimkraag en vergisting.
 
 ```
 
@@ -86,7 +86,7 @@ Werkzame enzym: *Beta-Amylase*
 In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suikers. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
 ```{block2, type="important"}
-Beta-amylaserust: zorgt voor meer alcohol en droger bier.
+**Beta-amylaserust**: zorgt voor meer alcohol en droger bier.
 
 ```
 
@@ -101,7 +101,7 @@ Breekt het overgebleven zetmeel af tot vergistbare en vooral onvergistbare suike
 Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er nog zetmeel in het beslag zit. Zoja, dan moet je de rusttijd nog wat langer laten duren.
 
 ```{block2, type="important"}
-Alpha-amylaserust: zorgt voor volmondiger bier.
+**Alpha-amylaserust**: zorgt voor volmondiger bier.
 
 ```
 
