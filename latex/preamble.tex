@@ -1,32 +1,41 @@
-\usepackage[dutch]{babel}
+\usepackage[english, dutch]{babel}
 \usepackage{booktabs}
-\usepackage{float}
-\floatplacement{figure}{H}
-\pagestyle{plain} % Geen headers, footers bevat alleen paginanr gecentreerd
+%\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{framed}
+\setlength{\fboxsep}{.8em}
 
-% Nieuwe environment voor Rmd notitie
-\newenvironment{rmdblock}[1]
-  {
-    \begin{minipage}[t]{0.1\textwidth}
-        \includegraphics{images/#1}
-    \end{minipage}
-    \begin{minipage}{0.9\textwidth}
-  }
-  { \end{minipage}
-  }
-\newenvironment{rmdidea}
-  {\begin{rmdblock}{icon-idea}}
-  {\end{rmdblock}}
-\newenvironment{rmdinfo}
-  {\begin{rmdblock}{icon-info}}
-  {\end{rmdblock}}
-\newenvironment{rmdwarning}
-  {\begin{rmdblock}{icon-warning}}
-  {\end{rmdblock}}
-
+% Nieuwe environment voor Rmd notities
 \newenvironment{graybox}{
-  \definecolor{shadecolor}{rgb}{0.83, 0.83, 0.83}  % light gray
+  \definecolor{shadecolor}{rgb}{0.9, 0.9, 0.9}  % licht grijs
   \begin{shaded}}
  {\end{shaded}}
+
+\newenvironment{tip}
+  {
+    \begin{minipage}[t]{0.1\textwidth}
+        \includegraphics{images/icons/tip2.png}
+    \end{minipage}
+    \begin{minipage}{0.9\textwidth}
+        \definecolor{shadecolor}{HTML}{F5F5F5}
+        \begin{shaded}
+  }
+  {     \end{shaded}
+    \end{minipage}
+  }  
+
+\newenvironment{important}
+  {
+    \begin{minipage}[t]{0.1\textwidth}
+        \includegraphics{images/icons/important2.png}
+    \end{minipage}
+    \begin{minipage}{0.9\textwidth}
+        \definecolor{shadecolor}{HTML}{F5F5F5}
+        \begin{shaded}
+  }
+  {     \end{shaded}
+    \end{minipage}
+  } 
 
 \frontmatter
