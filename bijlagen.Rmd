@@ -1,0 +1,10 @@
+# (APPENDIX) Bijlagen {-}
+
+```{r child="app-bkgtabel.Rmd"}
+```
+
+```{r child="app-gildes.Rmd"}
+```
+
+```{r child="app-webwinkels.Rmd"}
+```

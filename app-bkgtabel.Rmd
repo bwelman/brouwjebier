@@ -1,5 +1,3 @@
-# (APPENDIX) Bijlagen {-}
-
 # BKG Biertypen {#app-bkgtabel}
 
 Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}

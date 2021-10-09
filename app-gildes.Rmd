@@ -1,59 +1,59 @@
 # Gildes/Verenigingen {#app-gildes}
 
-## België
+**België**
 
 -  [Zythos](https://www.zythos.be/), een confederatie van Vlaamse bierproefverenigingen
 
-## Nederland
+**Nederland**
 
-**Drente**
+*Drente*
 
 -  [Hoogeveen: D.A.B. de Wortketel](https://www.wortketel.nl/){target="_blank"}
 
-**Flevoland**
+*Flevoland*
 
 -  [Almere: Gambrinus](http://biergildegambrinus.nl/){target="_blank"}
 
-**Friesland**
+*Friesland*
 
 -  [Reahûs: De Koperen Tsjettel, ](https://dekoperentsjettel.nl){target="_blank"}
 
-**Gelderland**
+*Gelderland*
 
 -  [Zutphen: De Roode Toren](http://roodetoren.nl/){target="_blank"}
 -  [Nijmegen: Triple-W](https://www.triple-w.org/){target="_blank"}
 
-**Groningen**
+*Groningen*
 
 -  [Groningen: Biergilde Groningen](http://biergildegroningen.nl/){target="_blank"}
 
-**Limburg**
+*Limburg*
 
 -  [Melderslo: Dionysos](https://www.gildedionysos.nl/){target="_blank"}
 
-**Noord-Brabant**
+*Noord-Brabant*
 
 -  [Bergen op Zoom: Bergsche Bierbrouwersgilde](https://www.bierbrouwersgilde.nl/){target="_blank"}
 -  [Tilburg: De Roerstok](https://www.roerstok.nl/){target="_blank"}
 -  [Roosendaal: Roosendaals Biergilde](http://www.roosendaalsbiergilde.nl/){target="_blank"}
 
-**Noord-Holland**
+*Noord-Holland*
 
 -  [Heemskerk: Kennemer Wijn en Biergilde KWBG](http://www.kwbg.nl/){target="_blank"}
 -  [Hoofddorp: `t Wort Wat!](https://www.twortwat.nl){target="_blank"}
 
-**Overijssel**
+*Overijssel*
 
 - [Hengelo: Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}
 
-**Utrecht**
+*Utrecht*
 
 -  [Amersfoort: De Amervallei](https://amervallei.nl/){target="_blank"}
 
-**Zeeland**
+*Zeeland*
 
 -  [Goes: Deltabrouwers](http://www.deltabrouwers.nl/){target="_blank"}
 
-**Zuid-Holland**
+*Zuid-Holland*
 
 -  [Delft: Delfts Wijn- en Bier Gilde DWBG](https://dwbg.nl/){target="_blank"}
