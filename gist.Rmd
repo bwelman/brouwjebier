@@ -98,7 +98,9 @@ En over het al dan niet hydrateren wordt verschillend gedacht. Bij een door fabr
 
 De massa water die je nodig hebt voor het hydrateren is ongeveer 10 keer de massa van de hoeveelheid te gebruiken korrelgist. Gebruik je 1 zakje met 11,5 gram korrelgist, dan heb je dus 115 gram (= 115 ml) water nodig. In plaats van steriel water kun je nog beter gehopte wort gebruiken, omdat de iso-alfazuren hierin een bescherming tegen infecties bieden.  Het hydrateren kun je het beste uitvoeren in een bekerglas, erlenmeyer, fles of kopje. Zorg wel dat deze schoon en gedesinfecteerd is. Het water moet je eerst even koken. Bij gebruik van glazen voorwerpen is een magnetron dan erg handig. Het water moet je daarna afkoelen tot 20-28 ^o^C.
 
-::: {.guidedpractice}
+```{block2, type="praktijk"}
+**Hydrateren korrelgist**
+	
 1.  Desinfecteer de erlenmeyer.
 1.  Voeg het water toe en laat het eventueel afkoelen tot 20-28 ^o^C.
 1.  Strooi de korrelgist voorzichtig op de oppervlakte van het water. Niet roeren!
@@ -108,7 +110,8 @@ De massa water die je nodig hebt voor het hydrateren is ongeveer 10 keer de mass
 1.  Laat de suspensie 10-15 min. ongestoord en afgedekt staan.
 1.  Voeg kleine hoeveelheden afgekoelde wort aan de gistsuspensie toe. Roer voorzichtig. Ga hiermee door tot de temperatuur van het mengsel ongeveer gelijk is aan de temperatuur van de wort in het gistvat.
 1.  Voeg de gistsuspensie daarna direct toe aan de wort in het gistvat.
-:::
+
+```
 
 ### Vloeibare gist
 
@@ -167,7 +170,7 @@ Verder is het gebruik van een magneetroerder erg nuttig omdat voor de gistgroei 
 knitr::include_graphics("images/giststarter.png")
 ```
 
-:::{.guidedpractice}
+```{block2, type="praktijk"}
 **Recept voor 1 liter giststarter**
 
 1.  Weeg 100 gram moutextractpoeder af en doe deze in een voldoend grote erlenmeyer.
@@ -188,4 +191,5 @@ knitr::include_graphics("images/giststarter.png")
 1.  Wanneer de giststarter uit de koelkast komt, laat deze dan eerst op de temperatuur van de wort komen. Zorg dat daar voldoende tijd voor beschikbaar is.
 1.  Schud de erlenmeyer zodat je een mooie suspensie van de gist krijgt.
 1.  Voeg de gistsuspensie aan de inhoud van het gistvat toe.
-:::
+
+```

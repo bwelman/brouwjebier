@@ -8,7 +8,7 @@
 
 % Nieuwe environment voor Rmd notities
 \newenvironment{graybox}{
-  \definecolor{shadecolor}{rgb}{0.9, 0.9, 0.9}  % licht grijs
+  \definecolor{shadecolor}{HTML}{F5F5F5}  % licht grijs
   \begin{shaded}}
  {\end{shaded}}
 
@@ -29,6 +29,32 @@
   {
     \begin{minipage}[t]{0.1\textwidth}
         \includegraphics{images/icons/important2.png}
+    \end{minipage}
+    \begin{minipage}{0.9\textwidth}
+        \definecolor{shadecolor}{HTML}{F5F5F5}
+        \begin{shaded}
+  }
+  {     \end{shaded}
+    \end{minipage}
+  } 
+
+\newenvironment{praktijk}
+  {
+    \begin{minipage}[t]{0.1\textwidth}
+        \includegraphics{images/icons/praktijk2.png}
+    \end{minipage}
+    \begin{minipage}{0.9\textwidth}
+        \definecolor{shadecolor}{HTML}{F5F5F5}
+        \begin{shaded}
+  }
+  {     \end{shaded}
+    \end{minipage}
+  } 
+
+\newenvironment{voorbeeld}
+  {
+    \begin{minipage}[t]{0.1\textwidth}
+        \includegraphics{images/icons/voorbeeld2.png}
     \end{minipage}
     \begin{minipage}{0.9\textwidth}
         \definecolor{shadecolor}{HTML}{F5F5F5}

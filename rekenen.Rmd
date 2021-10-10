@@ -88,11 +88,12 @@ Eenvoudige benaderingsformules zijn:
 
 -  via SG: $Plato = 250 \times (SG - 1)$ en $SG = 1 + \frac{Plato}{250}$
 
-::: {.workedexample}
+```{block2, type="voorbeeld"}
 Voor een wort met $SG = 1,050$ is dan 
 
 $\text{SG-punten} = 50$ en $Plato = \frac{50}{4} = 12,5$.
-:::
+
+```
 
 Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
 

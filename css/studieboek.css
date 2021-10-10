@@ -13,21 +13,21 @@
   background-position: 0.5em 1.5em;
 }
 
-/* guidedpractice */
+/* praktijk (guidedpractice) */
 
-.guidedpractice {
+.praktijk {
   padding: 1em 1em 1em 4em;
   margin-top: 30px;
   margin-bottom: 30px;
   background: #f8f8f8 5px center/3em no-repeat;
   border-top: 1px solid #569BBD;
   border-bottom: 1px solid #569BBD;
-  background-image: url("../images/icons/guided-practice.png");
+  background-image: url("../images/icons/praktijk.png");
   background-position: 0.5em 1em;
 }
 
-.guidedpractice:before {
-  content: "Begeleide oefening:";
+.praktijk:before {
+  content: "Praktijk:";
   clear: right;
   display: block;
   font-weight: bold;
@@ -35,20 +35,20 @@
   color: #569BBD;
 }
 
-/* workedexample */
+/* voorbeeld (workedexample) */
 
-.workedexample{
+.voorbeeld{
   padding: 1em 1em 1em 4em;
   margin-top: 30px;
   margin-bottom: 30px;
   background: #f8f8f8 5px center/3em no-repeat;
   border-top: 1px solid #569BBD;
   border-bottom: 1px solid #569BBD;
-  background-image: url("../images/icons/example.png");
+  background-image: url("../images/icons/voorbeeld.png");
   background-position: 0.5em 1em;
 }
 
-.workedexample:before {
+.voorbeeld:before {
   content: "Voorbeeld:";
   clear: right;
   display: block;

@@ -131,10 +131,11 @@ Omdat moutextract een geconcentreerde vorm van mout is, heb je er minder van nod
 
 Moutextractpoeder is zeer geschikt voor het maken van een [giststarter]. Ook kun je moutextractpoeder gebruiken ter vervanging van suiker in het recept. De bieren worden hierdoor minder droog en krijgen een rijkere smaak, meer body en een mooiere stabiele schuimkraag. 
 
-:::{.workedexample}
+```{block2, type="voorbeeld"}
 + Vervang de helft van het gewicht aan suiker door een even groot gewicht aan moutextractpoeder. Bijvoorbeeld i.p.v. 1 kg suiker voeg je dan 500 gram suiker en 500 gram moutextractpoeder toe.
 + Vervang de suiker volledig door een even groot gewicht aan moutextractpoeder. Dus 1 kg suiker vervangen door 1 kg moutextractpoeder. Het bier krijgt hierdoor een hoger moutpercentage, een rijke smaak en een vollere body.
-:::
+
+```
 
 <!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
 
