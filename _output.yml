@@ -2,6 +2,7 @@ bookdown::bs4_book:
   includes:
     in_header: google_analytics.html
   css: [css/studieboek.css]
+  template: "S:/tools/bs4_book_nl.html"
   theme:
     primary: "#569BBD"
     fg: "#2b2121"

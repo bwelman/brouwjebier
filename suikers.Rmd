@@ -3,7 +3,7 @@
 ```{block2, type="chapterintro"}
 **Doelstellingen**
 
--  Je kent het verschil tussen vergistbare en overgistbare suikers.
+-  Je kent het verschil tussen vergistbare en onvergistbare suikers.
 -  Je kent de indeling van suikers in verschillende soorten.
 -  Je kent de rol van de verschillende soorten suikers.
 -  Je weet welke soorten suikers in de wort zitten.
