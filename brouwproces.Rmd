@@ -1,11 +1,12 @@
 # Brouwproces - Basis {#basis}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je moet de verschillende stappen in het brouwproces kunnen benoemen.
 -  Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
-:::
+
+```
 
 ## Het proces in grote lijnen {#b-start}
 

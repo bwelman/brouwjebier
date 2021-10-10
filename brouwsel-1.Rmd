@@ -1,6 +1,6 @@
 # Brouwsel-1 {#brouwsel-1}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
@@ -9,7 +9,8 @@
 -  Je maakt kennis met de belangrijkste kenmerken van het biertype.
 -  Je leert omgaan met brouwapparatuur.
 -  Je leert hoe je apparatuur moet reinigen en desinfecteren.
-:::
+
+```
 
 ## Inleiding {#b1-inleiding}
 

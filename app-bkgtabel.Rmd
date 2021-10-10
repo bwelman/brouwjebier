@@ -17,7 +17,7 @@ lijst <- list(kla, klb, klc, kld)
 bkg.tabel <- Reduce(function(x,y,...) merge(x,y, all=TRUE,...), lijst) %>% select(-id)
 
 bkg.tabel %>%
-	kbl(caption = "Tabel biertypen volgens BKG", position = "!h") %>%
+	kbl(caption = "Tabel biertypen volgens BKG", position = "!ht") %>%
 	kable_styling(latex_options = "scale_down", bootstrap_options = c("condensed", "responsive"), font_size = 12)
 ```
 

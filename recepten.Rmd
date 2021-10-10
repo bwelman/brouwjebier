@@ -1,12 +1,13 @@
 # Recepten
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je weet hoe je aan een goed recept kunt komen.
 -  Je kunt een bestaand recept aanpassen aan de eigen installatie.
 -  Je kunt zelf een eenvoudig recept opstellen aan de hand van gewenste kenmerken.
-:::
+
+```
 
 ## Hoe verkrijg je een recept
 
@@ -70,7 +71,7 @@ biertype.bv <- data.frame(
 
 biertype.bv %>% 
     kbl(col.names = c("Biertype", "Begin SG", "Gemid. SGpunten", "EBU", "Gemid. EBU", "BV"), 
-        caption = "Twee biertypes en hun bitterheidsverhouding (BV)", position = "!h") %>%
+        caption = "Twee biertypes en hun bitterheidsverhouding (BV)", position = "!ht") %>%
     kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 

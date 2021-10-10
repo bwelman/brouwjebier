@@ -1,11 +1,12 @@
 # Brouwmethodes {#brouwmethodes}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je leert een aantal brouwmethodes kennen.
 -  Je maakt kennis met een paar verschillende brouwinstallaties.
-:::
+
+```
 
 ## Methodes
 

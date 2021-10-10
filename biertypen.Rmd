@@ -1,10 +1,11 @@
 # Biertypen {#biertypen}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je maakt kennis met biertypenlijsten
-:::
+
+```
 
 ## BKG Biertypen {#bkg-biertypen}
 

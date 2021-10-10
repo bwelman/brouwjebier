@@ -1,13 +1,14 @@
 # (PART) Deel 1 {-}
 # Over bier {#over-bier}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je moet in hoofdlijnen aan kunnen geven hoe bier ontstaan is.
 -  Je moet weten uit welke grondstoffen bier gemaakt wordt.
 -  Je moet weten wat het Reinheitsgebot inhoudt.
-:::
+
+```
 
 ## Geschiedenis
 

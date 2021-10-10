@@ -1,6 +1,6 @@
 # Maischen {#maischen}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je weet wat de rol is van enzymen.
@@ -9,7 +9,8 @@
 -  Je kunt aangeven wat er bij de beta-amylase gebeurt.
 -  Je weet wat de invloed is van de tijdsduur en de temperatuur bij de maischstappen.
 -  Je kunt een maisschema opstellen.
-:::
+
+```
 
 ## Enzymen
 
@@ -23,7 +24,7 @@ De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op 
 mono <- data.frame(Substraat = c("maltose (moutsuiker)", "amylose (zetmeel)", "proteïne (eiwit)", "cellulose"), 
 				   Enzym = c("maltase", "amylase", "proteinase", "cellulase"))
 mono %>% 
-	kbl(caption = "Substraten en enzymen", position="!h") %>% 
+	kbl(caption = "Substraten en enzymen", position="!ht") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 

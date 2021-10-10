@@ -1,11 +1,12 @@
 # Kruiden
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je kent een aantal kruiden/specerijen die bij de bierbereiding gebruikt kunnen worden en wat het effect ervan is.
 -  Je weet op welk moment je kruiden kunt toevoegen, alsmede hoeveel ervan.
-:::
+
+```
 
 ## Welke kruiden?
 

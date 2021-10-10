@@ -1,12 +1,13 @@
 # Hygiene {#hygiene}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je moet weten hoe belangrijk het schoonmaken en desinfecteren is.
 -  Je moet weten hoe en waarmee je apparatuur kunt schoonmaken en desinfecteren.
 -  Je moet weten op welk moment in het brouwproces je moet desinfecteren.
-:::
+
+```
 
 ## Schoonmaken
 

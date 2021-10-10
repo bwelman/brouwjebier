@@ -1,14 +1,15 @@
 # (PART) Deel 3 {-}
 # Hop {#hop}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je leert waarom hop bij de bierbereiding wordt gebruikt.
 -  Je leert wat er met de hop gebeurt tijdens het koken.
 -  Je maakt kennis met het alfazuurpercentage van hop.
 -  Je leert het verschil kennen tussen bitterhoppen en aromahoppen en de momenten waarop deze toegevoegd worden.
-:::
+
+```
 
 ## Wat zit er in hop
 
@@ -54,7 +55,7 @@ df <- tribble(
 	"Zeer Bitter", "> 40"
 )
 df %>% 
-	kbl(caption = "Ervaringen bitterheid", position="!h") %>%
+	kbl(caption = "Ervaringen bitterheid", position="!ht") %>%
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 

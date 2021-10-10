@@ -1,6 +1,6 @@
 # Rekenen {#rekenen}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je weet wat de volgende begrippen inhouden:
@@ -8,7 +8,8 @@
     +  Bitterheid (IBU)
     +  Kleur (EBC)
 -  Je kunt globaal berekenen hoeveel mout, water (maisch- en spoelwater) en hop je nodig hebt.
-:::
+
+```
 
 ## Extractgehalte
 

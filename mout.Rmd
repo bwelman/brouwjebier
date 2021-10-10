@@ -1,14 +1,15 @@
 # (PART) Deel 2 {-}
 # Mout
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je weet wat het moutproces inhoudt.
 -  Je weet hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
 -  Je leert de basismouten kennen en een aantal speciale mouten.
 -  Je weet waarom speciale mouten gebruikt worden.
-:::
+
+```
 
 ## Wat is mout
 

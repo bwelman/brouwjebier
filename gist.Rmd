@@ -1,6 +1,6 @@
 # Gist {#gist}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je weet wat gist is en wat het doet.
@@ -10,7 +10,8 @@
 -  Je weet hoe je de benodigde hoeveelheid gist voor een brouwsel kunt bepalen.
 -  Je kunt aangeven wanneer je een giststarter moet gebruiken.
 -  Je kunt een giststarter maken.
-:::
+
+```
 
 ## Wat is en doet gist
 
@@ -60,7 +61,7 @@ gistsoort <- data.frame(
 	Ondergist = c("Saccharomyces pastorianus", "8-15", "2-6 weken", "pils")
 )
 gistsoort %>% 
-	kbl(caption = "Kenmerken gistsoorten", position = "!h") %>% 
+	kbl(caption = "Kenmerken gistsoorten", position = "!ht") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 

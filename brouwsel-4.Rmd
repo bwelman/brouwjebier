@@ -1,6 +1,6 @@
 # Brouwsel-4 {#brouwsel-4}
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je kunt eisen/wensen voor een te maken bier formuleren.
@@ -11,7 +11,8 @@
 -  Je kunt het bier volgens het opgestelde recept brouwen.
 -  Je kunt beoordelen of het gemaakte bier aan de eisen/wensen voldoet.
 -  Je kunt eventuele afwijkingen vaststellen en aangeven waardoor deze zijn ontstaan.
-:::
+
+```
 
 ## Huiswerk {#b4-huiswerk}
 

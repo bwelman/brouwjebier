@@ -1,6 +1,6 @@
 # Suikers
 
-:::{.chapterintro}
+```{block2, type="chapterintro"}
 **Doelstellingen**
 
 -  Je kent het verschil tussen vergistbare en overgistbare suikers.
@@ -8,7 +8,8 @@
 -  Je kent de rol van de verschillende soorten suikers.
 -  Je weet welke soorten suikers in de wort zitten.
 -  Je weet hoe en waardoor de verschillende suikers worden afgebroken.
-:::
+
+```
 
 ## Wat zijn suikers?
 
@@ -22,7 +23,7 @@ Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)
 mono <- data.frame(Naam = c("Glucose", "Fructose", "Galactose"), 
 				   Alias = c("Druivensuiker, Dextrose", "Vruchtensuiker", ""))
 mono %>% 
-	kbl(caption = "Monosachariden", position="!h") %>% 
+	kbl(caption = "Monosachariden", position="!ht") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
@@ -36,7 +37,7 @@ di <- data.frame(Naam = c("Sacharose", "Maltose", "Lactose"),
 				 Verbinding = c("Glucose ~ Fructose", "Glucose ~ Glucose", "Glucose ~ Galactose"), 
 				 Splitsingsenzym = c("Saccharase", "Maltase", "Lactase"))
 di %>% 
-	kbl(caption = "Disachariden", position="!h") %>% 
+	kbl(caption = "Disachariden", position="!ht") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
 ```
 
