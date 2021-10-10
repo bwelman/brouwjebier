@@ -71,8 +71,8 @@ biertype.bv <- data.frame(
 
 biertype.bv %>% 
     kbl(col.names = c("Biertype", "Begin SG", "Gemid. SGpunten", "EBU", "Gemid. EBU", "BV"), 
-        caption = "Twee biertypes en hun bitterheidsverhouding (BV)", position = "!ht") %>%
-    kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+        caption = "Twee biertypes en hun bitterheidsverhouding (BV)", position = "!ht", booktabs = TRUE) %>%
+    kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
 \newpage

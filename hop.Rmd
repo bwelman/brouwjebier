@@ -55,8 +55,8 @@ df <- tribble(
 	"Zeer Bitter", "> 40"
 )
 df %>% 
-	kbl(caption = "Ervaringen bitterheid", position="!ht") %>%
-	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+	kbl(caption = "Ervaringen bitterheid", position="!ht", , booktabs = TRUE) %>%
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
 ## Hop vormen

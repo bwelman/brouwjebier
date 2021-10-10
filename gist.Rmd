@@ -61,8 +61,8 @@ gistsoort <- data.frame(
 	Ondergist = c("Saccharomyces pastorianus", "8-15", "2-6 weken", "pils")
 )
 gistsoort %>% 
-	kbl(caption = "Kenmerken gistsoorten", position = "!ht") %>% 
-	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+	kbl(caption = "Kenmerken gistsoorten", position = "!ht", booktabs = TRUE) %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
 ```{block2, type="tip"}

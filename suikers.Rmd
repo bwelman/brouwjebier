@@ -23,8 +23,8 @@ Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)
 mono <- data.frame(Naam = c("Glucose", "Fructose", "Galactose"), 
 				   Alias = c("Druivensuiker, Dextrose", "Vruchtensuiker", ""))
 mono %>% 
-	kbl(caption = "Monosachariden", position="!ht") %>% 
-	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+	kbl(caption = "Monosachariden", position="!ht", booktabs = TRUE) %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
 **Disachariden**
@@ -37,8 +37,8 @@ di <- data.frame(Naam = c("Sacharose", "Maltose", "Lactose"),
 				 Verbinding = c("Glucose ~ Fructose", "Glucose ~ Glucose", "Glucose ~ Galactose"), 
 				 Splitsingsenzym = c("Saccharase", "Maltase", "Lactase"))
 di %>% 
-	kbl(caption = "Disachariden", position="!ht") %>% 
-	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+	kbl(caption = "Disachariden", position="!ht", booktabs = TRUE) %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
 Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose* of *sucrose*.

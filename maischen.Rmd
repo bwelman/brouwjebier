@@ -24,8 +24,8 @@ De naam van een substraat eindigt op *ose*. En de naam van een enzym eindigt op 
 mono <- data.frame(Substraat = c("maltose (moutsuiker)", "amylose (zetmeel)", "proteïne (eiwit)", "cellulose"), 
 				   Enzym = c("maltase", "amylase", "proteinase", "cellulase"))
 mono %>% 
-	kbl(caption = "Substraten en enzymen", position="!ht") %>% 
-	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
+	kbl(caption = "Substraten en enzymen", position="!ht", booktabs = TRUE) %>% 
+	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
 Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Een enzym heeft één optimale temperatuur en één optimale pH-waarde. In \@ref(maischproces) wordt hier verder op ingegaan. En er zijn ook stoffen die de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
