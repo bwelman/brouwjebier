@@ -28,7 +28,7 @@ De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo
 Tijdens het koken (60-90 minuten) veranderen de alfazuren in *iso-alfazuren*. En het zijn deze iso-alfazuren die voor de bitterheid van het bier zorgen.
 
 ```{block2, type="tip"}
-**Isomeren** zijn stoffen die hetzelfde aantal en hetzelfde soort atomen bevatten. Hun molecuulformules zijn dus gelijk. Ze verschillen in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
+**Isomeren** zijn stoffen met dezelfde molekuulformule, dus een gelijk aantal van dezelfde atomen. Ze verschillen echter in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
 ```
 
 Slechts een gedeelte van de alfazuren wordt omgezet in iso-alfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van

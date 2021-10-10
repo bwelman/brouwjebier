@@ -114,6 +114,7 @@ Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doe
 3.  Bereken de hoeveelheden water en ga na of je het water moet behandelen.
     +  waterprofiel
     +  eventuele behandeling (pH, brouwzouten)
+\newpage
 4.  Bepaal welke hopsoorten je wilt gebruiken en bereken de hoeveelheden.
     +  gewenste hoparoma en smaak
     +  tijdstip(en) en tijdsduur hopgiften

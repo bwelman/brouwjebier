@@ -15,7 +15,7 @@
 
 Suikers zijn koolhydraten die zoet smaken. En koolhydraten zijn verbindingen van koolstof-, waterstof- en zuurstofatomen waarbij de waterstof- en zuurstofatomen voorkomen in een verhouding 2:1, net als bij water. Een algemene molekuulformule is $C_n(H_2O)_m$.
 
-**Monosachariden**
+### Monosachariden
 
 Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)_6$, maar ze verschillen in struktuur en daardoor ook in eigenschappen. Zo is fructose meer dan twee keer zoeter dan glucose.
 
@@ -27,7 +27,7 @@ mono %>%
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 12)
 ```
 
-**Disachariden**
+### Disachariden
 
 Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De molekuulformule is $C_{12}(H_2O)_{11}$. Een bepaald enzym kan voor een splitsing in de monosachariden zorgen.
 
@@ -45,11 +45,11 @@ Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huis
 
 Lactose komt voor in melk van alle zoogdieren. Zo bevat koemelk 4%-5% lactose. Lactose zit dus ook in de meeste zuivelproducten. Lactose komt in wort nauwelijks voor en is voor de bierbereiding niet van belang. Lactose is minder zoet dan sacharose.
 
-**Trisachariden**
+### Trisachariden
 
 Deze suikers bestaan uit drie met elkaar verbonden monosachariden. De meest belangrijke trisaccharide die in wort voorkomt is *maltotriose* die uit drie glucosecomponenten bestaat.
 
-**Polysachariden**
+### Polysachariden
 
 Dit zijn koolhydraten die zijn opgebouwd uit meer dan drie monosachariden. Een lid van deze groep is *zetmeel*, dat in feite een mengsel is van twee polysachariden, amylose en amylopectine. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
 

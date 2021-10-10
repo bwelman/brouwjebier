@@ -30,10 +30,6 @@ Naast de hardheid van het water speelt ook de zuurgraad (pH) een rol bij verschi
 
 De pH is een maat voor de *zuurgraad* van een waterige oplossing. De pH van een neutrale waterige oplossing ligt bij kamertemperatuur rond de 7. Zure oplossingen hebben een pH lager dan 7 en basische oplossingen hebben een pH hoger dan 7.
 
-```{block2, type="tip"}
-Hoe zuur een oplossing is wordt bepaald door het aantal $H_3O^+$ ionen. De pH wordt hieruit berekend via de negatieve logaritme van de concentratie van deze ionen. In de scheikunde wordt de concentratie van een deeltje genoteerd met vierkante haken (blokhaken). De pH  bereken je dan met de volgende formule: $pH = -log([H_3O^+])$
-```
-
 In de praktijk lopen de pH waarden van 1 tot 14. Bedenk wel dat de pH-schaal logaritmisch is, wat inhoudt dat een klein verschil in pH waarde al voor een groot verschil in de zuurheid kan zorgen.
 
 Vooral bij het maischen speelt de pH een belangrijke rol. De enzymen werken het beste bij een pH van 5,2-5,6. Ook bij het koken met hop verloopt het extraheren van de bitterstoffen uit de hop het beste in dit pH waardengebied.

@@ -30,7 +30,7 @@ mono %>%
 
 Een goede werking van enzymen is afhankelijk van verschillende factoren. De belangrijkste zijn: temperatuur, pH, concentratie substraat, inwerkingstijd. Een enzym heeft één optimale temperatuur en één optimale pH-waarde. In \@ref(maischproces) wordt hier verder op ingegaan. En er zijn ook stoffen die de werking van enzymen ondersteunen. Zo is Calcium een belangrijke hulpstof voor amylase enzymen.
 
-**Temperatuur**
+### Temperatuur {#enzym-temperatuur}
 
 Net als bij andere chemische reacties verlopen reacties waarbij enzymen betrokken zijn sneller wanneer de temperatuur hoger wordt. Echter bij een te hoge temperatuur kunnen enzymen degenereren waardoor ze niet meer werken. En deze degeneratie kan niet meer ongedaan gemaakt worden. De enzymactiviteit stijgt dus bij het toenemen van de temperatuur tot een maximale waarde en neemt daana weer af, zie figuur \@ref(fig:enzymactiviteit).
 
@@ -40,11 +40,11 @@ knitr::include_graphics("images/enzymactiviteit.png")
 
 Elk enzym kent een dergelijk verloop, maar deze is voor elk enzym verschillend, evenals de optimale temperatuur.
 
-**pH**
+### pH {#enzym-ph}
 
 De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als bij de temperatuur in figuur \@ref(fig:enzymactiviteit) is er voor de pH een soortgelijke grafiek te maken met een bepaalde pH-waarde waarbij de enzymactiviteit optimaal is en een gebied daaromheen waarbij die activiteit minder is. En voor elk enzym is dat weer verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
 
-**Concentratie substraat**
+### Concentratie substraat {#enzym-concentratie}
 
 De snelheid waarmee de reacties verlopen is afhankelijk van de concentraties van de deelnemende stoffen. In het algemeen geldt hoe hoger de concentratie des te sneller de reactie.
 
@@ -61,7 +61,7 @@ Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in ee
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
-```{block2, type="tip"}
+```{block2, type="important"}
 Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
 ```
 
@@ -106,15 +106,9 @@ Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er
 
 ```
 
-### Samenvatting {#maischen-samenvatting}
+### Voorbeeld: Infusieproces met 3 stappen {#infusie3}
 
-In figuur \@ref(fig:maischtabel) zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
-
-```{r maischtabel, echo=FALSE, fig.cap="Overzicht maischstappen, enzymen, pH en invloed temperatuur en rusttijd.", out.width="100%"}
-knitr::include_graphics("images/maischtabel.png")
-```
-
-En in figuur \@ref(fig:infusie-3staps) zie je een grafiek van het temperatuurverloop tegen de tijd bij een 3-staps infusieproces.
+In figuur \@ref(fig:infusie-3staps) zie je een grafiek van het temperatuurverloop tegen de tijd bij een 3-staps infusieproces.
 
 ```{r infusie-3staps, echo=FALSE, fig.cap="Voorbeeld maischstappen in een infusieproces", out.width="100%"}
 
@@ -134,6 +128,16 @@ infusieplot
 
 ```{block2, type="tip"}
 Bij een eenstapsmaischproces ligt de temperatuur meestal aan de bovenkant voor de beta-amylase en aan de onderkant voor de alpha-amylase, zo $\pm 65^o C$. En een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
+```
+
+\newpage
+
+### Samenvatting {#maischen-samenvatting}
+
+In figuur \@ref(fig:maischtabel) zie je de belangrijkste kenmerken van de maischstappen. De aangegeven rusttijden zijn een indicatie van veel gebruikte tijden in recepten. Door in de maischstappen de temperaturen hoger of lager te maken en de rusttijden langer of korter heeft de brouwer veel invloed op het karakter en smaak van het uiteindelijke bier.
+
+```{r maischtabel, echo=FALSE, fig.cap="Overzicht maischstappen, enzymen, pH en invloed temperatuur en rusttijd.", out.width="100%"}
+knitr::include_graphics("images/maischtabel.png")
 ```
 
 <!-- + [The Science of Step Mashing](https://byo.com/article/the-science-of-step-mashing/) -->

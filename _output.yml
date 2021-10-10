@@ -13,6 +13,7 @@ bookdown::pdf_book:
     in_header: latex/preamble.tex
   latex_engine: xelatex
   citation_package: natbib
+  toc_appendix: TRUE
   keep_tex: no
 
 bookdown::epub_book: default

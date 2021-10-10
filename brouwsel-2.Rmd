@@ -25,7 +25,7 @@ Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop u
 
 **Voorbereiding (huiswerk)**
 
-In bijlage \@ref(app-bkgtabel) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. \pagebreak
+In bijlage \@ref(app-bkgtabel) staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
 
 ## Recept Dubbel {#b2-recept}
 
@@ -34,6 +34,8 @@ Volume: 20 liter
 Begin SG: $\pm1058$ (hangt af van apparatuur, spoelsnelheid, ...)
 
 Eind SG: $\pm1014$
+
+\newpage
 
 **Grondstoffen**
 

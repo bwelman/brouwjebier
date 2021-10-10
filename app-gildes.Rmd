@@ -37,6 +37,7 @@
 -  [Tilburg: De Roerstok](https://www.roerstok.nl/){target="_blank"}
 -  [Roosendaal: Roosendaals Biergilde](http://www.roosendaalsbiergilde.nl/){target="_blank"}
 
+\newpage
 *Noord-Holland*
 
 -  [Heemskerk: Kennemer Wijn en Biergilde KWBG](http://www.kwbg.nl/){target="_blank"}
