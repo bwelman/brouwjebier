@@ -17,7 +17,7 @@ cover-image: images/cover.png
 ---
 
 \mainmatter
-:::{.welcome}
+
 # Welkom {.unnumbered}
 
 <a href="https://brouwjebier.nu/"><img src="images/cover.png" alt="omslagfoto" align="right" style="margin: 0 1em 0 1em" /></a>
@@ -44,4 +44,3 @@ Douwe Beimin
 
 <img src="images/authors/DouweBeimin.jpg" class="cover" width="150" height="150" alt="Douwe Beimin"/>
 De inhoud van deze cursus is mede tot stand gekomen door inbreng en feedback van Douwe Beimin, de organisator en docent van de brouwcursus en tevens secretaris van het Twent Bierbrouwersgilde. Waarvoor veel dank.
-:::
