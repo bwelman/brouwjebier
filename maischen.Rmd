@@ -1,7 +1,6 @@
 # Maischen {#maischen}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je weet wat de rol is van enzymen.
 -  Je kent de temperatuur- en pH afhankelijkheid van enzymen.
@@ -10,7 +9,7 @@
 -  Je weet wat de invloed is van de tijdsduur en de temperatuur bij de maischstappen.
 -  Je kunt een maisschema opstellen.
 
-```
+:::
 
 ## Enzymen
 
@@ -61,9 +60,9 @@ Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in ee
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
-```{block2, type="important"}
-Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C aangehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
-```
+::: {.info data-latex=""}
+Bij het maken van een Weizen wordt ook nog een rust op 42^o^ C gehouden. Bij deze temperatuur ontstaan stoffen die later voor de karakteristieke smaak en aroma van een Weizenbier zorgen: kruidnagel en banaan.
+:::
 
 ### Eiwitrust (Proteinaserust)
 
@@ -73,10 +72,9 @@ Werkzame enzym: *Proteinase*
 
 In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens, onder andere aminozuren. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit, de body en een goede vergisting. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
-```{block2, type="important"}
+::: {.info data-latex=""}
 **Eiwitrust** (optioneel): zorgt voor betere schuimkraag en vergisting.
-
-```
+:::
 
 ### Maltoserust (Beta-amylaserust)
 
@@ -86,10 +84,9 @@ Werkzame enzym: *Beta-Amylase*
 
 In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suikers. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
-```{block2, type="important"}
+::: {.info data-latex=""}
 **Beta-amylaserust**: zorgt voor meer alcohol en droger bier.
-
-```
+:::
 
 ### Versuikeringsrust(Alpha-amylaserust)
 
@@ -101,10 +98,9 @@ Breekt het overgebleven zetmeel af tot vergistbare en vooral onvergistbare suike
 
 Aan het eind van deze stap voer je ook de jodiumtest uit om te onderzoeken of er nog zetmeel in het beslag zit. Zoja, dan moet je de rusttijd nog wat langer laten duren.
 
-```{block2, type="important"}
+::: {.info data-latex=""}
 **Alpha-amylaserust**: zorgt voor volmondiger bier.
-
-```
+:::
 
 ### Voorbeeld: Infusieproces met 3 stappen {#infusie3}
 
@@ -126,9 +122,9 @@ infusieplot <- ggplot(data = infusie3, aes( x = tijd, y = temp, label=temp)) +
 infusieplot
 ```
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 Bij een eenstapsmaischproces ligt de temperatuur meestal aan de bovenkant voor de beta-amylase en aan de onderkant voor de alpha-amylase, zo $\pm 65^o C$. En een rusttijd van ongeveer 60 minuten. Beide enzymen doen dan hun werk, maar geen van beide optimaal. Ook hier kun je sturen door de temperatuur iets hoger of lager aan te houden. Het is wel belangrijk dat je bij deze methode de gekozen temperatuur goed constant houdt.
-```
+:::
 
 \newpage
 

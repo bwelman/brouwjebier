@@ -1,0 +1,22 @@
+.filepath, .systemoutput, .userinput {
+	font-family: "Source Code Pro", "monospace", "Courier New";
+	font-size: 85%;
+}
+
+.term {
+  font-weight: bold;
+}
+
+.uicontrol {
+  font-style: italic;
+}
+
+.varname {
+  font-family: "Source Code Pro", "monospace", "Courier New";
+  font-size: 85%;
+}
+
+.wintitle {
+  font-weight: bold;
+  font-style: italic;
+}

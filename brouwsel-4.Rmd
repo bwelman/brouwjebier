@@ -1,7 +1,6 @@
 # Brouwsel-4 {#brouwsel-4}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je kunt eisen/wensen voor een te maken bier formuleren.
 -  Je kunt de belangrijkste kenmerken van het te brouwen biertype achterhalen.
@@ -12,7 +11,7 @@
 -  Je kunt beoordelen of het gemaakte bier aan de eisen/wensen voldoet.
 -  Je kunt eventuele afwijkingen vaststellen en aangeven waardoor deze zijn ontstaan.
 
-```
+:::
 
 ## Huiswerk {#b4-huiswerk}
 

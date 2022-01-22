@@ -1,12 +1,11 @@
 # Logboek {#logboek}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je moet weten waarom het belangrijk is om een logboek bij te houden.
 -  Je moet weten welke informatie in het logboek moet komen.
 
-```
+:::
 
 ## Waarom een logboek?
 

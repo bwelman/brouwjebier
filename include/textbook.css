@@ -1,0 +1,135 @@
+/* color definitions */
+
+:root {
+  --tbBlue:   #569BBD;    /* Blue       , hsl(200,44,54) , rgb(86,155,189)   */
+  --tbLBlue:  #569BBD1A;  /* Light Blue , 10% Blue  */
+  --tbGreen:  #044D29;    /* Green      , hsl(150,90,16) , rgb(4,77,41)      */
+  --tbLGreen: #044D291A;  /* Light Green, 10% Green */
+  --tbRed:    #F53D3D;    /* Red        , hsl(0,90,60)   , rgb(245,61,61)    */
+  --tbLRed:   #F53D3D1A;  /* Light Red  , 10% Red */
+  --tbGray:   #7E7E7E;    /* Gray       , hsl(0,0,49)    , rgb(126,126,126)  */
+  --tbLGray:  #7E7E7E1A;  /* Light Gray , 10% Gray */
+  --appColor: #2A5699;    /* App color Blue, hsl(150,67,20) , rgb(42,86,153) */
+  --appLColor: #2A56991A; /* App color 10% */
+}
+
+/* set styles for alert boxes */
+
+.warning, .info , .practice, .demo, .intro {
+  padding: 1em 1em 0.5em 3.5em;
+  margin: 10px 0;
+  background-position: 0.5em 0.5em;
+  background-size: 2.5em;
+  background-repeat: no-repeat;
+}
+
+.warning {
+  background-image: url("../images/icons/warning.svg");
+  background-color: var(--tbLRed);
+  border: 1px solid var(--tbRed);
+  border-radius: 5px;
+  font-size: 90%;
+}
+
+.warning:before {
+  content: "ATTENTIE";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: var(--tbRed);
+}
+
+.info {
+  background-image: url("../images/icons/info.svg");
+  background-color: var(--tbLBlue);
+  border: 1px solid var(--tbBlue);
+  border-radius: 5px;
+  font-size: 90%;
+}
+
+.info:before {
+  content: "INFO";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: var(--tbBlue);
+}
+
+.practice {
+  background-image: url("../images/icons/practice.svg");
+  background-color: var(--tbLGray);
+  border: 1px solid var(--tbGray);
+  border-radius: 5px;
+  font-size: 90%;
+}
+
+.practice:before {
+  content: "Praktijk";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: var(--tbGray);
+}
+
+.demo{
+  background-image: url("../images/icons/demo.svg");
+  background-color: var(--tbLGreen);
+  border: 1px solid var(--tbGreen);
+  border-radius: 5px;
+  font-size: 90%;
+}
+
+.demo:before {
+  content: "VOORBEELD";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: var(--tbGreen);
+}
+
+/* chapter introduction */
+
+.intro {
+  /* background-image: url("../images/icons/intro.svg"); */
+  background-image: url("../images/icons/test.svg");
+  background-color: var(--appLColor);
+  border-top: 3px solid var(--appColor);
+  border-bottom: 3px solid var(--appColor);
+}
+
+.intro:before {
+  content: "DOELSTELLINGEN";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: var(--appColor);
+}
+
+/* Headings */
+
+.header-section-number {
+  padding-right: .2em;
+  font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  /* color: var(--tbBlue); */
+  color: var(--appColor);
+}
+h1.title {
+  font-weight: 700;
+}
+h1 {
+  border-bottom: 0px solid;
+  border-top: 0px solid;
+}
+h2 {
+  border-bottom: 2px solid;
+  border-top: 2px solid;
+}

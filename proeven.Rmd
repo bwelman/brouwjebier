@@ -1,14 +1,13 @@
 # Proeven {#proeven}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je maakt kennis met diverse aroma's en smaken in bier.
 -  Je leert hoe je een bier moet proeven en beoordelen.
 -  Je maakt kennis met een aantal veel voorkomende smaakafwijkingen.
 -  Je leert welke brouwfouten veel voorkomen en hoe je die moet vermijden.
 
-```
+:::
 
 ## Aroma's en smaken
 

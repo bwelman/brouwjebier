@@ -1,11 +1,10 @@
 # Biertypen {#biertypen}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je maakt kennis met biertypenlijsten
 
-```
+:::
 
 ## BKG Biertypen {#bkg-biertypen}
 
@@ -18,7 +17,7 @@ In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebe
 # Voor het maken van de plaatjes zijn alleen de kolommen BIERTYPE, KLASSE, EBC, BEGINSG nodig.
 # EBC waarden >= 120 en BEGINSG<1100 worden weggelaten.
 # eventueel kleuren voor de klassen nog verder aanpassen
-bkg.selectie <- read_csv2("resources/bkg_biertypen.csv") %>%
+bkg.selectie <- read_csv2("resources/bkg_biertypen.csv", show_col_types = FALSE) %>%
 	mutate(EBC = (EBCMIN + EBCMAX)/2) %>%
 	mutate(BEGINSG = (BEGINSGMIN +BEGINSGMAX)/2) %>%
 	select(BIERTYPE, KLASSE, EBC, BEGINSG) %>%

@@ -1,5 +1,6 @@
 book_filename: "brouwjebier"
-output_dir: docs
+before_chapter_script:
+- R/_common.R
 delete_merged_file: true
 language:
   label:
@@ -20,6 +21,7 @@ language:
   ui:
     edit: 'Bewerken '
     chapter_name: 'Hoofdstuk '
+    appendix_name: 'Bijlage '
 
 rmd_files:
     - "index.Rmd"
@@ -48,5 +50,3 @@ rmd_files:
     - "brouwsel-4.Rmd"
     - "bijlagen.Rmd"
     - "referenties.Rmd"
-
-before_chapter_script: "_common.R"

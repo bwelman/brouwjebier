@@ -1,7 +1,7 @@
 # (PART) Deel 2 {-}
 # Mout
 
-```{block2, type="chapterintro"}
+::: {.intro data-latex=""}
 **Doelstellingen**
 
 -  Je weet wat het moutproces inhoudt.
@@ -9,7 +9,7 @@
 -  Je leert de basismouten kennen en een aantal speciale mouten.
 -  Je weet waarom speciale mouten gebruikt worden.
 
-```
+:::
 
 ## Wat is mout
 
@@ -79,10 +79,10 @@ Aan de basismouten kunnen speciale mouten worden toegevoegd om
 
 Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Je moet ze dus altijd in combinatie met een basismout gebruiken.
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
 
-```
+:::
 
 #### Broeimouten {.unnumbered}
 
@@ -132,17 +132,16 @@ Omdat moutextract een geconcentreerde vorm van mout is, heb je er minder van nod
 
 Moutextractpoeder is zeer geschikt voor het maken van een [giststarter]. Ook kun je moutextractpoeder gebruiken ter vervanging van suiker in het recept. De bieren worden hierdoor minder droog en krijgen een rijkere smaak, meer body en een mooiere stabiele schuimkraag. 
 
-```{block2, type="voorbeeld"}
+::: {.demo data-latex=""}
 + Vervang de helft van het gewicht aan suiker door een even groot gewicht aan moutextractpoeder. Bijvoorbeeld i.p.v. 1 kg suiker voeg je dan 500 gram suiker en 500 gram moutextractpoeder toe.
 + Vervang de suiker volledig door een even groot gewicht aan moutextractpoeder. Dus 1 kg suiker vervangen door 1 kg moutextractpoeder. Het bier krijgt hierdoor een hoger moutpercentage, een rijke smaak en een vollere body.
-
-```
+:::
 
 <!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
 
-```{block2, type="important"}
+::: {.info data-latex=""}
 Moutextractpoeder is sterk hygroscopisch, trekt dus water aan. Bewaar het daarom op een droge, koele en bij voorkeur donkere plaats in een goed afgesloten doos.
-```
+:::
 
 ## Mouterijen
 

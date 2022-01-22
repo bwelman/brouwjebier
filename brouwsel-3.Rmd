@@ -1,7 +1,6 @@
 # Brouwsel-3 {#brouwsel-3}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je moet een recept voor een **Weizen** kunnen opstellen.
 -  Je moet een *Weizen* volgens dit recept kunnen maken.
@@ -9,7 +8,7 @@
 -  Je moet eventuele afwijkingen kunnen vaststellen.
 -  Je leert de belangrijkste kenmerken van het te brouwen biertype.
 
-```
+:::
 
 ## Huiswerk {#b3-huiswerk}
 

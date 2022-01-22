@@ -7,9 +7,10 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [brouwjebier.bib]
 biblio-style: apalike
-csl: chemical-engineering-progress.csl
-nocite: '@*'
+csl: include/chemical-engineering-progress.csl
+links-as-notes: TRUE
 link-citations: yes
+nocite: '@*'
 description: "Cursus bierbrouwen voor beginners."
 papersize: a4
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm"

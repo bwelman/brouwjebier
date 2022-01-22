@@ -1,13 +1,12 @@
 # (PART) Deel 4 {-}
 # Brouwsoftware {#brouwsoftware}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Overzicht Nederlandstalige brouwsoftware.
 -  Demonstratie en gebruik van een programma.
 
-```
+:::
 
 ## Algemeen
 

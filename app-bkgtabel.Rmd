@@ -6,7 +6,7 @@ Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target
 
 ```{r bkg-tabel, echo=FALSE}
 # Tabel met klassen als kolommen
-bkg.klasse <- read_csv2("resources/bkg_biertypen.csv") %>% 
+bkg.klasse <- read_csv2("resources/bkg_biertypen.csv", show_col_types = FALSE) %>% 
 	select(BIERTYPE, KLASSE)
 
 kla <- bkg.klasse %>% filter(KLASSE == "A") %>% select(BIERTYPE) %>% rename("Klasse A" = BIERTYPE) %>% mutate(id = seq.int(nrow(.)))

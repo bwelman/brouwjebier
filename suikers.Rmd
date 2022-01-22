@@ -1,7 +1,6 @@
 # Suikers
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je kent het verschil tussen vergistbare en onvergistbare suikers.
 -  Je kent de indeling van suikers in verschillende soorten.
@@ -9,7 +8,7 @@
 -  Je weet welke soorten suikers in de wort zitten.
 -  Je weet hoe en waardoor de verschillende suikers worden afgebroken.
 
-```
+:::
 
 ## Wat zijn suikers?
 
@@ -57,19 +56,21 @@ Dit zijn koolhydraten die zijn opgebouwd uit meer dan drie monosachariden. Een l
 
 Tijdens het maischen wordt het zetmeel door de *amylase-enzymen* eerst afgebroken in kleinere stukken die ook wel *dextrines* genoemd worden. Een deel hiervan wordt verder afgebroken tot vergistbare suikers als maltose, sacharose, glucose en fructose. Dextrines kunnen niet door biergist vergist worden. De dextrines die niet verder worden afgebroken blijven in het bier achter en zorgen voor een vollere smaak en meer body van het bier.
 
+::: {.demo data-latex=""}
 Typische hoeveelheden van de vijf meest voorkomende suikers in een wort van pilsmout zijn:
 
--  50% maltose
--  18% maltotriose
--  10% glucose
--  8% sacharose
--  2% fructose
--  12% onvergistbare dextrines
+ + 50% maltose
+ + 18% maltotriose
+ + 10% glucose
+ + 8% sacharose
+ + 2% fructose
+ + 12% onvergistbare dextrines
+:::
 
 Om een aantal redenen wordt bij het brouwen soms suiker aan de wort toegevoegd:
 
--  Voor een hoger alkoholgehalte zonder de body van het bier te verhogen. Zo wordt voor de Belgische Sterke Blonde kandijsuiker gebruikt om een briljant helder, sterk alkoholisch bier met een dun-medium body te krijgen.
--  Om de body van het bier te verlagen terwijl het alkoholgehalte gehandhaafd blijft. Zo wordt voor een Amerikaanse Light Lager minder mout gebruikt en in de plaats daarvan suikers (uit mais, riet, rijst). Je krijgt een dun bier met toch alkohol.
+-  Voor een hoger alkoholgehalte zonder de body van het bier te verhogen. Zo wordt kandijsuiker voor de Belgische *Sterke Blonde* gebruikt om een briljant helder, sterk alkoholisch bier met een dun-medium body te krijgen.
+-  Om de body van het bier te verlagen terwijl het alkoholgehalte gehandhaafd blijft. Zo wordt voor een *Amerikaanse Light Lager* minder mout gebruikt en in de plaats daarvan suikers (uit mais, riet, rijst). Je krijgt een dun bier met toch alkohol.
 -  Om een aantal interessante smaken toe te voegen. De monosachariden voegen geen smaak toe, maar natuurlijke suikers in honing en ahornsiroop wel.
 -  Als bottelsuiker om koolzuur in het bier te krijgen.
 

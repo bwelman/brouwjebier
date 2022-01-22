@@ -1,7 +1,6 @@
 # Brouwsel-2 {#brouwsel-2}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
 -  Je maakt kennis met meerdere moutsoorten en de effecten hiervan op het bier.
@@ -11,7 +10,7 @@
 -  Je maakt kennis met de belangrijkste kenmerken van het biertype.
 -  Er wordt meer zelfstandigheid tijdens het brouwproces van je verwacht.
 
-```
+:::
 
 ## Inleiding {#b2-inleiding}
 

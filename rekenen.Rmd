@@ -1,6 +1,6 @@
 # Rekenen {#rekenen}
 
-```{block2, type="chapterintro"}
+::: {.intro data-latex=""}
 **Doelstellingen**
 
 -  Je weet wat de volgende begrippen inhouden:
@@ -9,7 +9,7 @@
     +  Kleur (EBC)
 -  Je kunt globaal berekenen hoeveel mout, water (maisch- en spoelwater) en hop je nodig hebt.
 
-```
+:::
 
 ## Extractgehalte
 
@@ -51,7 +51,7 @@ $$\text{relatieve dichtheid vloeistof (SG)} = \frac{\text{dichtheid vloeistof}}{
 
 Bij 4^o^C en 1 atm. geldt dan ook: relatieve dichtheid water = 1.
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 Vaak wordt ook de term **soortelijk gewicht (SG)** gebruikt om de soortelijke massa aan te geven. Dit is een verouderde foutieve term. Massa is niet hetzelfde als gewicht.
 
 + Massa is een onveranderlijke stofeigenschap en wordt uitgedrukt in kg.
@@ -60,18 +60,18 @@ Vaak wordt ook de term **soortelijk gewicht (SG)** gebruikt om de soortelijke ma
 Een massa van 1 kg heeft in Nederland een gewicht van ongeveer 9,81N, aan de polen is dit 9,83N en aan de evenaar 9,78N. In het dagelijks leven wordt dit vaak afgerond op 10N.
 
 Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te weten wat daar precies mee bedoeld wordt. In dit cursusboek staat SG voor relatieve dichtheid.
-```
+:::
 
 De (relatieve) dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is namelijk bij 20^o^C geijkt. Met behulp van bijgeleverde tabellen moet je dan een correctie aanbrengen.
 
 De dichtheid van nog niet vergiste wort kun je ook meten met een **refractometer**. Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang. De kwalitatief goede refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
 
-```{block2, type="important"}
+::: {.warning data-latex=""}
 Tijdens of na de gisting kun je de refractometer niet zomaar gebruiken voor een SG meting. Dat komt omdat de aanwezige alcohol de brekingsindex sterk beinvloedt. 
 Je kunt uiteraard wel de Brixwaarde meten, maar dit niet zomaar omrekenen naar SG. Ook niet als de refractometer naast een Brix schaal ook een SG schaal heeft!
 
 Met behulp van omrekentabellen, formules of brouwsoftware kun je een gemeten Brix-waarde in geheel of gedeeltelijk vergiste wort omrekenen naar een SG-waarde. Je hebt daarbij dan wel de SG-waarde voor aanvang van de vergisting nodig.
-```
+:::
 
 ### SG-punten
 
@@ -89,12 +89,12 @@ Eenvoudige benaderingsformules zijn:
 
 -  via SG: $Plato = 250 \times (SG - 1)$ en $SG = 1 + \frac{Plato}{250}$
 
-```{block2, type="voorbeeld"}
+::: {.demo data-latex=""}
 Voor een wort met $SG = 1,050$ is dan 
 
 $\text{SG-punten} = 50$ en $Plato = \frac{50}{4} = 12,5$.
 
-```
+:::
 
 Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
 
@@ -111,7 +111,9 @@ Om de hoeveelheid mout uit te kunnen rekenen die je voor het brouwen van een bie
 
 Van een mout kun je maar een bepaald percentage van de massa omzetten in extract (voornamelijk suikers). Dit is voor elke mout verschillend en wordt door de mouterij in een laboratorium bepaald en bij de productspecificaties vermeld. Dit percentage wordt **potentieel extract** genoemd. Hoe hoger de potentiele extractwaarde, des te meer zetmeel er in de mout zit. Voor basismouten (pilsmout, Münchener mout, ...) ligt het potentieel extract in de buurt van 80%.
 
-> Mout in de verpakking van de mouterij bevat meestal ook wat vocht waardoor de werkelijke massa van de mout wat minder is.
+::: {.info data-latex=""}
+Mout in de verpakking van de mouterij bevat meestal ook wat vocht waardoor de werkelijke massa van de mout wat minder is.
+:::
 
 In tabel \@ref(tab:extracten) is de werkelijke extractwaarde voor een paar moutsoorten berekend. Zo is het werkelijke potentieel extract voor pilsmout $80\% \times (100\% - 4,5\%) = 80\% \times 95,5\% = 76,4\%$.
 
@@ -186,9 +188,9 @@ Wanneer je de totale benodigde hoeveelheid water weet, reken je eerst de hoeveel
 
 De beslagdikte hangt af van het soort bier dat je wilt brouwen en de gebruikte apparatuur. Gangbare beslagdiktes zijn 3,0 - 3,5 liter water per kilogram mout. Wanneer je dunner inmaischt, dus meer water per kg mout, kun je minder spoelen wat tot een iets lager rendement kan leiden. Daarnaast moet je er ook rekening mee houden dat het geheel in jouw maischpan past. Je ziet vaak dat bieren met weinig alkohol met een wat dunner beslag gemaakt worden en bieren met veel alkohol met een wat dikker beslag.
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 Bij automatische installaties zoals een Braumeister en een Brewmonk heb je hier nauwelijks invloed op. En ook wordt er meestal niet tot weinig gespoeld. Daar heb je dus vaak veel meer maischwater dan spoelwater. Het ligt er dus maar aan of het rendement belangrijk voor je is.
-```
+:::
 
 Samengevat, in volgorde bereken je
 
@@ -285,10 +287,9 @@ $SG_{eind} = SG_{begin} - VG \times (SG_{begin} - 1,000)$
 
 Voor een wort met $SG_{begin} = 1,056$ en een gist met een VG van 78% is de schatting $SG_{eind} = 1,056 - 0,78 \times (1,056 - 1,000) = 1,012$
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samenstelling van de wort en dan met name welke suikers in de wort zitten.
-
-```
+:::
 
 ## Alcoholpercentage {#rekenen-alcoholpercentage}
 

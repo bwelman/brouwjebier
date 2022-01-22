@@ -1,7 +1,6 @@
 # Brouwsel-1 {#brouwsel-1}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
 -  Je kent de verschillende stappen van het brouwproces in grote lijnen.
@@ -10,13 +9,15 @@
 -  Je leert omgaan met brouwapparatuur.
 -  Je leert hoe je apparatuur moet reinigen en desinfecteren.
 
-```
+:::
 
 ## Inleiding {#b1-inleiding}
 
 In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur beschikt. En het is ook niet de bedoeling dat je nu allerlei brouwapparatuur aanschaft. Verderop in deze cursus wordt daar extra aandacht aan besteed. Vandaar dat het eerste brouwsel op de apparatuur van de mentor wordt uitgevoerd. Tijdens het brouwen zal de mentor je bijstaan in het praktisch bierbrouwen en je alle stappen laten zien en/of laten uitvoeren.
 
-> Mocht je wel over eigen apparatuur beschikken dan kan in overleg dit brouwsel ook hierop worden gemaakt in plaats van de apparatuur van de mentor.
+::: {.info data-latex=""}
+Mocht je wel over eigen apparatuur beschikken dan kan in overleg dit brouwsel ook hierop worden gemaakt in plaats van de apparatuur van de mentor.
+:::
 
 Door het maken van het eerste brouwsel kom je veel van de voorafgaande theorie tegen en ga je deze in de praktijk toepassen. Vaak roept dat weer nieuwe vragen op. De mentor is hierbij jouw vraagbaak. Probeer ook zoveel mogelijk notities te maken om zo nadien alles rustig na te kunnen lezen. Je begrijpt de theorie beter door deze in de praktijk toe te passen. Leg ook een logboek aan waarin je alle waarnemingen opschrijft. Bij dit brouwsel horen ook een aantal vragen die je moet beantwoorden.
 

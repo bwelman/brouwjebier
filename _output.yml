@@ -1,13 +1,19 @@
 bookdown::bs4_book:
+  css:
+  - include/textbook.css
   includes:
-    in_header: google_analytics.html
-  css: [css/studieboek.css]
-  template: "S:/tools/bs4_book_nl.html"
+    in_header: include/google_analytics.html
+  template: "include/bs4_book_nl.html"
   theme:
     primary: "#569BBD"
     fg: "#2b2121"
     bg: "#FFFFFF"
-    font-family-base: "Source Sans Pro"
+    base_font:
+      google: "Source Sans Pro"
+    heading_font:
+      google: Bitter
+    code_font:
+      google: "Source Code Pro"
 
 bookdown::pdf_book:
   includes:

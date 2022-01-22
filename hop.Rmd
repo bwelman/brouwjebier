@@ -1,15 +1,14 @@
 # (PART) Deel 3 {-}
 # Hop {#hop}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
+::: {.intro data-latex=""}
 
 -  Je leert waarom hop bij de bierbereiding wordt gebruikt.
 -  Je leert wat er met de hop gebeurt tijdens het koken.
 -  Je maakt kennis met het alfazuurpercentage van hop.
 -  Je leert het verschil kennen tussen bitterhoppen en aromahoppen en de momenten waarop deze toegevoegd worden.
 
-```
+:::
 
 ## Wat zit er in hop
 
@@ -27,9 +26,9 @@ De hoeveelheid alfazuur is per hopsoort en oogstjaar verschillend en bedraagt zo
 
 Tijdens het koken (60-90 minuten) veranderen de alfazuren in *iso-alfazuren*. En het zijn deze iso-alfazuren die voor de bitterheid van het bier zorgen.
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 **Isomeren** zijn stoffen met dezelfde molekuulformule, dus een gelijk aantal van dezelfde atomen. Ze verschillen echter in de manier waarop de atomen met elkaar verbonden zijn, de structuur is dus verschillend. Hierdoor kunnen ze verschillende eigenschappen hebben. Het proces (chemische reactie) waarbij een stof overgaat in een isomeer ervan heet **isomerisatie**.
-```
+:::
 
 Slechts een gedeelte van de alfazuren wordt omgezet in iso-alfazuren. De hoeveelheid die omgezet wordt hangt onder andere af van
 
@@ -88,7 +87,7 @@ De momenten waarop je hop toevoegt hangen af van het doel:
 
 In figuur \@ref(fig:hoprendement-kooktijd) is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
-```{r hoprendement-kooktijd, echo=FALSE, fig.cap="Effect kooktijd op bitterheid (volgens Tinseth voor een begin SG van 1050", out.width="80%"}
+```{r hoprendement-kooktijd, echo=FALSE, fig.cap="Effect kooktijd op bitterheid (volgens Tinseth) voor een begin SG van 1050", out.width="80%"}
 mytb <- tibble(kooktijd = c(seq(0,60,3), 70,80,90, 120, 150), dhr = (1.65*0.000125^.050) * (1-exp(-0.04*kooktijd))/4.15)
 ggplot(data = mytb, aes(x = kooktijd, y = dhr)) +
 	geom_line(size = 1.2, colour = "darkgreen") +
@@ -102,13 +101,12 @@ Eenzelfde soort gedrag treedt op bij het vervluchtigen van de hopoliën. Ook hie
 
 ### Vlamuit hoppen
 
-Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de de hopoliën minder vervluchtigen waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Overweeg om wat minder hop te nemen dan bij het koken.
+Hierbij voeg je de hop na afloop van het koken toe. Laat de temperatuur zakken tot ca. 80^o^C en voeg dan hop toe. Bij deze temperaturen voeg je minimale bitterheid toe, zullen de hopoliën minder vervluchtigen waardoor je de gewenste smaken en aroma's krijgt. Hou deze temperatuur ongeveer 20 minuten aan. Overweeg om wat minder hop te nemen dan bij het koken.
 
 ### Koudhoppen (Dry hopping)
 
 Om nog meer hoparoma te krijgen is het steeds populairder geworden om ook hop aan het gistvat toe te voegen. Dit doe je het beste direct na de intensieve hoofdgisting. De hop voeg je zonder bewerkingen of desinfecteren toe. De kans op infectie is klein omdat er al wat alcohol gevormd is. Wees er wel op bedacht dat je op deze wijze ook wat meer plantaardige smaken toevoegt.
 
-```{block2, type="important"}
+::: {.info data-latex=""}
 Koudhoppen geeft niet hetzelfde effect als Vlamuit hoppen. Denk dus goed na of je een van beide of beide wilt doen.
-
-```
+:::

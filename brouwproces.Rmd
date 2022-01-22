@@ -1,12 +1,9 @@
 # Brouwproces - Basis {#basis}
 
-```{block2, type="chapterintro"}
-**Doelstellingen**
-
+::: {.intro data-latex=""}
 -  Je moet de verschillende stappen in het brouwproces kunnen benoemen.
 -  Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
-
-```
+:::
 
 ## Het proces in grote lijnen {#b-start}
 
@@ -17,9 +14,9 @@ knitr::include_graphics("images/brouwproces.png")
 ```
 
 1.  Het zetmeel in de mout moet worden omgezet in suikers.
-1.  De ontstane suikers moeten door de gist omgezet worden in alkohol.
+1.  De ontstane suikers worden (grotendeels) door de gist omgezet in alkohol.
 
-Dit ziet er eenvoudig uit. In principe kun je een bier maken in een (soep)pan in de keuken. Maar het is toch wel een complex proces. Het gaat niet zomaar vanzelf. En om een goed bier te maken moet je wel wat meer weten over de afzonderlijke processen.
+Dit ziet er eenvoudig uit. In principe kun je dan ook bier maken in een (soep)pan in de keuken. Maar het is toch wel een complex proces. Het gaat niet zomaar vanzelf. En om een goed bier te maken moet je wel wat meer weten over de afzonderlijke processen.
 
 ## Recept {#b-recept}
 
@@ -35,9 +32,9 @@ Binnen in de gerstkorrel zit zetmeel. Om het zetmeel in suikers om te zetten heb
 knitr::include_graphics("images/moutsoorten.png")
 ```
 
-Om brouwgerst geschikt te maken, wordt het eerst gemout. Hierbij wordt de gerst geweekt in water. En als de gerst zich helemaal hiermee heeft volgezogen wordt het op een warme vloer uitgestort. Na enige tijd gaat de korrel ontkiemen en vormt dan enzymen. Zodra de gerst is ontkiemd, worden de graankorrels bij hoge temperatuur gedroogd om het kiemproces te stoppen. Het resultaat heet **mout**. En hoe hoger de temperatuur bij het drogen, des te donkerder de mout, zie figuur \@ref(fig:moutsoorten). De kleur van de mout bepaalt ook de kleur van het bier. De kleur wordt uitgedrukt in **EBC**, daarover later meer in \@ref(moutkleur). En ook heeft de mout een belangrijke invloed op de uiteindelijke smaak van het bier.
+Om brouwgerst geschikt te maken, wordt het eerst gemout. Hierbij wordt de gerst geweekt in water. En als de gerst zich helemaal hiermee heeft volgezogen wordt het op een warme vloer uitgestort. Na enige tijd gaat de korrel ontkiemen en vormt dan enzymen. Zodra de gerst is ontkiemd, worden de graankorrels bij hoge temperatuur gedroogd om het kiemproces te stoppen. Het resultaat heet **mout**. En hoe hoger de temperatuur bij het drogen, des te donkerder de mout, zie figuur \@ref(fig:moutsoorten). De kleur van de mout bepaalt ook de kleur van het bier. De kleur wordt uitgedrukt in **EBC**, daarover meer in \@ref(moutkleur). En ook heeft de mout een belangrijke invloed op de uiteindelijke smaak van het bier.
 
-Dit mouten gebeurt in **mouterijen** en doe je niet zelf. Afhankelijk van het soort bier dat je wilt maken schaf je bepaalde mouten aan.
+Dit mouten gebeurt in **mouterijen** en doe je niet zelf. Afhankelijk van het soort bier dat je wilt maken schaf je bepaalde moutsoorten aan.
 
 ## Afwegen ingrediënten {#b-afwegen}
 
@@ -45,7 +42,7 @@ Als voorbereiding op het echte brouwen ga je alle ingrediënten eerst afwegen. D
 
 ## Schroten {#b-schroten}
 
-Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken worden. Dat heet **schroten**. Met behulp van een schrootmolen worden de korrels gekneusd zodat er een breuk in de korrel ontstaat waardoor het water bij het binnenste (het zetmeel) kan komen. Verwar het niet met fijnmalen. De kafjes die om de korrel zitten moeten zoveel mogelijk heel blijven, zie figuur \@ref(fig:schrootsel). Deze kafjes helpen je later bij het filteren van het bier. Als je het mout te fijn schroot kun je later problemen met het filteren krijgen. En ook loop je dan de kans dat er meer ongewenste stoffen uit de kaf van het mout vrijkomen, wat de kwaliteit van het bier niet ten goede komt.
+Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken worden. Dat heet **schroten**. Met behulp van een schrootmolen worden de korrels gekneusd zodat er een breuk in de korrel ontstaat waardoor het water bij het binnenste (het zetmeel) kan komen. Verwar het niet met fijnmalen. De kafjes die om de korrel zitten moeten zoveel mogelijk intact blijven, zie figuur \@ref(fig:schrootsel). Deze kafjes helpen je later bij het filteren van het bier. Als je het mout te fijn schroot kun je later problemen met het filteren krijgen. En ook loop je dan de kans dat er meer ongewenste stoffen uit de kaf van het mout vrijkomen, wat de kwaliteit van het bier niet ten goede komt.
 
 ```{r schrootsel, echo=FALSE, fig.cap="Mooi schrootsel, niet te fijn.", out.width="40%"}
 knitr::include_graphics("images/schrootsel.png")
@@ -55,23 +52,23 @@ Omdat geschrote mout snel in kwaliteit achteruit gaat kun je het beste de mout k
 
 ## Maischen {#b-maischen}
 
-In deze stap moet het zetmeel in de mout door enzymen omgezet worden in suikers. Daartoe wordt in een ketel (maischpan) het geschrote mout toegevoegd aan een bepaalde hoeveelheid water. Dit wordt **inmaischen** genoemd. Het ontstane mengsel wordt **beslag** of ook wel **maisch** genoemd.
+In deze stap moet het zetmeel in de mout door enzymen omgezet worden in suikers. Daartoe wordt in een ketel (ook wel maischpan geheten) het geschrootte mout toegevoegd aan een bepaalde hoeveelheid water. Dit wordt **inmaischen** genoemd. Het ontstane mengsel wordt **beslag** of ook wel **maisch** genoemd.
 
-In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbij je de geschrote mout toevoegt aan het water wordt de **inmaischtemperatuur** genoemd. Ook deze temperatuur staat in het recept.
+In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbij je de geschrootte mout toevoegt aan het water wordt de **inmaischtemperatuur** genoemd. Ook deze temperatuur staat in het recept.
 
 Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Op deze processen wordt in hoofdstuk \@ref(maischen) uitvoeriger ingegaan. Het beslag ga je onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde **rusttijd**. Een schema met de verschillende rusttijden en bijbehorende temperaturen heet een **maischschema**.
 
-```{block2, type="tip"}
+::: {.info data-latex=""}
 Om de temperatuur tijdens de rust constant te houden kun je de maischketel in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
+:::
 
-```
-
-Voor een goede werking van de enzymen is het ook noodzakelijk dat het maischwater een *pH* van 5,2-5,4 heeft. Meet daarom de pH en indien nodig zuur dan het water aan met wat melkzuur of fosforzuur. Zie hiervoor \@ref(zuurgraad).
+Voor een goede werking van de enzymen is het ook noodzakelijk dat het maischwater een *pH* van 5,2-5,4 heeft. Meet daarom de pH en zuur, indien nodig, het water aan met wat melkzuur of fosforzuur. Zie hiervoor \@ref(zuurgraad).
 
 ### Jodiumtest {#b-jodiumtest}
 
 Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in suikers. Dit gaat als volgt.
 
+::: {.practice data-latex=""}
 1.  Doe een lepeltje maischbeslag op een wit schoteltje en laat dit afkoelen tot kamertemperatuur.
 2.  Voeg 1-2 druppels jodiumtinctuur toe.
 3.  Let nu op de kleur van de jodiumoplossing:
@@ -81,14 +78,15 @@ Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in 
 ```{r jodiumtest, echo=FALSE, fig.cap="Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.", out.width="40%"}
 knitr::include_graphics("images/jodiumtest.png")
 ```
+:::
 
 ### Voortgang (SG) meten {#b-voortgang}
 
-Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG (zie \@ref(sg-dichtheid)) van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor hoofdstuk \@ref(apparatuur).
+Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG (zie \@ref(sg-dichtheid) voor meer achtergrond over het SG) van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor hoofdstuk \@ref(apparatuur).
 
 Tijdens het maischen neemt ook de viscositeit van de vloeistof af, dat wil zeggen de maisch wordt minder stroperig en meer vloeibaar, dunner dus. Het roeren gaat daardoor steeds gemakkelijker.
 
-Aan het eind van het maischen heb je een mengsel van een vloeistof, waarin de suikers zijn opgelost, met vaste stoffen, zoals kafjes en korrelresten van de mout. In de volgende stap wordt dit van elkaar gescheiden.
+Aan het eind van het maischen heb je een mengsel van een vloeistof (met daarin opgeloste suikers), met vaste stoffen, zoals kafjes en korrelresten van de mout. In de volgende stap wordt dit van elkaar gescheiden.
 
 ## Filteren {#b-filteren1}
 
@@ -97,7 +95,9 @@ Omdat je verder wilt met de suikeroplossing moet het mengsel aan het eind van he
 -  **wort**, een heldere zoete vloeistof
 -  **(bier)bostel**, de vaste bestanddelen die overblijven.
 
+::: {.info data-latex=""}
 De bostel heb je voor de bierbereiding niet nodig. De meeste hobbybrouwers gooien het in de afvalcontainer. Het kan ook op de composthoop of als voer voor varkens en kippen gebruikt worden. Er zitten nog veel voedingsstoffen en vezels in. Daarom kun je een deel ervan ook gebruiken om er een (bier)brood mee te bakken.
+:::
 
 Om deze scheiding uit te voeren heb je een filter nodig. Er zijn veel verschillende uitvoeringen van een wortfilter. Hobbybrouwers gebruiken vaak een *hevelfilter*, al dan niet zelf gemaakt. Zie hiervoor bij \@ref(apparatuur). De kafjes en korrelresten vormen hierbij het filterbed. Vandaar dat je niet te fijn mag schroten, want dan werkt het filterbed niet goed. De wort laat je in de kookketel (kookpan) lopen.
 
@@ -113,7 +113,7 @@ In het recept is weer terug te vinden hoeveel **spoelwater** je nodig hebt. Ook 
 
 De wort gaat nu minstens een uur gekookt worden. Tijdens het koken ga je de hop toevoegen. In het recept staat weer hoe lang de *kooktijd* is en hoeveel gram van welke *hop* hoe lang moet meekoken. Zorg voor een zogenaamde "rollende kook".
 
-Je kunt de hop op verschillende manieren aan de wort toevoegen.
+Je kunt de hop op verschillende manieren aan de wort toevoegen:
 
 +  Gewoon in de vloeistof doen. Om te voorkomen dat er na het koken teveel hopresten in het gistvat terecht komen, kun je na afloop de wort filteren of de hopresten laten bezinken en dan de wort overhevelen.
 +  De hop in hopzakjes doen en dan aan de vloeistof toevoegen. Deze kun je na het koken uit de ketel halen.
@@ -121,7 +121,7 @@ Je kunt de hop op verschillende manieren aan de wort toevoegen.
 Koken is om meerdere redenen erg belangrijk. Tijdens het koken
 
 -  vlokken eiwitten uit, vooral in het begin. Deze kun je het beste met een schuimspaan afscheppen.
--  lossen bitterstoffen uit de hop op. Deze **bitterhop** moet minstens een uur koken en zorgt voor de kenmerkende bittere smaak van bier.
+-  lossen bitterstoffen uit de hop op. Deze **bitterhop** moet je meestal wel een uur laten meekoken en zorgt voor de kenmerkende bittere smaak van bier.
 -  komen aromastoffen uit de hop in het bier. Deze **aromahop** kook je minder lang mee en hebben daardoor wat minder invloed op de bitterheid.
 -  verdampen ongewenste vluchtige stoffen.
 -  verdampt water, waardoor de concentratie van suiker toeneemt en het SG dus stijgt.
@@ -131,10 +131,9 @@ Het proces tot en met het koken noemt men de *warme kant* van het brouwproces. H
 
 Maak er verder een gewoonte van om het volume en het SG van de wort te meten, zowel voor het koken als na het koken.
 
-```{block2, type="important"}
+::: {.warning data-latex=""}
 Na het koken moet je zeer hygiënisch te werk gaan!
-
-```
+:::
 
 ## Koelen {#b-koelen}
 
