@@ -13,28 +13,7 @@ Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze m
 In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebeurt op basis van bierkleur (EBC) en het Begin SG. De grens bij kleur ligt bij 30 EBC (ongeveer de kleur van Grolsch Amber). En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bkg-schema) is deze indeling schematisch weergegeven met een aantal voorbeelden van bieren.
 
 ```{r bkg-schema, echo=FALSE, fig.cap="Een aantal biertypes en hun klasse", out.width="100%"}
-# Voor BEGINSG en EBC wordt met de gemiddelde waarde gewerkt.
-# Voor het maken van de plaatjes zijn alleen de kolommen BIERTYPE, KLASSE, EBC, BEGINSG nodig.
-# EBC waarden >= 120 en BEGINSG<1100 worden weggelaten.
-# eventueel kleuren voor de klassen nog verder aanpassen
-bkg.selectie <- read_csv2("resources/bkg_biertypen.csv", show_col_types = FALSE) %>%
-	mutate(EBC = (EBCMIN + EBCMAX)/2) %>%
-	mutate(BEGINSG = (BEGINSGMIN +BEGINSGMAX)/2) %>%
-	select(BIERTYPE, KLASSE, EBC, BEGINSG) %>%
-	filter(EBC < 90) %>%
-	filter(BEGINSG < 1100)
-
-ggplot(data = bkg.selectie, aes( x = EBC, y = BEGINSG)) +
-	geom_point(size=1, color = "Red") +
-	labs(title = "Biertypes en klassen", x = "Kleur (EBC)", y = "Begin SG") +
-	geom_hline(yintercept = 1060, linetype = "dashed", color = "black") +
-	geom_vline(xintercept = 30,  linetype = "dashed", color = "black") +
-	theme_bw() +
-	annotate("text", x=15, y=1040, label= "A", size=8, color = "Red") +
-	annotate("text", x=45, y=1040, label= "B", size=8, color = "Red") +
-	annotate("text", x=15, y=1075, label= "C", size=8, color = "Red") +
-	annotate("text", x=45, y=1075, label= "D", size=8, color = "Red") +
-	geom_text(label = bkg.selectie$BIERTYPE, nudge_x = 0.25, nudge_y = 0.25, check_overlap = TRUE, size = 3)
+knitr::include_graphics("images/bkgschema.svg")
 ```
 
 De laatste versie van de BKG Biertypenlijst (versie 2.3, Augustus 2019 telt 69 biertypen. In bijlage \@ref(biertype-tabel) kun je de laatste versie van de indeling van de biertypen in klassen zien.

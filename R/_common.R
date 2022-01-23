@@ -4,10 +4,7 @@ options(digits = 3)
 # packages ---------------------------------------------------------------------
 
 suppressMessages(library(knitr))
-suppressMessages(library(tidyverse))
 suppressMessages(library(kableExtra))
-suppressMessages(library(DiagrammeR))
-suppressMessages(library(formattable))
 
 # knitr chunk options ----------------------------------------------------------
 

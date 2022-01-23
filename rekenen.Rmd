@@ -118,21 +118,15 @@ Mout in de verpakking van de mouterij bevat meestal ook wat vocht waardoor de we
 In tabel \@ref(tab:extracten) is de werkelijke extractwaarde voor een paar moutsoorten berekend. Zo is het werkelijke potentieel extract voor pilsmout $80\% \times (100\% - 4,5\%) = 80\% \times 95,5\% = 76,4\%$.
 
 ```{r extracten, echo=FALSE}
-# namen (N), potentieel extract (PE) en vochtigheid (V) opnemen in dataframe
 mout.dingemans <- data.frame(
-	N = c("Pilsmout", "Münchener", "Amber 50", "Cara 120", "Special B", "Chocolademout", "Tarwemout"),
-	PE = c(0.80, 0.80, 0.79, 0.74, 0.72, 0.70, 0.83),
-	V = c(0.045, 0.045, 0.045, 0.060, 0.050, 0.045, 0.065)
+	Moutsoort = c("Pilsmout", "Münchener", "Amber 50", "Cara 120", "Special B", "Chocolademout", "Tarwemout"),
+	PE = c("80%","80%", "79%", "74%", "72%", "70%", "83%"),
+	V = c("4,5%", "4,5%", "4,5%", "6,0%", "5,0%", "4,5%", "6,5%"),
+	WE = c("76,4%", "76,4%", "75,4%", "69,6%", "68,4%", "66,8%", "77,6%")
 )
-# Werkelijk Extract ((WE)) berekenen en aan dataframe toevoegen
-mout.dingemans <- mout.dingemans %>% 
-	mutate(WE = PE*(1 - V))
 
 # Formatteren als percentages met functie percent uit package formattable
 mout.dingemans %>% 
-	mutate(PE = percent(PE, digits = 0)) %>% 
-	mutate(V = percent(V, digits = 1)) %>%
-	mutate(WE = percent(WE, digits = 1)) %>%
 	kbl(col.names = c("Moutsoort", "Potentieel Extract", "Vochtigheid", "Werkelijk Extract"), 
 		caption = "Potentieel extract van een paar moutsoorten van mouterij Dingemans.") %>% 
 	kable_styling(full_width = FALSE, bootstrap_options = "condensed", font_size = 14)
