@@ -8,7 +8,7 @@
 
 ## BKG Biertypen {#bkg-biertypen}
 
-Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2019] van het Nederlands BierkeurmeestersGilde (BKG). Via hun website kun je de lijst als PDF document downloaden.
+Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2021] van het Nederlands BierkeurmeestersGilde (BKG). Via hun website kun je de lijst als PDF document downloaden.
 
 In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebeurt op basis van bierkleur (EBC) en het Begin SG. De grens bij kleur ligt bij 30 EBC (ongeveer de kleur van Grolsch Amber). En de grens bij begin SG ligt bij 1,060. In figuur \@ref(fig:bkg-schema) is deze indeling schematisch weergegeven met een aantal voorbeelden van bieren.
 
