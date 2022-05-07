@@ -94,8 +94,7 @@
 /* chapter introduction */
 
 .intro {
-  /* background-image: url("../images/icons/intro.svg"); */
-  background-image: url("../images/icons/test.svg");
+  background-image: url("../images/icons/intro.svg");
   background-color: var(--appLColor);
   border-top: 3px solid var(--appColor);
   border-bottom: 3px solid var(--appColor);

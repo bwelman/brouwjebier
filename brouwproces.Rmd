@@ -1,8 +1,8 @@
 # Brouwproces - Basis {#basis}
 
 ::: {.intro data-latex=""}
--  Je moet de verschillende stappen in het brouwproces kunnen benoemen.
--  Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
++ Je moet de verschillende stappen in het brouwproces kunnen benoemen.
++ Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
 :::
 
 ## Het proces in grote lijnen {#b-start}
@@ -22,7 +22,7 @@ Dit ziet er eenvoudig uit. In principe kun je dan ook bier maken in een (soep)pa
 
 Om een bepaald bier te maken heb je een recept nodig. Hierin staat onder andere welke grondstoffen je nodig hebt en hoeveel daarvan.
 
-In het begin krijg je zo'n recept vaak van anderen, maar al snel zul je een eigen recept willen opstellen. Daarover later meer.
+In het begin krijg je zo'n recept vaak van anderen, maar al snel zul je een eigen recept willen opstellen. Daarover meer in hoofdstuk \@ref(recepten).
 
 ## Mouten {#b-mouten}
 
