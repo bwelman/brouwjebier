@@ -71,4 +71,4 @@ Het komt in de praktijk weinig voor dat je het water moet ontharden. Maar wannee
 
 Door het toevoegen van zogenaamde brouwzouten als calciumchloride en calciumsulfaat kun je de hoeveelheid mineralen in het water verhogen en ook nog eens de pH verlagen. Het toevoegen van calciumzouten zorgt er ook voor dat de gist beter uitvlokt waardoor het bier eerder helder is. Ook hier kan brouwsoftware je ondersteunen om de toe te voegen hoeveelheden te berekenen.
 
-**Alkaliniteit**, ook wel carbonaathardheid genoemd, geeft de concentratie carbonaten en bicarbonaten in het water aan. Het is een maat voor het bufferend vermogen van een oplossing. Een pH-buffer zorgt voor het opvangen van schommelingen in de pH waarde. Een goede alkaniliteit van je brouwwater houdt de pH waarde stabiel.
+**Alkaliniteit**, ook wel carbonaathardheid genoemd, geeft de concentratie carbonaten en bicarbonaten in het water aan. Het is een maat voor het bufferend vermogen van een oplossing. Een pH-buffer zorgt voor het opvangen van schommelingen in de pH waarde. Een goede alkaliniteit van je brouwwater houdt de pH waarde stabiel.

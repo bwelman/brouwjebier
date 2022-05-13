@@ -318,7 +318,7 @@ $SG = 1,050 \Rightarrow SG_{punten} = 50 \Rightarrow Plato = 50/4 = 12,5$.
 
 Dit komt overeen met 125 gram extract per liter. In 10 liter wort moet dus 10 x 125 = 1250 gram extract terecht komen. Bij een brouwhuisrendement van 75% moet er dan 1250 / 75\% = 1667 gram extract van de ingrediënten komen.
 
-Pilsmout van Dingemans heeft een werkelijk extract van 76,4%. Dus 1000 gram pilsmout levert 764 gram extract. Om de benodigde hoeveelheid extract van 1167 gram te krijgen heb je dus 1667/764 = 2182 gram = 2,182 kg pilsmout.
+Pilsmout van Dingemans heeft een werkelijk extract van 76,4%. Dus 1000 gram pilsmout levert 764 gram extract. Om de benodigde hoeveelheid extract van 1167 gram te krijgen heb je dus nodig 1667/764 = 2182 gram = 2,182 kg pilsmout.
 
 **Waterberekening**
 

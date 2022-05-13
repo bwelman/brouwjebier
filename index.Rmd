@@ -25,7 +25,7 @@ cover-image: images/cover.png
 
 Dit is de online versie van een cursus voor het leren brouwen van bier.
 
-De cursus is aanvankelijk opgezet voor een gedrukte handleiding bij een beginnerscursus van het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}. Dit bracht zoveel enthousiasme bij mij te weeg dat ik het materiaal daarna verder geschikt gemaakt heb om als een online cursusboek te dienen. En er wordt nog steeds aan gewerkt om het cursusmateriaal verder te verbeteren en uit te breiden.
+De cursus is aanvankelijk opgezet voor een gedrukte handleiding bij een beginnerscursus van het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}. Dit bracht zoveel enthousiasme bij mij te weeg dat ik het materiaal daarna verder geschikt gemaakt heb om als een online cursusboek te dienen. En er wordt nog steeds aan gewerkt om het cursusmateriaal verder te verbeteren en uit te breiden. Voor vragen, suggesties en andere reacties kun je een email sturen naar [brouwjebier](mailto:bwelman+brouwjebier@proton.me).
 
 ## Licentie {.unnumbered}
 

@@ -47,7 +47,7 @@ De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als b
 
 De snelheid waarmee de reacties verlopen is afhankelijk van de concentraties van de deelnemende stoffen. In het algemeen geldt hoe hoger de concentratie des te sneller de reactie.
 
-De afbraak van zetmeel in suikers verloopt dus sneller wanneer de concentratie van het zetmeel hoger is, dus het beslag (de maisch) dikker is. Gedurende de reactie is er steeds minder zetmeel in de wort aanwezig waardoor de omzettingssnelheid dus afneemt en het proces langer gaat duren.
+De omzetting van zetmeel in suikers verloopt dus sneller wanneer de concentratie van het zetmeel hoger is, dus het beslag (de maisch) dikker is. Tijdens het maischproces zit er steeds minder zetmeel in de wort waardoor de omzettingssnelheid dus afneemt en het proces langer gaat duren.
 
 Je maakt een *beslag* door het geschrote mout aan het *maischwater* toe te voegen. De verhouding van de hoeveelheden water en mout bepaalt de dikte van het beslag. Een vuistregel is
 
@@ -56,7 +56,7 @@ Je maakt een *beslag* door het geschrote mout aan het *maischwater* toe te voege
 
 ## Maischproces {#maischproces}
 
-Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen uitgevoerd. En bij elke stap wordt een bepaald rusttijd (inwerkingstijd) aangehouden. Deze temperatuurstappen met de bijbehorende rusttijden wordt het *maisschema* genoemd.
+Om de verschillende enzymen goed hun werk te laten doen wordt het maischen in een aantal stappen met verschillende steeds hogere temperaturen uitgevoerd. En bij elke stap wordt een bepaald rusttijd (inwerkingstijd) aangehouden. Deze temperatuurstappen met de bijbehorende rusttijden wordt het **maisschema** genoemd.
 
 In grote lijnen zijn drie stappen (rustperiodes) te onderscheiden: *eiwitrust*, *maltoserust* en *versuikeringsrust*. Deze worden hierna verder uitgewerkt. Verder worden bij 78^o^ C alle enzymen onwerkbaar (gedenatureerd). Deze temperatuur wordt meestal ook 5-10 minuten aangehouden en zou je ook als een stap kunnen zien. Je hoeft niet altijd alle stappen uit te voeren. Zo wordt de eiwitrust nogal eens overgeslagen. En bij het maken van Engelse biersoorten wordt vaak maar één temperatuur aangehouden, een zogenaamde *eenstapsmaisch*. Het maischschema dat je gebruikt hangt af van de te maken biersoort en wordt in de recepten vermeld.
 
@@ -70,7 +70,7 @@ Temperatuurgebied: 44^o^C - 55^o^C, optimaal bij 50^o^ C.
 
 Werkzame enzym: *Proteinase*
 
-In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens, onder andere aminozuren. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit, de body en een goede vergisting. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
+In deze stap worden de lange eiwitketens afgebroken tot kleinere ketens, onder andere aminozuren. Deze rust is van belang voor de klaring (helder worden) van het bier, de schuimstabiliteit, de body en een goede vergisting. Deze stap wordt vaak overgeslagen omdat tegenwoordig deze afbraak van de lange eiwitketens al in de mouterij is uitgevoerd. Vroeger was dat niet zo en vandaar dat deze stap in oude recepten bijna altijd aanwezig is. En wanneer je veel ongemoute granen gebruikt (> 20%) moet je deze stap in het recept opnemen.
 
 ::: {.info data-latex=""}
 **Eiwitrust** (optioneel): zorgt voor betere schuimkraag en vergisting.
@@ -82,7 +82,7 @@ Temperatuurgebied: 55^o^C - 66^o^C, optimaal bij 62^o^ C.
 
 Werkzame enzym: *Beta-Amylase*
 
-In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suikers. Bij een langere rusttijd krijg je dus meer vergistbare suiker en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
+In deze stap wordt zetmeel afgebroken tot vergistbare suikers (maltose).  Deze rust is van belang voor de latere vorming van alcohol uit deze suikers. Bij een langere rusttijd krijg je dus meer vergistbare suikers en dus een droger en alcoholrijker bier. Bij een kortere rusttijd krijg je weliswaar minder alcohol, maar meer dextrine waardoor het bier een vollere smaak krijgt.
 
 ::: {.info data-latex=""}
 **Beta-amylaserust**: zorgt voor meer alcohol en droger bier.

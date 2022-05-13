@@ -50,7 +50,7 @@ Deze suikers bestaan uit drie met elkaar verbonden monosachariden. De meest bela
 
 ### Polysachariden
 
-Dit zijn koolhydraten die zijn opgebouwd uit meer dan drie monosachariden. Een lid van deze groep is *zetmeel*, dat in feite een mengsel is van twee polysachariden, amylose en amylopectine. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
+Dit zijn koolhydraten die zijn opgebouwd uit meer dan drie monosachariden. Een lid van deze groep is *zetmeel*, dat in feite een mengsel is van twee polysachariden, *amylose* en *amylopectine*. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen *$\alpha$-amylase* en *$\beta$-amylase* kunnen deze afbreken in kleinere brokstukken.
 
 ## Suikers in de wort
 
@@ -88,12 +88,12 @@ Van belang om te onthouden is dat alle vergistbare suikers worden afgebroken tot
 
 **Vergistbare suikers**
 
--  Ontstaan vooral tijdens Beta-Amylase bij 62^o^C.
+-  Ontstaan vooral tijdens beta-amylase bij 62^o^C.
 -  Zorgen voor alkohol in het bier.
 
 **Onvergistbare suikers**
 
--  Ontstaan vooral tijdens Alpha-Amylase bij 72^o^C.
+-  Ontstaan vooral tijdens alpha-amylase bij 72^o^C.
 -  Zorgen voor body in het bier.
 
 

@@ -28,7 +28,7 @@ knitr::include_graphics("images/schrootmolens.png")
 Je kunt een installatie zo uitgebreid maken als je wilt. Van 1 of 2 brouwpannen tot meerdere. Met of zonder kraan, met of zonder electrische verwarming, met of zonder volume-aanduiding, ... De grootte (het volume) hangt af van de hoeveelheid bier die je wilt brouwen. Een vuistregel is dat de pannen zo'n anderhalf tot twee keer groter moeten zijn als het te brouwen volume bier.
 
 ```{r brouwketel-kraan, echo=FALSE, fig.cap="Brouwketel met kraan.", out.width="30%"}
-knitr::include_graphics("images/brouwketel-kraan.png")
+knitr::include_graphics("images/brouwketel-kraan.jpg")
 ```
 
 ### Gasbrander / Kookplaat
@@ -68,7 +68,7 @@ Er zijn ook andere oplossingen zoals
 Er zijn allerlei soorten vaten te koop waarin je de vergisting kunt laten plaatsvinden. Ze verschillen in materiaal (glas, kunststof, RVS), in vorm (rond, konisch ondereind), al dan niet met aftapkranen voor het bier en/of gistdroesem. En natuurlijk verschillen ze in prijs.
 
 ```{r gistvat, echo=FALSE, fig.cap="Gistvat van kunststof met aftapkraan.", out.width="25%"}
-knitr::include_graphics("images/gistvat.png")
+knitr::include_graphics("images/gistvat.jpg")
 ```
 
 ### Waterslot
@@ -106,7 +106,7 @@ In plaats van een hydrometer kun je ook een refractometer gebruiken. Hiervoor he
 Wanneer je in beugelflessen bottelt heb je deze niet nodig.
 
 ```{r kroonkurkapparaat, echo=FALSE, fig.cap="Kroonkurkapparaat.", out.width="25%"}
-knitr::include_graphics("images/kroonkurkapparaat.png")
+knitr::include_graphics("images/kroonkurkapparaat.jpg")
 ```
 
 ### Diverse accessoires

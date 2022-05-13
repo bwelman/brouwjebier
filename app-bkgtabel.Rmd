@@ -1,6 +1,6 @@
 # BKG Biertypen {#app-bkgtabel}
 
-Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
+Volgens het [Bier Keurmeesters Gilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
 
 ## Biertypenlijst {#biertype-tabel}
 
@@ -9,7 +9,7 @@ Volgens het [BierKeurmeestersGilde](https://www.bierkeurmeestersgilde.nl){target
 load(file = 'resources/bkgtabel.rda')
 
 bkg.tabel %>%
-	kbl(caption = "Tabel biertypen volgens BKG", position = "!ht") %>%
+	kbl(caption = "Tabel biertypen volgens BKG (versie 2.4, Juli 2021)", position = "!ht") %>%
 	kable_styling(latex_options = "scale_down", bootstrap_options = c("condensed", "responsive"), font_size = 12)
 ```
 
