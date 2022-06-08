@@ -21,7 +21,7 @@ cover-image: images/cover.png
 
 # Welkom {.unnumbered}
 
-<a href="https://brouwjebier.nu/"><img src="images/cover.png" alt="omslagfoto" align="right" style="margin: 0 1em 0 1em" /></a>
+<a href="./"><img src="images/cover.png" alt="omslagfoto" align="right" style="margin: 0 1em 0 1em" /></a>
 
 Dit is de online versie van een cursus voor het leren brouwen van bier.
 

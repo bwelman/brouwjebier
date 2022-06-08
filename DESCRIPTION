@@ -1,7 +1,7 @@
 Package: textbook
-Title: Template for a textbook
+Title: Cursus voor het brouwen van bier
 Version: 0.1
-URL: https://github.com/bwelman/textbook
+URL: https://github.com/bwelman/brouwjebier
 Imports: 
     bookdown,
     bslib,

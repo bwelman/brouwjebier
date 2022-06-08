@@ -1,5 +1,5 @@
-# Workflow derived from https://github.com/r-lib/actions/tree/master/examples
-# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
+# Workflow for deploying to Netlify
+
 on:
   push:
     branches: [main, master]
@@ -34,12 +34,18 @@ jobs:
       - name: Build book
         run: Rscript -e 'bookdown::render_book("index.Rmd", output_format="bookdown::bs4_book", quiet = TRUE)'
 
-      - name: Deploy to server
-        uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
+      - name: Deploy to Netlify
+        id: netlify-deploy
+        uses: nwtgck/actions-netlify@v1.2
         with:
-          ftp_host: ${{ secrets.FTP_HOST }}
-          ftp_username: ${{ secrets.FTP_USERNAME }}
-          ftp_password: ${{ secrets.FTP_PASSWORD }}
-          local_source_dir: "_book"
-          dist_target_dir: "/domains/brouwjebier.nu/public_html"
-          delete: "true"
+          publish-dir: './_book'
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message:
+            'Deploy from GHA: ${{ github.event.pull_request.title || github.event.head_commit.message }} (${{ github.sha }})'
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
