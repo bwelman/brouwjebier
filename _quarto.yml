@@ -1,0 +1,76 @@
+project:
+  type: book
+
+book:
+  title: "Brouw je Bier"
+  subtitle: "Cursus bierbrouwen voor beginners."
+  date: today
+  google-analytics: "G-K3JHGJ2XQG"
+  chapters:
+    - index.qmd
+    - voorwoord.qmd
+    - part: "Deel 1"
+      chapters:
+        - over-bier.qmd
+        - brouwproces.qmd
+        - apparatuur.qmd
+        - hygiene.qmd
+        - logboek.qmd
+        - brouwsel-1.qmd
+    - part: "Deel 2"
+      chapters:
+        - mout.qmd
+        - suikers.qmd
+        - maischen.qmd
+        - water.qmd
+        - brouwsel-2.qmd
+    - part: "Deel 3"
+      chapters:
+        - hop.qmd
+        - gist.qmd
+        - kruiden.qmd
+        - rekenen.qmd
+        - recepten.qmd
+        - brouwsel-3.qmd
+    - part: "Deel 4"
+      chapters:
+        - software.qmd
+        - proeven.qmd
+        - brouwmethodes.qmd
+        - biertypen.qmd
+        - brouwsel-4.qmd
+  appendices:
+    - bkgtabel.qmd
+    - gildes.qmd
+    - webwinkels.qmd
+    - referenties.qmd
+
+bibliography: brouwjebier.bib
+csl: chemical-engineering-progress.csl
+
+lang: nl
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brouwjebier.scss
+    cover-image: images/cover.png
+    fig-width: 6
+    fig-asp: 0.618
+    code-fold: false
+    link-external-icon: true
+    link-external-newwindow: true
+    callout-appearance: simple
+
+knitr:
+  opts_chunk:
+    echo: false
+    warning: false
+    message: false
+    cache: false
+
+editor: visual

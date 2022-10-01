@@ -1,0 +1,29 @@
+# Biertypen {#sec-biertypen}
+
+::: {.callout-note icon="false"}
+## Doelstellingen
+
+-   Je maakt kennis met biertypenlijsten
+:::
+
+## BKG Biertypen {#sec-bkg-biertypen}
+
+Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze meestal gekeurd volgens bepaalde richtlijnen. In Nederland liggen die vast in de BKG Biertypenlijst [@BKGBiertypenlijst2021] van het Nederlands BierkeurmeestersGilde (BKG). Via hun website kun je de lijst als PDF document downloaden.
+
+In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebeurt op basis van bierkleur (EBC) en het Begin SG. De grens bij kleur ligt bij 30 EBC (ongeveer de kleur van Grolsch Amber). En de grens bij begin SG ligt bij 1,060. In @fig-bkg-schema) is deze indeling schematisch weergegeven met een aantal voorbeelden van bieren.
+
+![Een aantal biertypes en hun klasse.](images/bkgschema.svg){#fig-bkg-schema}
+
+In @sec-biertype-tabel kun je de indeling van de biertypen in klassen zien.
+
+## BJCP Bierstijlen
+
+De lijst met bierstijlen van het Amerikaanse BJCP (Beer Judge Certification Program) kent veel meer categorieën.
+
+De laatste versie kan via de [BJCP website](https://www.bjcp.org/) gedownload worden.
+
+## Wedstrijden
+
+De meeste verenigingen en gildes organiseren onderlinge wedstrijden. En elke vereniging heeft daarbij zijn eigen reglementen en voorwaarden. Ook wordt er ieder jaar de [Open Nederlandse Kampioenschappen bierbrouwen (ONK)](https://www.onkbrouwen.nl/) georganiseerd. Hierbij kun je jouw bier voor een bepaalde klasse insturen. De recepten van de winnende bieren worden vaak op het forum van Hobbybrouwen gepubliceerd, zie [@BewezenReceptenIndex2018]
+
+Verder zijn er ook internationale wedstrijden waar je aan deel kunt nemen.

@@ -1,0 +1,31 @@
+# Brouwsel-3 {#sec-brouwsel-3}
+
+::: {.callout-note icon="false"}
+## Doelstellingen
+
+-   Je moet een recept voor een **Weizen** kunnen opstellen.
+-   Je moet een *Weizen* volgens dit recept kunnen maken.
+-   Je moet kunnen beoordelen of het brouwsel aan de eisen voldoet.
+-   Je moet eventuele afwijkingen kunnen vaststellen.
+-   Je leert de belangrijkste kenmerken van het te brouwen biertype.
+:::
+
+## Huiswerk
+
+**Voorbereiding**
+
+-   In @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
+-   Zoek uit welke stappen in het maisch- en vergistingsproces voor een bepaalde smaak kunnen zorgen.
+-   Maak een handmatige berekening van de hoeveelheid maisch- en spoelwater.
+-   Stel een recept op en laat het beoordelen door de mentor.
+
+## Draaiboek
+
+-   Uitvoering bij de mentor of een van de teamleden.
+
+## Evaluatie
+
+-   Brouwproces bespreken.
+-   Kwamen de meetwaarden overeen met de beoogde waarden. Zoek een verklaring voor eventuele verschillen.
+-   Gezamenlijk proeven, beoordelen of bier aan eisen/wensen voldoet.
+-   Eventuele smaak- en geurafwijkingen bespreken.

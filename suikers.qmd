@@ -1,0 +1,99 @@
+# Suikers
+
+::: {.callout-note icon="false"}
+## Doelstellingen
+
+-   Je kent het verschil tussen vergistbare en onvergistbare suikers.
+-   Je kent de indeling van suikers in verschillende soorten.
+-   Je kent de rol van de verschillende soorten suikers.
+-   Je weet welke soorten suikers in de wort zitten.
+-   Je weet hoe en waardoor de verschillende suikers worden afgebroken.
+:::
+
+## Wat zijn suikers?
+
+Suikers zijn koolhydraten die zoet smaken. En koolhydraten zijn verbindingen van koolstof-, waterstof- en zuurstofatomen waarbij de waterstof- en zuurstofatomen voorkomen in een verhouding 2:1, net als bij water. Een algemene molekuulformule is $C_n(H_2O)_m$.
+
+### Monosachariden
+
+Dit zijn de eenvoudigste suikers. De molekuulformule voor alledrie is $C_6(H_2O)_6$, maar ze verschillen in struktuur en daardoor ook in eigenschappen. Zo is fructose meer dan twee keer zoeter dan glucose.
+
+| Naam      | Alias                   |
+|-----------|-------------------------|
+| Glucose   | Druivensuiker, Dextrose |
+| Fructose  | Vruchtensuiker          |
+| Galactose |                         |
+
+: Monosachariden {#tbl-monosachariden}
+
+### Disachariden
+
+Dit zijn suikers die uit twee met elkaar verbonden monosachariden bestaan. De molekuulformule is $C_{12}(H_2O)_{11}$. Een bepaald enzym kan voor een splitsing in de monosachariden zorgen.
+
+| Naam      | Alias      | Verbinding           | Splitsingsenzym |
+|-----------|------------|----------------------|-----------------|
+| Sacharose | Sucrose    | Glucose \~ Fructose  | Saccharase      |
+| Maltose   | Moutsuiker | Glucose \~ Glucose   | Maltase         |
+| Lactose   | Melksuiker | Glucose \~ Galactose | Lactase         |
+
+: Disachariden {#tbl-disachariden}
+
+Wanneer je in het gewone spraakgebruik over suiker praat dan wordt daarmee *huishoudsuiker*, *kristalsuiker* bedoeld. Deze suiker wordt gewonnen uit suikerbieten of suikerriet en wordt daarom ook wel *bietsuiker* of *rietsuiker* genoemd. De officiële naam hiervan is *sacharose* of *sucrose*.
+
+Lactose komt voor in melk van alle zoogdieren. Zo bevat koemelk 4%-5% lactose. Lactose zit dus ook in de meeste zuivelproducten. Lactose komt in wort nauwelijks voor en is voor de bierbereiding niet van belang. Lactose is minder zoet dan sacharose.
+
+### Trisachariden
+
+Deze suikers bestaan uit drie met elkaar verbonden monosachariden. De meest belangrijke trisaccharide die in wort voorkomt is *maltotriose* die uit drie glucosecomponenten bestaat.
+
+### Polysachariden
+
+Dit zijn koolhydraten die zijn opgebouwd uit meer dan drie monosachariden. Een lid van deze groep is *zetmeel*, dat in feite een mengsel is van twee polysachariden, *amylose* en *amylopectine*. Deze polysachariden zijn in feite grote bouwwerken van monosachariden die in verschillende richtingen aan elkaar geknoopt zijn. De enzymen $\alpha$-amylase en $\beta$-amylase kunnen deze afbreken in kleinere brokstukken.
+
+## Suikers in de wort
+
+Tijdens het maischen wordt het zetmeel door de *amylase-enzymen* eerst afgebroken in kleinere stukken die ook wel *dextrines* genoemd worden. Een deel hiervan wordt verder afgebroken tot vergistbare suikers als maltose, sacharose, glucose en fructose. Dextrines kunnen niet door biergist vergist worden. De dextrines die niet verder worden afgebroken blijven in het bier achter en zorgen voor een vollere smaak en meer body van het bier.
+
+::: callout-note
+Typische hoeveelheden van de vijf meest voorkomende suikers in een wort van pilsmout zijn:
+
+-   50% maltose
+-   18% maltotriose
+-   10% glucose
+-   8% sacharose
+-   2% fructose
+-   12% onvergistbare dextrines
+:::
+
+Om een aantal redenen wordt bij het brouwen soms suiker aan de wort toegevoegd:
+
+-   Voor een hoger alkoholgehalte zonder de body van het bier te verhogen. Zo wordt kandijsuiker voor de Belgische *Sterke Blonde* gebruikt om een briljant helder, sterk alkoholisch bier met een dun-medium body te krijgen.
+-   Om de body van het bier te verlagen terwijl het alkoholgehalte gehandhaafd blijft. Zo wordt voor een *Amerikaanse Light Lager* minder mout gebruikt en in de plaats daarvan suikers (uit mais, riet, rijst). Je krijgt een dun bier met toch alkohol.
+-   Om een aantal interessante smaken toe te voegen. De monosachariden voegen geen smaak toe, maar natuurlijke suikers in honing en ahornsiroop wel.
+-   Als bottelsuiker om koolzuur in het bier te krijgen.
+
+## Suikers en gist
+
+Gist zet suiker om in alcohol en koolstofdioxide. Maar niet alle suikers worden even gemakkelijk omgezet. Met de mono- en disachariden hebben ze het niet moeilijk, maar met de trisachariden (maltotriose) hebben ze meer moeite. En er zijn gistsoorten die maltotriose niet kunnen vergisten. De suikers kun je dus ook opdelen in makkelijk vergistbaar, moeilijk vergistbaar en onvergistbaar.
+
+De meeste biergisten beginnen bij het afbreken van de sacharose dat in gelijke hoeveelheden glucose en fructose wordt omgezet. Daarna vergisten ze eerst het grootste deel van de glucose voordat ze aan de andere monosachariden (fructose) beginnen. Daarna beginnen ze met de maltose en aan het eind de maltotriose.
+
+Het is bekend dat in wort met hoge gehaltes van glucose en fructose (meer dan 15-20%) de vergisting van de maltose afgeremd kan worden en zelfs helemaal kan stoppen. De gist heeft de monosachariden vergist en is daarna gestopt waardoor meer dan de helft van de totale suikers niet vergist is. Dit gedrag is waarschijnlijk een veelvoorkomende oorzaak van stokkende vergistingen in worten die veel geraffineerde suikers bevatten. In @sec-gist wordt dieper ingegaan op het vergistingsproces.
+
+## Samenvatting
+
+Van belang om te onthouden is dat alle vergistbare suikers worden afgebroken tot monosachariden en dat de gist voorrang geeft aan het omzetten van die suikers. Bij het formuleren van het maischproces heb je invloed op de soort suikers die in de wort komen. En samen met de keuze voor een gistsoort heb je hierdoor invloed op de hoeveelheid onvergistbare suikers in het bier.
+
+**Vergistbare suikers**
+
+-   Ontstaan vooral tijdens beta-amylase bij 62^o^C.
+-   Zorgen voor alkohol in het bier.
+
+**Onvergistbare suikers**
+
+-   Ontstaan vooral tijdens alpha-amylase bij 72^o^C.
+-   Zorgen voor body in het bier.
+
+<!-- + [Brewing Sugars & How To Use Them](https://byo.com/article/sweetness-brewing-sugars-how-to-use-them/) -->
+
+<!-- + [Brewing Sugars](https://www.winning-homebrew.com/brewing-sugars.html) -->

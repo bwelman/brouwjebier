@@ -1,0 +1,107 @@
+# Brouwsel-2 {#sec-brouwsel-2}
+
+::: {.callout-note icon="false"}
+## Doelstellingen
+
+-   Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
+-   Je maakt kennis met meerdere moutsoorten en de effecten hiervan op het bier.
+-   Je gaat met meerdere maischstappen werken en weet wat elke maischstap inhoudt.
+-   Je kunt de pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
+-   Je leert de apparatuur nog beter kennen.
+-   Je maakt kennis met de belangrijkste kenmerken van het biertype.
+-   Er wordt meer zelfstandigheid tijdens het brouwproces van je verwacht.
+:::
+
+## Inleiding
+
+Net als het eerste brouwsel wordt het recept weer verstrekt.
+
+De nadruk bij dit brouwsel ligt op het uitvoeren van meerdere maischstappen en de achtergronden van deze maischstappen.
+
+Omdat de pH van het water invloed heeft op het maischproces zul je de pH moeten meten en eventueel het water op de juiste waarde moeten brengen.
+
+Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop uitgevoerd worden, anders op de installatie van de mentor.
+
+**Voorbereiding (huiswerk)**
+
+In @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
+
+## Recept Dubbel
+
+Volume: 20 liter
+
+Begin SG: $\pm1058$ (hangt af van apparatuur, spoelsnelheid, ...)
+
+Eind SG: $\pm1014$
+
+{{< pagebreak >}}
+
+**Grondstoffen**
+
+-   *Mout*
+    -   Pale Ale mout (3 EBC): 3000 gram
+    -   Münchenermout (17 EBC): 2000 gram
+    -   Caramelmout (120 EBC): 440 gram
+    -   Chocolademout ontbitterd (800 EBC): 120 gram
+-   *Hop*
+    -   Challenger (6,5% alfazuur): 32 gram
+-   *Gist*
+    -   Wyeast 1214 Belgian Abbey: 1 Smackpack
+-   *Water*
+    -   Maischwater: ca. 20 liter (hangt van apparatuur af)
+    -   Spoelwater: hoeveelheid samen met mentor bepalen (hangt van meerdere factoren af)
+
+**Proces**
+
+-   *Maischen*
+    -   Maischdikte ligt tussen 3,5-5,5 liter/kg mout
+    -   Stijgende infusie
+    -   Stap 1: $54^oC$, 10 minuten (Let op pH maisch)
+    -   Stap 2: $63^oC$, 30 minuten
+    -   Stap 3: $73^oC$, 20 minuten
+    -   Stap 4: $78^oC$, 5 minuten (Uitmaischen)
+-   *Spoelen*
+    -   Spoel langzaam.
+    -   Stop met spoelen als SG in de uitloop tussen 1010-1020 ligt (mits je dit kunt meten)
+-   *Koken*
+    -   Kooktijd op $100^oC$ gedurende 60 minuten
+    -   Hop toevoegen bij $95^oC$, 60 minuten koken
+-   *Gisting*
+    -   Eventueel giststarter maken (in overleg met mentor).
+-   *Bottelen*
+    -   Bottelen als vergisting gestopt is (3 dagen geen activiteit, SG meten)
+    -   6-8 gram suiker per liter bottel suiker.
+    -   Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
+
+## Draaiboek
+
+Voor een algemeen uitgebreid draaiboek zie @sec-brouwsel-1.
+
+Speciale aandachtspunten bij dit brouwsel.
+
+-   Zorg tussen de maischstappen voor een temperatuurstijging van ongeveer 1^o^C per 2 minuten.
+-   Probeer bij de maischstappen de temperatuur op ca. 1^o^C van de doeltemperatuur te houden.
+-   pH na 10 minuten meten en op 5,4 brengen. Spoelwater pH op 5,2.
+-   Voer tijdens het maischproces een jodiumtest uit aan het einde van stap 3.
+-   Smackpack enkele dagen van de voren kneuzen en warm leggen. Zie handleiding op de verpakking.
+-   Schrijf de brouwgegevens op in een logboek of brouwprogramma. Doe dit ook bij het beoordelen van je bier, de proefnotaties.
+
+## Vragen
+
+1.  Hoe noemt men deze maischmethode?
+2.  Welke enzymen zijn actief bij 63^o^C en 73^o^C?
+3.  Hoe heb je de hoeveelheid spoelwater bepaald?
+4.  Hoeveel water is er tijdens het koken verdampt?
+5.  Hoeveel liter wort is er in het gistvat gegaan?
+6.  Wat was het begin SG in het gist vat?
+7.  Wat was het eind SG in het gistvat?
+8.  Bereken het alcoholpercentage (ABV %) van het bier met de formule $ABV\% = (Begin SG - Eind SG) \times 0,136 + 0,4$
+9.  Vergelijk je bier met b.v. Westmalle dubbel. Welke verschillen heb je geproefd?
+10. Stel je wilt je dubbel wat zoeter hebben, wat zou je wijzigen aan je recept en waarom?
+11. Vraag de kwaliteit van jouw kraanwater op bij het drinkwaterbedrijf. Welke pH en welke hardheid heeft het?
+
+## Evaluatie
+
+-   Brouwproces bespreken.
+-   Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
+-   Eventuele smaak- en geurafwijkingen bespreken.

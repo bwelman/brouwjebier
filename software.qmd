@@ -1,0 +1,54 @@
+# Brouwsoftware {#sec-brouwsoftware}
+
+::: {.callout-note icon="false"}
+## Doelstellingen
+
+-   Overzicht Nederlandstalige brouwsoftware.
+-   Demonstratie en gebruik van een programma.
+:::
+
+## Algemeen
+
+Voor alle brouwprogramma's geldt dat je eerst een aantal kenmerken van jouw "brouwerij" moet invoeren, zoals afmetingen pannen, standaard brouwvolume, verliezen, ...
+
+## BrouwVisie
+
+[Website BrouwVisie](http://www.brouwvisie.nl/)
+
+Programma van Oscar Moerman. Er zijn drie uitvoeringen te downloaden:
+
+-   versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
+-   versie 2.x, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €25. Je kunt deze versie zonder licentie(kosten) uitproberen, maar wel met een aantal beperkingen.
+-   versie 2.x Pro, voor kleine commerciële brouwerijen, licentiekosten €90 per jaar.
+
+Vereisten: Windows
+
+Handleiding: Voor de verschillende onderdelen zijn afzonderlijke handleidingen in pdf formaat te downloaden.
+
+## Brouwhulp
+
+[Website Brouwhulp](http://wittepaard.roodetoren.nl/index.php/brouwhulp)
+
+Programma van Adrie Otte, auteur van het boek "Verander water in bier".
+
+Gratis
+
+Vereisten: Windows, Linux
+
+Handleiding: Wordt bij de installatie meegeleverd en is via het menu oproepbaar.
+
+Dit programma ondersteunt ook het gebruik van electrische brouwketels als Speidel en Grainfather.
+
+## BROdeLuxe
+
+[Website BROdeLuxe](http://www.brodeluxe.nl/)
+
+Programma van Peter Wester.
+
+Gratis.
+
+Vereisten: Windows
+
+Handleiding: Wordt bij de installatie meegeleverd en is via het menu oproepbaar.
+
+Er is ook een [Brodeluxe Online](http://www.kwbg.nl/brodeluxe/) welke iets minder functionaliteiten heeft.
