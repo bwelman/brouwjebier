@@ -12,7 +12,7 @@ Wanneer je een eigen gebrouwd bier instuurt voor een wedstrijd, dan wordt deze m
 
 In deze lijst worden de biertypen ingedeeld in 4 klassen: A, B, C en D. Dit gebeurt op basis van bierkleur (EBC) en het Begin SG. De grens bij kleur ligt bij 30 EBC (ongeveer de kleur van Grolsch Amber). En de grens bij begin SG ligt bij 1,060. In @fig-bkg-schema) is deze indeling schematisch weergegeven met een aantal voorbeelden van bieren.
 
-![Een aantal biertypes en hun klasse.](images/bkgschema.svg){#fig-bkg-schema}
+![Een aantal biertypes en hun klasse.](images/bkgschema.png){#fig-bkg-schema width="600"}
 
 In @sec-biertype-tabel kun je de indeling van de biertypen in klassen zien.
 
@@ -24,6 +24,4 @@ De laatste versie kan via de [BJCP website](https://www.bjcp.org/) gedownload wo
 
 ## Wedstrijden
 
-De meeste verenigingen en gildes organiseren onderlinge wedstrijden. En elke vereniging heeft daarbij zijn eigen reglementen en voorwaarden. Ook wordt er ieder jaar de [Open Nederlandse Kampioenschappen bierbrouwen (ONK)](https://www.onkbrouwen.nl/) georganiseerd. Hierbij kun je jouw bier voor een bepaalde klasse insturen. De recepten van de winnende bieren worden vaak op het forum van Hobbybrouwen gepubliceerd, zie [@BewezenReceptenIndex2018]
-
-Verder zijn er ook internationale wedstrijden waar je aan deel kunt nemen.
+De meeste verenigingen en gildes organiseren onderlinge wedstrijden. En elke vereniging heeft daarbij zijn eigen reglementen en voorwaarden. Ook wordt er ieder jaar de [Open Nederlandse Kampioenschappen bierbrouwen (ONK)](https://www.onkbrouwen.nl/) georganiseerd. Hierbij kun je jouw bier voor een bepaalde klasse insturen. De recepten van de winnende bieren worden vaak op het forum van Hobbybrouwen gepubliceerd, zie [@BewezenReceptenIndex2018].

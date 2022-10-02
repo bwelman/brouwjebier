@@ -78,7 +78,7 @@ De momenten waarop je hop toevoegt hangen af van het doel:
 
 In @fig-hoprendement-kooktijd is te zien dat hoe langer je kookt, des te hoger het rendement van de isomerisatie is. Merk op dat je vrij snel (binnen 20 min.) de helft van het maximum haalt. In deze periode krijg je dus de snelste toename van de bitterheid en in de rest van de kooktijd neemt de bitterheid geleidelijk toe tot een maximum. In de periode 60-90 min. is er weinig toename. En de aromahoppen die maar 10 min. koken zorgen dus ook voor een bijdrage aan de bitterheid.
 
-![Effect kooktijd op bitterheid (volgens Tinseth) voor een begin SG van 1050](images/kt-dhr.svg){#fig-hoprendement-kooktijd width="400"}
+![Effect kooktijd op bitterheid (volgens Tinseth) voor een begin SG van 1050](images/kt-dhr.png){#fig-hoprendement-kooktijd width="600"}
 
 {{< newpage >}}
 

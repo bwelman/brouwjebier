@@ -57,7 +57,7 @@ $BV = \frac{EBU}{SG_{punten}}$
 De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in @tbl-biertype-bv.
 
 | Biertype | Begin SG    | SG punten[^recepten-1] | EBU   | EBU[^recepten-2] | BV           |
-|----------|-------------|------------------------|-------|------------------|--------------|
+|------------|------------|--------------|------------|------------|------------|
 | IPA (US) | 1,056-1,070 | 63                     | 40-70 | 55               | 55/63 = 0,87 |
 | Weizen   | 1,046-1,057 | 52                     | 10-20 | 15               | 15/52 = 0,29 |
 
@@ -66,8 +66,6 @@ De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoa
 [^recepten-1]: Gemiddelde waarde
 
 [^recepten-2]: Gemiddelde waarde
-
-{{< pagebreak >}}
 
 ### Alcoholpercentage
 
@@ -108,8 +106,6 @@ Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doe
     -   waterprofiel
 
     -   eventuele behandeling (pH, brouwzouten)
-
-        {{< pagebreak >}}
 4.  Bepaal welke hopsoorten je wilt gebruiken en bereken de hoeveelheden.
     -   gewenste hoparoma en smaak
     -   tijdstip(en) en tijdsduur hopgiften

@@ -62,7 +62,7 @@ Voor een goede werking van de enzymen is het ook noodzakelijk dat het maischwate
 
 ### Jodiumtest
 
-Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in suikers. Dit gaat als volgt.
+Met een simpele **jodiumtest** (zie @fig-jodiumtest) kun je controleren of alle zetmeel is omgezet in suikers.
 
 ::: {.callout-note icon="false"}
 ## Praktijk
@@ -72,9 +72,9 @@ Met een simpele **jodiumtest** kun je controleren of alle zetmeel is omgezet in 
 3.  Let nu op de kleur van de jodiumoplossing:
     -   *Blauwkleuring* wijst op de aanwezigheid van zetmeel. Je moet dan nog wat langer maischen.
     -   Blijft de kleur *bruin*, dan is alle zetmeel omgezet. Het maischproces is dan klaar.
-
-![Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.](images/jodiumtest.png){#fig-jodiumtest}
 :::
+
+![Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.](images/jodiumtest.png){#fig-jodiumtest width="400" height="200"}
 
 ### Voortgang (SG) meten
 

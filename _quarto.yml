@@ -5,6 +5,7 @@ book:
   title: "Brouw je Bier"
   subtitle: "Cursus bierbrouwen voor beginners."
   date: today
+  date-format: long
   google-analytics: "G-K3JHGJ2XQG"
   chapters:
     - index.qmd
@@ -65,6 +66,10 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     callout-appearance: simple
+  pdf:
+    documentclass: scrbook
+    papersize: a4
+    cite-method: biblatex
 
 knitr:
   opts_chunk:

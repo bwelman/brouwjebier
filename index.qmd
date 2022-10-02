@@ -6,9 +6,11 @@ De cursus is aanvankelijk opgezet voor een gedrukte handleiding bij een beginner
 
 ## Licentie {.unnumbered}
 
-?[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl)
+[![](images/creativecommons-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl)
 
 Dit werk valt onder een [Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
+
+{{< pagebreak >}}
 
 ## Over de auteur {.unnumbered}
 

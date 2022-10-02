@@ -1,8 +1,11 @@
+library(dplyr)
+library(readr)
+library(ggplot2)
+
+# ---------------------------------------------------------
 # Hulpbestand om bkgtabel en bkgschema te maken.
 # Moet uitgevoerd worden wanneer de BKG lijst verandert.
 
-require(dplyr)
-require(readr)
 biertypen <- read_csv2("resources/bkg_biertypen.csv", show_col_types = FALSE)
 
 bkg.klasse <- biertypen %>% select(BIERTYPE, KLASSE)
@@ -39,12 +42,10 @@ bkgschema <- ggplot(data = bkg.selectie, aes( x = EBC, y = BEGINSG)) +
 	annotate("text", x=45, y=1075, label= "D", size=8, color = "Red") +
 	geom_text(label = bkg.selectie$BIERTYPE, nudge_x = 0.25, nudge_y = 0.25, check_overlap = TRUE, size = 3)
 
-svg(filename = "images/bkgschema.svg")
-plot(bkgschema)
-dev.off()
+ggsave(filename = "images/bkgschema.png", plot = bkgschema)
 
 # ---------------------------------------------------------
-# Grafiek hoprendement-kooktijd (wordt gebruikt in hop.Rmd)
+# Grafiek hoprendement-kooktijd (wordt gebruikt in hop.qmd)
 mydf <- data.frame(kooktijd = c(seq(0,60,3), 70,80,90, 120, 150))
 mydf$dhr <-  (1.65*0.000125^.050) * (1-exp(-0.04*mydf$kooktijd))/4.15
 ktdhr <- ggplot(data = mydf, aes(x = kooktijd, y = dhr)) +
@@ -53,12 +54,10 @@ ktdhr <- ggplot(data = mydf, aes(x = kooktijd, y = dhr)) +
 	labs(title = "Rendement hopbitterheid - Kooktijd", x = "Kooktijd (min)", y = "Rendement") +
 	scale_x_continuous(breaks = seq(0, 150, 10)) + scale_y_continuous(breaks = seq(0, 0.3, 0.05))
 
-svg(filename = "images/kt-dhr.svg")
-plot(ktdhr)
-dev.off()
+ggsave(filename = "images/kt-dhr.png", plot = ktdhr)
 
 # ---------------------------------------------------------
-# kleurenkaart (wordt gebruikt in mout.Rmd)
+# kleurenkaart (wordt gebruikt in mout.qmd)
 # Kleurenkaart met EBC waarde aan het begin van de naam
 bierkleuren <- data.frame(
 	kleur = c("04-Blond", "06-Lichtgoud", "08-Goud", "10-Goudoranje", "12-Oranje", "16-Amber", "20-Koper",
@@ -76,12 +75,10 @@ kleurenkaart <-ggplot(data = bierkleuren, aes(x = kleur, y =1, fill = kleur)) +
 	labs(title = "EBC Kleurenkaart") +
 	theme(aspect.ratio = 6/5)
 
-svg(filename = "images/kleurenkaart.svg")
-plot(kleurenkaart)
-dev.off()
+ggsave(filename = "images/kleurenkaart.png", plot = kleurenkaart)
 
 # ---------------------------------------------------------
-# infusie-3staps, Voorbeeld maischstappen in een infusieproces (wordt gebruikt in maischen.Rmd)
+# infusie-3staps, Voorbeeld maischstappen in een infusieproces (wordt gebruikt in maischen.qmd)
 
 infusie3 <- data.frame(tijd = c(0, 30,45,57,97,108,133,138,143),
 					   temp = c(20,50,50,62,62,72,72,78,78))
@@ -95,8 +92,7 @@ infusieplot <- ggplot(data = infusie3, aes( x = tijd, y = temp, label=temp)) +
 	annotate("text", x=60, y=60, label = "beta-amylase", hjust = 0) +
 	annotate("text", x=110, y=70, label = "alpha-amylase", hjust = 0)
 
-svg(filename = "images/infusieplot.svg", pointsize = 14)
-plot(infusieplot)
-dev.off()
+ggsave(filename = "images/infusieplot.png", plot = infusieplot)
+
 
 # ---------------------------------------------------------

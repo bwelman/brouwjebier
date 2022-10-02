@@ -31,9 +31,9 @@ $\text{EBC} = 1,97 \times \text{SRM} \approx 2 \times \text{SRM}$
 
 Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort.
 
-De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in @fig-kleurenkaart. En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle computerprogramma's (zie @sec-brouwsoftware) voor het brouwen rekenen dat voor je uit.
+De kleur van het bier wordt ook met EBC-waarden aangegeven, zie de kleurenkaart in @fig-kleurenkaart. En de bierkleur wordt voor het grootste deel door de kleur van de mout bepaald. Alle brouwprogramma's (zie @sec-brouwsoftware) rekenen dat voor je uit.
 
-![Kleurenkaart met de EBC waarde aan het begin van de naam.](images/kleurenkaart.svg){#fig-kleurenkaart}
+![Kleurenkaart met de EBC waarde aan het begin van de naam.](images/kleurenkaart.png){#fig-kleurenkaart width="600"}
 
 ## Moutsoorten van gerst
 

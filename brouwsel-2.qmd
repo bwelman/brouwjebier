@@ -34,8 +34,6 @@ Begin SG: $\pm1058$ (hangt af van apparatuur, spoelsnelheid, ...)
 
 Eind SG: $\pm1014$
 
-{{< pagebreak >}}
-
 **Grondstoffen**
 
 -   *Mout*

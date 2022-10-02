@@ -27,8 +27,6 @@ Sluit af met een evaluatie.
 
 In bijlage \@sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
 
-{{< pagebreak >}}
-
 ## Recept Tripel
 
 Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
@@ -68,8 +66,6 @@ Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
     -   Bottelen als vergisting gestopt is (3 dagen geen activiteit, SG meten)
     -   6-8 gram suiker per liter bottel suiker.
     -   Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
-
-{{< pagebreak >}}
 
 ## Draaiboek
 
