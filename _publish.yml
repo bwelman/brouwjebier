@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a28a15f9-4f3b-4ec0-a96f-7758dda1f53b
+      url: 'https://brouwjebier.netlify.app'
