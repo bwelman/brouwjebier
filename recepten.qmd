@@ -12,7 +12,7 @@
 
 Hoe kom je tot een recept voor een goed en succesvol bier? In het begin is dat niet eenvoudig en gebruik je snel een recept van een ander. Zeker wanneer je een volgens dit recept gebrouwen bier geproefd hebt en lekker vindt, kan dit vertrouwen in het recept geven. Soms moet je dan nog wat aan de hoeveelheden veranderen om het recept aan je eigen installatie aan te passen, maar daarna ben je snel klaar en daar is niets mis mee. Ook zijn er veel boeken en websites met recepten, teveel om op te noemen.
 
-Een goed houvast biedt ook een gids met biertypen, zoals die van het BKG (BierkeurmeestersGilde) die in hoofdstuk \@ref(biertypen) wordt besproken. De gids geeft voor de biertypes een overzicht van de belangrijkste parameters en biedt daardoor een goed startpunt voor het formuleren van een recept.
+Een goed houvast biedt ook een gids met biertypen, zoals die van het BKG (BierkeurmeestersGilde) die in @sec-biertypen wordt besproken. De gids geeft voor de biertypes een overzicht van de belangrijkste parameters en biedt daardoor een goed startpunt voor het formuleren van een recept.
 
 Waar je als beginnend brouwer ook veel aan kunt hebben zijn de [Bewezen Recepten](https://www.hobbybrouwen.nl/forum/index.php?topic=4459.0) op het forum van Hobbybrouwen. Dit zijn recepten van bieren die ooit een prijs gewonnen hebben op een wedstrijd.
 
@@ -57,7 +57,7 @@ $BV = \frac{EBU}{SG_{punten}}$
 De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in @tbl-biertype-bv.
 
 | Biertype | Begin SG    | SG punten[^recepten-1] | EBU   | EBU[^recepten-2] | BV           |
-|------------|------------|--------------|------------|------------|------------|
+|------------|------------|------------|------------|------------|------------|
 | IPA (US) | 1,056-1,070 | 63                     | 40-70 | 55               | 55/63 = 0,87 |
 | Weizen   | 1,046-1,057 | 52                     | 10-20 | 15               | 15/52 = 0,29 |
 
