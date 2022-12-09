@@ -57,10 +57,6 @@ Wanneer je over de watersamenstelling van het drinkwaterbedrijf beschikt kun je 
 
 In kraanwater kunnen diverse ionen voorkomen. De voor de brouwer belangrijkste zijn:
 
-Calcium, Magnesium, Waterstofcarbonaat
-
-:   Deze zijn verantwoordelijk voor de hardheid van het water (meestal uitgedrukt in graden Duitse Hardheid).
-
 Fosfaat
 
 :   Belanrijk voor de groei van gistcellen, komt ook via de mout in het beslag.
@@ -73,9 +69,23 @@ Sulfaat
 
 :   Versterkt de bitterheid van het bier
 
-Voor invloed op de smaak is vooral de onderlinge verhouding Chloride en Sulfaat van belang. Als deze onderlinge verhouding klein is, accentueert dit de bitterheid, van belang voor bijvoorbeeld een IPA. Een hogere onderlinge verhouding levert een accentuering van zoetheid op, van belang bij bokbieren.
+Calcium, Magnesium, Waterstofcarbonaat
+
+:   Deze zijn verantwoordelijk voor de hardheid van het water.
+
+Voor het meten van de hardheid zijn verschillende methoden in gebruik en daardoor ook verschillende meeteenheden. In Nederland gebruikt men **Duitse graden (dH, ^o^dH)** en in België worden **Franse graden (fH, ^o^fH, ^o^f)** gebruikt.
+
+::: callout-note
+1 ^o^dH = 10 mg calciumoxide (CaO) per liter
+
+1 ^o^fH = 10 mg calciumcarbonaat (CaCO3) per liter
+
+Omrekenformules: 1 ^o^dH = 1,78 ^o^fH en 1 ^o^fH = 0,56 ^o^dH
+:::
 
 Het komt in de praktijk weinig voor dat je het water moet ontharden. Maar wanneer het water te hard is voor het te brouwen biertype, dan kun je tijdelijke hardheid, veroorzaakt door waterstofcarbonaat, verminderen door het vooraf te koken. Een andere oplossing is het gebruiken van gedemineraliseerd water.
+
+Voor invloed op de smaak is vooral de onderlinge verhouding chloride en sulfaat van belang. Als deze onderlinge verhouding klein is, accentueert dit de bitterheid, van belang voor bijvoorbeeld een IPA. Een hogere onderlinge verhouding levert een accentuering van zoetheid op, van belang bij bokbieren.
 
 Door het toevoegen van zogenaamde brouwzouten als calciumchloride en calciumsulfaat kun je de hoeveelheid mineralen in het water verhogen en ook nog eens de pH verlagen. Het toevoegen van calciumzouten zorgt er ook voor dat de gist beter uitvlokt waardoor het bier eerder helder is. Ook hier kan brouwsoftware je ondersteunen om de toe te voegen hoeveelheden te berekenen.
 
