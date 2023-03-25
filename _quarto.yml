@@ -66,10 +66,19 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     callout-appearance: simple
+
   # pdf:
   #   documentclass: scrbook
+  #   classoption: oneside
   #   papersize: a4
+  #   geometry:
+  #     - top=25mm
+  #     - bottom=25mm
+  #     - left=25mm
+  #     - right=25mm
   #   cite-method: biblatex
+  #   links-as-notes: true
+  #   author: Ben Welman
 
 knitr:
   opts_chunk:
