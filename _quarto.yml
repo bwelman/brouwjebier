@@ -4,7 +4,7 @@ project:
 book:
   title: "Brouw je Bier"
   subtitle: "Cursus bierbrouwen voor beginners."
-  date: today
+  date: last-modified
   date-format: long
   google-analytics: "G-K3JHGJ2XQG"
   site-url: https://brouwjebier.netlify.app/
