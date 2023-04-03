@@ -38,15 +38,15 @@ $$\text{Brix} = 1,04 \times \text{Plato}$$ $$\text{Plato} = \text{Brix } / 1,04$
 
 ### SG/Dichtheid {#sec-sg-dichtheid}
 
-De *dichtheid* of *soortelijke massa* van een stof is de massa (kg) gedeeld door het volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water uitgegaan van
+De *dichtheid* of *soortelijke massa* van een stof is de massa ($\pu{kg}$) gedeeld door het volume ($\pu{m3}$). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij $\pu{4^oC}$ en $\pu{1 atm}$ druk is de dichtheid van water $\pu{999,972 kg/m3}$. Gemakshalve wordt voor de dichtheid van water uitgegaan van
 
-$$\text{dichtheid water} = 1000 \ kg/m^3 = 1 \  kg/lit = 1000 \ gr/lit = 1 \ gr/ml$$
+$$\text{dichtheid water} = \pu{1000 kg/m3 = 1 kg/lit = 1000 gr/lit = 1 gr/ml}$$
 
 De *relatieve dichtheid* of *SG* (Specific Gravity) van een vloeistof is de dichtheid van een vloeistof gedeeld door de dichtheid van water, beide gemeten bij dezelfde temperatuur en druk. De relatieve dichtheid is daardoor een getal zonder eenheid.
 
 $$\text{relatieve dichtheid vloeistof (SG)} = \frac{\text{dichtheid vloeistof}}{\text{dichtheid water}}$$
 
-Bij 4^o^C en 1 atm. geldt dan ook: relatieve dichtheid water = 1.
+Bij $\pu{4^oC}$ en $\pu{1 atm}$ geldt dan ook: relatieve dichtheid water = 1.
 
 De (relatieve) dichtheid meet je met een **hydrometer**. Hiervoor heb je relatief veel vloeistof (ca. 100 ml) nodig en de meetwaarde is afhankelijk van de temperatuur van de vloeistof. De hydrometer is namelijk bij 20^o^C geijkt. Met behulp van bijgeleverde tabellen moet je dan een correctie aanbrengen wanneer de temperatuur anders is.
 
