@@ -1,6 +1,6 @@
 # Rekenen {#sec-rekenen}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je weet wat de volgende begrippen inhouden:
@@ -77,7 +77,7 @@ Bij het berekenen van de mouthoeveelheden voor een brouwsel is het erg handig om
 
 $$SG_{punten}  =  1000\times (SG  -  1) \Leftrightarrow SG  =  \frac{SG_{punten} + 1000}{1000}$$
 
-Voor een wort met $SG=1,050$ is dus $\text{SG-punten} = 1000 \times (1,050 - 1) = 50$.
+Voor een wort met $SG=1,050$ is dus $SG_{punten} = 1000 \times (1,050 - 1) = 50$.
 
 ### Omrekenen SG - Plato
 
@@ -90,7 +90,7 @@ Eenvoudige benaderingsformules zijn:
 ::: callout-note
 Voor een wort met $SG = 1,050$ is dan
 
-$\text{SG-punten} = 50$ en $Plato = \frac{50}{4} = 12,5$.
+$SG_{punten} = 50$ en $Plato = \frac{50}{4} = 12,5$.
 :::
 
 Sommige brouwprogramma's werken met iets nauwkeuriger formules. De verschillen zijn klein en zeker voor handrekenwerk zijn deze eenvoudige formules goed te gebruiken.
@@ -160,8 +160,10 @@ De hoeveelheid water die je nodig hebt is uiteraard groter dan het bottelvolume 
 
 Mogelijke **verliezen** zijn afkomstig van:
 
--   *graanabsorbtie* - dit is het water dat tijdens het maischen door de mout wordt opgenomen en na het filteren in de bostel achterblijft. Vuistregel: $\text{Graanabsorbtie} = \pm \text{ 1 liter water per kg mout}$
--   *kookverlies* - dit is het water dat tijdens het koken verdampt. De hoeveelheid hangt af van de kookinstallatie, de heftigheid van het koken en vooral de kooktijd. Je zult dit voor je eigen apparatuur moeten vaststellen door voor een aantal brouwsessies de volumes aan het begin en aan het eind van het koken bij te houden in het logboek. Hieruit kun je dan een gemiddelde verdampingssnelheid bepalen. $\text{Kookverlies (lit)} = \text{Kooktijd (uur)} \times \text{Verdampingssnelheid (lit/uur)}$
+-   *graanabsorbtie* - dit is het water dat tijdens het maischen door de mout wordt opgenomen en na het filteren in de bostel achterblijft. Vuistregel:\
+    **Graanabsorbtie = 1 liter water per kg mout**
+-   *kookverlies* - dit is het water dat tijdens het koken verdampt. De hoeveelheid hangt af van de kookinstallatie, de heftigheid van het koken en vooral de kooktijd. Je zult dit voor je eigen apparatuur moeten vaststellen door voor een aantal brouwsessies de volumes aan het begin en aan het eind van het koken bij te houden in het logboek. Hieruit kun je dan een gemiddelde verdampingssnelheid bepalen.\
+    **Kookverlies (lit) = Kooktijd (uur) x Verdampingssnelheid (lit/uur)**
 -   *ketelverlies* - dit is de hoeveelheid vloeistof die in de kookketel achterblijft, plus die door de hop is opgenomen. Ook dit moet je voor je eigen brouwproces vaststellen.
 -   *bottelverlies* - dit is de hoeveelheid vloeistof die in het gistvat achterblijft en niet in de flessen terecht komt.
 
@@ -198,12 +200,16 @@ In de ideale situatie waarin alle alfazuren omgezet worden in isoalfazuren, dus 
 
 $$EBU_{ideaal} = 1000 \times \frac{{W \times A}}{V}\text{ in mg/lit}$$
 
--   W = hoeveelheid toegevoegde hop (gram)
--   A = de fractie alfazuur (als decimaal getal, geen percentage!)
--   V = volume van het uiteindelijke bier (liter)
+-   $W$ = hoeveelheid toegevoegde hop (gram)
+-   $A$ = de fractie alfazuur (als decimaal getal, geen percentage!)
+-   $V$ = volume van het uiteindelijke bier (liter)
 -   De factor 1000 is voor de omrekening van gram naar mg.
 
-Bij een toevoeging van 15 gram hop met 4% alfazuur aan 25 liter wort is $EBU_{ideaal} = 1000 \times \frac{{15 \times 0,04}}{{25}} = 24$
+::: callout-note
+Bij een toevoeging van 15 gram hop met 4% alfazuur aan 25 liter wort is
+
+$EBU_{ideaal} = 1000 \times \frac{{15 \times 0,04}}{{25}} = 24$
+:::
 
 Door allerlei oorzaken komen niet alle (iso)alfazuren in het uiteindelijke bier terecht, maar slechts zo'n 10%-40% van de toegevoegde alfazuren. De fractie die in het bier terecht komt wordt **Decimaal Hop Rendement (DHR)** genoemd. Voor een schatting van de bitterheid van het bier is dit DHR van groot belang. De formule wordt dan:
 
@@ -224,7 +230,9 @@ Gebruik @tbl-dhr-simpel voor een eenvoudige schatting van het digitaal hoprendem
 
 : Schatting Digitaal Hop Rendement (DHR {#tbl-dhr-simpel}
 
+::: callout-note
 Wordt bij het hiervoor genoemde voorbeeld de hop 60 min. meegekookt, dan is DHR = 0,25 en EBU = 24 x 0,25 = 6.
+:::
 
 Deze eenvoudige methode geeft redelijk goede schattingen. Daarnaast zijn er verschillende methodes die rekening houden met veel andere factoren, zoals de duur van de kooktijd, SG van de kookvloeistof, hopvorm en correctie voor de ouderdom van de hop. Deze methodes zijn genoemd naar de bedenker ervan, zoals: Rager, Garetz, Tinseth, Daniels.
 
@@ -251,33 +259,39 @@ In @sec-hop is uitgelegd dat er bitterhoppen en aromahoppen zijn. Onder bitterho
 
 Voor de berekening van de hophoeveelheden kun je in het algemeen beter gebruik maken van brouwsoftware. De hiervoor genoemde formules moet je alleen gebruiken voor een schatting van de hoeveelheid bitterhop. Voor de hoeveelheid aromahop kun je beter kijken in een bestaand recept bij de betreffende bierstijl en in eerste instantie van de genoemde hoeveelheden uitgaan en daar mee experimenteren.
 
-De hoeveelheid bitterhop reken je dan uit met de formule $W = \frac{V \times EBU}{1000 \times A \times DHR}$
+De hoeveelheid bitterhop reken je dan uit met de formule
+
+$$W = \frac{V \times EBU}{1000 \times A \times DHR}$$
 
 ## Vergistingsgraad
 
-De vergistingsgraad (VG) is het percentage van de suikers in de wort die door de gist zijn omgezet in alcohol en koolstofdioxide. Deze hangt met name af van hoe goed de gistsoort maltotriose kan omzetten. Zo heeft volgens opgave van producent Fermentis de gist SafAle S-33 een vergistingsgraad van 68%-72% en de gist SafAle US-05 een vergistingsgraad van 78%-82%. Een gist met een lagere vergistingsgraad produceert minder alkohol en wat zoeter bier.
+De vergistingsgraad (VG) is het percentage van de suikers in de wort die door de gist zijn omgezet in alcohol en koolstofdioxide. Deze hangt met name af van hoe goed de gistsoort maltotriose kan omzetten. Daarnaast hangt de vergistingsgraad niet alleen af van de gistsoort, maar ook van de samenstelling van de wort en dan met name welke suikers in de wort zitten. Een gist met een lagere vergistingsgraad produceert minder alkohol en wat zoeter bier.
 
-$VG = \frac{SG_{begin} - SG_{eind}}{SG_{begin} - 1,000}$
-
-Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ is $VG = \frac{1,048 - 1,010}{1,048 - 1,000} = 0,79$ ofwel 79%.
-
-Wanneer je de door de fabrikant opgegeven vergistingsgraad van de gist kent, kun je deze ook gebruiken om een schatting van $SG_{eind}$ te maken
-
-$SG_{eind} = SG_{begin} - VG \times (SG_{begin} - 1,000)$
-
-Voor een wort met $SG_{begin} = 1,056$ en een gist met een VG van 78% is de schatting $SG_{eind} = 1,056 - 0,78 \times (1,056 - 1,000) = 1,012$
+$$VG = \frac{SG_{begin} - SG_{eind}}{SG_{begin} - 1,000}$$
 
 ::: callout-note
-De vergistingsgraad hangt niet alleen van de gistsoort af, maar ook van de samenstelling van de wort en dan met name welke suikers in de wort zitten.
+Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ is $VG = \frac{1,048 - 1,010}{1,048 - 1,000} = 0,79$ ofwel 79%.
+:::
+
+Wanneer je de door de fabrikant opgegeven vergistingsgraad van de gist kent, kun je deze ook gebruiken om een schatting van $SG_{eind}$ te maken.
+
+$$SG_{eind} = SG_{begin} - VG \times (SG_{begin} - 1,000)$$
+
+::: callout-note
+Zo heeft volgens opgave van producent Fermentis de gist SafAle S-33 een vergistingsgraad van 68%-72%. Ga je uit van het gemiddelde (70%), dan is voor een wort met $SG_{begin} = 1,060$ de geschatte waarde $SG_{eind} = 1,060 - 0,70 \times (1,060 - 1,000) = 1,018$
 :::
 
 ## Alcoholpercentage {#sec-rekenen-alcoholpercentage}
 
 Het werkelijke volumepercentage alcohol (ABV = Alcohol By Volume) kun je niet uitrekenen, voor de bepaling ervan heb je een laboratorium nodig. Je kunt wel een redelijke schatting maken uit het verschil tussen $SG_{begin}$ en $SG_{eind}$. Dit verschil moet je dan nog vermenigvuldigen met een getal dat afhangt van $SG_{begin}$. Een vuistregel voor dit getal is 136.
 
-$ABV = 136 \times (SG_{begin} - SG_{eind})$
+$$ABV = 136 \times (SG_{begin} - SG_{eind})$$
 
-Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ wordt de schatting $ABV = 136 \times (1,048 - 1,010)= 5,2$.
+::: callout-note
+Voor een bier met $SG_{begin} = 1,048$ en $SG_{eind} = 1,010$ wordt de schatting
+
+$ABV = 136 \times (1,048 - 1,010)= 5,2$.
+:::
 
 Wanneer het bier in flessen gebotteld wordt waarin een nagisting plaatsvindt, dan moet je daar nog eens 0,2% tot 0,5% bij optellen, afhankelijk van de toegevoegde hoeveelheid bottelsuiker, die immers ook in alcohol (en CO~2~) wordt omgezet.
 

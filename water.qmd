@@ -1,10 +1,10 @@
 # Water {#sec-water}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet enige kennis hebben van wat de invloed van de watersamenstelling is op het bier.
--   Je moet weten welke rol de pH waarde vervult bij het brouwproces.
+-   Je moet weten welke rol de pH-waarde vervult bij het brouwproces.
 -   Je leert hoe je de pH kunt meten en de waarde kunt wijzigen.
 -   Je weet wat de invloed is van zouten in het brouwwater en wat je ermee kunt doen..
 :::
@@ -29,7 +29,7 @@ Naast de hardheid van het water speelt ook de zuurgraad (pH) een rol bij verschi
 
 De pH is een maat voor de *zuurgraad* van een waterige oplossing. De pH van een neutrale waterige oplossing ligt bij kamertemperatuur rond de 7. Zure oplossingen hebben een pH lager dan 7 en basische oplossingen hebben een pH hoger dan 7.
 
-In de praktijk lopen de pH waarden van 1 tot 14. Bedenk wel dat de pH-schaal logaritmisch is, wat inhoudt dat een klein verschil in pH waarde al voor een groot verschil in de zuurheid kan zorgen.
+In de praktijk lopen de pH waarden van 1 tot 14. Bedenk wel dat de pH-schaal logaritmisch is, wat inhoudt dat een klein verschil in pH-waarde al voor een groot verschil in de zuurheid kan zorgen. Zo is een vloeistof met pH = 4 maar liefst 10 keer "zuurder" van een vloeistof met pH = 5.
 
 Vooral bij het maischen speelt de pH een belangrijke rol. De enzymen werken het beste bij een pH van 5,2-5,6. Ook bij het koken met hop verloopt het extraheren van de bitterstoffen uit de hop het beste in dit pH waardengebied.
 
@@ -37,7 +37,7 @@ De pH van het brouwwater zelf heeft maar een beperkte invloed op het brouwproces
 
 ### pH meten en aanpassen
 
-Wanneer je de pH van het beslag gaat meten kun je dat het beste zo'n 10 minuten na het storten van de mout doen, die wachttijd is nodig voor het stabiel worden van de pH.
+Wanneer je de pH van het beslag gaat meten kun je dat het beste zo'n 10 minuten na het storten van de mout doen, die wachttijd is nodig voor het stabiel worden van de meetwaarde.
 
 Het goedkoopst kun je de pH meten met pH strips. Deze zijn te koop voor verschillende pH gebieden. Koop strips die het pH bereik voor de amylase goed afdekken, zoals het bereik 5,2-6,8 zoals je kunt zien in @fig-ph52-68.
 

@@ -1,6 +1,6 @@
 # Brouwsel-1 {#sec-brouwsel-1}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
@@ -51,13 +51,13 @@ Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
 
 -   *Maischen*
     -   Maischdikte ligt tussen 3,5-5,5 liter/kg mout
-    -   Gelijkblijvende infusie op $\pu{66^oC}$ gedurende 60 minuten (Let op pH maisch)
-    -   Uitmaischen op $\pu{78^oC}$ gedurende 5 minuten
+    -   Gelijkblijvende infusie op 66 ^o^C gedurende 60 minuten (Let op pH maisch)
+    -   Uitmaischen op 78 ^o^C gedurende 5 minuten
 -   *Spoelen*
     -   Spoel langzaam, mag 40-60 minuten duren. Langzamer spoelen verhoogt het rendement.
     -   Stop met spoelen als SG in de uitloop tussen 1010-1020 ligt (mits je dit kunt meten)
 -   *Koken*
-    -   Kooktijd op $\pu{100^oC}$ gedurende 60 minuten
+    -   Kooktijd op 100 ^o^C gedurende 60 minuten
     -   Hop 60 minuten koken
     -   Kruiden laatste 10 minuten meekoken
 -   *Gisting*
@@ -77,16 +77,16 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 4.  Zet de brouwmaterialen klaar en steriliseer (eventueel reinigen) de brouwspullen die in contact komen met de wort.
 5.  Meet de hoeveelheid maischwater af en verwarm deze op tot de begintemperatuur.
 6.  Stort de mout in het brouwwater. Roer de maisch om zo klonters te voorkomen. Waak voor zuurstofinslag, dus niet te hard roeren.
-7.  Probeer de temperatuur op de doeltemperatuur te houden en niet meer dan ongeveer $\pu{1^oC}$ af te laten wijken.
+7.  Probeer de temperatuur op de doeltemperatuur te houden en niet meer dan ongeveer 1 ^o^C af te laten wijken.
 8.  Tijdens de amylaserust kan je de maischpan eventueel in een hooikist zetten of warmhouden in een deken. Anders zo nu en dan bijverwarmen.
-9.  Meet na 10 minuten de pH waarde. Optimum ongeveer 5,4 pH. Eventueel aanzuren met melkzuur of fosforzuur.
+9.  Meet na 10 minuten de pH waarde. Optimumwaarde is ongeveer 5,4. Eventueel aanzuren met melkzuur of fosforzuur.
 10. Tijdens verwarmen roeren om aanbranden te voorkomen. Wat valt je tijdens het brouwproces op als je handmatig roert?
 11. Voer na 20 en 60 minuten de jodiumtest uit. Wat is het verschil in kleur tussen beide tijdstippen? En wat zegt je dat?
-12. Meet aan het begin en aan het eind van de $\pu{66^oC}$-stap het SG van de maisch.
-13. Uitmaischen gebeurt op $\pu{78^oC}$.
-14. Meet aan het begin en aan het eind van de $\pu{78^oC}$ stap het SG van de maisch.
+12. Meet aan het begin en aan het eind van de 66 ^o^C-stap het SG van de maisch.
+13. Uitmaischen gebeurt op 78 ^o^C.
+14. Meet aan het begin en aan het eind van de 78 ^o^C stap het SG van de maisch.
 15. Zorg dat je het filter (indien nodig) hebt gesteriliseerd.
-16. Zorg dat het spoelwater op temperatuur is ($\pu{80^oC}$) en de juiste pH heeft (5,2), dus eventueel aanzuren.
+16. Zorg dat het spoelwater op temperatuur is 80 ^o^C en de juiste pH heeft (5,2), dus eventueel aanzuren.
 17. Filter langzaam. Kort voordat het filterbed begint droog gaat vallen begin je met het spoelen.
 18. Meet op gezette tijdstippen het SG aan de uitloop van het filter.
 19. Meet het volume en het SG van de wort aan het begin van het koken.
@@ -95,7 +95,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 22. Start na het filteren het kookproces en zorg voor een rollende kook.
 23. Voeg tijdens het kookproces op de juiste tijdstippen de ingrediënten toe.
 24. Zorg voor het einde van het koken dat je koeler, gistvat, en slangen hebt gereinigd en gedesinfecteerd. Ook het filter wanneer je deze gebruikt.
-25. Na het koken koel de wort zo snel mogelijk af naar $\pu{23^oC}$.
+25. Na het koken koel de wort zo snel mogelijk af naar 23 ^o^C.
 26. Begin ondertussen met het reinigen van de spullen die je niet meer nodig hebt.
 27. Hydreer de korrelgist ongeveer een half uur voordat je de gist ent (toevoegt)
 28. Breng de afgekoelde wort over naar het gistvat (eventueel met gebruik van een filter).
@@ -112,7 +112,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 39. Wanneeer je bottelgist (bijvoorbeeld Fermentis Safale F-2) gaat gebruiken, hydrateer dan ca. 1 gram per 20-25 liter in wat jong bier en voeg deze daarna toe aan het te bottelen bier.
 40. Zorg dat de bierflessen goed gereinigd en gedesinfecteerd zijn.
 41. Vul de flessen af tot 1-2 cm onder de flessenhals en sluit de flesjes.
-42. Laat de flesjes bier nagisten door deze minimaal 2 weken op $\pu{18-25^oC}$ weg te zetten.
+42. Laat de flesjes bier nagisten door deze minimaal 2 weken op 18-25 ^o^C weg te zetten.
 43. Label je flesjes of krat/vat.
 44. Zet de flesjes koel en donker weg.
 45. Reinig de gebruikte apparatuur.
@@ -123,7 +123,7 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 1.  Hoe noemt men de eenstapsmaisch methode ook wel?
 2.  Wat was de temperatuur van het water voor de moutstort en wat is de temperatuur van de wort direct erna? Waarom is er een verschil?
 3.  Hoe heb je de hoeveelheid spoelwater bepaald?
-4.  Wat was de verandering van het SG tijdens de $\pu{66^oC}$-maischstap? Verklaar deze verandering.
+4.  Wat was de verandering van het SG tijdens de 66 ^o^C-maischstap? Verklaar deze verandering.
 5.  Hoeveel water is er tijdens het koken verdampt?
 6.  Hoeveel liter wort is er in het gistvat gegaan?
 7.  Wat was het begin SG in het gist vat?

@@ -1,6 +1,6 @@
 # Over bier {#sec-over-bier}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet in hoofdlijnen aan kunnen geven hoe bier ontstaan is.

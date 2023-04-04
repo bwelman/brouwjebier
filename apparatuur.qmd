@@ -1,6 +1,6 @@
 # Apparatuur {#sec-apparatuur}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je weet welke apparatuur nodig is om te kunnen brouwen.

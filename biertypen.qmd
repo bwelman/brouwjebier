@@ -1,6 +1,6 @@
 # Biertypen {#sec-biertypen}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je maakt kennis met biertypenlijsten

@@ -1,6 +1,6 @@
 # Kruiden {#sec-kruiden}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je kent een aantal kruiden/specerijen die bij de bierbereiding gebruikt kunnen worden en wat het effect ervan is.

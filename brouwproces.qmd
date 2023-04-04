@@ -1,6 +1,6 @@
 # Brouwproces - Basis {#sec-brouwproces}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet de verschillende stappen in het brouwproces kunnen benoemen.
@@ -58,7 +58,7 @@ Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym 
 Om de temperatuur tijdens de rust constant te houden kun je de maischketel ook in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
 :::
 
-Voor een goede werking van de enzymen is het ook noodzakelijk dat het maischwater een *pH* van 5,2-5,4 heeft. Meet daarom de pH en zuur, indien nodig, het water aan met wat melkzuur of fosforzuur. Zie hiervoor @sec-zuurgraad.
+Voor een goede werking van de enzymen is het ook noodzakelijk dat het maischwater een pH van 5,2-5,4 heeft. Meet daarom de pH en zuur, indien nodig, het water aan met wat melkzuur of fosforzuur. Zie hiervoor @sec-zuurgraad.
 
 ### Jodiumtest
 

@@ -1,6 +1,6 @@
 # Brouwmethodes {#sec-brouwmethodes}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je leert een aantal brouwmethodes kennen.
@@ -15,7 +15,7 @@ Dit is de methode die het meest wordt toegepast. Hierbij wordt het maischwater v
 
 ### Dalende infusie
 
-Dit is een van oorsprong Engelse methode, waarbij tijdens het maischen maar één temperatuur, $\pm 65^oC$ wordt aangehouden. Hierbij wordt het maischwater verwarmd tot iets boven de inmaischtemperatuur. Daarna wordt de mout gestort waardoor de temperatuur daalt tot de maischtemperatuur, welke vervolgens een tijdlang (ca. anderhalf uur) wordt aangehouden. Brouwsoftware kan voor je uitrekenen tot welke temperatuur je het maischwater moet verwarmen voordat je de mout stort.
+Dit is een van oorsprong Engelse methode, waarbij tijdens het maischen maar één temperatuur, 65 ^o^C wordt aangehouden. Hierbij wordt het maischwater verwarmd tot iets boven de inmaischtemperatuur. Daarna wordt de mout gestort waardoor de temperatuur daalt tot de maischtemperatuur, welke vervolgens een tijdlang (ca. anderhalf uur) wordt aangehouden. Brouwsoftware kan voor je uitrekenen tot welke temperatuur je het maischwater moet verwarmen voordat je de mout stort.
 
 ### Decoctie
 

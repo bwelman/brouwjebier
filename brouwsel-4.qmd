@@ -1,6 +1,6 @@
 # Brouwsel-4 {#sec-brouwsel-4}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je kunt eisen/wensen voor een te maken bier formuleren.

@@ -1,6 +1,6 @@
 # Mout
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je weet wat het moutproces inhoudt.
@@ -27,7 +27,7 @@ Mout moet koel en droog bewaard worden, het beste in voor levensmiddelen geschik
 
 Afhankelijk van de temperatuur waarbij het mout gedroogd is krijg je een lichtere of donkere mout. Voor de aanduiding van de moutkleur kom je meerdere normen tegen. De oudste is de onnauwkeurige *Lovibond* schaal uit 1893. Opvallend is dat de Amerikanen deze nog steeds gebruiken voor de kleur van de mout, maar voor de kleur van bier de nieuwere *SRM* (Standard Reference Method) gebruiken. In Europa wordt zowel voor de kleur van de mout als voor de kleur van bier de *EBC* (European Brewery Convention) gebruikt. Je kunt SRM- en EBC-waarden goed in elkaar omrekenen met de formule
 
-$\text{EBC} = 1,97 \times \text{SRM} \approx 2 \times \text{SRM}$
+$\mathrm{EBC} = 1,97 \times \mathrm{SRM} \approx 2 \times \mathrm{SRM}$
 
 Hoe hoger het EBC-getal hoe donkerder de mout. De zeer donkere moutsoorten met een EBC-getal van 150 of meer hebben de neiging snel te overheersen in de smaak van het bier. Deze moutsoorten moeten altijd in beperkte mate gebruikt worden. De mouterij geeft voor deze moutsoorten altijd de maximale stort aan in percentage van de totale stort.
 

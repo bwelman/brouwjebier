@@ -1,6 +1,6 @@
 # Hygiene {#sec-hygiene}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet weten hoe belangrijk het schoonmaken en desinfecteren is.

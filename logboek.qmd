@@ -1,6 +1,6 @@
 # Logboek {#sec-logboek}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet weten waarom het belangrijk is om een logboek bij te houden.
@@ -18,7 +18,7 @@ De volgende onderdelen dienen in een logboek vermeld te worden:
 -   Datums van brouwen, vergisten, bottelen, proeven, ...
 -   Het gebruikte recept.
 -   Het gevolgde brouwproces en hoe je de verschillende stappen hebt uitgevoerd.
--   Meetwaarden: volumes, temperaturen, pH's, SG's, Brix, ...
+-   Meetwaarden: volumes, temperaturen, pH waarden, SG's, Brix, ...
 -   Verloop van de vergisting.
 -   Bottelen.
 -   Beoordeling van het bier.

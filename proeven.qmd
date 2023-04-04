@@ -1,6 +1,6 @@
 # Proeven {#sec-proeven}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je maakt kennis met diverse aroma's en smaken in bier.

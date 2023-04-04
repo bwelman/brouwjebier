@@ -1,12 +1,12 @@
 # Brouwsel-2 {#sec-brouwsel-2}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
 -   Je maakt kennis met meerdere moutsoorten en de effecten hiervan op het bier.
 -   Je gaat met meerdere maischstappen werken en weet wat elke maischstap inhoudt.
--   Je kunt de pH meten en maisch- en spoelwater op gewenste pH waarde brengen.
+-   Je kunt de pH meten en maisch- en spoelwater op gewenste waarde brengen.
 -   Je leert de apparatuur nog beter kennen.
 -   Je maakt kennis met de belangrijkste kenmerken van het biertype.
 -   Er wordt meer zelfstandigheid tijdens het brouwproces van je verwacht.
@@ -54,16 +54,16 @@ Eind SG: $\pm1014$
 -   *Maischen*
     -   Maischdikte ligt tussen 3,5-5,5 liter/kg mout
     -   Stijgende infusie
-    -   Stap 1: $\pu{54^oC}$, 10 minuten (Let op pH maisch)
-    -   Stap 2: $\pu{63^oC}$, 30 minuten
-    -   Stap 3: $\pu{73^oC}$, 20 minuten
-    -   Stap 4: $\pu{78^oC}$, 5 minuten (Uitmaischen)
+    -   Stap 1: 54 ^o^C, 10 minuten (Let op de pH van de maisch)
+    -   Stap 2: 63 ^o^C, 30 minuten
+    -   Stap 3: 73 ^o^C, 20 minuten
+    -   Stap 4: 78 ^o^C, 5 minuten (Uitmaischen)
 -   *Spoelen*
     -   Spoel langzaam.
     -   Stop met spoelen als SG in de uitloop tussen 1010-1020 ligt (mits je dit kunt meten)
 -   *Koken*
-    -   Kooktijd op $\pu{100^oC}$ gedurende 60 minuten
-    -   Hop toevoegen bij $\pu{95^oC}$, 60 minuten koken
+    -   Kooktijd op 100 ^o^C gedurende 60 minuten
+    -   Hop toevoegen bij 95 ^o^C, 60 minuten koken
 -   *Gisting*
     -   Eventueel giststarter maken (in overleg met mentor).
 -   *Bottelen*
@@ -77,8 +77,8 @@ Voor een algemeen uitgebreid draaiboek zie @sec-brouwsel-1.
 
 Speciale aandachtspunten bij dit brouwsel.
 
--   Zorg tussen de maischstappen voor een temperatuurstijging van ongeveer $\pu{1^oC}$ per 2 minuten.
--   Probeer bij de maischstappen de temperatuur op ca. $\pu{1^oC}$ van de doeltemperatuur te houden.
+-   Zorg tussen de maischstappen voor een temperatuurstijging van ongeveer 1 ^o^C per 2 minuten.
+-   Probeer bij de maischstappen de temperatuur op ca. 1 ^o^C van de doeltemperatuur te houden.
 -   pH na 10 minuten meten en op 5,4 brengen. Spoelwater pH op 5,2.
 -   Voer tijdens het maischproces een jodiumtest uit aan het einde van stap 3.
 -   Smackpack enkele dagen van de voren kneuzen en warm leggen. Zie handleiding op de verpakking.
@@ -87,7 +87,7 @@ Speciale aandachtspunten bij dit brouwsel.
 ## Vragen
 
 1.  Hoe noemt men deze maischmethode?
-2.  Welke enzymen zijn actief bij $\pu{63^oC}$ en $\pu{73^oC}$?
+2.  Welke enzymen zijn actief bij 63 ^o^C en 73 ^o^C?
 3.  Hoe heb je de hoeveelheid spoelwater bepaald?
 4.  Hoeveel water is er tijdens het koken verdampt?
 5.  Hoeveel liter wort is er in het gistvat gegaan?

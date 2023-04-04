@@ -1,6 +1,6 @@
 # Brouwsoftware {#sec-brouwsoftware}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Overzicht Nederlandstalige brouwsoftware.

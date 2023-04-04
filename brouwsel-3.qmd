@@ -1,6 +1,6 @@
 # Brouwsel-3 {#sec-brouwsel-3}
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je moet een recept voor een **Weizen** kunnen opstellen.

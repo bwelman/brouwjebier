@@ -1,6 +1,6 @@
 # Suikers
 
-::: {.callout-note icon="false"}
+::: callout
 ## Doelstellingen
 
 -   Je kent het verschil tussen vergistbare en onvergistbare suikers.
