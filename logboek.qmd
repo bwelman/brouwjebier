@@ -25,3 +25,9 @@ De volgende onderdelen dienen in een logboek vermeld te worden:
 -   Eigenlijk alles wat van belang kan zijn om op een later tijdstip na te gaan hoe een en ander verlopen is.
 
 Sommigen gebruiken als logboek een notitieboek of een multomap, anderen houden de gegevens bij in een Word- of Excelbestand. En ook de meeste brouwsoftware biedt mogelijkheden om notities te maken bij een brouwsel. In welke vorm je een logboek bijhoudt is niet belangrijk, als je het maar doet.
+
+## Testvragen
+
+1.  Waarom leg je een logboek aan?
+
+2.  Welke informatie houd je bij in een logboek?

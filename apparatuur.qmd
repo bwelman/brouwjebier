@@ -136,3 +136,15 @@ Je kunt natuurlijk ook metingen uitvoeren met zowel de refractometer en een hydr
 Een gecontroleerde en juiste vergistingstemperatuur verhoogt de kwaliteit van het vergistingsproces en dus van je bier. Om dat te bereiken heb je een zogenaamde vergistingskast nodig. Veel hobbybrouwers maken deze zelf door in een oude koelkast een verwarmingselement aan te brengen. Verder heb je dan nog een thermostaat nodig die via een sensor de temperatuur meet en dan zowel de verwarming als de koeling kan aansturen. De goedkoopste oplossing voor de doe-het-zelver is de STC-1000 die je voor een tientje al kunt kopen. Je moet dan nog wel zelf het een en ander in elkaar knutselen. Een kant-en-klare oplossing is de Inkbird ITC voor ca. 50 euro. Heb je in huis een ruimte waar de temperatuur constant 18-20 graden is dan kun je die ruimte ook gebruiken.
 
 ![Inkbird ITC-308 temperatuurregelaar.](images/inkbird.png){#fig-inkbird}
+
+## Testvragen
+
+1.  Welke typen schrootmolens worden genoemd?
+
+2.  Wat is het verschil tussen een dompelkoeler en een tegenstrook koeler?
+
+3.  Wat is de definitie van relatieve dichtheid?
+
+4.  Op welke temperatuur is de hydrometer in het algemeen geijkt?
+
+5.  Waarvoor dient een waterslot?

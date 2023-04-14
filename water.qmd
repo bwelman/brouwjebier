@@ -90,3 +90,21 @@ Voor invloed op de smaak is vooral de onderlinge verhouding chloride en sulfaat 
 Door het toevoegen van zogenaamde brouwzouten als calciumchloride en calciumsulfaat kun je de hoeveelheid mineralen in het water verhogen en ook nog eens de pH verlagen. Het toevoegen van calciumzouten zorgt er ook voor dat de gist beter uitvlokt waardoor het bier eerder helder is. Ook hier kan brouwsoftware je ondersteunen om de toe te voegen hoeveelheden te berekenen.
 
 **Alkaliniteit**, ook wel carbonaathardheid genoemd, geeft de concentratie carbonaten en bicarbonaten in het water aan. Het is een maat voor het bufferend vermogen van een oplossing. Een pH-buffer zorgt voor het opvangen van schommelingen in de pH waarde. Een goede alkaliniteit van je brouwwater houdt de pH waarde stabiel.
+
+## Testvragen
+
+1.  Wat is brouwwater en wat is proceswater?
+
+2.  Bij wie kan je gegevens m.b.t. de waterkwaliteit van je leidingwater opvragen?
+
+3.  Wat is maischwater?
+
+4.  Zoek eens de zuurgraad op van je leidingwater?
+
+5.  Welke ionen hebben invloed op de hardheid van je leidingwater?
+
+6.  Hoe kan je de pH van je spoel en de wort bepalen?
+
+7.  Welke stoffen worden bij bierbrouwen gebruikt om de pH te beïnvloeden?
+
+8.  Wat is alkaliniteit?

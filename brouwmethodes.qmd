@@ -73,3 +73,15 @@ RIMS is een afkorting van *Recirculating Infusion Mash System*. Hierbij wordt he
 ![HERMS - schematische weergave.](images/herms.png){#fig-herms}
 
 HERMS is een afkorting van *Heat Exchange Recirculating Mash System* en is een variant van een RIMS. Bij dit systeem is er geen directe verwarming van het beslag, wat aanbranden voorkomt. De wort in de maischpan stroomt door een warmtewisselaar in een tank met heet water waarna het weer terug gaat naar de maischketel en door het filterbed met mout stroomt.
+
+## Testvragen
+
+1.  Wat houdt dalende infusie in?
+
+2.  Wat houdt stijgende infusie in?
+
+3.  Wat is decoctie?
+
+4.  Wat is Biab brouwen?
+
+5.  Wat is het verschil tussen een RIMS en een HERMS brouwinstallatie?

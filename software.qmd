@@ -52,3 +52,9 @@ Vereisten: Windows
 Handleiding: Wordt bij de installatie meegeleverd en is via het menu oproepbaar.
 
 Er is ook een [Brodeluxe Online](http://www.kwbg.nl/brodeluxe/) welke iets minder functionaliteiten heeft.
+
+## Testvragen
+
+1.  Zoek eens op internet naar Nederland en buitenlandstalige brouwprogramma\'s, welke heb je gevonden?
+
+2.  Wat is het voordeel van brouwsoftware?

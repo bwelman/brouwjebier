@@ -388,3 +388,27 @@ Spoelwater = WaterTotaal - Maischwater = 29,6 - 16,8 = 12,8 lit
 **Hopberekening**
 
 $W = \frac{20 \times 12}{1000 \times 0,079 \times 0,25} = 12 \text{ gram}$
+
+## Testvragen
+
+1.  Wat wordt bedoeld met extract?
+
+2.  Wat houdt plato en brix in?
+
+3.  Waarom meet je het extract gehalte van wort?
+
+4.  Wat is potentieel extract van mout?
+
+5.  Wat is de relatieve dichtheid van vloeistof?
+
+6.  Wat is brouwzaalrendement?
+
+7.  Wat is EBU?
+
+8.  Waarvan is EBU in wort afhankelijk?
+
+9.  Wat is DCHR?
+
+10. Wat is de vergistingsgraad?
+
+11. Met welke formule bereken je het alcoholgehalte van vergist bier?
