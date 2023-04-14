@@ -126,3 +126,23 @@ In @fig-maischtabel zie je de belangrijkste kenmerken van de maischstappen. De a
 <!-- + [Understanding Enzymes](https://byo.com/article/understanding-enzymes-homebrew-science/) -->
 
 <!-- + [The Brewer’s Window: What Temperature Should I Mash at?](https://missionarybrewer.wordpress.com/2012/02/01/the-brewers-window-what-temperature-should-i-mash-at/) -->
+
+## Testvragen
+
+1.  Wat is een enzym?
+
+2.  Wat zijn de optima (temperatuur en pH) van β-amylase en α-amylase?
+
+3.  Wat houden deze optima in?
+
+4.  Wat houdt een eiwit rust in?
+
+5.  Wat houdt de versuikeringsrust in?
+
+6.  Wat houdt de maltoserust in?
+
+7.  Wat betekent infusie?
+
+8.  Wat houd een meertraps infusieschema in?
+
+9.  Geef een voorbeeld van een eentraps-infusieschema in?

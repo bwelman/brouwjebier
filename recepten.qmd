@@ -143,3 +143,11 @@ Je wilt een recept samenstellen voor een Duitse Weizen. Om wat speelruimte te he
     -   Gist: korrelgist geschikt voor tarwebieren, bijvoorbeeld Fermentis SafAle WB-06
 
 Voor het maischschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.
+
+## Testvragen
+
+1.  Wat zijn de belangrijkste parameters van een recept?
+
+2.  Wat houdt begin SG en eind SG in?
+
+3.  Wat is de werkwijze om tot een nieuw recept te komen?

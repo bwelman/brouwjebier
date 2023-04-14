@@ -118,7 +118,13 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 45. Reinig de gebruikte apparatuur.
 46. Proef regelmatig het bier en noteer je waarnemingen.
 
-## Vragen
+## Evaluatie
+
+-   Brouwproces bespreken. Ga samen met de mentor na wat er goed en fout ging en wat de eventuele invloed hiervan is op het bier.
+-   Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
+-   Eventuele smaak- en geurafwijkingen bespreken.
+
+## Testvragen
 
 1.  Hoe noemt men de eenstapsmaisch methode ook wel?
 2.  Wat was de temperatuur van het water voor de moutstort en wat is de temperatuur van de wort direct erna? Waarom is er een verschil?
@@ -133,9 +139,3 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 11. Hoeveel liter bier is er netto gebotteld?
 12. Bereken het alcoholpercentage (ABV %) van het bier met de formule $ABV\% = (Begin SG - Eind SG) \times 0,136 + 0,4$
 13. Door de schijnbare vergistingsgraad uit te rekenen krijg je een idee hoeveel procent van de aanwezige suikers is omgezet. Bereken de schijnbare vergistingsgraad (SVG) met de formule $SVG = \frac{Begin SG - Eind SG}{Begin SG -1000} \times 100$
-
-## Evaluatie
-
--   Brouwproces bespreken. Ga samen met de mentor na wat er goed en fout ging en wat de eventuele invloed hiervan is op het bier.
--   Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
--   Eventuele smaak- en geurafwijkingen bespreken.
