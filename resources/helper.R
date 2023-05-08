@@ -96,3 +96,36 @@ ggsave(filename = "images/infusieplot.png", plot = infusieplot)
 
 
 # ---------------------------------------------------------
+# Flexibele grafiek voor infusie (resultaat is niet gebruikt)
+library(ggplot2)
+
+# constanten
+v <- 1              # opwarmsnelheid in grd/min
+begintemp <- 20     # begin temperatuur (C)
+eindtemp <- 78      # eind temperatuur (C)
+
+# invoervariabelen
+ptemp = 50 ; ptijd = 15  # proteinase
+btemp = 62 ; btijd = 20  # beta-amylase
+atemp = 72 ; atijd = 15  # alfa-amylase
+
+# infusiedata
+rusttijd <- c(0, ptijd, 0, btijd, 0, atijd, 0)
+temp <- c(begintemp, ptemp, ptemp, btemp, btemp, atemp, atemp, eindtemp)
+tijd <- 0     # starttijdstip, bepaal nu de 7 resterende tijdstippen
+for (i in 2:8){
+	tijd <- c(tijd, tijd[i-1] + rusttijd[i-1] + (temp[i]-temp[i-1])/v)
+}
+
+# Maak dataframe voor temperatuur en tijd
+infusie <- data.frame(temp = temp, tijd = tijd)
+# maximumwaarde x-as als veelvoud van tien naar boven
+xmax <- round(tijd[8]+5, -1)
+
+infusieplot <- ggplot(data = infusie, aes( x = tijd, y = temp, label = temp)) +
+	geom_line(size =1.2, colour =  "#E69F00") +
+	geom_text(size=3, vjust= -0.8, hjust = 1) +
+	labs(title = "Voorbeeld infusieproces", x = "Tijd (min)", y = "Temperatuur (C)") +
+	theme_bw() +
+	scale_x_continuous(breaks = seq(0,xmax,10)) + scale_y_continuous(breaks = seq(0,100,10))
+infusieplot
