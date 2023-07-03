@@ -143,35 +143,45 @@ De afgekoelde vloeistof moet nu naar het *gistvat*. Echter er kunnen nog hoprest
 
 Je kunt dit bezinken een handje helpen door een *whirlpool* maken. Hiervoor roer je flink rond met een grote roerspaan zodat er een draaikolk ontstaat. Daarna wacht je 10-15 minuten. Wanneer de vaste stoffen voldoende bezonken zijn kun je de vloeistof overhevelen naar het gistvat. Er blijft dan nog een klein beetje in de kookketel achter. Meet het volume dat naar het gistvat gaat, zodat je weet hoeveel er in de kookketel is achtergebleven.
 
-## Gist toevoegen
+## Vergisten
 
 Eenmaal in het gistvat kan de gist toegevoegd worden. In het recept staat weer welke gist, hoeveel daarvan en of er een zogenaamde **giststarter** gemaakt moet worden. Korrelgist wordt vaak eerst gehydrateerd, maar je kunt het ook gewoon op de vloeistof strooien. Ook de temperatuur waarbij vergist moet worden vind je in het recept. In @sec-gist wordt verder op de vergisting ingegaan, ook hoe je een giststarter moet maken en hoe het hydrateren van korrelgist in zijn werk gaat.
 
 In het begin gaat de gist alleen maar zichzelf vermenigvuldigen, waardoor het aantal gistcellen toeneemt. Voor deze groei is zuurstof (lucht) nodig. Goed schudden van het gistvat zorgt ervoor dat er meer zuurstof in de wort komt. Na deze groeifase gaat de gist aan het werk om de suikers om te zetten in alcohol en koolzuurgas. Hierbij mag geen lucht (zuurstof) bij de vloeistof komen. Vandaar dat het gistvat van de lucht moet worden afgesloten, maar wel zodanig dat het ontstane koolzuurgas uit het gistvat kan ontsnappen. Hiervoor wordt vaak een *waterslot* gebruikt.
 
-Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuurgas in de vorm van schuim en belletjes die via het waterslot verdwijnen Bij bovengistende bieren duurt de *hoofdgisting* meestal zo'n 2-5 dagen. Daarna neemt de snelheid van vergisting af en krijg je de periode van de *navergisting*. Sommige brouwers hevelen daartoe de vloeistof over naar een nieuw vat. Anderen doen dat juist weer niet omdat door het overhevelen de kans op een besmetting toeneemt.
+Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuurgas in de vorm van schuim en belletjes die via het waterslot verdwijnen Bij bovengistende bieren duurt de *primaire vergisting* (hoofdgisting) meestal zo'n 2-5 dagen. Daarna neemt de snelheid van vergisting af en krijg je de periode van de *secundaire vergisting* (navergisting).
 
-## Lageren
+::: callout-note
+Sommige brouwers hevelen voor de secundaire vergisting de vloeistof over naar een nieuw gistvat, omdat dit zou helpen om 1) het bier te klaren, 2) te voorkomen dat ongewenste smaken ontstaan door langdurig contact met de troep (dode gistcellen, hop, eiwitten), en 3) een beter hoparoma te krijgen bij dry hopping.
 
-Wanneer de vloeistof is uitvergist kan het gelagerd worden. Het *jongbier* kan dan rijpen en helder worden. Hiertoe hevel je het bier over in een ander vat. Dit vat moet zo vol mogelijk zijn om oxidatie van het jongbier te voorkomen. Sluit het vat wel af met een waterslot. Dit *klaren* gebeurt het beste bij een lage temperatuur. Afhankelijk van het soort bier kan deze periode wel 2-8 weken duren.
+In de praktijk merk je weinig van deze effecten. Zo'n overheveling naar een nieuw gistvat is dus niet noodzakelijk. Behalve dat het weer een extra stap is, neemt ook de kans op zuurstofopname en een besmetting toe.
 
-De meeste thuisbrouwers slaan deze periode over. Wat velen wel doen is het gistvat aan het eind nog zo'n 3 dagen in de koelkast zetten. Hierbij zakt de gist beter uit naar de bodem en wordt het bier ook grotendeels geklaard. En wanneer je daarna gaat bottelen heb je met een koude vloeistof ook minder kans op schuimvorming.
+<!-- Bij een test door [Brulosophy](https://brulosophy.com/2014/08/12/primary-only-vs-transfer-to-secondary-exbeeriment-results/) kon het de smaaktesters het verschil niet aangeven tussen een bier dat de hele tijd op de troep zat. -->
+:::
+
+De vergisting is afgelopen wanneer gedurende 3 dagen het SG niet meer verandert en in de buurt ligt van het gewenste eind SG uit het recept. Je kunt dat controleren met een hydrometer of een refractometer. (zie @sec-apparatuur)
 
 ## Bottelen
 
-Als laatste moet het bier afgevuld worden. Zeker in het begin zal dat in flessen zijn. Later mogelijk ook in vaatjes.
+Je kunt pas met bottelen beginnen wanneer je zeker weet dat het bier is uitgegist. Zo niet, dan kan er teveel koolzuurgas in de fles terecht komen en loop je het risico van een "bom". De activiteit van de gisting kun je volgen door op het waterslot te letten. Maar een betere methode is door het SG met een hydrometer te meten.
 
-Je kunt pas met bottelen beginnen wanneer je zeker weet dat het bier is uitgegist. Zoniet, dan kan er teveel koolzuurgas in de fles terecht komen en loop je het risico van een "bom". De activiteit van de gisting kun je volgen door op het waterslot te letten. Maar een betere methode is door het SG met een hydrometer te meten. De vergisting is afgelopen wanneer het SG gedurende een dag of drie niet meer verandert en in de buurt ligt van het gewenste eind SG uit het recept. Dan kan er gebotteld worden.
+Zeker in het begin zul je bottelen in flessen, later mogelijk ook in vaatjes. Hiertoe hevel je het bier over in een ander vat en zorg dat er zo weinig mogelijk troep meekomt. Wanneer het gistvat over een kraantje onderaan beschikt, dan kun je dat samen met een slang gebruiken. Is dat niet het geval dan biedt een hevel uitkomst.
 
-Om voldoende koolzuurgas in flessenbier te krijgen moet er een *navergisting* in de fles plaatsvinden. Dat kan door nog wat suiker, zogenaamde *bottelsuiker*, aan het bier toe te voegen. De hoeveelheid hiervan is weer in het recept terug te vinden. Deze bottelsuiker wordt in een beetje water opgelost, aan de kook gebracht en daarna aan het jongbier toegevoegd. Bij deze navergisting ontstaat weer alcohol en koolstofdioxide. Door de fles af te sluiten kan het koolzuurgas niet meer weg en wordt het opgenomen in het bier. Het alcoholgehalte kan door deze navergisting met ca. 0,2%-0,5% toenemen.
+::: callout-tip
+Wanneer je over een grote koelkast beschikt waar het vat in kan, is het aan te bevelen om het bier een dag voor het bottelen goed te koelen. Het sediment zakt dan nog wat beter naar beneden en de kans op flinke schuimvorming bij het bottelen wordt een stuk minder.
+:::
 
-Om er voor te zorgen dat de bottelsuiker goed vergist wordt moet je de flessen een kleine week op kamertemperatuur houden. Daarna de flessen zo koud mogelijk wegzetten.
+Om voldoende koolzuurgas in flessenbier te krijgen moet er een *navergisting* in de fles plaatsvinden. Dat kan door nog wat suiker, zogenaamde *bottelsuiker*, aan het bier toe te voegen. De hoeveelheid hiervan is weer in het recept terug te vinden. Als vuistregel kun je 7 gram/liter gebruiken. Deze bottelsuiker wordt in een beetje water opgelost, aan de kook gebracht en daarna aan het jongbier toegevoegd. Bij deze navergisting ontstaat weer alcohol en koolstofdioxide. Door de fles af te sluiten kan het koolzuurgas niet meer weg en wordt het opgenomen in het bier. Het alcoholgehalte kan door deze navergisting met ca. 0,2%-0,5% toenemen.
 
-Voor het afsluiten van flessen heb je kroonkurken nodig en voor het aanbrengen hiervan een kroonkurkapparaat. Je kunt natuurlijk ook bottelen in beugelflessen, dan heb je dat niet nodig.
+Om het bier in de fles te krijgen kun je het beste gebruik maken van een afvulpijpje (@fig-afvulpijpje). Deze kun je rechtstreeks aansluiten op een aftapkraan (als deze er is) of op een hevelslang.
+
+Voor het afsluiten van flessen heb je kroonkurken nodig en voor het aanbrengen hiervan een kroonkurkapparaat (@fig-kroonkurkapparaat). Je kunt natuurlijk ook bottelen in beugelflessen, dan heb je deze spullen niet nodig.
 
 ## Rijpen en consumeren
 
-Na deze periode zet je de flessen rechtop staand en koud weg. De gist zal naar de bodem zakken en daar een droesem vormen. In de weken die volgen kan het bier rijpen, wat met name voor de donkere en zware bieren van belang is. Bewaar het bier weer niet te lang, want door veroudering (oxidatie) neemt de smaak af. Vooral de fijne hoparoma's die je o.a. in IPA's aantreft, verdwijnen.
+Om er voor te zorgen dat de bottelsuiker goed vergist wordt moet je de flessen een kleine week op kamertemperatuur houden. Zet daarna de flessen rechtop staand en zo koud mogelijk weg. De gist zal naar de bodem zakken en daar een droesem vormen, het bier wordt helder.
+
+In de weken die volgen kan het bier rijpen, wat voor de smaakontwikkeling van belang is. Afhankelijk van het soort bier kan deze periode wel 2-8 weken duren. Voor de donkere en zware bieren duurt het rijpingsproces langer dan voor lichtere bieren. Bewaar het bier ook weer niet te lang, want door veroudering (oxidatie) neemt de smaak af. Vooral de fijne hoparoma's die je o.a. in IPA's aantreft, verdwijnen.
 
 Proef dus regelmatig!
 
@@ -195,10 +205,12 @@ Proef dus regelmatig!
 
 9.  Waarom is koken van de wort belangrijk tijdens het brouwen?
 
-10. Wat is het doel van lageren?
+10. Waarom moet je gecontroleerd vergisten? Redenen?
 
-11. Wat is bottelen?
+11. Hoe is gist ingedeeld?
 
-12. Waarom moet je gecontroleerd vergisten? Redenen?
+12. Waarom moet er suiker bij het bottelen in flessen toegevoegd worden?
 
-13. Hoe is gist ingedeeld?
+13. Waarom moet je na het bottelen in flessen deze een weekje op kamertemperatuur wegzetten?
+
+14. Wat is het doel van het rijpingsproces?

@@ -4,7 +4,7 @@ project:
 book:
   title: "Brouw je Bier"
   subtitle: "Cursus bierbrouwen voor beginners."
-  date: last-modified
+  date: today
   date-format: long
   google-analytics: "G-K3JHGJ2XQG"
   site-url: https://brouwjebier.netlify.app/
@@ -66,6 +66,9 @@ format:
     link-external-icon: true
     link-external-newwindow: true
     callout-appearance: simple
+    author-meta: "Ben Welman"
+    description-meta: "Leer aan de hand van dit cursusboek hoe je bier kunt brouwen."
+    keywords: ["bier", "brouwen", "brouwproces", "brouwmethode", "mout", "hop", "gist", "cursusboek"]
 
   # pdf:
   #   documentclass: scrbook
