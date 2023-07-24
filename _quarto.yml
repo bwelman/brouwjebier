@@ -68,7 +68,7 @@ format:
     callout-appearance: simple
     author-meta: "Ben Welman"
     description-meta: "Leer aan de hand van dit cursusboek hoe je bier kunt brouwen."
-    keywords: ["bier", "brouwen", "brouwproces", "brouwmethode", "mout", "hop", "gist", "cursusboek"]
+    # keywords: ["bier", "brouwen", "brouwproces", "brouwmethode", "mout", "hop", "gist"]
 
   # pdf:
   #   documentclass: scrbook
