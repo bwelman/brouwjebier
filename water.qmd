@@ -73,14 +73,14 @@ Calcium, Magnesium, Waterstofcarbonaat
 
 :   Deze zijn verantwoordelijk voor de hardheid van het water.
 
-Voor het meten van de hardheid zijn verschillende methoden in gebruik en daardoor ook verschillende meeteenheden. In Nederland gebruikt men **Duitse graden** ($\pu{dH, ^o dH}$) en in België worden **Franse graden** ($\pu{fH, ^o fH, ^o f}$) gebruikt.
+Voor het meten van de hardheid zijn verschillende methoden in gebruik en daardoor ook verschillende meeteenheden. In Nederland gebruikt men **Duitse graden** (dH, ^o^ dH) en in België worden **Franse graden** (fH, ^o^ fH, ^o^ f) gebruikt.
 
 ::: callout-note
-$\pu{1^o dH = 10 mg}$ calciumoxide ($\ce{CaO}$) per liter
+1 ^o^ dH = 10 mg calciumoxide ($\ce{CaO}$) per liter
 
-$\pu{1^o fH = 10 mg}$ calciumcarbonaat ($\ce{CaCO3}$) per liter
+1 ^o^ fH = 10 mg calciumcarbonaat ($\ce{CaCO3}$) per liter
 
-Omrekenformules: $\pu{1 ^o dH = 1,78 ^o fH en 1 ^o fH = 0,56 ^o dH}$
+Omrekenformules: 1 ^o^ dH = 1,78 ^o^ fH en 1 ^o^ fH = 0,56 ^o^ dH
 :::
 
 Het komt in de praktijk weinig voor dat je het water moet ontharden. Maar wanneer het water te hard is voor het te brouwen biertype, dan kun je tijdelijke hardheid, veroorzaakt door waterstofcarbonaat, verminderen door het vooraf te koken. Een andere oplossing is het gebruiken van gedemineraliseerd water.
