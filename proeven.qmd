@@ -17,13 +17,15 @@ Aroma's zijn de stoffen die er voor zorgen dat een sinaasappel naar een sinaasap
 
 Het proeven van bier bestaat voor ongeveer 80% uit het waarnemen van aroma's en voor 20% uit het waarnemen van smaken. Daarnaast neem je ook nog mondgevoel waar. (Bron: René Heubach, Grolsch smaakpanel)
 
-Door Hans Wächtler van [bierbegeisterung.de](https://bierbegeisterung.de) is een *BIER_AROMABAUM* ontwikkeld. Een door mij vertaalde versie is te zien in figuur @fig-bier-aromaboom. Hierin kun je zien van welke ingrediënten de diverse aroma's afkomstig zijn.
+Door Hans Wächtler van [bierbegeisterung.de](https://bierbegeisterung.de) is een *BIER_AROMABAUM* ontwikkeld. Een door mij vertaalde versie is te zien in @fig-bier-aromaboom. Hierin kun je zien van welke ingrediënten de diverse aroma's afkomstig zijn.
 
 ![Aromaboom.](images/bier-aromaboom.png){#fig-bier-aromaboom}
 
-Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikkelde smaakwiel gebruikt.
+Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikkelde smaakwiel gebruikt, zie @fig-smaakwiel.
 
 ![Smaakwiel voor bier.](images/smaakwiel.png){#fig-smaakwiel}
+
+{{< pagebreak >}}
 
 ## Hoe moet je proeven?
 
@@ -159,7 +161,7 @@ Praktisch invullen met een degustatie.
 
 1.  Welke zijn de vijf basissmaken?
 
-2.  Wat houd in dat aroma\'s vluchtig zijn?
+2.  Wat houd in dat aroma's vluchtig zijn?
 
 3.  Welke zijn de proef omstandigheden?
 

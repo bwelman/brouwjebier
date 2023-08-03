@@ -79,6 +79,8 @@ Om een hydrometer te gebruiken doe je in een maatcilinder voldoende vloeistof en
 
 Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeistof en breng indien nodig een temperatuurcorrectie aan. Bij de goede hydrometers is meestal een tabel bijgesloten voor de temperatuurcorrectie. Zoniet, dan kun je de volgende vuistregel hanteren: per 5^o^C hoger/lager dan 20, het SG met 0,001 verhogen/verlagen.
 
+{{< pagebreak >}}
+
 ![Hydrometer met bijpassende maatcilinder.](images/hydrometer-aflezing.png){#fig-hydrometer-aflezing}
 
 ::: callout-note

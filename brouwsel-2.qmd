@@ -26,6 +26,8 @@ Indien de cursist al beschikt over een brouwinstallatie kan het brouwen hierop u
 
 In @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
 
+{{< pagebreak >}}
+
 ## Recept Dubbel
 
 Volume: 20 liter

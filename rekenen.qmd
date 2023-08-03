@@ -341,8 +341,6 @@ Spoelwater = WaterTotaal - Maischwater = 15,2 - 6,5 = 8,7 lit
 
 $W = \frac{10 \times 21}{1000 \times 0,035 \times 0,25} = 24 \text{ gram}$
 
-{{< pagebreak >}}
-
 ### Weizen
 
 Een voorbeeld van een Weizen met 2 moutsoorten van Dingemans.

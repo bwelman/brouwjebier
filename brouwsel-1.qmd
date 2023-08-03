@@ -27,6 +27,8 @@ Sluit af met een evaluatie.
 
 In bijlage @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
 
+{{< pagebreak >}}
+
 ## Recept Tripel
 
 Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$

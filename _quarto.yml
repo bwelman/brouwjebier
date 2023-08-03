@@ -47,6 +47,8 @@ book:
     - webwinkels.qmd
     - referenties.qmd
 
+  # downloads: [pdf]
+
 bibliography: brouwjebier.bib
 
 lang: nl
@@ -73,6 +75,7 @@ format:
   # pdf:
   #   documentclass: scrbook
   #   classoption: oneside
+  #   include-in-header: latex/preamble.tex
   #   papersize: a4
   #   geometry:
   #     - top=25mm
