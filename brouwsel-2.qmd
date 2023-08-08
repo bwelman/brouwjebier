@@ -54,7 +54,7 @@ Eind SG: $\pm1014$
 **Proces**
 
 -   *Maischen*
-    -   Maischdikte ligt tussen 3,5-5,5 liter/kg mout
+    -   Maischdikte ligt tussen 2,5-5,5 liter/kg mout
     -   Stijgende infusie
     -   Stap 1: 54 ^o^C, 10 minuten (Let op de pH van de maisch)
     -   Stap 2: 63 ^o^C, 30 minuten
