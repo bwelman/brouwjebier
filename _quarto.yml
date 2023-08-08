@@ -86,6 +86,9 @@ format:
   #   links-as-notes: true
   #   author: Ben Welman
 
+  # epub:
+  #   html-math-method: mathjax
+
 knitr:
   opts_chunk:
     echo: false
