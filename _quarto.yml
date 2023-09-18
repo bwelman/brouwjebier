@@ -61,7 +61,7 @@ format:
     theme:
       - cosmo
       - brouwjebier.scss
-    cover-image: images/cover.png
+    cover-image: images/cover2.jpg
     fig-width: 6
     fig-asp: 0.618
     code-fold: false
