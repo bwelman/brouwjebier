@@ -62,9 +62,13 @@ Met een pomp wordt het maischwater rondgepompt. Er zijn verschillen in de manier
 
 Na het maischen kun je desgewenst het graanbed nog uitspoelen.
 
+::: {#fig-elektrisch layout-ncol="2"}
 ![Brew Monk (schematisch)](images/brewmonk.png){#fig-brewmonk}
 
 ![Braumeister](images/braumeister.png){#fig-braumeister}
+
+Verschillen tussen het circuleren van maischwater.
+:::
 
 {{< pagebreak >}}
 
