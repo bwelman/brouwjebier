@@ -52,21 +52,29 @@ Aandachtspunten:
 
 ### Electrische brouwketels
 
-Voorbeelden:
+Voorbeelden: Braumeister, Brew Monk, Grainfather, Klarstein, ...
 
--   [Weck inmaakketel](https://www.braumarkt.com/weck-w25a-thermostaat-tijdklok-kraan)
--   [Kochstar inmaakketel](https://www.unibrew-nederland.nl/kochstar-roestvrijstalen-27-liter-pan-met-digitale-display-tijd-en-temperatuurinstelling.html)
--   [Brewferm](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/grainfather-connect)
--   [Speidel Braumeister](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/braumeister-accessoires)
--   [Brew Monk](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/brew-monk)
--   [Grainfather](https://www.brouwland.com/nl/onze-producten/bierbereiding/brouwapparatuur/electrische-brouwketels/grainfather-connect)
--   [Klarstein](https://www.klarstein.nl/Grote-Huishoudelijke-Apparaten/Biertap-Drinken-dispenser/Zelf-bier-maken/)
+Een electrische brouwsysteem gebruikt een electrisch verwarmingselement voor het maischen en koken. Het systeem bestaat uit maar één ketel waardoor het niet zoveel ruimte inneemt. Met de meeste electrische thuisbrouwsystemen kun je ook in meerdere of mindere mate geautomatiseerd brouwen. Zo kun je de verschillende stappen in het maischproces instellen, zowel de temperatuur als de tijdsduur.
+
+De electrische brouwketels hebben allemaal een moutpijp welke aan de boven- en onderkant voorzien is van een filterschijf (rooster). Deze moutpijp wordt in de grotere brouwketel geplaatst. In deze brouwketel komt het water en in de moutpijp de mout.
+
+Met een pomp wordt het maischwater rondgepompt. Er zijn verschillen in de manier waarop dat gebeurt. Bij veel systemen (Brew Monk, Grainfather, Klarstein) wordt het bodemwater via een pijp op de bovenste filterschijf gepompt en stroomt dan door de mout naar beneden. Bij de Braumeister wordt het water van onder door de moutpijp gepompt en stroomt dan aan de bovenkant over.
+
+Na het maischen kun je desgewenst het graanbed nog uitspoelen.
+
+![Brew Monk (schematisch)](images/brewmonk.png){#fig-brewmonk}
+
+![Braumeister](images/braumeister.png){#fig-braumeister}
+
+{{< pagebreak >}}
 
 ### RIMS
 
 ![RIMS - schematische weergave.](images/rims.png){#fig-rims}
 
 RIMS is een afkorting van *Recirculating Infusion Mash System*. Hierbij wordt het maischwater continu rondgepompt door de mout. In de maischpan zit onderin een filterplaat of valse bodem, waardoor het mout in de maischpan blijft. Tijdens het rondpompen wordt het water verwarmd. Aan de bovenkant van de maischpan wordt het water via een verdeler op de mout gespoeld.
+
+{{< pagebreak >}}
 
 ### HERMS
 
