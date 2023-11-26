@@ -44,6 +44,10 @@ Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken
 
 ![Mooi schrootsel, niet te fijn.](images/schrootsel.png){#fig-schrootsel}
 
+::: callout-important
+Bij het schroten ontstaat moutstof waarin veel bacteriën kunnen zitten die voor infectie van de wort kunnen zorgen. Schroot daarom de mout niet in de ruimte waarin je brouwt.
+:::
+
 Omdat geschrote mout snel in kwaliteit achteruit gaat kun je het beste de mout kort van te voren zelf schroten. Er zijn verschillende soorten schrootmolens voor de hobbybrouwer. Zie hiervoor @sec-apparatuur.
 
 ## Maischen
