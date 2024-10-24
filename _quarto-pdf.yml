@@ -1,0 +1,14 @@
+format:
+  pdf:
+    documentclass: scrbook
+    classoption: oneside
+    include-in-header: latex/preamble.tex
+    papersize: a4
+    geometry:
+      - top=20mm
+      - bottom=20mm
+      - left=20mm
+      - right=20mm
+    cite-method: biblatex
+    links-as-notes: true
+    author: [Ben Welman, Douwe Beimin]

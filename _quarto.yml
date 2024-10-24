@@ -70,24 +70,6 @@ format:
     callout-appearance: simple
     author-meta: "Ben Welman"
     description-meta: "Leer aan de hand van dit cursusboek hoe je bier kunt brouwen."
-    # keywords: ["bier", "brouwen", "brouwproces", "brouwmethode", "mout", "hop", "gist"]
-
-  # pdf:
-  #   documentclass: scrbook
-  #   classoption: oneside
-  #   include-in-header: latex/preamble.tex
-  #   papersize: a4
-  #   geometry:
-  #     - top=25mm
-  #     - bottom=25mm
-  #     - left=25mm
-  #     - right=25mm
-  #   cite-method: biblatex
-  #   links-as-notes: true
-  #   author: [Ben Welman, Douwe Beimin]
-
-  # epub:
-  #   html-math-method: mathjax
 
 knitr:
   opts_chunk:
@@ -95,5 +77,3 @@ knitr:
     warning: false
     message: false
     cache: false
-
-editor: visual
