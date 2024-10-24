@@ -1,22 +1,21 @@
 # BKG Biertypen {#sec-bkgtabel}
 
-Volgens het [Bier Keurmeesters Gilde](https://www.bierkeurmeestersgilde.nl){target="_blank"}
-
 ## Biertypenlijst {#sec-biertype-tabel}
 
 ```{r}
-#| label: bkg-tabel
+#| label: tbl-bkg-biertypen
+#| tbl-pos: H
 #| echo: false
 
-library(kableExtra)
-options(knitr.kable.NA = "")
-
+library(gt)
 # Tabel met klassen als kolommen
 load(file = 'resources/bkgtabel.rda')
-
-bkg.tabel %>%
-	kbl(caption = "Tabel biertypen volgens BKG (versie 2.4, Juli 2021)", position = "!ht") %>%
-	kable_styling(latex_options = "scale_down", bootstrap_options = c("condensed", "responsive"), font_size = 12)
+bkg.tabel |> 
+  gt() |>
+  sub_missing(missing_text = "") |>
+  tab_header(title = "Biertypen volgens Bier Keurmeesters Gilde (BKG)",
+             subtitle = "(versie 2.4, Juli 2021)") |> 
+  tab_options(table.font.size = 11, column_labels.font.weight = "bold")
 ```
 
 {{< pagebreak >}}
