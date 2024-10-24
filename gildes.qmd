@@ -20,8 +20,9 @@
 
 *Gelderland*
 
--   [Zutphen: De Roode Toren](http://roodetoren.nl/){target="_blank"}
+-   [Ede: Edes Wijn en Bier Gilde](https://www.edeswijnenbiergilde.nl/){target="_blank"}
 -   [Nijmegen: Triple-W](https://www.triple-w.org/){target="_blank"}
+-   [Zutphen: De Roode Toren](http://roodetoren.nl/){target="_blank"}
 
 *Groningen*
 
@@ -34,8 +35,8 @@
 *Noord-Brabant*
 
 -   [Bergen op Zoom: Bergsche Bierbrouwersgilde](https://www.bierbrouwersgilde.nl/){target="_blank"}
--   [Tilburg: De Roerstok](https://www.roerstok.nl/){target="_blank"}
 -   [Roosendaal: Roosendaals Biergilde](http://www.roosendaalsbiergilde.nl/){target="_blank"}
+-   [Tilburg: De Roerstok](https://www.roerstok.nl/){target="_blank"}
 
 {{< pagebreak >}}
 
@@ -55,7 +56,3 @@
 *Zeeland*
 
 -   [Goes: Deltabrouwers](http://www.deltabrouwers.nl/){target="_blank"}
-
-*Zuid-Holland*
-
--   [Delft: Delfts Wijn- en Bier Gilde DWBG](https://dwbg.nl/){target="_blank"}
