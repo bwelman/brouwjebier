@@ -101,9 +101,9 @@ Werkzame enzym: *Alpha-Amylase*
 Doel: zorgt voor volmondiger bier.
 :::
 
-### Voorbeeld: Infusieproces met 3 stappen {#infusie3}
+### Infusieproces met 3 stappen {#infusie3}
 
-In @fig-infusie-3staps zie je een grafiek van het temperatuurverloop tegen de tijd bij een 3-staps infusieproces.
+In @fig-infusie-3staps zie je een voorbeeld van een grafiek van het temperatuurverloop tegen de tijd bij een 3-staps infusieproces.
 
 ![Voorbeeld maischstappen in een infusieproces.](images/infusieplot.png){#fig-infusie-3staps width="600"}
 
