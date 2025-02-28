@@ -1,0 +1,90 @@
+---
+title: Bierkleur
+format: html
+---
+
+# Bierkleur
+
+Mogelijke bronnen:
+
+<https://beermaverick.com/understanding-srm-and-lovibond-beer-color-calculations/>
+
+<https://help.grainfather.com/hc/en-us/articles/360014533937-Calculation-Beer-EBC>
+
+Artikel Dan Morey: <file:///S:/websites/bwelman.github.io/_site/bier/beer-color/beer-color.html>
+
+## Inleiding
+
+Elk item dat je aan je bier wordt toevoegt heeft wat invloed op de kleur. De meeste invloed op de kleur van je bier komt van de mouten. De ongebrande mouten geven een lichtgele kleur aan je bier. Door toevoegen van geroosterde mouten wordt de kleur aanzienlijk donkerder. Er zijn een paar verschillende methoden om deze bierkleur te meten: SRM, EBC, Lovibond en MCU. Ze hebben allemaal hun nut bij het thuisbrouwen, dus laten we ze allemaal eens bekijken.
+
+## SRM (Standaardreferentiemethode)
+
+De meest gebruikelijke waarde die in de VS wordt gebruikt om de kleur van bier te meten, is de Standard Reference Method, of kortweg SRM-schaal. Het werd in 1950 ontwikkeld door de American Society of Brewing Chemists als de wetenschappelijke standaard voor het identificeren van bierkleur. Het wordt in de VS en in het buitenland gebruikt om de specifieke kleur van een bier te meten, evenals de kleur van de moutkorrels. SRM wordt bepaald in laboratoria met behulp van een spectrofotometer.
+
+## Lovibond (°L)
+
+Lovibond is een oudere maar nog steeds gebruikelijke methode voor het meten van de kleur van bier, ontwikkeld in 1885 door Joseph Williams Lovibond. Het werkt door een monster visueel te vergelijken met een set referentiekleuren met bekende waarden op de Lovibond-schaal. De Lovibond-schaal is grotendeels vervangen door de SRM- en EBC-methoden, maar kom te nog wel tegen op verpakkingen en in online winkels om de kleur van mout en andere brouwingrediënten te vermelden.
+
+**Zijn de SRM- en Lovibond-schalen hetzelfde?**
+
+Voor licht gekleurde bieren is de SRM waarde ongeveer gelijk aan de graden Lovibond, maar dit geldt niet voor donkere bieren. De SRM-schaal is meer een afgeleide van de Lovibond-methode. De subjectiviteit door het kiezen van kleuren is verwijderd door in plaats daarvan te vertrouwen op instrumentatie.
+
+**Wat is beter: SRM of Lovibond?**
+
+De SRM-methode heeft een grote voorkeur boven Lovibond omdat het resultaat niet subjectief is. De digitale uitvoer van de spectrofotometer is een objectieve waarde. Lovibond wordt echter nog steeds veel gebruikt door moutproducenten.
+
+De omrekenformules zijn
+
+$Lovibond = \frac{SRM + 0.6}{1.35}$ en omgekeerd $SRM = 1.35 *Lovibond - 0.6$
+
+## MCU
+
+MCU (Malt Color Units) is een gemakkelijke manier voor brouwers om de geschatte kleur te berekenen van een bepaald recept met meerdere mouten en toevoegingen. De formule is
+
+$MCU = \frac{Mout (pounds) * Lovibond}{Volume (gallons)}$
+
+De MCU-waarde geeft een redelijke kleurschatting voor bieren die erg bleek van kleur zijn of minder dan 10,5 SRM. Aan de onderkant van het SRM-spectrum liggen de MCU- en SRM-waarden dicht genoeg bij elkaar om de verschillende waarden door elkaar te gebruiken. Omdat de lichtabsorptie echter logaritmisch is en niet lineair, is de Morey-vergelijking nodig voor een betere schatting van de kleur van de meeste bieren.
+
+## EBC
+
+De EBC-methode (European Beer Color) is de Europese equivalente standaard voor de SRM-schaal in Europa. Zowel SRM als EBC gebruiken zeer vergelijkbare laboratoriumtechnieken om de bierkleur te meten. Vanwege deze gelijkenis hebben SRM en EBC een exacte lineaire relatie met hun waarden. In feite is de EBC-waarde voor een bepaalde korrel altijd iets minder dan het dubbele van de SRM-waarde.
+
+In de praktijk is de EBC-kleur ongeveer 1,97 keer de SRM-kleur:
+
+$EBC = 1,97 * SRM$ en omgekeerd $SRM = \frac{EBC}{1,97}$
+
+## Welke factoren beïnvloeden de kleur van een bier?
+
+Mout roosteren: hoe meer gebrand je mout is, hoe donkerder je bier zal worden. Zelfs binnen specifieke moutsoorten (d.w.z. chocolademout of 2-rijig) zal er een kleine variatie in moutkleuren zijn.
+
+pH-waarden: Mashes met hogere pH-waarden in het water worden in verband gebracht met donkerdere bieren. Deze invloed doet zich vooral gelden tijdens de maischfase, maar het kan invloed hebben op je bier in alle stadia van het brouwen.
+
+Kookduur: Langere kooktijden zorgen ervoor dat er meer kleur wordt geextraheerd. Het zorgt ook voor camellisatie waardoor het donkerder wordt.
+
+Gistsoort: De gistsoort die wordt gebruikt bij het brouwen van een bier kan ook van invloed zijn op de kleur.
+
+Filteren: Als je je bier niet filtert, zullen eventuele zwevende deeltjes het licht meer afbuigen, waardoor het een donkerdere kleur krijgt.
+
+## Hoe de kleur van een bierrecept te berekenen
+
+Als voorbeeld wordt de geschatte SRM waarde volgens Morey berekend van een 5 gallon Oatmeal Stout. In het moutrecept zitten drie moutsoorten.
+
+| Hoeveelheid (lb.) | Moutsoort      | Lovibond (^o^L) |
+|-------------------|----------------|-----------------|
+| 10                | Pale ale mout  | 1,8             |
+| 1,5               | Haver (gemout) | 2,5             |
+| 1,25              | Chocolademout  | 350             |
+
+Vervolgens wordt de MCU voor elke mout berekend
+
+| Hoeveelheid (lb.) | Moutsoort      | Lovibond (^o^L) | MCU                |
+|-------------------|----------------|-----------------|--------------------|
+| 10                | Pale ale mout  | 1,8             | 3,6 (10\*1,8/5)    |
+| 1,5               | Haver (gemout) | 2,5             | 0,75 (1,5\*2,5/5)  |
+| 1,25              | Chocolademout  | 350             | 87,5 (1,25\*350/5) |
+
+Totaal: $\mathrm{MCU = 3,6 + 0,75 + 87,5 = 91,85}$
+
+De SRM wordt nu geschat met de formule van Morey:
+
+$SRM = 1,4922 * 91,85^{0,6859} = 33,136225$ dus ongeveer 33-34 (EBC 63)
