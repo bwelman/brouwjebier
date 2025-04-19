@@ -20,7 +20,7 @@ In @sec-biertype-tabel kun je de indeling van de biertypen in klassen zien.
 
 De lijst met bierstijlen van het Amerikaanse BJCP (Beer Judge Certification Program) kent veel meer categorieën.
 
-De laatste versie kan via de [BJCP website](https://www.bjcp.org/) gedownload worden.
+De laatste versie kan via de [BJCP website](https://www.bjcp.org/bjcp-style-guidelines/) gedownload worden.
 
 ## Wedstrijden
 
