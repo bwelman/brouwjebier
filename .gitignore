@@ -6,3 +6,5 @@
 /_freeze/
 /_site/
 /_book/
+
+**/*.quarto_ipynb

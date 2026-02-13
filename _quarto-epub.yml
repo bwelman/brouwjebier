@@ -1,3 +1,4 @@
 format:
   epub:
     html-math-method: mathjax
+    cover-image: resources/cover.png
