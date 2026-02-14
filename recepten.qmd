@@ -127,6 +127,8 @@ Een handige gids is de Biertypengids van Derek Walsh [@walshBiertypengids2002]. 
 
 Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samenstellen bierrecepten](https://www.hobbybrouwen.nl/artikel/samenrec.html) van Jacques Bertens, op de site van Hobbybrouwen. Je start hier met de keuze van een biertype. Wanneer het gewenste biertype niet in de tabel staat kies je een type dat er het dichtst bij in de buurt komt.
 
+{{< pagebreak >}}
+
 ::: {#exm-recept-weizen}
 ### Weizen {.untitled}
 

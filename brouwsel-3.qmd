@@ -14,7 +14,7 @@
 
 **Voorbereiding**
 
--   In @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door.
+-   Bestudeer belangrijkste kenmerken van het te brouwen biertype In @sec-bkgtabel.
 -   Zoek uit welke stappen in het maisch- en vergistingsproces voor een bepaalde smaak kunnen zorgen.
 -   Maak een handmatige berekening van de hoeveelheid maisch- en spoelwater.
 -   Stel een recept op en laat het beoordelen door de mentor.
@@ -26,7 +26,7 @@
 ## Evaluatie
 
 -   Brouwproces bespreken.
--   Kwamen de meetwaarden overeen met de beoogde waarden. Zoek een verklaring voor eventuele verschillen.
+-   Zoek een verklaring voor eventuele verschillen tussen de gemeten waarden en de beoogde waarden.
 -   Gezamenlijk proeven, beoordelen of bier aan eisen/wensen voldoet.
 -   Eventuele smaak- en geurafwijkingen bespreken.
 

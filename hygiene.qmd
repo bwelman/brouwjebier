@@ -46,12 +46,16 @@ Gebruik:
 -   Laat het minstens 2 minuten inwerken, daarna uit laten lekken.
 -   Oplossing kan 3-4 weken gebruikt worden wanneer het goed afgesloten bewaard wordt. Het is effectief zolang de oplossing een pH 3 of lager heeft.
 
+![Destinfectiemiddelen: Starsan en Chemipro Oxi.](images/desinfectiemiddelen.png){#fig-desinfectiemiddelen}
+
 **Chemipro Oxi**
 
 Een ontsmettingsmiddel op basis van actieve zuurstof. Het is als poeder verkrijgbaar.
 
 -   Dosering: 4 gram per liter warm water
 -   Gebruik: Spoel of dompel de spullen onder. Contacttijd 2-5 minuten. Laat goed uitdruipen. Naspoelen mag, maar is niet nodig.
+
+{{< pagebreak >}}
 
 **Sulfiet met citroenzuur**
 
@@ -60,7 +64,6 @@ Sulfiet (Kaliummetabisulfiet) is verkrijgbaar als een wit poeder, net als citroe
 -   Dosering: 1-2 gram gram sulfiet per liter water + 0,5 gram citroenzuur.
 -   Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Goed naspoelen met water.
 
-![Destinfectiemiddelen: Starsan en Chemipro Oxi.](images/desinfectiemiddelen.png){#fig-desinfectiemiddelen}
 
 ## Testvragen
 

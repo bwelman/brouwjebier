@@ -1,3 +1,16 @@
 \usepackage[version=4]{mhchem}
-
+\usepackage{pdfpages}
+% cover pagina als allereerste pagina
+\AtBeginDocument{\includepdf[pages=-,fitpaper=true]{resources/cover.pdf}}
 \frontmatter
+
+% Herdefinieer \part commando om nummering te verwijderen
+% maar wel een entry in inhoudsopgave te behouden
+\renewcommand{\part}[1]{%
+  \cleardoublepage
+  \thispagestyle{empty}%
+  \addcontentsline{toc}{part}{#1}%
+  \vspace*{\fill}%
+  \begin{center}\Huge\bfseries #1\end{center}%
+  \vspace*{\fill}%
+  \cleardoublepage}

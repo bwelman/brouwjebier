@@ -63,6 +63,8 @@ Wanneer je in formules de afkorting SG tegenkomt is het wel van belang om te wet
 
 De dichtheid van nog niet vergiste wort kun je ook meten met een **refractometer**. Hiervoor zijn maar een paar druppels vloeistof nodig. Ook bij deze meting is de temperatuur van belang. Kwalitatief goede refractometers kunnen automatisch corrigeren voor de temperatuur (ATC = Automatische Temperatuur Correctie) en de paar druppels zijn ook nog eens snel afgekoeld.
 
+{{< pagebreak >}}
+
 ::: callout-important
 Tijdens of na de gisting kun je de refractometer niet zomaar gebruiken voor een SG meting. Dat komt omdat de aanwezige alcohol de brekingsindex sterk beïnvloedt.
 
@@ -136,7 +138,7 @@ Je krijgt echter niet al het extract in de kookketel. Oorzaken:
 Al met al krijg je dus minder suikers in de wort dan waar je op gerekend had. Het rendement van deze processen samen heet het **brouwhuisrendement**. Dit ligt meestal tussen de 65% en 80%.
 
 ::: callout-note
-Wanneer je van brouwsoftware gebruik maakt dan wil deze software jouw brouwhuisrendement weten om berekeningen uit te kunnen voeren. Dit rendement moet je proefondervindelijk voor je eigen installatie bepalen. Het is dus zeker bij de eerste brouwsels erg belangrijk om alle hoeveelheden goed te meten en in het logboek bij te houden. Door regelmatig te meten tijdens je eigen brouwproces krijg je meer grip op het proces in jouw brouwerij en zullen de inschattingen realistischer worden.
+Dit brouwhuisrendement moet je proefondervindelijk voor je eigen installatie bepalen. Het is dus zeker bij de eerste brouwsels erg belangrijk om alle hoeveelheden goed te meten en in het logboek bij te houden. Door regelmatig te meten tijdens je eigen brouwproces krijg je meer grip op het proces in jouw brouwerij en zullen de inschattingen realistischer worden.
 :::
 
 Al deze onzekerheden die niet goed in te schatten zijn, zorgen er voor dat de uiteindelijke resultaten af kunnen wijken van de ideale situatie.

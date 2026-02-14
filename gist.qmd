@@ -74,6 +74,8 @@ Korrelgisten zijn goedkoper dan vloeibare gisten en ook het gebruik ervan is sim
 Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een uur voor gebruik haal je deze uit de koelkast om op de omgevingstemperatuur te laten komen.
 :::
 
+{{< pagebreak >}}
+
 ### Korrelgist
 
 Bekende leveranciers zijn Fermentis, Danstar/Lallemand en Mangrove Jack. Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Voor het gebruik heb je de volgende mogelijkheden:
@@ -103,6 +105,8 @@ De massa water die je nodig hebt voor het hydrateren is ongeveer 10 keer de mass
 8.  Voeg kleine hoeveelheden afgekoelde wort aan de gistsuspensie toe. Roer voorzichtig. Ga hiermee door tot de temperatuur van het mengsel ongeveer gelijk is aan de temperatuur van de wort in het gistvat.
 9.  Voeg de gistsuspensie daarna direct toe aan de wort in het gistvat.
 :::
+
+{{< pagebreak >}}
 
 ### Vloeibare gist
 

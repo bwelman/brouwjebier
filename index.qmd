@@ -4,6 +4,8 @@ Dit is de gratis online versie van een cursus voor het leren brouwen van bier.
 
 De cursus is aanvankelijk opgezet voor een gedrukte handleiding bij een beginnerscursus van het [Twents Bierbrouwersgilde](https://www.twents-bierbrouwersgilde.nl/){target="_blank"}. Dit bracht zoveel enthousiasme bij mij te weeg dat ik het materiaal daarna verder geschikt gemaakt heb om als een online cursusboek te dienen. En er wordt nog steeds aan gewerkt om het cursusmateriaal verder te verbeteren en uit te breiden. Voor vragen, suggesties en andere reacties kun je een email sturen naar [brouwjebier](mailto:brouwjebier@proton.me).
 
+Linksboven vind je een downloadpijl waarmee je de cursus in PDF en ePub formaat kunt downloaden.
+
 ## Licentie {.unnumbered}
 
 [![](images/creativecommons-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl)
@@ -22,4 +24,4 @@ Na mijn pensionering heb ik meer tijd voor mijn hobby's: biljarten, bridgen, bie
 
 Douwe Beimin
 
-![Douwe Beimin](images/auteur-douwe.png){.quarto-cover-image .image-fluid width="150"}De inhoud van deze cursus is mede tot stand gekomen door inbreng en feedback van Douwe Beimin, de organisator en docent van de brouwcursus en tevens secretaris van het Twent Bierbrouwersgilde. Waarvoor veel dank.
+![Douwe Beimin](images/auteur-douwe.png){.quarto-cover-image .image-fluid width="150"}De inhoud van deze cursus is mede tot stand gekomen door inbreng en feedback van Douwe Beimin, de organisator en docent van de brouwcursus en tevens lid van het Twent Bierbrouwersgilde. Waarvoor veel dank.
