@@ -1,8 +1,6 @@
 # Brouwmethodes {#sec-brouwmethodes}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je leert een aantal brouwmethodes kennen.
 -   Je maakt kennis met een paar verschillende brouwinstallaties.
 :::

@@ -1,8 +1,6 @@
 # Hop {#sec-hop}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je leert waarom hop bij de bierbereiding wordt gebruikt.
 -   Je leert wat er met de hop gebeurt tijdens het koken.
 -   Je maakt kennis met het alfazuurpercentage van hop.

@@ -1,8 +1,6 @@
 # Brouwsel-1 {#sec-brouwsel-1}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
 -   Je kent de verschillende stappen van het brouwproces in grote lijnen.
 -   Je maakt kennis met een aantal grondstoffen.

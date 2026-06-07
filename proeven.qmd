@@ -1,8 +1,6 @@
 # Proeven {#sec-proeven}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je maakt kennis met diverse aroma's en smaken in bier.
 -   Je leert hoe je een bier moet proeven en beoordelen.
 -   Je maakt kennis met een aantal veel voorkomende smaakafwijkingen.

@@ -1,8 +1,6 @@
 # Water {#sec-water}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet enige kennis hebben van wat de invloed van de watersamenstelling is op het bier.
 -   Je moet weten welke rol de pH-waarde vervult bij het brouwproces.
 -   Je leert hoe je de pH kunt meten en de waarde kunt wijzigen.

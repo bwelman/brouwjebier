@@ -1,8 +1,6 @@
 # Mout
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je weet wat het moutproces inhoudt.
 -   Je weet hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
 -   Je leert de basismouten kennen en een aantal speciale mouten.

@@ -1,8 +1,6 @@
 # Brouwsel-3 {#sec-brouwsel-3}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet een recept voor een **Weizen** kunnen opstellen.
 -   Je moet een *Weizen* volgens dit recept kunnen maken.
 -   Je moet kunnen beoordelen of het brouwsel aan de eisen voldoet.

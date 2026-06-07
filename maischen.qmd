@@ -1,8 +1,6 @@
 # Maischen {#sec-maischen}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je weet wat de rol is van enzymen.
 -   Je kent de temperatuur- en pH afhankelijkheid van enzymen.
 -   Je kunt aangeven wat er bij de alfa-amylase gebeurt.

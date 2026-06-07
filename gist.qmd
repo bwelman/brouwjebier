@@ -1,8 +1,6 @@
 # Gist {#sec-gist}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je weet wat gist is en wat het doet.
 -   Je weet waardoor de werking van gist beinvloed kan worden.
 -   Je kent het verschil tussen ondergisten en bovengisten.

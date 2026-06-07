@@ -1,8 +1,6 @@
 # Brouwsel-4 {#sec-brouwsel-4}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je kunt eisen/wensen voor een te maken bier formuleren.
 -   Je kunt de belangrijkste kenmerken van het te brouwen biertype achterhalen.
 -   Je kunt een recept voor dit bier opstellen.

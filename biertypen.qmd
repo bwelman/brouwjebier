@@ -1,8 +1,6 @@
 # Biertypen {#sec-biertypen}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je maakt kennis met biertypenlijsten
 :::
 

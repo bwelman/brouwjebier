@@ -1,8 +1,6 @@
 # Logboek {#sec-logboek}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet weten waarom het belangrijk is om een logboek bij te houden.
 -   Je moet weten welke informatie in het logboek moet komen.
 :::

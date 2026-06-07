@@ -1,8 +1,6 @@
 # Over bier {#sec-over-bier}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet in hoofdlijnen aan kunnen geven hoe bier ontstaan is.
 -   Je moet weten uit welke grondstoffen bier gemaakt wordt.
 -   Je moet weten wat het Reinheitsgebot inhoudt.

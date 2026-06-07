@@ -1,8 +1,6 @@
 # Brouwsel-2 {#sec-brouwsel-2}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet een *Dubbel* met meerdere maischstappen volgens een verstrekt recept kunnen maken.
 -   Je maakt kennis met meerdere moutsoorten en de effecten hiervan op het bier.
 -   Je gaat met meerdere maischstappen werken en weet wat elke maischstap inhoudt.

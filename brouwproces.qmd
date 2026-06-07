@@ -1,8 +1,6 @@
 # Brouwproces - Basis {#sec-brouwproces}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je moet de verschillende stappen in het brouwproces kunnen benoemen.
 -   Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
 :::
@@ -44,7 +42,7 @@ Hele moutkorrels kun je niet gebruiken. De moutkorrels moeten eerst opengebroken
 
 ![Mooi schrootsel, niet te fijn.](images/schrootsel.png){#fig-schrootsel}
 
-::: callout-important
+::: {.callout-important title="Moutstof"}
 Bij het schroten ontstaat moutstof waarin veel bacteriën kunnen zitten die voor infectie van de wort kunnen zorgen. Schroot daarom de mout niet in de ruimte waarin je brouwt.
 :::
 
@@ -58,7 +56,7 @@ In het recept staat hoeveel **maischwater** je nodig hebt. De temperatuur waarbi
 
 Tijdens het maischen gaan verschillende enzymen aan het werk. Een bepaald enzym werkt het beste bij een bepaalde temperatuur en zuurgraad (pH) van de maisch. Op deze processen wordt in @sec-maischen uitvoeriger ingegaan. Het beslag ga je onder rustig roeren opwarmen tot de temperatuur waarbij de enzymen het beste werken. En die temperatuur wordt dan een tijdje aan gehouden, het beslag krijgt een **rust**. Daarna wordt er opgewarmd tot een volgende temperatuur waarbij andere enzymen het beste werken en krijgt het beslag ook een bepaalde **rusttijd**. Een schema met de verschillende rusttijden en bijbehorende temperaturen heet een **maischschema**.
 
-::: callout-note
+::: {.callout-tip title="Temperatuur tijdens de rust"}
 Om de temperatuur tijdens de rust constant te houden kun je de maischketel ook in een zogenaamde hooikist zetten of goed isoleren met een deken. Anders moet je zo nu en dan bijverwarmen.
 :::
 
@@ -95,7 +93,7 @@ Omdat je verder wilt met de suikeroplossing moet het mengsel aan het eind van he
 -   **wort**, een heldere zoete vloeistof
 -   **(bier)bostel**, de vaste bestanddelen die overblijven.
 
-::: callout-note
+::: {.callout-note title="Bostel"}
 De bostel heb je voor de bierbereiding niet nodig. De meeste hobbybrouwers gooien het in de afvalcontainer. Het kan ook op de composthoop of als voer voor varkens en kippen gebruikt worden. Er zitten nog veel voedingsstoffen en vezels in. Daarom kun je een deel ervan ook gebruiken om er een (bier)brood mee te bakken.
 :::
 
@@ -131,9 +129,7 @@ Het proces tot en met het koken noemt men de *warme kant* van het brouwproces. H
 
 Maak er verder een gewoonte van om het volume en het SG van de wort te meten, zowel voor het koken als na het koken.
 
-::: callout-important
-## Let op
-
+::: {.callout-important title="Hygiëne"}
 Na het koken moet je zeer hygiënisch te werk gaan!
 :::
 
@@ -155,7 +151,7 @@ In het begin gaat de gist alleen maar zichzelf vermenigvuldigen, waardoor het aa
 
 Meestal begint de vergisting binnen een halve tot hele dag. Er ontstaat koolzuurgas in de vorm van schuim en belletjes die via het waterslot verdwijnen Bij bovengistende bieren duurt de *primaire vergisting* (hoofdgisting) meestal zo'n 2-5 dagen. Daarna neemt de snelheid van vergisting af en krijg je de periode van de *secundaire vergisting* (navergisting).
 
-::: callout-note
+::: {.callout-note title="Overhevelen voor de scundaire vergisting?"}
 Sommige brouwers hevelen voor de secundaire vergisting de vloeistof over naar een nieuw gistvat, omdat dit zou helpen om 1) het bier te klaren, 2) te voorkomen dat ongewenste smaken ontstaan door langdurig contact met de troep (dode gistcellen, hop, eiwitten), en 3) een beter hoparoma te krijgen bij dry hopping.
 
 In de praktijk merk je weinig van deze effecten. Zo'n overheveling naar een nieuw gistvat is dus niet noodzakelijk. Behalve dat het weer een extra stap is, neemt ook de kans op zuurstofopname en een besmetting toe.
@@ -171,7 +167,7 @@ Je kunt pas met bottelen beginnen wanneer je zeker weet dat het bier is uitgegis
 
 Zeker in het begin zul je bottelen in flessen, later mogelijk ook in vaatjes. Hiertoe hevel je het bier over in een ander vat en zorg dat er zo weinig mogelijk troep meekomt. Wanneer het gistvat over een kraantje onderaan beschikt, dan kun je dat samen met een slang gebruiken. Is dat niet het geval dan biedt een hevel uitkomst.
 
-::: callout-tip
+::: {.callout-tip title="Bier koelen voor het bottelen"}
 Wanneer je over een grote koelkast beschikt waar het vat in kan, is het aan te bevelen om het bier een dag voor het bottelen goed te koelen. Het sediment zakt dan nog wat beter naar beneden en de kans op flinke schuimvorming bij het bottelen wordt een stuk minder.
 :::
 

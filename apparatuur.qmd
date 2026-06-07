@@ -1,8 +1,6 @@
 # Apparatuur {#sec-apparatuur}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je weet welke apparatuur nodig is om te kunnen brouwen.
 -   Je weet hoe je aan deze apparatuur kunt komen (zelf maken / kopen).
 -   Je kunt een hydrometer op de juiste manier gebruiken.
@@ -69,7 +67,7 @@ Een gistvat moet van de buitenlucht worden afgesloten. Meestal wordt daarvoor ee
 
 Een hydrometer is een instrument om de dichtheid (soortelijke massa) van vloeistoffen te bepalen. Het instrument ziet eruit als een glazen dobber die aan de onderkant is gevuld met loodkorrels of kwik. Hoe dieper de hydrometer in de vloeistof zinkt des te lager is de dichtheid.
 
-::: callout-note
+::: {.callout-note title="Dichtheid en relatieve dichtheid"}
 De dichtheid of soortelijke massa van een stof is de massa (kg) gedeeld door het volume (m^3^). De dichtheid is afhankelijk van de temperatuur en druk en daarom moeten deze erbij vermeld worden. Bij 4^o^C en 1 atmosfeer druk is de dichtheid van water 999,972 kg/m^3^. Gemakshalve wordt voor de dichtheid van water meestal uitgegaan van 1000 kg/m^3^ = 1 kg/lit = 1000 gr/lit = 1 gr/ml.
 
 De relatieve dichtheid (Specific Gravity, SG) van een vloeistof is de dichtheid van de vloeistof gedeeld door de dichtheid van water, alles gemeten bij 4^o^C en 1 atmosfeer druk. Deze eenheid is dimensieloos. De relatieve dichtheid van water is 1,000.
@@ -83,7 +81,7 @@ Een hydrometer is geijkt op 20^o^C, meet daarom ook de temperatuur van de vloeis
 
 ![Hydrometer met bijpassende maatcilinder.](images/hydrometer-aflezing.png){#fig-hydrometer-aflezing}
 
-::: callout-note
+::: {.callout-note title="Hydrometer versus refractometer"}
 Een nadeel van een hydrometer is dat je voor elke meting een relatief grote hoeveelheid wort of bier moet gebruiken. Dus afhankelijk van het aantal metingen dat je doet, kan dit betekenen dat je een behoorlijke hoeveelheid vloeistof kwijtraakt.
 
 Doe ook de vloeistof nooit terug in het gistvat, want dan loop je het risico om je bier te besmetten.
@@ -138,7 +136,7 @@ Voor het calibreren van een refractometer is het zetten van het nulpunt meestal 
 
 Voor een nog grotere nauwkeurigheid kun je eventueel nog een ijking voor een punt aan het eind van de schaal uitvoeren. Echter deze ijking kun je niet op de refractometer zelf instellen, maar vaak wel in de brouwsoftware invoeren. Voor deze ijking moet je een suikeroplossing maken met een bekende Brixwaarde, bijvoorbeeld 20 gram suiker en 80 gram water. Deze heeft een Brix van 20.
 
-::: callout-note
+::: {.callout-note title="Refractometer versus hydrometer"}
 Een nadeel van refractometers is dat ze niet nauwkeurig zijn tijdens of na de vergisting omdat de aanwezige alcohol de meetresultaten beïnvloedt. Voor de meting van de dichtheid zul je dan een hydrometer moeten gebruiken.
 
 Wel kun je de refractometer bij een vergistende vloeistof gebruiken om alleen de voortgang van de vergisting te controleren. Eene vloeistof is uitvergist wanneer de meetwaarde gedurende ongeveer 3 dagen niet meer verandert.

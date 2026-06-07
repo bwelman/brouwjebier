@@ -14,7 +14,7 @@ In LibreOffice Draw is vervolgens een A4 pagina volledig gevuld met deze afbeeld
 
 -   `resources/cover.pdf` - De cover pagina voor de pdf uitvoer. gemaakt via `Bestand > Exporteren naar > naar pdf exporteren (resolutie 600 dpi)`
 
--   `resources/cover.png` - De cover afbeelding voor html en epub. Gemaakt via `Bestand > Exporteren >png bestand afmetingen 7,0 x 9,1 cm`
+-   `resources/cover.png` - De cover afbeelding voor html en epub. Gemaakt via `Bestand > Exporteren >png bestand afmetingen 7,0 x 9,9 cm`
 
 **Cursusboek TBG**
 

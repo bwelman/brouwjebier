@@ -1,8 +1,6 @@
 # Brouwsoftware {#sec-brouwsoftware}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Overzicht Nederlandstalige brouwsoftware.
 -   Demonstratie en gebruik van een programma.
 :::

@@ -1,8 +1,6 @@
 # Suikers
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je kent het verschil tussen vergistbare en onvergistbare suikers.
 -   Je kent de indeling van suikers in verschillende soorten.
 -   Je kent de rol van de verschillende soorten suikers.

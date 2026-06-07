@@ -1,8 +1,6 @@
 # Rekenen {#sec-rekenen}
 
-::: callout
-## Doelstellingen
-
+::: callout-intro
 -   Je weet wat de volgende begrippen inhouden:
     -   Extractgehalte (Brix, Plato, SG, Dichtheid)
     -   Bitterheid (IBU)
