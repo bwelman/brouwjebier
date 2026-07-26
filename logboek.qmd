@@ -1,8 +1,8 @@
 # Logboek {#sec-logboek}
 
 ::: callout-intro
--   Je moet weten waarom het belangrijk is om een logboek bij te houden.
--   Je moet weten welke informatie in het logboek moet komen.
+- Je moet weten waarom het belangrijk is om een logboek bij te houden.
+- Je moet weten welke informatie in het logboek moet komen.
 :::
 
 ## Waarom een logboek?
@@ -13,19 +13,18 @@ Het is belangrijk dat je bij het brouwen zoveel mogelijk gegevens over het brouw
 
 De volgende onderdelen dienen in een logboek vermeld te worden:
 
--   Datums van brouwen, vergisten, bottelen, proeven, ...
--   Het gebruikte recept.
--   Het gevolgde brouwproces en hoe je de verschillende stappen hebt uitgevoerd.
--   Meetwaarden: volumes, temperaturen, pH waarden, SG's, Brix, ...
--   Verloop van de vergisting.
--   Bottelen.
--   Beoordeling van het bier.
--   Eigenlijk alles wat van belang kan zijn om op een later tijdstip na te gaan hoe een en ander verlopen is.
+- Datums van brouwen, vergisten, bottelen, proeven, ...
+- Het gebruikte recept.
+- Het gevolgde brouwproces en hoe je de verschillende stappen hebt uitgevoerd.
+- Meetwaarden: volumes, temperaturen, pH waarden, SG's, Brix, ...
+- Verloop van de vergisting.
+- Bottelen.
+- Beoordeling van het bier.
+- Eigenlijk alles wat van belang kan zijn om op een later tijdstip na te gaan hoe een en ander verlopen is.
 
 Sommigen gebruiken als logboek een notitieboek of een multomap, anderen houden de gegevens bij in een Word- of Excelbestand. En ook de meeste brouwsoftware biedt mogelijkheden om notities te maken bij een brouwsel. In welke vorm je een logboek bijhoudt is niet belangrijk, als je het maar doet.
 
 ## Testvragen
 
 1.  Waarom leg je een logboek aan?
-
 2.  Welke informatie houd je bij in een logboek?

@@ -1,23 +1,23 @@
 # Water {#sec-water}
 
 ::: callout-intro
--   Je moet enige kennis hebben van wat de invloed van de watersamenstelling is op het bier.
--   Je moet weten welke rol de pH-waarde vervult bij het brouwproces.
--   Je leert hoe je de pH kunt meten en de waarde kunt wijzigen.
--   Je weet wat de invloed is van zouten in het brouwwater en wat je ermee kunt doen..
+- Je moet enige kennis hebben van wat de invloed van de watersamenstelling is op het bier.
+- Je moet weten welke rol de pH-waarde vervult bij het brouwproces.
+- Je leert hoe je de pH kunt meten en de waarde kunt wijzigen.
+- Je weet wat de invloed is van zouten in het brouwwater en wat je ermee kunt doen..
 :::
 
 ## Soort water
 
 Water wordt door de bierbrouwer in grote hoeveelheiden gebruikt als
 
--   **brouwwater** in de vorm van maischwater en spoelwater.
--   **proceswater** voor het reinigen van de apparatuur en de koeling van de wort.
+- **brouwwater** in de vorm van maischwater en spoelwater.
+- **proceswater** voor het reinigen van de apparatuur en de koeling van de wort.
 
 Voor het brouwen van bier is de kwaliteit en samenstelling van het brouwwater van belang. Grote brouwerijen hebben vaak hun eigen waterbronnen. De anderen doen het met kraanwater. Zo bevat het water in de Achterhoek meer mineralen (is harder) dan het water in Zuid-Limburg. Ook voor het maken van bepaalde biertypes is dit van belang. Twee bekende plaatsen in deze zijn
 
--   *Pilsen* (Tsjechie) met zeer zacht water dat ideaal is voor een pils.
--   *Burton-on-Trent* (Engeland) met zeer mineraalrijk water dat ideaal is voor sterker gehopte bieren zoals een IPA.
+- *Pilsen* (Tsjechie) met zeer zacht water dat ideaal is voor een pils.
+- *Burton-on-Trent* (Engeland) met zeer mineraalrijk water dat ideaal is voor sterker gehopte bieren zoals een IPA.
 
 Eigenlijk heb je alleen voor pilsbieren zeer zacht water nodig. Voor de meeste bovengistende bieren is wat harder water beter.
 
@@ -47,7 +47,7 @@ Het gebruik van pH papier is geen erg nauwkeurige methode, maar voor de hobbybro
 
 Je kunt de **pH verlagen** door het toevoegen van melkzuur of fosforzuur en de **pH verhogen** (wat niet vaak voorkomt) door het toevoegen van natriumbicarbonaat of calciumcarbonaat. Een methode voor het verlagen van de pH die je in Duitse recepten wel eens tegenkomt is door *zuurmout* (Sauermalz) in de moutstort te gebruiken, je zondigt dan niet tegen het Reinheitsgebot.
 
-::: callout-tip
+::: {.callout-tip title="Schatting pH en correcties"}
 Wanneer je over de watersamenstelling van het drinkwaterbedrijf beschikt kun je ook redelijk goed de pH van het brouwsel vooraf inschatten met brouwsoftware en tevens bepalen welke correcties je moet uitvoeren.
 :::
 
@@ -73,12 +73,14 @@ Calcium, Magnesium, Waterstofcarbonaat
 
 Voor het meten van de hardheid zijn verschillende methoden in gebruik en daardoor ook verschillende meeteenheden. In Nederland gebruikt men **Duitse graden** (dH, ^o^ dH) en in België worden **Franse graden** (fH, ^o^ fH, ^o^ f) gebruikt.
 
-::: callout-note
-1 ^o^ dH = 10 mg calciumoxide ($\ce{CaO}$) per liter
+::: {.callout-note title="Hardheidsgraden"}
+- 1 ^o^ dH = 10 mg calciumoxide ($\ce{CaO}$) per liter
+- 1 ^o^ fH = 10 mg calciumcarbonaat ($\ce{CaCO3}$) per liter
 
-1 ^o^ fH = 10 mg calciumcarbonaat ($\ce{CaCO3}$) per liter
+Omrekenformules:
 
-Omrekenformules: 1 ^o^ dH = 1,78 ^o^ fH en 1 ^o^ fH = 0,56 ^o^ dH
+- 1 ^o^ dH = 1,78 ^o^ fH
+- 1 ^o^ fH = 0,56 ^o^ dH
 :::
 
 Het komt in de praktijk weinig voor dat je het water moet ontharden. Maar wanneer het water te hard is voor het te brouwen biertype, dan kun je tijdelijke hardheid, veroorzaakt door waterstofcarbonaat, verminderen door het vooraf te koken. Een andere oplossing is het gebruiken van gedemineraliseerd water.
@@ -92,17 +94,10 @@ Door het toevoegen van zogenaamde brouwzouten als calciumchloride en calciumsulf
 ## Testvragen
 
 1.  Wat is brouwwater en wat is proceswater?
-
 2.  Bij wie kan je gegevens m.b.t. de waterkwaliteit van je leidingwater opvragen?
-
 3.  Wat is maischwater?
-
 4.  Zoek eens de zuurgraad op van je leidingwater?
-
 5.  Welke ionen hebben invloed op de hardheid van je leidingwater?
-
 6.  Hoe kan je de pH van je spoel en de wort bepalen?
-
 7.  Welke stoffen worden bij bierbrouwen gebruikt om de pH te beïnvloeden?
-
 8.  Wat is alkaliniteit?

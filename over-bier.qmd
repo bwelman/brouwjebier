@@ -1,9 +1,9 @@
 # Over bier {#sec-over-bier}
 
 ::: callout-intro
--   Je moet in hoofdlijnen aan kunnen geven hoe bier ontstaan is.
--   Je moet weten uit welke grondstoffen bier gemaakt wordt.
--   Je moet weten wat het Reinheitsgebot inhoudt.
+- Je moet in hoofdlijnen aan kunnen geven hoe bier ontstaan is.
+- Je moet weten uit welke grondstoffen bier gemaakt wordt.
+- Je moet weten wat het Reinheitsgebot inhoudt.
 :::
 
 ## Geschiedenis
@@ -89,15 +89,9 @@ Deze bieren zijn veel minder aanwezig. Bij de productie laat men het brouwsel in
 ## Testvragen
 
 1.  Wat houdt het Duitse Reinheitsgebot in?
-
 2.  Waarom wordt gist niet genoemd in het Reinheitsgebot?
-
 3.  Wat is het verschil tussen bier en pils?
-
 4.  Wat is het verschil tussen ondergistend en bovengistend bier?
-
 5.  Noem een Belgisch bier dat ontstaat door spontane gisting met wilde gisten uit de buitenlucht?
-
 6.  Waarom was bier in de Middeleeuwen een gebruikelijke drank?
-
 7.  Waar vond in de Middeleeuwen het brouwen plaats?

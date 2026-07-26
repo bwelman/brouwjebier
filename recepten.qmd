@@ -1,9 +1,9 @@
 # Recepten {#sec-recepten}
 
 ::: callout-intro
--   Je weet hoe je aan een goed recept kunt komen.
--   Je kunt een bestaand recept aanpassen aan de eigen installatie.
--   Je kunt zelf een eenvoudig recept opstellen aan de hand van gewenste kenmerken.
+- Je weet hoe je aan een goed recept kunt komen.
+- Je kunt een bestaand recept aanpassen aan de eigen installatie.
+- Je kunt zelf een eenvoudig recept opstellen aan de hand van gewenste kenmerken.
 :::
 
 ## Hoe verkrijg je een recept
@@ -54,12 +54,14 @@ $$BV = \frac{EBU}{SG_{punten}}$$
 
 De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoals een IPA, hebben een hogere bitterheidsverhouding dan licht gehopte bieren zoals een Weizen. Om de juiste bitterheidsverhouding te bepalen kun je uitgaan van het gemiddelde waardenbereik uit de bierypenlijst. Zie twee voorbeelden in @tbl-biertype-bv.
 
+::: {#tbl-biertype-bv}
 | Biertype | Begin SG | SG punten[^recepten-1] | EBU | EBU[^recepten-2] | BV |
 |------------|------------|------------|------------|------------|------------|
 | IPA (US) | 1,056-1,070 | 63 | 40-70 | 55 | 55/63 = 0,87 |
 | Weizen | 1,046-1,057 | 52 | 10-20 | 15 | 15/52 = 0,29 |
 
-: Twee biertypes en hun bitterheidsverhouding (BV) {#tbl-biertype-bv}
+: Twee biertypes en hun bitterheidsverhouding (BV).
+:::
 
 [^recepten-1]: Gemiddelde waarde
 
@@ -69,8 +71,8 @@ De benodigde bitterheidsverhouding hangt van het biertype af. Bittere bieren zoa
 
 Het volumepercentage alcohol (ABV = Alcohol By Volume) kan worden berekend uit het begin SG en het eind SG, zie @sec-rekenen-alcoholpercentage. Bij het samenstellen van een recept zijn twee zaken van belang voor het uiteindelijke alcoholpercentage:
 
--   *Begin SG*. In het algemeen geldt hoe hoger het begin SG, hoe hoger het alcoholpercentage.
--   *Gistsoort*. Sommige gistsoorten zijn effectiever in het omzetten van suikers in alcohol dan andere gistsoorten.
+- *Begin SG*. In het algemeen geldt hoe hoger het begin SG, hoe hoger het alcoholpercentage.
+- *Gistsoort*. Sommige gistsoorten zijn effectiever in het omzetten van suikers in alcohol dan andere gistsoorten.
 
 ### Essentiële ingrediënten
 
@@ -87,39 +89,39 @@ Het kan ook zijn dat je een van de ingrediënten wilt wijzigen, bijvoorbeeld omd
 Voor de ontwikkeling van een recept is het raadzaam om dit gestructureerd te doen. Het standaardboek op dit gebied is Designing Great Beers [@danielsDesigningGreatBeers1996]. Hierin wordt een zes stappenplan beschreven dat er als volgt uitziet.
 
 1.  Bepaal hoeveel en welk bier je wilt maken en wat de kenmerken van dit bier moeten zijn.
-    -   bottelvolume
-    -   gisttype (bovengistend, ondergistend, wilde gisting)
-    -   begin SG
-    -   bitterheid (IBU)
-    -   kleur (EBC)
-    -   gewenste moutkenmerken
-    -   gewenste hopkenmerken
-    -   gewenste smaak- en geurkenmerken
-    -   gewenste speciale ingrediënten (kruiden, ...)
+    - bottelvolume
+    - gisttype (bovengistend, ondergistend, wilde gisting)
+    - begin SG
+    - bitterheid (IBU)
+    - kleur (EBC)
+    - gewenste moutkenmerken
+    - gewenste hopkenmerken
+    - gewenste smaak- en geurkenmerken
+    - gewenste speciale ingrediënten (kruiden, ...)
 2.  Bepaal welke moutsoorten je wilt gebruiken en bereken de hoeveelheden hiervan.
-    -   basismout(en)
-    -   speciale mout(en)
-    -   maischschema
+    - basismout(en)
+    - speciale mout(en)
+    - maischschema
 3.  Bereken de hoeveelheden water en ga na of je het water moet behandelen.
-    -   waterprofiel
+    - waterprofiel
 
-    -   eventuele behandeling (pH, brouwzouten)
+    - eventuele behandeling (pH, brouwzouten)
 4.  Bepaal welke hopsoorten je wilt gebruiken en bereken de hoeveelheden.
-    -   gewenste hoparoma en smaak
-    -   tijdstip(en) en tijdsduur hopgiften
-    -   vlamuit hopping of dryhopping gewenst?
+    - gewenste hoparoma en smaak
+    - tijdstip(en) en tijdsduur hopgiften
+    - vlamuit hopping of dryhopping gewenst?
 5.  Bepaal welke gist je wilt gebruiken en stel een plan voor de vergisting op.
-    -   gistsoort (vergistingsgraad, uitvlokking, esters)
-    -   hoeveelheid gist
-    -   giststarter nodig?
-    -   vergistingstemperatuur
-    -   diacetylrust nodig?
-    -   lagering nodig?
+    - gistsoort (vergistingsgraad, uitvlokking, esters)
+    - hoeveelheid gist
+    - giststarter nodig?
+    - vergistingstemperatuur
+    - diacetylrust nodig?
+    - lagering nodig?
 6.  Bepaal welke punten van belang zijn voor de afhandeling aan het eind.
-    -   klaring (natuurlijk of met hulpmiddelen)
-    -   verpakken
-        -   bottelen (bottelsuiker, bottelgist, hergistingstemperatuur en -tijd)
-        -   fust (koolzuurdruk en verzadigingsmethode)
+    - klaring (natuurlijk of met hulpmiddelen)
+    - verpakken
+      - bottelen (bottelsuiker, bottelgist, hergistingstemperatuur en -tijd)
+      - fust (koolzuurdruk en verzadigingsmethode)
 
 Een handige gids is de Biertypengids van Derek Walsh [@walshBiertypengids2002]. In deze gids vind je een overzicht van biertypen met uitgebreide technische specificaties, bijzonderheden en receptaanwijzingen voor elk biertype. Helaas is deze biertypengids niet meer te koop. De [BKG Biertypenlijst](https://www.bierkeurmeestersgilde.nl/biertypenlijst) is hieruit voortgekomen. Hierin worden ook de biertypen beschreven met hun kenmerken, maar geen recepturen. De lijst is vooral belangrijk wanneer je met jouw gebrouwde bier mee wilt doen aan een wedstrijd.
 
@@ -132,16 +134,16 @@ Een nuttig artikel dat je kan helpen bij het samenstellen van recepten is [Samen
 
 Je wilt een recept samenstellen voor een Duitse Weizen. Om wat speelruimte te hebben neem je voor de technische specificaties de gemiddelde waarden in de BKG biertypenlijst. Een Duitze Weizen moet voor 50% - 70% uit tarwemout bestaan. Daar moet je een keuze uit maken.
 
--   Begin SG: 1046--1057 =\> keuze 1052
--   Alcoholpercentage (ABV): 4,5-5,9% =\> keuze 5,2%
--   Kleur: 6-25 EBC =\> keuze 15 EBC
--   Bitterheid: 10-20 EBU =\> keuze 15 EBU
--   Kooktijd: 75 min
--   Bitterheidsverhouding = 15/52 = 0,29
--   Ingrediënten:
-    -   Mout: 65% tarwemout, 35% pilsmout
-    -   Hop: Zuid-Duitse hop, bijvoorbeeld Hallertau Perle
-    -   Gist: korrelgist geschikt voor tarwebieren, bijvoorbeeld Fermentis SafAle WB-06
+- Begin SG: 1046--1057 =\> keuze 1052
+- Alcoholpercentage (ABV): 4,5-5,9% =\> keuze 5,2%
+- Kleur: 6-25 EBC =\> keuze 15 EBC
+- Bitterheid: 10-20 EBU =\> keuze 15 EBU
+- Kooktijd: 75 min
+- Bitterheidsverhouding = 15/52 = 0,29
+- Ingrediënten:
+  - Mout: 65% tarwemout, 35% pilsmout
+  - Hop: Zuid-Duitse hop, bijvoorbeeld Hallertau Perle
+  - Gist: korrelgist geschikt voor tarwebieren, bijvoorbeeld Fermentis SafAle WB-06
 
 Voor het maischschema, koken en vergisting worden de aanwijzingen in het boek van Derek Walsh [@walshBiertypengids2002] opgevolgd.
 :::
@@ -149,7 +151,5 @@ Voor het maischschema, koken en vergisting worden de aanwijzingen in het boek va
 ## Testvragen
 
 1.  Wat zijn de belangrijkste parameters van een recept?
-
 2.  Wat houdt begin SG en eind SG in?
-
 3.  Wat is de werkwijze om tot een nieuw recept te komen?

@@ -1,8 +1,8 @@
 # Kruiden {#sec-kruiden}
 
 ::: callout-intro
--   Je kent een aantal kruiden/specerijen die bij de bierbereiding gebruikt kunnen worden en wat het effect ervan is.
--   Je weet op welk moment je kruiden kunt toevoegen, alsmede hoeveel ervan.
+- Je kent een aantal kruiden/specerijen die bij de bierbereiding gebruikt kunnen worden en wat het effect ervan is.
+- Je weet op welk moment je kruiden kunt toevoegen, alsmede hoeveel ervan.
 :::
 
 ## Welke kruiden?
@@ -21,9 +21,9 @@ Sinaasappelschillen
 
 :   Deze worden het meest gebruikt bij witbieren, blonde bieren en tripels. Je kunt gebruik maken van gedroogde schillen (zoet of bitter) of verse schillen (biologisch). De meeste hobbybrouwers gebruiken gedroogde schillen. De hoeveelheden die je in recepten tegenkomt liggen meestal tussen de 5 en 10 gram per liter.
 
-    -   *Gedroogde zoete sinaasappelschillen* geven een fruitige smaak.
-    -   *Gedroogde bittere sinaasappelschillen* geven een bittere smaak.
-    -   *Verse sinaasappelschillen* geven een bittere en/of fruitige smaak, afhankelijk van de sinaasappelsoort.
+    - *Gedroogde zoete sinaasappelschillen* geven een fruitige smaak.
+    - *Gedroogde bittere sinaasappelschillen* geven een bittere smaak.
+    - *Verse sinaasappelschillen* geven een bittere en/of fruitige smaak, afhankelijk van de sinaasappelsoort.
 
 Zoethout
 
@@ -40,7 +40,5 @@ Kardemomzaad
 ## Testvragen
 
 1.  Welke kruiden komen in het algemeen wel eens tegen in bier?
-
 2.  Waarvoor moet je bij gebruik van kruiden goed op letten?
-
 3.  Hoe kan je de invloed/smaak van kruiden testen?

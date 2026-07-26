@@ -1,8 +1,8 @@
 # Brouwmethodes {#sec-brouwmethodes}
 
 ::: callout-intro
--   Je leert een aantal brouwmethodes kennen.
--   Je maakt kennis met een paar verschillende brouwinstallaties.
+- Je leert een aantal brouwmethodes kennen.
+- Je maakt kennis met een paar verschillende brouwinstallaties.
 :::
 
 ## Methodes
@@ -42,11 +42,11 @@ Dit staat voor brouwen in een zak. Voor deze brouwmethode heb je maar 1 pan nodi
 
 Aandachtspunten:
 
--   De ketel moet groot genoeg zijn zodat alle vloeistof en mout er in kan.
--   Voor het materiaal van de zak kun je het beste 100% polyester of nylon nemen.
--   Hang de zak over de rand van de ketel en zet deze vast (bijvoorbeeld met wasknijpers)
--   Pas op voor aanbranden van de zak wanneer je een directe verwarming gebruikt en de zak op de bodem hangt.
--   De wort kan iets minder helder zijn.
+- De ketel moet groot genoeg zijn zodat alle vloeistof en mout er in kan.
+- Voor het materiaal van de zak kun je het beste 100% polyester of nylon nemen.
+- Hang de zak over de rand van de ketel en zet deze vast (bijvoorbeeld met wasknijpers)
+- Pas op voor aanbranden van de zak wanneer je een directe verwarming gebruikt en de zak op de bodem hangt.
+- De wort kan iets minder helder zijn.
 
 ### Electrische brouwketels
 
@@ -87,11 +87,7 @@ HERMS is een afkorting van *Heat Exchange Recirculating Mash System* en is een v
 ## Testvragen
 
 1.  Wat houdt dalende infusie in?
-
 2.  Wat houdt stijgende infusie in?
-
 3.  Wat is decoctie?
-
 4.  Wat is Biab brouwen?
-
 5.  Wat is het verschil tussen een RIMS en een HERMS brouwinstallatie?

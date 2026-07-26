@@ -1,13 +1,13 @@
 # Gist {#sec-gist}
 
 ::: callout-intro
--   Je weet wat gist is en wat het doet.
--   Je weet waardoor de werking van gist beinvloed kan worden.
--   Je kent het verschil tussen ondergisten en bovengisten.
--   Je kent het verschil tussen korrelgisten en vloeibare gisten.
--   Je weet hoe je de benodigde hoeveelheid gist voor een brouwsel kunt bepalen.
--   Je kunt aangeven wanneer je een giststarter moet gebruiken.
--   Je kunt een giststarter maken.
+- Je weet wat gist is en wat het doet.
+- Je weet waardoor de werking van gist beinvloed kan worden.
+- Je kent het verschil tussen ondergisten en bovengisten.
+- Je kent het verschil tussen korrelgisten en vloeibare gisten.
+- Je weet hoe je de benodigde hoeveelheid gist voor een brouwsel kunt bepalen.
+- Je kunt aangeven wanneer je een giststarter moet gebruiken.
+- Je kunt een giststarter maken.
 :::
 
 ## Wat is en doet gist
@@ -18,9 +18,9 @@ Gisten zijn eencellige micro-organismen, behorende tot de schjimmels. De gist is
 
 Om alcohol en $\ce{CO2}$ te vormen, moet gist beschikken over
 
--   een *energiebron* : suiker (vergistbaar)
--   een *stikstofbron* voor groei en vermenigvuldiging: aminozuren, peptiden
--   mineralen
+- een *energiebron* : suiker (vergistbaar)
+- een *stikstofbron* voor groei en vermenigvuldiging: aminozuren, peptiden
+- mineralen
 
 Deze zijn meestal voldoende aanwezig in de wort.
 
@@ -38,7 +38,7 @@ De temperatuur tijdens de vergisting is een kritische factor. Zo krijg je bij ho
 
 Aan het eind van de vergisting klonteren de enkele gistcellen samen tot vlokken van wel duizenden gistcellen. Daarna zakken deze vlokken uit naar de bodem van het gistvat. Giststammen vertonen verschillen in de mogelijkheid tot *uitvlokking (flocculatie)* en *uitzakking (sedimentatie)*. Dit proces wordt bevorderd door het gistvat na afloop van de vergisting koud (0-5 ^o^C) weg te zetten. Het bier wordt daardoor helderder. Ook een groot deel van de Krausen maakt deel uit van het sediment.
 
-::: callout-tip
+::: {.callout-tip title="Einde vergisting bepalen"}
 De beste manier om vast te stellen of de vergisting is afgelopen is door het SG te meten. Deze moet gedurende een paar dagen niet meer afnemen en in de buurt liggen van wat je als eind SG verwacht. De activiteit van het waterslot is een minder goede indicator.
 :::
 
@@ -46,16 +46,18 @@ De beste manier om vast te stellen of de vergisting is afgelopen is door het SG 
 
 In brouwerijen worden twee gistsoorten vaak gebruikt: Saccharomyces cereviae (bovengist) en Saccharomyces pastorianus (ondergist). Van deze twee soorten zijn echter verscheidene *giststammen (ondersoorten)* die door brouwers gebruikt worden. In @tbl-gistsoorten staan een aantal kenmerken van deze twee gistsoorten. De aangegeven temperaturen en tijden zijn indicaties. Raadpleeg altijd de gebruiksaanwijzing van de geselecteerde gist.
 
+::: {#tbl-gistsoorten}
 | Kenmerk         | Bovengist              | Ondergist                 |
-|-----------------|------------------------|---------------------------|
+|:----------------|:-----------------------|:--------------------------|
 | Latijnse naam   | Saccharomyces cereviae | Saccharomyces pastorianus |
 | Temperatuur (C) | 16-22                  | 8-15                      |
 | Vergistingstijd | 3-6 dagen              | 2-6 weken                 |
 | Biersoorten     | ales                   | pils                      |
 
-: Kenmerken gistsoorten {#tbl-gistsoorten}
+: Kenmerken gistsoorten
+:::
 
-::: callout-note
+::: {.callout-note title="Hybride gisten"}
 Er zijn ook gistsoorten die tussen een ondergist en bovengist zitten, die vergisten bij 15-16 ^o^C. Deze gisten worden ook wel *hybride* gisten genoemd.
 :::
 
@@ -63,12 +65,12 @@ Er zijn ook gistsoorten die tussen een ondergist en bovengist zitten, die vergis
 
 De hobbybrouwer kan gist kopen als
 
--   korrelgist (gedroogde gist)
--   vloeibare gist.
+- korrelgist (gedroogde gist)
+- vloeibare gist.
 
 Korrelgisten zijn goedkoper dan vloeibare gisten en ook het gebruik ervan is simpeler. Zo hoef je bij korrelgisten niet van tevoren een giststarter te maken. Van de vloeibare gisten is echter een groter assortiment voor specifieke biertypes leverbaar, alhoewel er steeds meer soorten korrelgisten op de markt komen.
 
-::: callout-important
+::: {.callout-important title="Bewaren van gist"}
 Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een uur voor gebruik haal je deze uit de koelkast om op de omgevingstemperatuur te laten komen.
 :::
 
@@ -78,9 +80,9 @@ Zowel korrelgist als vloeibare gist moet je in de koelkast bewaren. Minstens een
 
 Bekende leveranciers zijn Fermentis, Danstar/Lallemand en Mangrove Jack. Afhankelijk van de leverancier wordt korrelgist voor de hobbybrouwer geleverd in zakjes, meestal met 11,5 gram gedroogde gist. Voor het gebruik heb je de volgende mogelijkheden:
 
--   Direct over de wort in het gistvat strooien.
--   Eerst *hydrateren* en dan aan de wort in het gistvat toevoegen.
--   Eerst een *giststarter* maken en dan aan de wort in het gistvat toevoegen.
+- Direct over de wort in het gistvat strooien.
+- Eerst *hydrateren* en dan aan de wort in het gistvat toevoegen.
+- Eerst een *giststarter* maken en dan aan de wort in het gistvat toevoegen.
 
 Een giststarter maken om meer gistcellen te hebben is bij korrelgist niet echt nodig. Korrelgist bevat voldoende gistcellen en zoniet, dan voeg je nog een extra zakje korrelgist toe.
 
@@ -110,7 +112,7 @@ De massa water die je nodig hebt voor het hydrateren is ongeveer 10 keer de mass
 
 De twee bekendste leveranciers zijn [Wyeast](https://wyeastlab.com/) en [White Labs](https://www.whitelabs.com/). Beide leveren vloeibare gisten in een verpakking die voldoende gistcellen bevat voor het vergisten van 20 liter wort met een SG van ongeveer 1,048. Voor een groter volume wort of voor bier met een hoger SG heb je meer gistcellen nodig, dus meer verpakkingen. Het alternatief is om een zogenaamde giststarter ([-@sec-giststarter]) te maken.
 
-::: callout-tip
+::: {.callout-tip title="Giststarter"}
 Bij gebruik van vloeibare gist kun je het beste altijd een giststarter maken.
 :::
 
@@ -134,10 +136,10 @@ Wilde gisten zijn gisten, die spontaan in de wort terecht komen en daar ook in g
 
 Voor een goede vergisting is het belangrijk dat je voldoende vitale gistcellen aan de wort toevoegt. Globaal heb je voor ondergistend bier twee keer zoveel gist nodig als voor bovengistend bier. En voor zwaarder bier heb je ook meer gist nodig. Brouwsoftware kan voor je uitrekenen hoeveel gist je nodig hebt en ook hoeveel giststarter je eventueel moet maken. Ook zijn er op internet een aantal online rekenprogramma's te vinden die dat voor je kunnen uitrekenen. Daarnaast zijn er ook apps voor de mobiele telefoon beschikbaar. Zoek op "yeast calculator".
 
--   [Mr. Malty's Pitching Rate Calculator](http://www.mrmalty.com/calc/calc.html)
--   [Brewer's Friend Yeast Pitch Rate and Starter Calculator](https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/)
--   [MoreBeer! Yeast Pitch Calculator](https://www.morebeer.com/content/yeast_pitch_calculator)
--   [Homebrew Dad's Online Yeast Starter Guide](http://yeastcalculator.com/)
+- [Mr. Malty's Pitching Rate Calculator](http://www.mrmalty.com/calc/calc.html)
+- [Brewer's Friend Yeast Pitch Rate and Starter Calculator](https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/)
+- [MoreBeer! Yeast Pitch Calculator](https://www.morebeer.com/content/yeast_pitch_calculator)
+- [Homebrew Dad's Online Yeast Starter Guide](http://yeastcalculator.com/)
 
 ## Giststarter {#sec-giststarter}
 
@@ -153,9 +155,7 @@ Het is het handigste om alles in een erlenmeyer uit te voeren, anders zul je met
 
 Ook het gebruik van een magneetroerder is erg nuttig omdat voor de gistgroei zuurstof nodig is. De roersnelheid moet zodanig zijn dat een een kleine trechter (vortex) in de vloeistof getrokken wordt. Sneller roeren is niet nodig. Wanneer je niet over een roerder beschikt moet je de oplossing regelmatig schudden en zwenken zodat er zoveel mogelijk zuurstof in de oplossing komt. Een alternatief is beluchten met een steriel luchtfiltertje en een pompje.
 
-::: {.callout-note appearance="simple" icon="false"}
-## Praktijk: Recept voor 1 lit. giststarter
-
+::: {.callout-tip title="Recept voor 1 lit. giststarter"}
 1.  Weeg 100 gram moutextractpoeder af en doe deze in een voldoend grote erlenmeyer.
 2.  Voeg 1 liter kraanwater toe.
 3.  Voeg eventueel gistvoedingszout toe (Optioneel)
@@ -169,9 +169,7 @@ Ook het gebruik van een magneetroerder is erg nuttig omdat voor de gistgroei zuu
 11. Wanneer je de giststarter niet meteen gebruikt, zet deze dan in de koelkast, nog steeds met de aluminiumkap erop.
 :::
 
-::: {.callout-note appearance="simple" icon="false"}
-## Praktijk: Gebruik giststarter
-
+::: {.callout-tip title="Giststarter gebruik"}
 1.  Decanteer voorzichtig zo'n 80% van de heldere bovenste laag vloeistof, zonder de gistlaag op de bodem te verstoren.
 2.  Wanneer de giststarter uit de koelkast komt, laat deze dan eerst op de temperatuur van de wort komen. Zorg dat daar voldoende tijd voor beschikbaar is.
 3.  Schud de erlenmeyer zodat je een mooie suspensie van de gist krijgt.
@@ -181,17 +179,10 @@ Ook het gebruik van een magneetroerder is erg nuttig omdat voor de gistgroei zuu
 ## Testvragen
 
 1.  Welke indeling van gist ken je?
-
 2.  Wat is het verschil tussen onder en bovengist?
-
 3.  Wat houd vitaliteit en vialiteit van gist in?
-
 4.  Wat is de invloed van SG op gebruik van gist?
-
 5.  Wat houd hydrateren van korrelgist in?
-
 6.  Waarom maak je een giststarter?
-
 7.  Waarom belucht je de wort aan het begin van het vergistingsproces?
-
 8.  Wat is het nadeel van een infectie met wilde gist?

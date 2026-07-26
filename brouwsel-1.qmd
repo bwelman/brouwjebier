@@ -1,19 +1,19 @@
 # Brouwsel-1 {#sec-brouwsel-1}
 
 ::: callout-intro
--   Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
--   Je kent de verschillende stappen van het brouwproces in grote lijnen.
--   Je maakt kennis met een aantal grondstoffen.
--   Je maakt kennis met de belangrijkste kenmerken van het biertype.
--   Je leert omgaan met brouwapparatuur.
--   Je leert hoe je apparatuur moet reinigen en desinfecteren.
+- Je moet een **Tripel** volgens een eenvoudig recept (1 maischstap) kunnen maken.
+- Je kent de verschillende stappen van het brouwproces in grote lijnen.
+- Je maakt kennis met een aantal grondstoffen.
+- Je maakt kennis met de belangrijkste kenmerken van het biertype.
+- Je leert omgaan met brouwapparatuur.
+- Je leert hoe je apparatuur moet reinigen en desinfecteren.
 :::
 
 ## Inleiding
 
 In dit stadium wordt er vanuit gegaan dat je nog niet over eigen apparatuur beschikt. En het is ook niet de bedoeling dat je nu allerlei brouwapparatuur aanschaft. Verderop in deze cursus wordt daar extra aandacht aan besteed. Vandaar dat het eerste brouwsel op de apparatuur van de mentor wordt uitgevoerd. Tijdens het brouwen zal de mentor je bijstaan in het praktisch bierbrouwen en je alle stappen laten zien en/of laten uitvoeren.
 
-::: callout-note
+::: {.callout-note title="Eigen apparatuur"}
 Mocht je wel over eigen apparatuur beschikken dan kan in overleg dit brouwsel ook hierop worden gemaakt in plaats van de apparatuur van de mentor.
 :::
 
@@ -33,39 +33,39 @@ Volume: 20 liter, Begin SG: $\pm1080$, Eind SG: $\pm1018$
 
 **Grondstoffen**
 
--   *Mout*
-    -   Pilsmout (3 EBC): 6600 gram
-    -   Ambermout (50 EBC): 200 gram
--   *Hop*
-    -   Challenger (6,5% alfazuur): 32 gram
--   *Kruiden*
-    -   Koriander (gekneusd): 10 gram
-    -   Paradijszaad: 10 gram
--   *Gist*
-    -   Fermentis Safbrew T-58
--   *Water*
-    -   Maischwater: ca. 20 liter (hangt van apparatuur af)
-    -   Spoelwater: hoeveelheid samen met mentor bepalen (hangt van meerdere factoren af)
+- *Mout*
+  - Pilsmout (3 EBC): 6600 gram
+  - Ambermout (50 EBC): 200 gram
+- *Hop*
+  - Challenger (6,5% alfazuur): 32 gram
+- *Kruiden*
+  - Koriander (gekneusd): 10 gram
+  - Paradijszaad: 10 gram
+- *Gist*
+  - Fermentis Safbrew T-58
+- *Water*
+  - Maischwater: ca. 20 liter (hangt van apparatuur af)
+  - Spoelwater: hoeveelheid samen met mentor bepalen (hangt van meerdere factoren af)
 
 **Proces**
 
--   *Maischen*
-    -   Maischdikte ligt tussen 3,5-5,5 liter/kg mout
-    -   Gelijkblijvende infusie op 66 ^o^C gedurende 60 minuten (Let op pH maisch)
-    -   Uitmaischen op 78 ^o^C gedurende 5 minuten
--   *Spoelen*
-    -   Spoel langzaam, mag 40-60 minuten duren. Langzamer spoelen verhoogt het rendement.
-    -   Stop met spoelen als SG in de uitloop tussen 1010-1020 ligt (mits je dit kunt meten)
--   *Koken*
-    -   Kooktijd op 100 ^o^C gedurende 60 minuten
-    -   Hop 60 minuten koken
-    -   Kruiden laatste 10 minuten meekoken
--   *Gisting*
-    -   Hydrateer eventueel de gist.
--   *Bottelen*
-    -   Bottelen als vergisting gestopt is (3 dagen geen activiteit, SG meten)
-    -   6-8 gram suiker per liter bottel suiker.
-    -   Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
+- *Maischen*
+  - Maischdikte ligt tussen 3,5-5,5 liter/kg mout
+  - Gelijkblijvende infusie op 66 ^o^C gedurende 60 minuten (Let op pH maisch)
+  - Uitmaischen op 78 ^o^C gedurende 5 minuten
+- *Spoelen*
+  - Spoel langzaam, mag 40-60 minuten duren. Langzamer spoelen verhoogt het rendement.
+  - Stop met spoelen als SG in de uitloop tussen 1010-1020 ligt (mits je dit kunt meten)
+- *Koken*
+  - Kooktijd op 100 ^o^C gedurende 60 minuten
+  - Hop 60 minuten koken
+  - Kruiden laatste 10 minuten meekoken
+- *Gisting*
+  - Hydrateer eventueel de gist.
+- *Bottelen*
+  - Bottelen als vergisting gestopt is (3 dagen geen activiteit, SG meten)
+  - 6-8 gram suiker per liter bottel suiker.
+  - Gebruik eventueel bottelgist, bijvoorbeeld F2 van Fermentis.
 
 ## Draaiboek
 
@@ -120,9 +120,9 @@ Bij dit eerste brouwsel krijg je nog een gedetailleerd draaiboek. Bij de volgend
 
 ## Evaluatie
 
--   Brouwproces bespreken. Ga samen met de mentor na wat er goed en fout ging en wat de eventuele invloed hiervan is op het bier.
--   Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
--   Eventuele smaak- en geurafwijkingen bespreken.
+- Brouwproces bespreken. Ga samen met de mentor na wat er goed en fout ging en wat de eventuele invloed hiervan is op het bier.
+- Gezamenlijk proeven, beoordelen of bier aan doelstellingen voldoet.
+- Eventuele smaak- en geurafwijkingen bespreken.
 
 ## Testvragen
 

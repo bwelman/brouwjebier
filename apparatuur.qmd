@@ -1,10 +1,10 @@
 # Apparatuur {#sec-apparatuur}
 
 ::: callout-intro
--   Je weet welke apparatuur nodig is om te kunnen brouwen.
--   Je weet hoe je aan deze apparatuur kunt komen (zelf maken / kopen).
--   Je kunt een hydrometer op de juiste manier gebruiken.
--   Je kunt een refractometer op de juiste manier gebruiken.
+- Je weet welke apparatuur nodig is om te kunnen brouwen.
+- Je weet hoe je aan deze apparatuur kunt komen (zelf maken / kopen).
+- Je kunt een hydrometer op de juiste manier gebruiken.
+- Je kunt een refractometer op de juiste manier gebruiken.
 :::
 
 ## Minimale benodigdheden
@@ -35,8 +35,8 @@ Het verwarmingsmiddel moet wel bij de pannen passen en voldoende vermogen hebben
 
 Om de hete wort snel af te koelen heb je een koeler nodig. Je hebt de volgende types:
 
--   *Dompelkoeler*, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
--   *Tegenstroomkoeler*, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
+- *Dompelkoeler*, spiraalvormig. Deze dompel je dus in de hete vloeistof en je laat koud water door de spiraal lopen. Dit type is gemakkelijk schoon te maken en te desinfecteren. Veel hobbybrouwers maken er zelf eentje met buis van RVS of koper.
+- *Tegenstroomkoeler*, meestal een platenkoeler. Deze plaats je buiten de pan waarbij de wort en het koelwater in tegenovergestelde richting stromen. Deze koelt het beste, maar het reinigen en desinfecteren hiervan vergt wat meer aandacht.
 
 ![Links een dompelkoeler, rechts een platenkoeler.](images/wortkoeler.png){#fig-wortkoeler width="349"}
 
@@ -48,8 +48,8 @@ Een wortfilter dient er voor om de vloeistof (wort) van de vaste stoffen (moutre
 
 Er zijn ook andere oplossingen zoals
 
--   Maischpan met "valse bodem" waarbij een schijf met kleine gaatjes een eindje boven de echte bodem bevestigd is, strak tegen de wand. Hierop ligt dan de mout. De wort kun je dan onder deze valse bodem aftappen.
--   Filteremmer, een emmer met gaatjes in de bodem of een rooster.
+- Maischpan met "valse bodem" waarbij een schijf met kleine gaatjes een eindje boven de echte bodem bevestigd is, strak tegen de wand. Hierop ligt dan de mout. De wort kun je dan onder deze valse bodem aftappen.
+- Filteremmer, een emmer met gaatjes in de bodem of een rooster.
 
 ### Gistvat
 
@@ -103,20 +103,20 @@ Een afvulpijpje is een eenvoudig plastic pijpje met een pinnetje aan de onderkan
 
 ### Diverse accessoires
 
--   Weegschaal, voor het afwegen van de mout en hop volstaat een goede keukenweegschaal met een nauwkeurigheid van 1 gram. Let ook op het maximaal toelaatbaar gewicht, vaak is dit 5 kg.
--   Litermaat, voor het afmeten van de hoeveelheid maisch- en spoelwater heb je een litermaat nodig, minimaal met een nauwkeurigheid van 100 ml.
--   Thermometer
--   Kookwekker
--   Borstels (vooral flessenborstel)
--   Schoonmaakpads
--   Hevel
--   Hopzakjes
--   Roerlepel/roerspaan (lang)
--   Jodiumtinctuur (voor de jodiumtest)
--   pH papier voor de bereiken 3,8-5,5 en 5,2-6,8 (een duurdere pH meter kan natuurlijk ook)
--   Schoonmaakmiddelen, zie @sec-hygiene.
--   Melkzuur of Fosforzuur, voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodig. Het afmeten kan met een kleine maatcilinder, een injectiespuit of een pipet.
--   Bierflessen (goed schoongemaakt!)
+- Weegschaal, voor het afwegen van de mout en hop volstaat een goede keukenweegschaal met een nauwkeurigheid van 1 gram. Let ook op het maximaal toelaatbaar gewicht, vaak is dit 5 kg.
+- Litermaat, voor het afmeten van de hoeveelheid maisch- en spoelwater heb je een litermaat nodig, minimaal met een nauwkeurigheid van 100 ml.
+- Thermometer
+- Kookwekker
+- Borstels (vooral flessenborstel)
+- Schoonmaakpads
+- Hevel
+- Hopzakjes
+- Roerlepel/roerspaan (lang)
+- Jodiumtinctuur (voor de jodiumtest)
+- pH papier voor de bereiken 3,8-5,5 en 5,2-6,8 (een duurdere pH meter kan natuurlijk ook)
+- Schoonmaakmiddelen, zie @sec-hygiene.
+- Melkzuur of Fosforzuur, voor het aanzuren van maisch en spoelwater. Meestal heb je maar een paar ml nodig. Het afmeten kan met een kleine maatcilinder, een injectiespuit of een pipet.
+- Bierflessen (goed schoongemaakt!)
 
 ## Handige hulpmiddelen
 
@@ -151,11 +151,7 @@ Een gecontroleerde en juiste vergistingstemperatuur verhoogt de kwaliteit van he
 ## Testvragen
 
 1.  Welke typen schrootmolens worden genoemd?
-
 2.  Wat is het verschil tussen een dompelkoeler en een tegenstroom koeler?
-
 3.  Wat is de definitie van relatieve dichtheid?
-
 4.  Op welke temperatuur is de hydrometer in het algemeen geijkt?
-
 5.  Waarvoor dient een waterslot?

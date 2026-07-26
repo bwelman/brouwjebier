@@ -1,9 +1,9 @@
 # Hygiene {#sec-hygiene}
 
 ::: callout-intro
--   Je moet weten hoe belangrijk het schoonmaken en desinfecteren is.
--   Je moet weten hoe en waarmee je apparatuur kunt schoonmaken en desinfecteren.
--   Je moet weten op welk moment in het brouwproces je moet desinfecteren.
+- Je moet weten hoe belangrijk het schoonmaken en desinfecteren is.
+- Je moet weten hoe en waarmee je apparatuur kunt schoonmaken en desinfecteren.
+- Je moet weten op welk moment in het brouwproces je moet desinfecteren.
 :::
 
 ## Schoonmaken
@@ -31,18 +31,18 @@ Star San van fabrikant Five Star (VS), is een sterk schuimend, zuur, anionisch o
 
 Eigenschappen:
 
--   Voedselveilig, veilig voor mens en omgeving (gebruik van handschoenen wordt aanbevolen).
--   Veilig voor gebruik op alle oppervlakken. Beperk contact met zachte metalen, rubber en kunststof tot een minimum. Wees voorzichtig, het is wel een zuur.
--   Schuimend, wat helpt bij het binnendringen van barsten.
--   Kleurloos en geurloos.
--   Naspoelen met water hoeft niet, mag wel.
+- Voedselveilig, veilig voor mens en omgeving (gebruik van handschoenen wordt aanbevolen).
+- Veilig voor gebruik op alle oppervlakken. Beperk contact met zachte metalen, rubber en kunststof tot een minimum. Wees voorzichtig, het is wel een zuur.
+- Schuimend, wat helpt bij het binnendringen van barsten.
+- Kleurloos en geurloos.
+- Naspoelen met water hoeft niet, mag wel.
 
 Gebruik:
 
--   Maak een oplossing van 2 ml Star San per liter water.
--   Breng het aan met een spons, doek, spuitfles (plantenspuit) of gebruik het voor inweken van de spullen.
--   Laat het minstens 2 minuten inwerken, daarna uit laten lekken.
--   Oplossing kan 3-4 weken gebruikt worden wanneer het goed afgesloten bewaard wordt. Het is effectief zolang de oplossing een pH 3 of lager heeft.
+- Maak een oplossing van 2 ml Star San per liter water.
+- Breng het aan met een spons, doek, spuitfles (plantenspuit) of gebruik het voor inweken van de spullen.
+- Laat het minstens 2 minuten inwerken, daarna uit laten lekken.
+- Oplossing kan 3-4 weken gebruikt worden wanneer het goed afgesloten bewaard wordt. Het is effectief zolang de oplossing een pH 3 of lager heeft.
 
 ![Destinfectiemiddelen: Starsan en Chemipro Oxi.](images/desinfectiemiddelen.png){#fig-desinfectiemiddelen}
 
@@ -50,8 +50,8 @@ Gebruik:
 
 Een ontsmettingsmiddel op basis van actieve zuurstof. Het is als poeder verkrijgbaar.
 
--   Dosering: 4 gram per liter warm water
--   Gebruik: Spoel of dompel de spullen onder. Contacttijd 2-5 minuten. Laat goed uitdruipen. Naspoelen mag, maar is niet nodig.
+- Dosering: 4 gram per liter warm water
+- Gebruik: Spoel of dompel de spullen onder. Contacttijd 2-5 minuten. Laat goed uitdruipen. Naspoelen mag, maar is niet nodig.
 
 {{< pagebreak >}}
 
@@ -59,16 +59,12 @@ Een ontsmettingsmiddel op basis van actieve zuurstof. Het is als poeder verkrijg
 
 Sulfiet (Kaliummetabisulfiet) is verkrijgbaar als een wit poeder, net als citroenzuur. Bij het maken van een oplossing met deze beide stoffen ontstaat gasvormig zwaveldioxide (giftig, gevaarlijk). Sulfiet wordt door de hobbybrouwer steeds minder gebruikt.
 
--   Dosering: 1-2 gram gram sulfiet per liter water + 0,5 gram citroenzuur.
--   Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Goed naspoelen met water.
-
+- Dosering: 1-2 gram gram sulfiet per liter water + 0,5 gram citroenzuur.
+- Gebruik: De spullen moeten een tijd in deze oplossing ondergedompeld zijn. De inwerktijd is minimaal 2 uur. Goed naspoelen met water.
 
 ## Testvragen
 
 1.  Wat is het verschil tussen reinigen en desinfecteren?
-
 2.  Wat houdt bij desinfecteren *contacttijd* in?
-
 3.  Wat houd voedselveilig in en wat zijn de consequenties hier van voor je apparatuur, flessen enz.?
-
 4.  Zoek op internet bij een brouwshop uit welke reinigings- en desinfectiemiddelen er zijn.

@@ -1,10 +1,10 @@
 # Mout
 
 ::: callout-intro
--   Je weet wat het moutproces inhoudt.
--   Je weet hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
--   Je leert de basismouten kennen en een aantal speciale mouten.
--   Je weet waarom speciale mouten gebruikt worden.
+- Je weet wat het moutproces inhoudt.
+- Je weet hoe de kleur van de mout ontstaat en in welke eenheid deze wordt uitgedrukt.
+- Je leert de basismouten kennen en een aantal speciale mouten.
+- Je weet waarom speciale mouten gebruikt worden.
 :::
 
 ## Wat is mout?
@@ -63,12 +63,12 @@ Münchenermout
 
 Aan de basismouten kunnen speciale mouten worden toegevoegd om
 
--   de kleur van het bier donkerder te maken
--   een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
+- de kleur van het bier donkerder te maken
+- een speciale geur of smaak aan het bier te geven (caramel, geroosterd)
 
 Met deze speciale mouten alleen kun je geen bier maken omdat ze geen of onvoldoende enzymen bevatten. Je moet ze dus altijd in combinatie met een basismout gebruiken.
 
-::: callout-tip
+::: {.callout-tip title="Aandeel speciale mouten in een recept"}
 Een vuistregel bij het opstellen van een recept is dat je minstens 70% basismouten moet gebruiken en hooguit 30% speciale mouten.
 :::
 
@@ -90,10 +90,10 @@ Wanneer de mout langdurig op hoge temperatuur wordt geëest krijg je geroosterde
 
 #### Bijzondere moutsoorten {.unnumbered}
 
--   *Biscuitmout* is een licht geroosterde mout die een brood/biscuit aroma aan het bier geeft.
--   *Melanoidemout* geeft het bier een wat voller karakter en tevens een wat meer rode kleur.
--   *Zuurmout* is een moutsoort die de pH kan verlagen waardoor je hiervoor geen zuren hoeft te gebruiken.
--   *Rookmout* is een moutsoort met een sterke rooksmaak.
+- *Biscuitmout* is een licht geroosterde mout die een brood/biscuit aroma aan het bier geeft.
+- *Melanoidemout* geeft het bier een wat voller karakter en tevens een wat meer rode kleur.
+- *Zuurmout* is een moutsoort die de pH kan verlagen waardoor je hiervoor geen zuren hoeft te gebruiken.
+- *Rookmout* is een moutsoort met een sterke rooksmaak.
 
 ## Andere moutsoorten
 
@@ -115,21 +115,19 @@ Door de wort in te koken tot een vloeibare, stroperige pasta of tot een poedervo
 
 Omdat moutextract een geconcentreerde vorm van mout is, heb je er minder van nodig. Wanneer je in een recept de mout vervangt door moutextract moet je de volgende rekenregels hanteren:
 
--   1 kg moutextractpoeder = 1,60 kg gerstemout
--   1 kg vloeibaar moutextract = 1,30 kg gerstemout
+- 1 kg moutextractpoeder = 1,60 kg gerstemout
+- 1 kg vloeibaar moutextract = 1,30 kg gerstemout
 
 Moutextractpoeder is zeer geschikt voor het maken van een giststarter ([-@sec-giststarter]). Ook kun je moutextractpoeder gebruiken ter vervanging van suiker in het recept. De bieren worden hierdoor minder droog en krijgen een rijkere smaak, meer body en een mooiere stabiele schuimkraag.
 
-::: {.callout-note icon="false"}
-## Praktijk
-
--   Vervang de helft van het gewicht aan suiker door een even groot gewicht aan moutextractpoeder. Bijvoorbeeld i.p.v. 1 kg suiker voeg je dan 500 gram suiker en 500 gram moutextractpoeder toe.
--   Vervang de suiker volledig door een even groot gewicht aan moutextractpoeder. Dus 1 kg suiker vervangen door 1 kg moutextractpoeder. Het bier krijgt hierdoor een hoger moutpercentage, een rijke smaak en een vollere body.
+::: {.callout-note title="Praktijk" icon="false"}
+- Vervang de helft van het gewicht aan suiker door een even groot gewicht aan moutextractpoeder. Bijvoorbeeld i.p.v. 1 kg suiker voeg je dan 500 gram suiker en 500 gram moutextractpoeder toe.
+- Vervang de suiker volledig door een even groot gewicht aan moutextractpoeder. Dus 1 kg suiker vervangen door 1 kg moutextractpoeder. Het bier krijgt hierdoor een hoger moutpercentage, een rijke smaak en een vollere body.
 :::
 
 <!-- Bron: https://www.brouwland.com/nl/onze-producten/bierbereiding/moutextracten/moutextract-poedervorm/moutextract-brewferm/d/moutextract-poeder-black-1-kg -->
 
-::: callout-caution
+::: {.callout-caution title="Bewaren van moutextractpoeder"}
 Moutextractpoeder is sterk hygroscopisch, trekt dus water aan. Bewaar het daarom op een droge, koele en bij voorkeur donkere plaats in een goed afgesloten doos.
 :::
 
@@ -137,39 +135,29 @@ Moutextractpoeder is sterk hygroscopisch, trekt dus water aan. Bewaar het daarom
 
 Enkele bekende mouterijen zijn:
 
--   Nederland
-    -   [The Swaen in Kloosterzande, eigendom fam. De Groen](http://theswaen.com/nl/)
-    -   [Holland Malt in Eemshaven, eigendom fam. Swinkels](https://www.hollandmalt.com/nl/)
-    -   [Vloermouterij Masterveld in Ratum](https://www.vloermouterijmasterveld.nl/)
--   België
-    -   [Dingemans in Stabroek](http://www.dingemansmout.be/)
-    -   [Castle Malting in Beloeil](https://www.castlemalting.com/du)
--   Duitsland
-    -   [Weyermann in Bamberg](https://www.weyermann.de/)
-    -   [BestMalz in Heidelberg](https://bestmalz.de)
--   Engeland
-    -   [Thomas Fawcett & Sons, in Castleford](http://www.fawcett-maltsters.co.uk/)
+- Nederland
+  - [The Swaen in Kloosterzande, eigendom fam. De Groen](http://theswaen.com/nl/)
+  - [Holland Malt in Eemshaven, eigendom fam. Swinkels](https://www.hollandmalt.com/nl/)
+  - [Vloermouterij Masterveld in Ratum](https://www.vloermouterijmasterveld.nl/)
+- België
+  - [Dingemans in Stabroek](http://www.dingemansmout.be/)
+  - [Castle Malting in Beloeil](https://www.castlemalting.com/du)
+- Duitsland
+  - [Weyermann in Bamberg](https://www.weyermann.de/)
+  - [BestMalz in Heidelberg](https://bestmalz.de)
+- Engeland
+  - [Thomas Fawcett & Sons, in Castleford](http://www.fawcett-maltsters.co.uk/)
 
 ## Testvragen
 
 1.  Welke basismouten ken je?
-
 2.  Tot hoeveel % van de totale moutstort mag je basismouten storten?
-
 3.  Tot hoeveel % van de totale moutstort mag je speciaalmouten storten?
-
 4.  Zoek op internet eens uit hoeveel soorten karamel mouten er zijn. (brouwshop/mouterijen)
-
 5.  Welke mouten zijn broeimouten?
-
 6.  Waarin wordt de kleur van mout in Europa uitgedrukt?  Wat houd een hoog getal in?
-
 7.  Welke granen gebruikt men over het algemeen nog meer bij bierbrouwen?
-
 8.  Noem een aantal gangbare tarwesoorten die bij bierbrouwen worden gebruikt?
-
 9.  Welke graanvlokken zijn te koop?
-
 10. Waarom gebruikt men graanvlokken?
-
-11. Wat is het nadeel van gebruik van \"teveel\" tarwemout?
+11. Wat is het nadeel van gebruik van "teveel" tarwemout?

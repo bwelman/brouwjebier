@@ -1,7 +1,7 @@
 # Biertypen {#sec-biertypen}
 
 ::: callout-intro
--   Je maakt kennis met biertypenlijsten
+- Je maakt kennis met biertypenlijsten
 :::
 
 ## BKG Biertypen {#sec-bkg-biertypen}
@@ -27,7 +27,5 @@ De meeste verenigingen en gildes organiseren onderlinge wedstrijden. En elke ver
 ## Testvragen
 
 1.  Waarin onderscheidt zich een Weizen?
-
 2.  Wat is stout?
-
 3.  Waarvoor staat de afkorting IPA?

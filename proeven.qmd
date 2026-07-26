@@ -1,10 +1,10 @@
 # Proeven {#sec-proeven}
 
 ::: callout-intro
--   Je maakt kennis met diverse aroma's en smaken in bier.
--   Je leert hoe je een bier moet proeven en beoordelen.
--   Je maakt kennis met een aantal veel voorkomende smaakafwijkingen.
--   Je leert welke brouwfouten veel voorkomen en hoe je die moet vermijden.
+- Je maakt kennis met diverse aroma's en smaken in bier.
+- Je leert hoe je een bier moet proeven en beoordelen.
+- Je maakt kennis met een aantal veel voorkomende smaakafwijkingen.
+- Je leert welke brouwfouten veel voorkomen en hoe je die moet vermijden.
 :::
 
 ## Aroma's en smaken
@@ -29,10 +29,10 @@ Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikke
 
 **Proefomstandigheden**
 
--   Rust
--   Geurvrij
--   Zuivere mond
--   Niet teveel
+- Rust
+- Geurvrij
+- Zuivere mond
+- Niet teveel
 
 **Proeffasen**
 
@@ -45,11 +45,11 @@ Als standaard voor de smaakanalyse wordt vaak het door Morten Meilgaard ontwikke
 
 Het kan zijn dat de geur en smaak van een bier afwijkt van hetgeen je verwacht had. De oorzaken hiervan liggen vaak in de samenstelling van het recept. Een paar voorbeelden.
 
--   **Bitterheid**. Deze kan te veel of te weinig zijn, wat komt door een verkeerde hoeveelheid hop.
--   **Kleur**. Deze kan te licht of te donker zijn, wat komt door een verkeerde hoeveelheid kleurmouten.
--   **Zoetheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema. Te droog bier kan veroorzaakt zijn door een te lange maltoserust bij 63^o^C. En het bier kan te zoet zijn door een te korte maltoserust bij 63^o^C.
--   **Moutigheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema.
--   **Schuim**. Bij te weinig schuim kan het zijn dat je een te lange eiwitrust bij 53^o^C hebt aangehouden. Ook te weinig bottelsuiker kan een oorzaak zijn. Wat tarwemout in de stort zorgt voor meer en beter schuim.
+- **Bitterheid**. Deze kan te veel of te weinig zijn, wat komt door een verkeerde hoeveelheid hop.
+- **Kleur**. Deze kan te licht of te donker zijn, wat komt door een verkeerde hoeveelheid kleurmouten.
+- **Zoetheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema. Te droog bier kan veroorzaakt zijn door een te lange maltoserust bij 63^o^C. En het bier kan te zoet zijn door een te korte maltoserust bij 63^o^C.
+- **Moutigheid**. Deze kan te veel of te weinig zijn en kun je sturen via het maischschema.
+- **Schuim**. Bij te weinig schuim kan het zijn dat je een te lange eiwitrust bij 53^o^C hebt aangehouden. Ook te weinig bottelsuiker kan een oorzaak zijn. Wat tarwemout in de stort zorgt voor meer en beter schuim.
 
 Vervelender is het wanneer er ongewenste smaken in het bier zitten. Daar zijn er veel van, maar sommige kom je regelmatig tegen en worden hierna besproken.
 
@@ -158,11 +158,7 @@ Praktisch invullen met een degustatie.
 ## Testvragen
 
 1.  Welke zijn de vijf basissmaken?
-
 2.  Wat houd in dat aroma's vluchtig zijn?
-
 3.  Welke zijn de proef omstandigheden?
-
 4.  Noem de proeffasen.
-
 5.  Noem de bekendste afwijkingen en hun remedie.

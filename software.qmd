@@ -1,8 +1,8 @@
 # Brouwsoftware {#sec-brouwsoftware}
 
 ::: callout-intro
--   Overzicht Nederlandstalige brouwsoftware.
--   Demonstratie en gebruik van een programma.
+- Overzicht Nederlandstalige brouwsoftware.
+- Demonstratie en gebruik van een programma.
 :::
 
 ## Algemeen
@@ -15,9 +15,9 @@ Voor alle brouwprogramma's geldt dat je eerst een aantal kenmerken van jouw "bro
 
 Programma van Oscar Moerman. Er zijn drie uitvoeringen te downloaden:
 
--   versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
--   versie 2.x, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €25. Je kunt deze versie zonder licentie(kosten) uitproberen, maar wel met een aantal beperkingen.
--   versie 2.x Pro, voor kleine commerciële brouwerijen, licentiekosten €90 per jaar.
+- versie 1.96, de oudste en niet meer ondersteunde versie, gratis gebruik.
+- versie 2.x, de nieuwe versie voor thuisbrouwers, licentiekosten eenmalig €25. Je kunt deze versie zonder licentie(kosten) uitproberen, maar wel met een aantal beperkingen.
+- versie 2.x Pro, voor kleine commerciële brouwerijen, licentiekosten €90 per jaar.
 
 Vereisten: Windows
 
@@ -53,6 +53,5 @@ Er is ook een [Brodeluxe Online](http://www.kwbg.nl/brodeluxe/) welke iets minde
 
 ## Testvragen
 
-1.  Zoek eens op internet naar Nederland en buitenlandstalige brouwprogramma\'s, welke heb je gevonden?
-
+1.  Zoek eens op internet naar Nederland en buitenlandstalige brouwprogramma's, welke heb je gevonden?
 2.  Wat is het voordeel van brouwsoftware?

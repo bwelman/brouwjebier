@@ -1,8 +1,8 @@
 # Brouwproces - Basis {#sec-brouwproces}
 
 ::: callout-intro
--   Je moet de verschillende stappen in het brouwproces kunnen benoemen.
--   Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
+- Je moet de verschillende stappen in het brouwproces kunnen benoemen.
+- Je moet in grote lijnen het hoe en waarom van deze stappen begrijpen.
 :::
 
 ## Het proces in grote lijnen
@@ -72,8 +72,8 @@ Met een simpele **jodiumtest** (zie @fig-jodiumtest) kun je controleren of alle 
 1.  Doe een lepeltje maischbeslag op een wit schoteltje en laat dit afkoelen tot kamertemperatuur.
 2.  Voeg 1-2 druppels jodiumtinctuur toe.
 3.  Let nu op de kleur van de jodiumoplossing:
-    -   *Blauwkleuring* wijst op de aanwezigheid van zetmeel. Je moet dan nog wat langer maischen.
-    -   Blijft de kleur *bruin*, dan is alle zetmeel omgezet. Het maischproces is dan klaar.
+    - *Blauwkleuring* wijst op de aanwezigheid van zetmeel. Je moet dan nog wat langer maischen.
+    - Blijft de kleur *bruin*, dan is alle zetmeel omgezet. Het maischproces is dan klaar.
 :::
 
 ![Jodiumtest: Links blauwe kleur, nog zetmeel aanwezig. Rechts bruine kleur, geen zetmeel meer aanwezig.](images/jodiumtest.png){#fig-jodiumtest width="400" height="200"}
@@ -90,8 +90,8 @@ Aan het eind van het maischen heb je een mengsel van een vloeistof (met daarin o
 
 Omdat je verder wilt met de suikeroplossing moet het mengsel aan het eind van het maischproces gefilterd worden. Je krijgt dan
 
--   **wort**, een heldere zoete vloeistof
--   **(bier)bostel**, de vaste bestanddelen die overblijven.
+- **wort**, een heldere zoete vloeistof
+- **(bier)bostel**, de vaste bestanddelen die overblijven.
 
 ::: {.callout-note title="Bostel"}
 De bostel heb je voor de bierbereiding niet nodig. De meeste hobbybrouwers gooien het in de afvalcontainer. Het kan ook op de composthoop of als voer voor varkens en kippen gebruikt worden. Er zitten nog veel voedingsstoffen en vezels in. Daarom kun je een deel ervan ook gebruiken om er een (bier)brood mee te bakken.
@@ -113,17 +113,17 @@ De wort gaat nu minstens een uur gekookt worden. Tijdens het koken ga je de hop 
 
 Je kunt de hop op verschillende manieren aan de wort toevoegen:
 
--   Gewoon in de vloeistof doen. Om te voorkomen dat er na het koken teveel hopresten in het gistvat terecht komen, kun je na afloop de wort filteren of de hopresten laten bezinken en dan de wort overhevelen.
--   De hop in hopzakjes doen en dan aan de vloeistof toevoegen. Deze kun je na het koken uit de ketel halen.
+- Gewoon in de vloeistof doen. Om te voorkomen dat er na het koken teveel hopresten in het gistvat terecht komen, kun je na afloop de wort filteren of de hopresten laten bezinken en dan de wort overhevelen.
+- De hop in hopzakjes doen en dan aan de vloeistof toevoegen. Deze kun je na het koken uit de ketel halen.
 
 Koken is om meerdere redenen erg belangrijk. Tijdens het koken
 
--   vlokken eiwitten uit, vooral in het begin. Deze kun je het beste met een schuimspaan afscheppen.
--   lossen bitterstoffen uit de hop op. Deze **bitterhop** moet je meestal wel een uur laten meekoken en zorgt voor de kenmerkende bittere smaak van bier.
--   komen aromastoffen uit de hop in het bier. Deze **aromahop** kook je minder lang mee en hebben daardoor wat minder invloed op de bitterheid.
--   verdampen ongewenste vluchtige stoffen.
--   verdampt water, waardoor de concentratie van suiker toeneemt en het SG dus stijgt.
--   ontstaat een steriele vloeistof.
+- vlokken eiwitten uit, vooral in het begin. Deze kun je het beste met een schuimspaan afscheppen.
+- lossen bitterstoffen uit de hop op. Deze **bitterhop** moet je meestal wel een uur laten meekoken en zorgt voor de kenmerkende bittere smaak van bier.
+- komen aromastoffen uit de hop in het bier. Deze **aromahop** kook je minder lang mee en hebben daardoor wat minder invloed op de bitterheid.
+- verdampen ongewenste vluchtige stoffen.
+- verdampt water, waardoor de concentratie van suiker toeneemt en het SG dus stijgt.
+- ontstaat een steriele vloeistof.
 
 Het proces tot en met het koken noemt men de *warme kant* van het brouwproces. Het gedeelte van het brouwproces na het koken, dus tijdens het koelen, wordt de *koude kant* genoemd. De koude kant is gevoelig voor besmettingen!
 
@@ -190,29 +190,16 @@ Proef dus regelmatig!
 ## Testvragen
 
 1.  Wat is schroten?
-
 2.  Wat is het doel van maischen (beslagmaken)?
-
 3.  Wat is het doel van filteren van de maisch?
-
 4.  Wanneer is de jodium test goed tijdens het maischen?
-
 5.  Wat is de functie van ge kafjes van graan in de maisch tijdens het filteren?
-
 6.  In hoeveel seconden/minuten mag je de maisch verwarmen om het beslag 1°C te verhogen?
-
 7.  Waar moet je goed op letten als je de beslag/maisch temperatuur verhoogd?
-
 8.  Waarom filter je de wort na het koken?
-
 9.  Waarom is koken van de wort belangrijk tijdens het brouwen?
-
 10. Waarom moet je gecontroleerd vergisten? Redenen?
-
 11. Hoe is gist ingedeeld?
-
 12. Waarom moet er suiker bij het bottelen in flessen toegevoegd worden?
-
 13. Waarom moet je na het bottelen in flessen deze een weekje op kamertemperatuur wegzetten?
-
 14. Wat is het doel van het rijpingsproces?
