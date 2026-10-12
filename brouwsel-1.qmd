@@ -23,7 +23,7 @@ Sluit af met een evaluatie.
 
 **Voorbereiding (huiswerk)**
 
-In bijlage @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
+In @sec-bkgtabel staan de belangrijkste kenmerken van het te brouwen biertype. Neem deze goed door. Neem deze kenmerken mee bij de beoordeling van het gebrouwde bier.
 
 {{< pagebreak >}}
 

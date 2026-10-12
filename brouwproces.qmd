@@ -80,7 +80,7 @@ Met een simpele **jodiumtest** (zie @fig-jodiumtest) kun je controleren of alle 
 
 ### Voortgang (SG) meten
 
-Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG (zie @sec-sg-dichtheid) voor meer achtergrond over het SG) van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor @sec-apparatuur.
+Dat er steeds meer suikers in de vloeistof komen kun je waarnemen door het SG (zie @sec-sg-dichtheid voor meer achtergrond over het SG) van de vloeistof te meten. Dat kan o.a. met een hydrometer. Handiger is het gebruik van een refractometer omdat je hiervoor maar één druppel vloeistof nodig hebt. Zie hiervoor @sec-apparatuur.
 
 Tijdens het maischen neemt ook de viscositeit van de vloeistof af, dat wil zeggen de maisch wordt minder stroperig en meer vloeibaar, dunner dus. Het roeren gaat daardoor steeds gemakkelijker.
 

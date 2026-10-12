@@ -40,7 +40,7 @@ Elk enzym kent een dergelijk verloop, maar deze is voor elk enzym verschillend, 
 
 ### pH
 
-De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als bij de temperatuur in figuur @fig-enzymactiviteit is er voor de pH een soortgelijke grafiek te maken met een bepaalde pH-waarde waarbij de enzymactiviteit optimaal is en een gebied daaromheen waarbij die activiteit minder is. En voor elk enzym is dat weer verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
+De activiteit van een enzym wordt ook beïnvloed door de zuurgraad. En net als bij de temperatuur in @fig-enzymactiviteit is er voor de pH een soortgelijke grafiek te maken met een bepaalde pH-waarde waarbij de enzymactiviteit optimaal is en een gebied daaromheen waarbij die activiteit minder is. En voor elk enzym is dat weer verschillend. Bij het omzetten van zetmeel naar suikers ligt deze tussen de 5,0 en 5,7. Zie verderop voor de verschillende enzymen.
 
 ### Concentratie substraat
 

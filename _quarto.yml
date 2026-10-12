@@ -98,7 +98,7 @@ format:
     contributor: "Douwe Beimin"
     subject: "Bierbrouwen"
     abstract: "Leer stap voor stap hoe je zelf bier kunt brouwen."
-    righTs: "CC BY-NC-SA 4.0"
+    rights: "CC BY-NC-SA 4.0"
 
 knitr:
   opts_chunk:
