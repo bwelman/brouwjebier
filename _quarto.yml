@@ -64,6 +64,7 @@ format:
     theme:
       - cosmo
       - brouwjebier.scss
+    html-math-method: mathjax
     cover-image: resources/cover.png
     fig-width: 6
     fig-asp: 0.618
@@ -90,7 +91,7 @@ format:
     author: [Ben Welman, Douwe Beimin]
 
   epub:
-    html-math-method: mathjax
+    html-math-method: mathml
     css: include/epub-styles.css
     cover-image: resources/cover.png
     author: "Ben Welman"

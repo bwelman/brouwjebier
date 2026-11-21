@@ -74,8 +74,8 @@ Calcium, Magnesium, Waterstofcarbonaat
 Voor het meten van de hardheid zijn verschillende methoden in gebruik en daardoor ook verschillende meeteenheden. In Nederland gebruikt men **Duitse graden** (dH, ^o^ dH) en in België worden **Franse graden** (fH, ^o^ fH, ^o^ f) gebruikt.
 
 ::: {.callout-note title="Hardheidsgraden"}
-- 1 ^o^ dH = 10 mg calciumoxide ($\ce{CaO}$) per liter
-- 1 ^o^ fH = 10 mg calciumcarbonaat ($\ce{CaCO3}$) per liter
+- 1 ^o^ dH = 10 mg calciumoxide ($\mathrm{CaO}$) per liter
+- 1 ^o^ fH = 10 mg calciumcarbonaat ($\mathrm{CaCO_3}$) per liter
 
 Omrekenformules:
 

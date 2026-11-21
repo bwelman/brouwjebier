@@ -16,7 +16,7 @@ Gisten zijn eencellige micro-organismen, behorende tot de schjimmels. De gist is
 
 ![Microscopisch beeld van een droge bovengist (bron Fermentis).](images/gistafbeelding.png){#fig-gistafbeelding}
 
-Om alcohol en $\ce{CO2}$ te vormen, moet gist beschikken over
+Om alcohol en $\mathrm{CO_2}$ te vormen, moet gist beschikken over
 
 - een *energiebron* : suiker (vergistbaar)
 - een *stikstofbron* voor groei en vermenigvuldiging: aminozuren, peptiden

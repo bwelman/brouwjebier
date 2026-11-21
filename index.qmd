@@ -8,7 +8,7 @@ Linksboven vind je een downloadpijl waarmee je de cursus in PDF en ePub formaat 
 
 ## Licentie {.unnumbered}
 
-[![](images/creativecommons-by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl)
+CC BY-NC-SA 4.0
 
 Dit werk valt onder een [Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
 
